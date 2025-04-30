@@ -1,0 +1,34 @@
+{
+    "id": "2022-11-09",
+    "title": "Hány helyen lehet otthagyni egy darabot a szívünkből? Egy új kezdet",
+    "date": "2022-11-09",
+    "author": "Szilágyi-Könczöl Zsófi",
+    "blocks": [
+        { "type": "text", "content": "Tavasszal jártam első alkalommal Karamojában. Akkor csak egy napra mentem, hogy találkozzak a régió különböző területeinek női csoportjaiból érkező vezetőkkel. Teljesen lenyűgözött az erejük és elszántságuk, amivel a sokszor kilátástalannak tűnő helyzetekkel is szembe szállnak, és tényleg szeretnének tenni a változásért. Eldöntöttem, hogy szeretném, ha el tudnánk indítani itt projekteket. Miután hazamentem kezdetét is vette a kutatás, hogy egy teljesebb képet próbáljak kapni arról, ami a térségben zajlik és megtaláljam a kiindulási pontokat, ahol be tudunk kapcsolódni." },
+        { "type": "text", "content": "Erre a misszióra nem volt az eredeti terveink között, hogy Karamojába megyünk, úgy voltam vele, hogy ez legyen a jövő év zenéje, most van elég dolgunk itt Manafwában. De valahogy nem hagyott nyugodni, hogy itt vagyunk, lenne lehetőségünk elmenni, lenne lehetőségünk egy lépéssel közelebb jutni ahhoz, hogy belekezdjünk a tényleges munkába, szóval elég sokat beszélgettünk Balázzsal arról, hogy mi legyen." },
+        { "type": "text", "content": "Én a magam részéről hiszek abban, hogy néha csak rá kell bíznunk magunkat a sorsra/Istenre és ha érkeznek jelek vagy lehetőségek követni kell őket és hagyni a dolgokat történni. Most sem csalódtam, hiszen több szerencsés véletlennek hála sokszoros megerősítést kaptunk abban, hogy jó ötlet lenne ellátogatni a térségbe. Nem is tétováztunk sokat, gyakorlatilag néhány nap leforgása alatt megszerveztünk és előkészítettünk mindent és már úton is voltunk." },
+        { "type": "text", "content": "3 napot töltöttünk Karamojában és minden túlzás nélkül mondhatom, hogy úgy érzem az ott látottaktól és tapasztaltaktól, a lehetőségektől, amik ránk találtak és az együttműködésektől, amik kialakultak teljesen megteltem élettel, inspirációval és motivációval. Emberileg és szakmailag is nagy kihívás az ezen a terepen dolgozni, bizonyos szempontból egy következő szint az eddigi manafwai munkához képest is. Mióta eljöttünk onnan sokat gondolok a 10-15 évvel korábbi önmagamra, aki valami egészen hasonló dologról álmodott. Hasonló terepről, hasonló kihívásokról, hasonló lehetőségekről és elmondhatatlanul hálás vagyok azért, hogy most ráléphettem erre az útra." },
+        {
+            "type": "img",
+            "content": [
+                { "name": "photo_2022-11-09_18-32-21.jpg", "style": { "object-position": "center bottom" }, "class": "small" },
+                { "name": "photo_2022-11-09_18-32-25.jpg", "style": { "object-position": "center bottom" }, "class": "small" }
+            ]
+        },
+        { "type": "text", "content": "Akik régóta követik a Szívemben Született Afrikát, talán még abból az időből, amikor csak egy blog volt, tudhatják, hogy sokat emlegetem, hogy mennyire magától értetődő, természetes és otthonos volt megérkezni Manafwába, hogy kérdés sem fért ahhoz, hogy ott vagyok, ahol lennem kell és dolgom van itt. Nos, azt hiszem, hogy 5 és fél évvel később újra ezt érzem. Megérkeztem egy helyre, ahol magától értetődő, természetes és otthonos lenni és, hogy kérdés sem fér hozzá, hogy ott vagyok, ahol lennem kell és dolgom van itt. Nehéz terep, sok és alapos felkészülést igényel és vitathatatlanul több és másabb jellegű veszélyeket rejthet, mint a manafwai munka, de nagy szükség van a segítségre és mi nem rettenünk meg a kihívásoktól, hanem inkább még nagyobb lelkesedéssel és erőfeszítéssel vetjük bele magunkat." },
+        {
+            "type": "img",
+            "content": [
+                { "name": "photo_2022-11-09_18-32-28.jpg", "style": { "object-position": "center bottom" } }
+            ]
+        },
+        { "type": "text", "content": "És hát végezetül már csak azon gondolkozom, hogy hány helyen lehet otthagyni egy darabot a szívemből? Mert most épp ezen a helyen is ott maradt egy egész nagy darab, és hát ahol a szívünk darabjai vannak oda újra és újra vissza kell térnünk." },
+        {
+            "type": "img",
+            "content": [
+                { "name": "photo_2022-11-09_18-32-31.jpg", "style": { "object-position": "center bottom" } }
+            ]
+        }   
+    ],
+    "cover": { "name": "photo_2022-11-09_18-32-18.jpg", "style": { "object-position":  "center bottom" } }
+}

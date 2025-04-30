@@ -1,0 +1,36 @@
+{
+    "id": "2023-09-10",
+    "title": "Hírek az afrikai kontinensről",
+    "date": "2023-09-10",
+    "author": "Tomasovszki Réka",
+    "blocks": [
+        { "type": "text", "content": "Emmerson Mnangagwa, hivatalban lévő zimbabwei elnököt, szoros verseny után újraválasztották", "classes": ["blog-header"] },
+        { "type": "text", "content": "2023. augusztus 26-án szombaton hirdették ki a zimbabwei elnökválasztás eredményét, mely eredményeképpen a hivatalban lévő Emmerson Mnangwa elnök maradhat hatalmon, miután megszerezte az abszolút többséget a kiélezett elnökválasztási küzdelemben. " },
+        { "type": "text", "content": "A 80 éves férfi győzelme meghosszabbítja a Zanu-PF párt több évtizedes fojtogató erejét Zimbabwe politikájában, tekintve, hogy az 1980-as függetlenedés óta az ország legmeghatározóbb pártjának számítanak. " },
+        { "type": "text", "content": "Nelson Chamisa, a Polgárok Koalíciója a Változásért (CCC) jelöltje nem fogadta még el a választások eredményét, de egyelőre nem tudni, jogi kifogást emel-e. Pártja korábban kifogásolta a szavazási anyagok késedelmes beküldését." },
+        { "type": "text", "content": "Az Európai Unió Választási Megfigyelő Missziója (EU EOM) egy előzetesen kiadott közleményben több szabálytalanságra hívta fel a figyelmet a választások kapcsán, valamint hogy „erőszakos és megfélemlítő cselekvéseknek” is tanúi voltak, amik befolyásolhatták a szavazásokat. " },
+        { "type": "text", "content": "Ez volt a második választás Zimbabwéban, mióta 2017-ben a hadsereg leváltotta Robert Mugabe tekintélyelvű vezetőt." },
+        { "type": "text", "content": "<a href=\"https://edition.cnn.com/2023/08/26/africa/zimbabwe-emmerson-mnangagwa-reelected-intl/index.html\">cnn.com</a>" },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "img", "content": [
+            { "name": "0910_2.jpg", "style": { "object-position": "center bottom" }, "caption": "Forrás: Faustine Odeke" }
+        ] },
+        { "type": "text", "content": "Séta az elefántok megmentéséért", "classes": ["blog-header"] },
+        { "type": "text", "content": "Jim Justus Nyamu kenyai vadvilág védő és kutató augusztus 25-én, pénteken megérkezett Ugandába, miután július 29-én Nairobiban útnak indult. Négy országon átívelő útjával az afrikai elefántok fontosságára szeretné felhívni a figyelmet, akiknek a fennmaradása erősen veszélyeztetett. " },
+        { "type": "text", "content": "Kenyában gyakoriak az összetűzések a lakosok és a vadállatok között, mely során az utóbbi időben 3 elefántot és 11 oroszlánt öltek meg, köztük a legidősebbnek feljegyzett oroszlánt, a 19 éves Loonkiitot. Nyamu az alapítója az Elephant Neighbours Centernek, amely a helyi közösségekkel együttműködve próbálja megoldani az emberek és a vadon élő állatok közti konfliktust." },
+        { "type": "text", "content": "Jim Justus Nyamu és kísérete Uganda után Ruandába, végül pedig a Kongói Demokratikus Köztársaságba sétálnak, majd visszatérnek Kenyába. A várhatóan 130 napos út során több mint 3600 kilométert tesznek meg. Útjuk során többször megállnak beszélgetni a helyiekkel az állatvilág fontosságáról." },
+        { "type": "text", "content": "<a href=\"https://www.newvision.co.ug/category/travel/kenya-elephant-conservationist-in-uganda-on-3-NV_168659\">newvision.co.ug</a>" },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "Afrika az Atlétikai Világbajnokságon", "classes": ["blog-header"] },
+        { "type": "text", "content": "Nemrégiben véget ért a budapesti Atlétikai Világbajnokság, mely során több afrikai ország sportolója is bravúros eredményeket ért el. Kenya lett a legsikeresebb afrikai ország miután 10 érmet, köztük 3 aranyérmet szerzett, és ezzel az összesített éremtáblázaton is az előkelő 5. helyezést érték el." },
+        { "type": "text", "content": "Faith Kipyegon az első nő, aki az 1500 méteres versenyszám után az 5000 méteres síkfutást is meg tudta nyerni. Míg honfitása Mary Moraa a zárónapon aratott 800 méteren győzelmet, amit szokásos táncával ünnepelt meg, ezzel pedig elnyerte a „Kenyai dancing queen” becenevet. Az ország történetében először fordult elő, hogy férfi atléta nem nyert aranyérmet." },
+        { "type": "text", "content": "Míg az ugandaiak elégedettek voltak a két nyert aranyéremmel, amit 10.000 méteren és a maratonfutásban nyertek, addig az etiópok kissé csalódottak voltak ugyanezzel az eredménnyel, hiszen ők a legutóbbi világversenyen egy előkelő, összesítésben második helyet szereztek érmek tekintetében." },
+        { "type": "text", "content": "A botswanai Letsile Tobogo beváltotta a hozzá fűzött reményeket, hiszen a 100m ezüstérme után 200 méteren egy bronzérmet is szerzett. A 100 méter ezüst érmével pedig ő lett az afrikai kontinens első érmese ebben a számban világbajnokságon." },
+        { "type": "text", "content": "Ugyancsak kiemelkedő eredmény a burkina fasoi Zango aranyérme hármasugrásban, aki ezzel nem csak hazája első aranyérmét szerezte meg a világbajnokságok történetében, de egyben az afrikai kontinens első győztese is ebben a versenyszámban. Zango reméli, hogy ezzel az eredménnyel pozitív érzelmeket adhat honfitársainak, mivel az ország politikai instabilitással néz szembe." },
+        { "type": "text", "content": "<a href=\"https://www.bbc.com/news/world/africa?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=64ecc06c96ad8677126afed8%26Kenyan%20women%20shine%2C%20a%20rising%20star%20and%20reward%20for%20consistency%262023-08-28T15%3A54%3A49.566Z&ns_fee=0&pinned_post_locator=urn:asset:c9bb638c-d19c-4272-84b0-3fa5677df8db&pinned_post_asset_id=64ecc06c96ad8677126afed8&pinned_post_type=share\">bbc.com</a>" },
+        { "type": "text", "content": "<a href=\"https://www.nemzetisport.hu/atletika/a-2023-as-budapesti-atletikai-vilagbajnoksag-programja-2933299\">nemzetisport.hu</a>" }
+    ],
+    "cover": { "name": "0910_1.jpg", "style": { "object-position":  "center bottom" }, "caption": "Forrás: Natalia Fedosenko/Pool/Reuters" }
+}
+
+

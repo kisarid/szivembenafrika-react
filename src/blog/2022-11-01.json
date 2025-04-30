@@ -1,0 +1,26 @@
+{
+    "id": "2022-11-01",
+    "title": "A Nambale utcai fiúk",
+    "date": "2022-11-01",
+    "author": "Dr. Farkas Ferenc Balázs",
+    "blocks": [
+        { "type": "text", "content": "Az esős évszak ezen a vidéken meglehetősen kiszámíthatatlan. Percek alatt képes hatalmas monszuneső zúdulni a vidékre, de amilyen gyorsan érkezik, olyan gyorsan tovább is áll. Eddig nem panaszkodhatunk, egyetlen programot vagy oktatást sem mosott el az időjárás, illetve ilyenkor a tisztálkodásra (ivásra nem!) használt esővíztartályok is megtelnek, így esős évszakban spórolni sem kell zuhanyzás során."},
+        { "type": "text", "content": "Persze a körülmények számomra sosem okoztak nagyobb kihívást. A Jóisten úgy rakott össze, hogy az első percektől könnyen megbarátkoztam a rendkívül eltérő ételekkel, a higiéniás körülmények jóval alacsonyabb szintjével, és azzal is, hogy a szub-szaharai térségben sok mindenre figyelni kell az egészségesen maradás érdekében (és itt nem csak a betegségekre gondolok)."},
+	    { "type": "text", "content": "A falu sokat változott az évek során. Idén már szinte mindenhol elérhető a mobiltelefon hálózat, ez a munkánkat jelentősen megkönnyíti. A kínaiak kiépítették a villamos hálózatot is, így a légvezetékek szövevénye már a manafwai látképet is megváltoztatja. Persze erre a falubeliek közül egyelőre nem tudnak kapcsolódni a magas költségek miatt, de az, hogy a rendszer kiépült mindenképp fejlődésnek tekinthető."},
+	    { "type": "text", "content": "Mióta legutóbb itt jártam az iskola is lenyűgöző változáson ment keresztül. Most már két helyszínen összesen 8 tanterem áll rendelkezésre a kiszolgáló helyiségekkel együtt. Arról nem is beszélve, hogy önkéntesünknek, Panninak köszönhetően szuper festést kapott az iskola fenti része, majmokkal, elefántokkal és mindenféle nagyszerű dekorációval."},
+	    { "type": "text", "content": "Így még nagyobb lelkesedéssel vágtunk bele a kisebb (10-13 éves) és nagyobb (13-19 éves) fiúk programjába. Ez számomra is és a szervezet számára is új kihívást jelent. Egyrészt fókuszáltan fiúkkal eddig nem foglalkoztunk, másrészt egy új csoportos foglalkozás elindítása során mindig kérdés, hogy vajon kezdetben milyen szintről indulunk."},
+        { "type": "text", "content": "Már az első napokban érdekes dolgokat állapítottam meg. Ennek egy része ismert volt számomra, melyet most a srácok a valóságban is visszaigazolták, egyebek újdonságként hatottak. Amiről tudtam, hogy egész Afrikában és itt a faluban is jelen van, az többek között a téves hiedelmeken, pletykákon, szóbeszéden, babonán alapuló információk sokasága. A teljesség igénye nélkül: az óvszer használata rákot okoz, a menstruáció során a vérzés megszüntetése a cél, akár külső eszközökkel is, de az sem volt mindenkinek világos, a betegségek ellen való védekezés az egyén számára lehetséges."},
+	    { "type": "text", "content": "Ebből már kitűnik, hogy az első héten az egészségé, az egészségnevelésé volt a főszerep. Ahogy az afrikai munkám során mindig, az oktatási program kidolgozásakor is, elsősorban nemzetközi ajánlásokra és jó gyakorlatokra támaszkodom. Ennek legfőbb oka, ezek jellemzően több évtizedes, kollektív ismeretekből és valódi helyszíni tapasztalatokból építkeznek. Egy olyan, a helyiek számára mindennapos dologról, mint a malária, vagy a malária háló használata természetesen nem lehet minden információt átadni a permethrin impregnáció kémiai tulajdonságaitól kezdődően. Ezekben az esetekben már jól ismertek azok a kulcsinformációk, melyek hatékonyan kommunikálhatóak, továbbá biztosan elegendőek és alkalmasak arra, hogy az adott célt (például egy betegség előfordulásának gyakoriságának csökkentése) elérjék. A szakirodalomban „rural” (infrastruktúrától távoli) vagy „low-resource” (erőforrásokban szegény) területként említett helyeken alkalmazott módszerek jellemzően nem tökéletesek, de a helyi körülmények között, minimális erőfeszítéssel és költséggel végrehajthatók."},
+	    { "type": "text", "content": "A foglalkozások során kissé meglepve tapasztaltam, hogy a kis- és nagyfiúk milyen aktívan részt vesznek a interaktív munkában. Kérdeznek, jelentkeznek, válaszolnak. Az persze látszik, hogy az ugandai oktatás elsősorban a magolásra helyezi a hangsúlyt, és míg néha csodálatosan megkomponált válaszokat adnak egy-egy kérdésre, addig a logikai összefüggéseket taglaló kérdésekre már nehezebben válaszolnak. Ennek megfelelően az oktatás tempóját is ehhez igazítjuk, a hangsúlyt pedig arra helyezzük, hogy amiről beszélünk azt a megjegyzés mellett meg is értsék."},
+	    { "type": "text", "content": "Persze a fiúk fiúk maradnak, és kisebbeket teljesen elvarázsolja ha egy dömber épp leborítja a sódert az osztályterem mellett. Ugyanakkor azt hiszem ez a világ bármely pontján hasonló izgalmat váltana ki egy csapat 10 éves kissrácból."},
+        {
+            "type": "img",
+            "content": [
+                { "name": "photo_2022-10-26_22-37-31.jpg", "style": { "object-position": "center bottom" } },
+                { "name": "photo_2022-10-26_22-37-37.jpg", "style": { "object-position": "center top" } }
+            ]
+        }
+    ],
+    "cover": { "name": "photo_2022-10-26_22-37-34_s.jpg", "style": { "object-position": "center top" } },
+    "innerCover": { "name": "photo_2022-10-26_22-37-34.jpg", "style": { "object-position": "center top" } }
+}

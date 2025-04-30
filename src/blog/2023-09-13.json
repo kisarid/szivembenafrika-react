@@ -1,0 +1,16 @@
+{
+    "id": "2023-09-13",
+    "title": "Egy régen vágyott misszió",
+    "date": "2023-09-13",
+    "author": "Palágyi Barbara",
+    "blocks": [
+        { "type": "text", "content": "Palágyi Barbara vagyok, építész és fotográfus, utazó és kalandor valamint segítő és önkéntes. Napjaim a carpe diem (élj a mának) filozófia szerint próbálom alakítani, programjaimat úgy megélni, hogy az mindig hozzátegyen valamit a saját és mások életéhez, valamint a továbbiakban ösztönzően hasson. Erre az egyik legtökéletesebb lehetőségnek az önkénteskedést láttam, ahol egy csoda csapattal együtt kiállunk egy nemes ügyért szívünket-lelkünket beleadva. A Szívemben Született Afrika Egyesületnél legalábbis ez történik, ahol idén januártól veszek részt a csapat munkájában." },
+        { "type": "img", "content": [
+            { "name": "0913_1.jpg", "style": { "object-position": "center bottom" } }
+        ], "classes": ["keep-size"] },
+        { "type": "text", "content": "Afrika már régóta izgatja a fantáziámat, amit sokszor (már lehet túl sokszor) a barátaimnak is részleteztem. 18 éves születésnapomra egy afrikai baba játékot kaptam tőlük, ami azóta is sokat jelent. Nagyjából akkor határoztam el, hogy részt szeretnék venni egy afrikai önkéntesi misszión, ahol egy hosszabb időszakon keresztül egy helyi közösségnek segíthetek, akik maguk közé fogadnak, bemutatják az életmódjukat és szokásaikról társaloghatunk. Idén volt lehetőségem Ruandában eltölteni két hetet, ahol fantasztikus élményekkel gazdagodtam, és miután egyre jobban várom a novemberi ugandai missziót!" }
+    ],
+    "cover": { "name": "0913_cover.jpg", "style": { "object-position":  "center bottom" } }
+}
+
+

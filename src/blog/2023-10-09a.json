@@ -1,0 +1,31 @@
+{
+    "id": "2023-10-09a",
+    "title": "Hírek Afrikából",
+    "date": "2023-10-09",
+    "author": "Pap Anna Gyöngyi (Panka)",
+    "blocks": [
+        { "type": "text", "content": "A Kongói Demokratikus Köztársaság elnöke felszólította az ENSZ békefenntartóit, hogy decembertől hagyják el az országot", "classes": ["blog-header"] },
+        { "type": "text", "content": "Az ENSZ békefenntartói missziójának több mint 20 évvel az országba érkezése után sem sikerült megfékezni a lázadó csoportokat. Az ország egyes részeit folyamatosan ellenőrzésük alatt tartják fegyveres milíciák a területek, illetve az ország ásványkincsei okán." },
+        { "type": "text", "content": "A helyi lakosok arra szólították fel az ENSZ missziót, hogy hagyja el Kongót. Múlt hónapban a békefenntartók elleni tüntetések véresre fordultak és legalább 43-an meghaltak és további 53-an megsérültek, amikor a tüntetők összecsaptak a helyi hatóságokkal." },
+        { "type": "text", "content": "Félix Tshisekedi kongói elnök az ENSZ Közgyűlésén azt mondta, hogy a missziós erők kivonulásának felgyorsítása elengedhetetlen szükségletté vált az ENSZ és a kongói polgárok közötti feszültségek enyhítéséhez, hozzátéve, hogy a békefenntartó missziók kudarcot vallottak." },
+        { "type": "text", "content": "<a href=\"https://edition.cnn.com/2023/09/21/africa/drc-tshisekedi-un-mission-exit-intl/index.html\">cnn.com</a>" },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "img", "content": [
+            { "name": "1009a_2.jpg", "style": { "object-position": "center bottom" }, "caption": "Forrás: Nacho Doce/Reuters" }
+        ] },
+        { "type": "text", "content": "Ezrek vesztették életüket Marokkóban a földrengés következtében", "classes": ["blog-header"] },
+        { "type": "text", "content": "6,8-as erősségű földrengés rázta meg Marokkó középső részét szeptember 8-án, legalább 2900 ember halálát okozva. Több mint egy évszázada ez volt a legerősebb földrengés, amely az észak-afrikai nemzet ezen részét, a nehezen megközelíthető hegyvidéki területeket sújtotta." },
+        { "type": "text", "content": "Az Egyesült Államok Geológiai Szolgálata szerint az epicentrum körülbelül 72 kilométerre (44,7 mérföldre) délnyugatra volt a 840 000 lakosú népszerű turisztikai célponttól, Marrakechtől." },
+        { "type": "text", "content": "<a href=\"https://www.portfolio.hu/global/20230912/tortenelmet-irt-az-idei-ev-masodik-legerosebb-foldrengese-felmerhetetlen-a-pusztitas-639009\">portfolio.hu</a>" },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "img", "content": [
+            { "name": "1009a_3.jpg", "style": { "object-position": "center bottom" }, "caption": "Forrás: Ol Pejeta Conservancy" }
+        ] },
+        { "type": "text", "content": "Szeptember 22. -- az orrszarvúak világnapja", "classes": ["blog-header"] },
+        { "type": "text", "content": "Az évtizedek óta tartó orvvadászat súlyos károkat okozott. Az állatokat szarvaikért ölik meg, amelyeket régóta használnak faragási anyagként, valamint a hagyományos kínai orvoslásban is nagyra értékelik feltételezett gyógyító tulajdonságaik miatt." },
+        { "type": "text", "content": "Najin és Fatu az utolsó két északi fehér orrszarvú a bolygón. Mindketten nőstények és egyikük sem képes teherbe esni. Az utolsó hím 2018-ban halt meg." },
+        { "type": "text", "content": "A kenyai Ol Pejeta Conservancy természetvédői és kollégái szerte a világon versenyt futnak az idővel, hogy sikeresen megtermékenyítsék a Najinból és Fatuból gyűjtött petesejteket a hím északi fehér orrszarvúktól gyűjtött spermiumok felhasználásával, mielőtt elpusztulnak." },
+        { "type": "text", "content": "Eddig 29 északi fehér orrszarvú embriót hoztak létre, mondta el Samuel Mutisya, az Ol Pejeta Conservancy kutatási és fajvédelmi részlegének vezetője. Az embriókat folyékony nitrogénben tárolják, hogy a következő hónapokban vagy években átkerüljenek egy déli fehér orrszarvú béranyába." }
+    ],
+    "cover": { "name": "1009a_1.jpg", "style": { "object-position":  "center bottom" }, "caption": "Forrás: Euronews" }
+}

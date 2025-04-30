@@ -1,0 +1,41 @@
+{
+    "id": "2023-11-07c",
+    "title": "Érvek és ellenérvek a rovarfogyasztással kapcsolatban",
+    "date": "2023-11-07",
+    "author": "Fazekas Leila",
+    "blocks": [
+        { "type": "text", "content": "Az alábbi cikkben összefoglaltuk nektek a rovarfogyasztással kapcsolatos legfontosabb tudnivalókat: miért lehet szükség rovarok fogyasztására, mik az előnyei, és milyen hátrányokkal járhat." },
+        { "type": "text", "content": "Ma már világosan látható, hogy a jelenlegi táplálkozási szokásaink hosszú távon nem fenntarthatóak, átalakításra van szükségük." },
+        { "type": "text", "content": "„A társadalom fejlődésével párhuzamosan nő az állati fehérjék iránti igény, a hústermelés fokozódó mértéke azonban jelentős környezeti többletterheléssel jár. Az ehető rovarfajok, mint a lisztkukac vagy a vándorsáska viszont a megtermelt fehérjéhez mérten más állatfajokkal összehasonlítva sokkal kisebb mértékű ökológiai lábnyomot hagynak maguk után.” /Nébih/" },
+        { "type": "text", "content": "A húsfogyasztás vagy tágabban mondva az állatifehérje-fogyasztás okozta környezeti problémákat két irányból kell kezelni: egyrészt a fogyasztás csökkentésével, másfelől a fogyasztott állati fehérjék megválogatásával." },
+        { "type": "text", "content": "Egy 80 kg-os felnőttnek napi 15g állati fehérjére van szüksége, ami évente 5,5 kg-ot jelent (ebben benne van a húsból, terjermékekből és tojásból származó fehérje is). Ha valaki például ezt teljes mértékben csirkehúsból fedezi, akkor az 24 kg húst jelent egy évben. Ha az elfogyasztott állati fehérjét is megválogatjuk, akkor tovább csökkenthetjük ökológiai lábnyomunkat. Amennyiben egy intenzíven hízlalt sertés helyett például rovarból vesszük fel ugyanazt a fehérjemennyiséget, sokkal kisebb környezetterhelést okozunk." },
+        { "type": "text", "content": "Jelenleg is vannak bizonyos élelmiszerekben rovarszármazékok, például a vörös élelmiszerszínező anyag (E120), ami a bíbortetű nőstény egyedeiből készül. Az Európai Unió tagországaiban további 4 rovar élelmiszer célú felhasználását engedélyezték:" },
+        { "type": "list", "listType": "ul", "content": [
+            "keleti vándorsáska",
+            "alombogár lárvája",
+            "házi tücsök",
+            "lisztkukac"
+        ] },
+        { "type": "text", "content": "Nagy István, az Agrárminisztérium (AM) tárcavezetője a döntéssel kapcsolatban megjegyezte, az összetevőket a csomagoláson jól látható helyen kell majd feltüntetni; ezeket a termékeket pedig elkülönítve, külön polcon kell majd elhelyezni az üzletekben." },
+        { "type": "text", "content": "Nézzünk meg néhány érvet a rovarfogyasztás mellett:", "classes": ["blog-header"] },
+        { "type": "text", "content": "A fokozott húsfogyasztás negatív hatással van a klímánkra. A nagytestű állatok metánt juttatnak a levegőbe, ami fokozza a klímaváltozást. Emellett a takarmányozásukhoz és a tartásukhoz is nagy területre van szükség, amit a természettől vonunk el. A rovaroknak jóval kisebb a helyigénye. " },
+        { "type": "text", "content": "A húsfeldolgozás nagyon energiaigényes folyamat. Például vízfelhasználás szempontjából míg 100 liter víz felhasználásával marhahúsból 1,6 gramm fehérje állítható elő, addig ez a szám szöcskék esetében 18,75 gramm, ami még a szóján is túlmutat (16,65 gramm). A rovarok vízigénye is jóval kevesebb a gazdasági állatokéhoz képest. " },
+        { "type": "text", "content": "Ha a takarmányozást vesszük alapul, ott is a rovarok jönnek ki győztesen: 10 kg  takarmány felhasználásával nagyjából 1 kg marhahús, 2 kg sertéshús, 3 kg baromfihús és közel 10 kg rovar (szöcske) állítható elő." },
+        { "type": "text", "content": "A rovarok nagy előnye, hogy koncentráltabban tartalmaznak fehérjét: nem ritka a 60%, de akár 70% feletti fehérjét tartalmazó faj sem, a fehérjetartalmuk pedig nemcsak mennyiségileg, hanem minőségileg is kiváló. Aminosav garnitúrájuk, zsírsav-profiljuk és ásványianyag-tartalmuk egyaránt rendkívül jó, ami esszenciális tápanyagforrást jelent a táplálékhiánytól szenvedő fejlődő országok lakosainak. Emellett míg egy gazdasági állat esetében a testtömeg fogyasztható hányada átlagosan 50%, addig egy tücsök esetében az állat 80, de akár 100%-a is fogyasztható. " },
+        { "type": "text", "content": "Összegyűjtöttünk néhány érvet, ami a rovarfogyasztás ellen szól:", "classes": ["blog-header"] },
+        { "type": "text", "content": "Főleg keleten és a déli országokban van kultúrája a rovarfogyasztásnak. Az európai emberek jelenleg elég elutasítóak a témában - nagyobb a fogyasztási kedv, ha az állat nem felismerhető formában van jelen (például rovar alapú fűszer vagy liszt)." },
+        { "type": "text", "content": "Allergéneket és toxinokat is tartalmaznak, melyek egyeseknél allergiás reakciókat válthatnak ki. " },
+        { "type": "text", "content": "Magyarországon jelenleg csak importálással lehet beszerezni rovarfehérjét, ezért elég drága (például a tücsökliszt kilója 11-12 ezer forint). " },
+        { "type": "text", "content": "Bár egyesek szerint a rovarok kevésbé érző lények, és alacsonyabb szintű tudattal rendelkeznek, mint más állatok, emberi fogyasztásra való felhasználásuk etikai kérdése továbbra is ellentmondásos. Több kutatás is zajlott abban a témában, hogy a rovarok mennyire éreznek fájdalmat, és az eredmények alapján sokkal inkább, mint azt gondoltuk volna. " },
+        { "type": "text", "content": "Saját tapasztalataim:", "classes": ["blog-header"] },
+        { "type": "text", "content": "Az interneten több oldalról is van lehetőségünk különböző ízesítésű rovarokat kipróbálni. Én korábban a barbecue-s tücsköt kóstoltam – ami az esetemben óriási nagy szám, tekintve, hogy nagyon válogatós vagyok és húst is csak ritkán eszem, ami 90%-ban csirkemell. Azért voltam hajlandó kipróbálni, mert nagyon apró és nem látszik, hogy tücsök – azaz én is azok táborát erősítem, akik ódzkodnak a rovarevéstől, főleg, ha felismerhető formában van az állat. Továbbá ki volt szárítva és annyira erős fűszerezést kapott, hogy kicsit olyan volt, mintha apró szemű chipset ettem volna. " },
+        { "type": "text", "content": "Teljes mértékben egyetértek azzal, hogy a jelenlegi húsfogyasztásunk fenntarthatatlan. Azonban a szélsőségek helyett a fokozatos életmódváltás híve vagyok, azaz próbáljuk meg mérsékelni a húsfogyasztásunkat, és nyissunk más, fenntarthatóbb fehérjeforrások felé. " }
+    ],
+    "cover": { "name": "1106c_1.jpg", "style": { "object-position":  "center center" } }
+}
+
+
+
+
+
+

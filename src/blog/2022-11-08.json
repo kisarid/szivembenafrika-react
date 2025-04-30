@@ -1,0 +1,21 @@
+{
+    "id": "2022-11-08",
+    "title": "Északi szavannák urai",
+    "date": "2022-11-08",
+    "author": "Dr. Farkas Ferenc Balázs",
+    "blocks": [
+        { "type": "text", "content": "A faluban végzett munkát néha ugyan színesíti egy-egy Mbale-i látogatás, vagy egy-két esemény a ház körül, de ezzel együtt monotonná tud válni az iskola és a házunk közötti néhány száz méter. Épp ezért nagyon örültem, hogy az idei misszió során Uganda egy egészen más vidékét, Karamoját is meglátogattuk."},
+        { "type": "text", "content": "Karamoja Uganda legszegényebb és legelmaradottabb régiója. Itt az éghajlati és időjárási tényezők is egészen mások, szinte az egész terület száraz, sík szavanna. A helyi törzsek élete is ennek megfelelően alakult, elsősorban szarvasmarhák tartásából élnek. Életvitelük az elmúlt évszázadokban keveset változott, jelenleg is nomád körülmények között, a civilizációtól többnyire elzártan folyik. A régióban 8 millió ember él így. Ugandában van is egy közmondás; „olyan, mint arra várni, hogy Karamoja fejlődésnek induljon”. Ez egyébként jól szemléltei az ország társadalmának karamojong-okhoz való hozzáállását. Mindezt bonyolítja, hogy az egyes karamojong törzsek gyakran keverednek fegyveres konfliktusba egymással a tehéncsordák megszerzése/elrablása céljából."},
+        { "type": "text", "content": "A mi helyi partnereink (Flavia, Esther, Martin és a többiek) is meglehetősen negatív véleménnyel voltak Karamojáról és arról is, hogy oda tervezünk utazni. Elsősorban a biztonság miatt aggódtak, mert valóban lehetett olvasni és a hallani is arról, hogy az elmúlt években gyakoribbá váltak az angolul csak „cattle rustling-nak” hívott portyázások. A régióban ugyan fokozott a rendőri és katonai jelenlét, azonban ezzel együtt is a karamojong-ok tartják kézben a főbb útvonalakon kívüli területeket."},
+        { "type": "text", "content": "Ezzel együtt, megfelelő felkészülés és tájékozódás után mégis úgy döntöttünk, hogy meglátogatjuk Moroto várost és környékét, egy esetleges következő projekt feltérképezése és kigondolása miatt."},
+        { "type": "text", "content": "Azt gondolom az út Zsófival mindkettőnk számára roppant érdekes volt. Látni azt, hogy ott milyen mértékű az elmaradás, milyen problémákkal küzdenek a helyiek meghatározó élmény volt. Számomra különösen elgondolkodtató volt, hogy ebben a helyzetben milyen lehetőségek és stratégiák merülnek egyáltalán fel egészségügyi szempontból. Rendkívül nagy kihívás, hiszen szó szerint a nulláról, a kizárólag tradicionális „gyógyítókra” való támaszkodásból kell kiindulni. Ezt nehezítik az olyan körülmények, mint az infrastruktúra teljes hiánya. Például: ebben a környezetben jelenleg nem tiszta vízről, hanem egyáltalán hozzáférhető vízről kell beszélni. De említhetném azt is, amikor az egyik kisfiú hatalmas mosollyal mutatta be az aznapi vacsorát, a szavannán összefogdosott patkányokat. Ez nem más, mint a hírhedt „bushmeat”, azaz a nyers vagy minimálisan feldolgozott vadon élő állatok élelmiszerként való elfogyasztása. Ki se férne egy oldalon, hogy ez mennyi veszélyt rejteget magában, elég ha csak az éppen Uganda délnyugati részeit sújtó ebola jut eszünkbe, melynek eredetét szintén összefüggésbe hozzák a „bushmeat” elfogyasztásával."},
+        { "type": "text", "content": "Az biztos, hogy Karamojában rengeteg tennivaló van, de figyelembe véve a körülményeket és a helyi lehetőségeket, mind az előkészítés, mind a szakmai tervezés extra erőfeszítést fog igényelni. Persze a kihívástól nem futamodunk meg és a szakmai színvonalból sem adunk lejjebb, így munkás és izgalmas időszaknak nézünk elébe a továbbiakban."},
+        {
+            "type": "img",
+            "content": [
+                { "name": "photo_2022-11-07_21-45-46.jpg", "style": { "object-position": "center bottom" } }        
+            ]
+        }
+    ],
+    "cover": { "name": "photo_2022-11-07_21-45-42.jpg", "style": { "object-position": "center bottom" } }
+}

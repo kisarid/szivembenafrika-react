@@ -1,0 +1,30 @@
+{
+    "id": "2023-10-09e",
+    "title": "Szuahéli közmondások",
+    "date": "2023-10-09",
+    "author": "Balogh Tünde",
+    "blocks": [
+        { "type": "text", "content": "Ugandában a második hivatalos nyelv a szuahéli, amit főleg csak a hivatalokban használnak." },
+        { "type": "text", "content": "A szuahéli szó arab eredetű, jelentése „szélső”, „parti”, ugyanerre a szóra vezethető vissza a Száhel-övezet, mint a Szahara széle. A szuahéli nyelv a bantu nyelvcsaládba tartozik. " },
+        { "type": "text", "content": "A szuahéli elterjedési területe Kelet-Afrika, Tanzániában hivatalos, Kenyában nemzeti nyelv. Ugandában, Ruandában, Burundiban, Mozambikban, Madagaszkáron második vagy harmadik nyelvként használják saját anyanyelvük, illetve az angol, francia vagy portugál nyelvek mellett. " },
+        { "type": "text", "content": "A szuahéli nyelv több mint ezer éves írott emlékekkel rendelkezik. " },
+        { "type": "text", "content": "Az ilyen múlttal rendelkező nyelvekben is jelen vannak a közmondások, melyek a közönséges mindennapi élet tapasztalatait, gyakorlati szabályait vagy erkölcsi elveket tartalmaz a nép ajkáról, az irodalomban is megtartva népies formáit." },
+        { "type": "text", "content": "Néhány szuahéli közmondás:" },
+        { "type": "text", "content": "Haraka, haraka, hapana Baraka! - Hurry hurry has no blessings - A sietségen nincs áldás, vagyis lassan járj, tovább érsz!" },
+        { "type": "text", "content": "Hasira, hasara. - Anger brings loss(Damage) – A harag veszteséget hoz." },
+        { "type": "text", "content": "Ihsani (hisani)haiozi. - Kindness does not go rotten. – A kedvesség nem romlik el." },
+        { "type": "text", "content": "Kenda karibu na kumi. - Nine is near ten. – A kilenc, majdnem tíz." },
+        { "type": "text", "content": "Kichango kuchangizana. - Everyone should contribute when collection is made. – A gyűjtéshez mindenkinek hozzá kell járulnia." },
+        { "type": "text", "content": "Kila chombo kwa wimblile. - Every vessel has its own waves – Minden hajónak megvan a maga hulláma." },
+        { "type": "text", "content": "Kuambizana kuko kusikilizana hapana. - Giving advice but no one listens. – Tanácsot ad, de senkit nem hallgat meg." },
+        { "type": "text", "content": "Maji usiyoyafika hujui wingi wake. - You can not know the extent of water in a pond that you have never been to. - Nem tudhatod, mekkora víz van egy tóban, ahol még soha nem jártál." },
+        { "type": "text", "content": "Moto hauzai moto. - Fire does not beget fire in the end it begets ashes. – A tűz nem szül tüzet, hanem hamut." },
+        { "type": "text", "content": "Mtaka yote hukosa yote. - He who desires all, misses all – Aki mindent akar, annak minden hiányzik." },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "Forrás: " },
+        { "type": "text", "content": "A szuahéli nyelvről – AfrikaBlog" },
+        { "type": "text", "content": "Methali (mwambao.com)" },
+        { "type": "text", "content": "Szuahéli nyelv – Wikipédia (wikipedia.org)" }
+    ],
+    "cover": { "name": "1009e_1.jpg", "style": { "object-position":  "center bottom" } }
+}

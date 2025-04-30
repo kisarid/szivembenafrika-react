@@ -1,0 +1,25 @@
+{
+    "id": "2023-04-19",
+    "title": "Kezdetét veszi a nagy utazás",
+    "date": "2023-04-19",
+    "author": "Makó Panna",
+    "blocks": [
+        { "type": "text", "content": "Utazás, utazás és még több utazás. Az elmúlt napokban közel 8000 km-et tettünk meg 72 óra alatt autóval, repülővel busszal. Nagy lelkesedéssel vágtunk neki az útnak, ami kellett is, mert az utolsó órák már sokkal kimerítőbbek voltak mint számítottunk rá elsőre. A meleg, a sok ülés és az alvás hiánya okozott kihívást, de minden szusszanás után hatalmas energiával és lelkesedéssel ugrottunk bele a következő feladatba vagy napba." },
+        { "type": "text", "content": "Néhány részlet az utazásunkról:" },
+        { "type": "text", "content": "Hétfőn indultunk Budapestről repülővel Entebbébe, Isztambulban töltöttünk néhány órát az átszállásnál, ahol a néhány órás várakozást felkészüléssel töltöttük. Frissítettük a táblázatainkat, letöltöltöttük a végleges dokumentumokat, átvettük még egyszer, hogy mikkel fogunk foglalkozni a terepen." },
+        { "type": "text", "content": "Entebbébe kedden hajnali 4.30-kor érkezztünk egy kisebb késéssel, így a kampalai szállásunkra reggel 7 körül érkeztünk. 2 órás alvást követően belevágtunk az első napba, ahol Kampalában beszerzéssel kezdtünk." },
+        { "type": "img", "content": [
+            { "name": "photo_2023-04-22_07-58-37.jpg", "style": { "object-position": "center bottom" } }
+        ] },
+        { "type": "text", "content": "Kampala egy rendkívül nyüzsgő, izgalmas és színes város. Elsők között szereztünk mindannyiunknak egy afrikai sim kártyát, amivel jó esetben van internetünk. Ezt követően egy bevásárló körútra indultunk, ahol volt lehetőségünk megtapasztalni a helyiek által használt kisebb boltokból álló, piachoz hasonlatos tereket. A beszerzős utunk során megálltunk egy gyönyörű helyen ebédelni és kávézni egyet (a kávéra rendkívül nagy szükségünk volt a rövid alvásunk után), valamint itt tapasztalhattunk először, hogy ugyan a kávé őshazájában vagyunk és mi alig várjuk, hogy elfogyasszunk egy csésze kávét, a helyiek kifejezetten nem szeretik és nem fogyasztják a kávét. Amennyiben valamilyen meleg italt fogyasztanak az inkább tea, annak viszont minden különleges fűszerekkel készített változatát." },
+        { "type": "img", "content": [
+            { "name": "photo_2023-04-22_07-58-29.jpg", "style": { "object-position": "center bottom" } }
+        ] },
+        { "type": "text", "content": "A nap végén hármasban maradtunk és felfedeztük a szállásunkhoz tartozó tetőteraszt, ahonnan a kilátás világosban és sötétben is lélegzetelállítóan szép volt." },
+        { "type": "text", "content": "Szerdán reggel egy kiadós alvás után folytattuk utunkat busszal Manafwába. Út közben még megálltunk Mbaleba nyomtatni egy helyi kisvállalkozónál, valamint benéztünk a termelői piacra is, ahol bevásároltunk finomabbnál finomabb gyümölcsöket és zöldségeket, amiket az elkövetkező napokban fogunk fogyasztani." },
+        { "type": "text", "content": "Az út rendkívül hosszúnak tűnt, viszont a megérkezés örök élményt jelentett azoknak akik először érkeztek a faluba. Hatalmas örömmel és ujjongással fogadtak minket, annak ellenére, hogy mi Julival idegenek voltunk számukra egy pillanatra sem éreztük, hogy azok lennénk. Mindannyiónkat megöleltek, megsimogattak, mindannyiunknak tiszta szívvel örültek, a mosolyt és nevetést az arcunkról amit az első találkozás okozott még elalvás előtt is nehezen lehetett eltüntetni." }
+    ],
+    "cover": { "name": "photo_2023-04-22_07-58-00.jpg", "style": { "object-position":  "center bottom" } }
+}
+
+

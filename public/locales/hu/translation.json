@@ -1,0 +1,36 @@
+{
+    "navbar": {
+        "1": {
+            "menu": "Rólunk",
+            "submenu1": "Csapatunk",
+            "submenu2": "Éves beszámolók"
+        },
+        "2": {
+            "menu": "Így segítünk",
+            "submenu1": "Alapelvek",
+            "submenu2": "Hol segítünk?",
+            "submenu3": "Projektjeink"
+        },
+        "3": {
+            "menu": "Így segíthetsz",
+            "submenu1": "Önkéntesség",
+            "submenu2": "Gyermektámogatás",
+            "submenu3": "Graduate a Girl!",
+            "submenu4": "Oktatás támogatás Kenyában",
+            "submenu5": "Adományozás",
+            "submenu6": "Események"
+        },
+        "4": {
+            "menu": "Megjelenések",
+            "submenu1": "Média",
+            "submenu2": "Vlog",
+            "submenu3": "Blog"
+        },
+        "5": {
+            "menu": "Támogatók"
+        },
+        "6": {
+            "menu": "Kapcsolat"
+        }
+    }
+}

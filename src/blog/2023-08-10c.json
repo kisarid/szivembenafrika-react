@@ -1,0 +1,23 @@
+{
+    "id": "2023-08-10c",
+    "title": "Az élet legállandóbb és sürgetőbb kérdése az, hogy ’Te mit teszel másokért’?",
+    "date": "2023-08-10",
+    "author": "Szilágyi-Könczöl Zsófi",
+    "blocks": [
+        { "type": "text", "content": "Gyermektámogatási program - Manafwa, Uganda", "classes": ["blog-header"] },
+        { "type": "text", "content": "Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. " },
+        { "type": "text", "content": "Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon egy gyerek luxusnak számít. Gyermektámogatási programunk keretében havi 6000Ft-os adományért a támogató jelképes örökbefogadó szülővé válhat. Ez az az összeg, amely fedezi egy gyerkőc oktatását, tanszereit, étkezését és szükség esetén az orvosi ellátását. Mi pedig rendszeres időközönként hírt adunk a gyerkőc fejlődéséről, tanulmányi eredményeiről, fontosabb életeseményeiről, valamint küldünk róla fotókat, videókat." },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "Graduate a Girl - Manafwa, Uganda", "classes": ["blog-header"] },
+        { "type": "text", "content": "A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. Amikor egy lány legalább a középiskola végéig az oktatásban maradhat, az életeket változtat. Nem csak az övét, hanem a jelenlegi és leendő családjáét, és az egész közösségét, amelyben él. " },
+        { "type": "text", "content": "Manafwában jelenleg a lányok többsége maximum az általános iskola 5.- 6. osztályáig jut el. 13 -14 évesen kell feleséggé válniuk és nem sokkal idősebbek akkor sem, amikor első gyermekükkel várandósak lesznek." },
+        { "type": "text", "content": "Graduate a Girl program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek, hogy segítsük őket abban, hogy eljuthassanak a középiskolai érettségiig." },
+        { "type": "text", "content": "Havi rendszerességű 7800 forintos adományoddal segítheted egy lány oktatását. Ez az összeg magában foglalja egy lány tandíját, tanszereit és szükség esetén az orvosi ellátását." },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "Oktatástámogatási program - Mtwapa, Kenya", "classes": ["blog-header"] },
+        { "type": "text", "content": "A programban szereplő összes fiatal Mtwapából és a környékéről került a programba (Kenya óceánparti régiója, Mombasa térsége). Ez a régió súlyosan érintett az emberkereskedelem, a szexturizmus és a gyermekek szexuális célú kizsákmányolásával, így a programban szereplő összes fiatal vagy érintettje - korábbi áldozata - valamelyik felsorolt problémának vagy pedig családi vagy szociokultúrális, gazdaság közege és helyzete  miatt fokozottan kitett a veszélynek." },
+        { "type": "text", "content": "A programban részt vevő fiatalok oktatásának támogatása havi 8500 forint." }
+    ],
+    "cover": { "name": "gyerektamogatas.jpg", "style": { "object-position":  "center bottom" } }
+}
+

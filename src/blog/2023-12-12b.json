@@ -1,0 +1,22 @@
+{
+    "id": "2023-12-12b",
+    "title": "Önkénteseinket ünnepeltük",
+    "date": "2023-12-12",
+    "author": "Fazekas Leila",
+    "blocks": [
+        { "type": "text", "content": "Az alábbi cikkünkben az Önkéntesség világnapján tartott ünnepségről szeretnénk nektek mesélni. " },
+        { "type": "text", "content": "December 5-e az Önkéntesség világnapja. Ahogy sok más szervezet is, úgy a Szívemben Született Afrika is fontosnak tartja, hogy megünnepelje a tagok áldozatos munkáját, melyet család, iskola és munka mellett végeznek. " },
+        { "type": "text", "content": "A meghirdetett eseményre a szervezet vezetői sok érdekes programmal készültek, illetve az őszi misszióról frissen hazaérkezett tagok élménybeszámolói is színesítették az estét. " },
+        { "type": "text", "content": "Ez utóbbival kezdődött az esemény, mindenki feltehette a kérdéseit a missziós tagoknak. Rendkívül érdekes, tanulságos, vicces és sokszor megható történeteket hallhattunk az Ugandában töltött közel három hétről. Habár nem mindig volt egyszerű a kintlét, az vitathatatlan, hogy meghatározó és életre szóló élményben volt részük a kiutazó önkénteseknek. " },
+        { "type": "text", "content": "Ezt követően a szervezet vezetői köszönetet mondtak a tagoknak. Mindenki egyesével gyertyát gyújtott, hogy a fénye mellett felolvashassa azokat az üzeneteket, melyeket a szervezet által támogatott nők és gyermekek írtak, így érzékeltetve, hogy mennyire fontos a munka, amit önkéntesként végeznek. Hogy az itt befektetett idő és energia a világ másik pontján életeket változtat meg. Az üzenetek által kézzelfoghatóvá vált az, amiért a szervezet napról napra dolgozik, és ez nagyon megindító pillanat volt. " },
+        { "type": "text", "content": "Ám a támogatott emberek mellett fontos kiemelni az értük dolgozókat is, akik immáron csapatként és barátokként dolgoznak közösen a Szívemben Született Afrikánál. A következő feladatok arra fektették a hangsúlyt, hogy a tagok megemlékezzenek és köszönetet mondjanak egymásnak a támogatásért, segítségért, a közösen eltöltött időért és az újonnan köttetett barátságokért. " },
+        { "type": "text", "content": "Végül, de nem utolsósorban kihirdetésre kerültek az Év Önkéntesei, akik kiemelkedő munkát végeztek az elmúlt évben. Őket hálaképpen oklevéllel, egy gyönyörűen megmunkált szoborral és a „hivatalos piros szervezeti pulcsival” ajándékozták meg a szervezet vezetői. :) " },
+        { "type": "img", "content": [
+            { "name": "1212b_1.jpg", "style": { "object-position": "center bottom" }, "class": "small" },
+            { "name": "1212b_2.jpg", "style": { "object-position": "center bottom" }, "class": "small" }
+        ] },
+        { "type": "text", "content": "Az estét egy kötetlen pizzázós, eszegetős, iszogatós beszélgetés zárta. Az ünnepség ékes bizonyítéka volt annak, hogy a sok pörgés és munka mellett időnként érdemes megállni egy pillanatra, és szemügyre venni azt, amit elértünk. Hálásnak és büszkének lenni, megköszönni magunknak és azoknak, akikkel együtt dolgozunk. Mert csodálatra méltó az eredmény, de nem válhatna valóra az önkéntes tagok nélkül. " }
+    ],
+    "cover": { "name": "1212b_3.jpg", "style": { "object-position":  "center top" }}
+}
+

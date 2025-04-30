@@ -1,0 +1,21 @@
+{
+    "id": "2023-10-09d",
+    "title": "Szuahéli szószedet kezdőknek",
+    "date": "2023-10-09",
+    "author": "Könczöl Zsófi",
+    "blocks": [
+        { "type": "text", "content": "Jambo – Hello" },
+        { "type": "text", "content": "Habari – Hi, Hello (találkozáskor)" },
+        { "type": "text", "content": "Kwaheri – Hi, Hello (búcsúzáskor)" },
+        { "type": "text", "content": "Mimi ni…….. – Engem …………. hívnak (informális)" },
+        { "type": "text", "content": "Jina langu ni …… – Engem ……….. hívnak (formális)" },
+        { "type": "text", "content": "Ninafuraha kukutana na wewe. – Örvendek (informális)" },
+        { "type": "text", "content": "Unaongea Kiingereza? – Beszélsz angolul?" },
+        { "type": "text", "content": "Samahani – Elnézést" },
+        { "type": "text", "content": "Ndio – Igen" },
+        { "type": "text", "content": "Hapana – Nem" },
+        { "type": "text", "content": "Hakuna matata – Rá se ránts! / Nincs gond!" },
+        { "type": "text", "content": "Rafiki – Barát" }
+    ],
+    "cover": { "name": "1009d_1.jpg", "style": { "object-position":  "center bottom" }, "caption": "Forrás: etsy.com" }
+}

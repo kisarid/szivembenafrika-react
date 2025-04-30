@@ -1,0 +1,21 @@
+{
+    "id": "2023-09-10d",
+    "title": "Kikuju törzs",
+    "date": "2023-09-10",
+    "author": "Tomasovszki Réka",
+    "blocks": [
+        { "type": "text", "content": "A kikuju törzs a több mint 40 kenyai törzs közül a legnépesebb, a bantu család tagja. Széles körben ismertebbek a Volt egy farmom Afrikában c. könyvnek, valamint az ebből készült filmnek köszönhetően lettek. " },
+        { "type": "text", "content": "De kik is ők valójában?" },
+        { "type": "text", "content": "A kikujuk eredete bizonytalan. Az etnológusok úgy tartják, hogy Nyugat-Afrikából vándoroltak más bantu törzsekkel együtt, és a Kenya-hegy környékén telepedtek le. Eredetileg vadászok, gyűjtögetők lehettek, akik a Kenya-hegy körüli és a Kenyai fennsíkon elterülő földek művelésére tértek át az idők folyamán. A maszájokkal jó viszonyt, és élénk kereskedelmet folytattak, ám ennek a brit gyarmatosítás véget vetett. A britek elvették a kikujuktól a földjeiket és rezervátumokba szorították vissza őket." },
+        { "type": "text", "content": "Ezek a negatív változások felgyorsították a kikujuk önszerveződését, akik válaszul létrehozták a mérsékelten radikális Kikuju Központi Szövetséget. A belső ellentétek és a gyarmatosítás ellenes hangulat vezetett a mau-mau felkelés kitöréséhez, melyet 1952-55 között vívtak a kikuju központi fennsíkon. A felkelés során sok kikuju életét vesztette, de ez az esemény minden bizonnyal hozzájárult a függetlenedési törekvések sikeréhez." },
+        { "type": "text", "content": "A független Kenya első elnöke Dzsomo Kenyatta, kikuju volt, egyike a Kikuju Központi Szövetség alapítóinak. " },
+        { "type": "text", "content": "A kikujuk egyistenhívők. A legenda szerint Ngai teremtő isten, aki a Kirinyígán él, amelyet a Kenya-heggyel azonosítanak, teremtette a Földet, ezzel eltéphetetlen köteléket hozott létre a föld és a rajta élő emberek közt. Ngai magához hívta az ősszülőket, Kikujut és Mumbit, akinek kilenc lánya született, a kilenc törzs ősanyái. A hagyományos kikuju vallás éppen emiatt nagy fontosságot tulajdonít a családi hagyományoknak. A kikuju férfiak több nőt is feleségül vehetnek, a menyasszony árának kifizetése kultúrájuk fontos része. " },
+        { "type": "text", "content": "A kikujuk saját törzsi nyelvet beszélnek, melynek sikerült megőriznie jelentőségét még a városi területeken is, ahol az emberek többségében angolul vagy szuahéliül beszélnek. " },
+        { "type": "text", "content": "A kikujuk a mai napig az egyik legismertebb etnikai csoport Kenyában. Nagymesterei a nagyüzemi gazdálkodásnak, ismerik minden fortélyát, különösen a tea és kávé termesztésében és az ebből készülő késztermékek előállításában jeleskednek. " },
+        { "type": "text", "content": "Aki látta a Távol Afrikától c. filmet Meryl Streeppel, az bizonyára látta már a filmvásznon ezt a angy befolyással bíró kenyai törzset, akik már több kenyai elnököt is adtak az országnak. De az is lehet, hogy a kenyai kávé, amit egy fáradt napon a kávézóban megvásároltál, valójában a kikujuktól származik." },
+        { "type": "img", "content": [
+            { "name": "0910d_2.jpg", "style": { "object-position": "center bottom" } }
+        ], "classes": ["keep-size"] }
+    ],
+    "cover": { "name": "0910d_1.jpg", "style": { "object-position":  "center center" } }
+}

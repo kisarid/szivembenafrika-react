@@ -1,0 +1,28 @@
+{
+    "id": "2023-12-12c",
+    "title": "Filmajánló: Karácsony a vadonban",
+    "date": "2023-12-12",
+    "author": "Pap Anna Gyöngyi",
+    "blocks": [
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "„Néhányan azt mondják, hogy a bivaly a legveszélyesebb állat, de tévednek, mi vagyunk.” (Derek Hollistan)", "classes": ["quote"] },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "Kate (megformálója Kristin Davis) és Derek (megformálója Rob Lowe) egymásba szeretnek, miközben Zambiában elefántokat mentenek, és együtt töltik a karácsonyi ünnepeket." },
+        { "type": "text", "content": "A Karácsony a vadonban című film 2019. november 1-jén jelent meg a Netflixen és azóta is elérhető a streamingszolgáltató kínálatában." },
+        { "type": "text", "content": "Amikor Kate karikaturálisan munkamániás férje 15 másodperccel azután, hogy fiuk egyetemre megy, bejelenti, hogy már nem szerelmes feleségébe és véget vet a házasságuknak, Kate elhatározza, hogy egyedül utazik el második nászútjukra, melyet meglepetésként szervezett meg férjének Zambia fővárosába, Lusakába." },
+        { "type": "text", "content": "Hamarosan megtudjuk, hogy a főszereplő állatorvosi diplomát szerzett, de karrierjét feláldozta a család oltárán és ahogy Kate fogalmaz, „egy valahol ebédelgető hölgy lett”, akinek az elmúlt évtizedeit a fia nevelése és férje támogatása töltötte ki." },
+        { "type": "img", "content": [
+            { "name": "1212c_2.jpg", "style": { "object-position": "center bottom" }, "caption": "Forrás: Netflix" }
+        ] },
+        { "type": "text", "content": "Lusakába érkezésének estéjén találkozik Derekkel, akiről másnap kiderül, hogy annak a kisrepülős magánszafarinak a pilótája, melyre Kate is befizetett. Útjuk során, amikor Derek fentről meglát egy megárvult kis elefántot, leszállnak, hogy segítsenek rajta. Miután Kate elárulta, hogy állatorvos, a kiérkező állatmentők magukkal viszik az elefántrezervátumba, ahol az elefántcsont miatt folytatott orvvadászat okán egyedül maradt elefántokat próbálják megmenteni és visszaszoktatni a vadonba. Ugyan Kate csak szeptember első két hetét tervezte Afrikában tölteni, de nem tudott megválni szeretett elefántjaitól, és végül a karácsonyt is ott ünnepli." },
+        { "type": "img", "content": [
+            { "name": "1212c_3.jpg", "style": { "object-position": "center bottom" }, "caption": "Forrás: Netflix" }
+        ] },
+        { "type": "text", "content": "Miközben Kate és Derek közösen dolgoznak az elefántokért, egyre közelebb kerülnek egymáshoz, annak ellenére is, hogy időről- időre felbukkan Leslie, a mindig tökéletesen sminkelt nő, aki szintén az elefántárvaházban él és dolgozik." },
+        { "type": "text", "content": "A Karácsony a vadonban egy kedves, könnyed karácsonyi romantikus vígjáték sok-sok gyönyörű afrikai tájjal és elefánttal fűszerezve, amely tökéletes lehet arra, hogy kicsit az ünnepre hangolódjon a néző. Aki szereti pontosan tudni, hogy mi fog történni egy filmben már az első jelenettől fogva, imádni fogja ezt a produkciót. Viszont jó szívvel ajánlom az elefántok szerelmeseinek is megnézni." },
+        { "type": "text", "content": "&nbsp;" },
+        { "type": "text", "content": "Képek forrása:" },
+        { "type": "text", "content": "<a href=\"https://www.vogue.com/article/holiday-in-the-wild-netflix-review\">https://www.vogue.com/article/holiday-in-the-wild-netflix-review</a>" }
+    ],
+    "cover": { "name": "1212c_1.jpg", "style": { "object-position":  "center top" }, "caption": "Forrás: Netflix" }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "2023-09-22",
+    "title": "Ma van az orrszarvúak világnapja!",
+    "date": "2023-09-22",
+    "author": "Steigler Dániel",
+    "blocks": [
+        { "type": "text", "content": "Az orrszarvúak világnapját 2011.09.22 óta ünnepeljük, s ezen a napon a faj védelmére, az őket fenyegető veszélyekre hívjuk fel a figyelmet. Hiszen ezek a csodálatos és hatalmas állatok egyedszáma sajnos borzasztóan lecsökkent, olyannyira, hogy ha az emberiség nem vigyáz rájuk, akkor akár már a mi életünkben eltűnhetnek a Földről." },
+        { "type": "text", "content": "Napjainkban az orrszarvúak öt fajtája él szerte a világon. A szélesszájú orrszarvú és a keskenyszújú orrszarvú Afrikában, az indiai orrszarvú, a szumátrai orrszarvú és a jávai orrszarvú pedig Ázsiában őshonos. Bár eltérő mértékben, de mindegyik faj fenyegetettnek számít." },
+        { "type": "text", "content": "Ezen gyönyörű állattok kihalását különböző okok fenyegetik:" },
+        { "type": "text", "content": "Az egyik fő ok az emberek folyamatos terjeszkedése, őshonos területeik elfoglalása és átalakítása. Mezőgazdasági tereületek, utak és egyéb infrastruktúrális létesítmények, települések kialakításával tönkre tesszük élőhelyeiket. Ami gyakran azzal jár, hogy kisebb csoportokra szegregálódnak, mely akadályozza a populációjuk további növekedését." },
+        { "type": "text", "content": "Sajnos a legfőbb ok, a még napjainkban is fellelhető legális és illegális vadászat. Afrikában sajnos még a mai napig is egy bizonyos mértékű megfizetett összegért lehetőség van legálisan pusztítani ezeket a csodás teremtményeket, továbbá az illegális orrvadászat is virágzik." },
+        { "type": "text", "content": "És hogy miért is kockáztatnak az orrvadászok?" },
+        { "type": "text", "content": "A komoly feketepiaci kereslet sokakat késztet arra, hogy illegálisan próbáljanak orrszarvhoz jutni, s ezért jelentős számú állatot ölnek le, csupán azért, hogy levágják szarvukat." },
+        { "type": "text", "content": "Ennek egyik legfőbb oka a hagyományos távol-keleti “orvoslásban” leledzik, miszerint az orrszarvú szarvának őrleménye erős potencianövelő és afrodiziákum. Azt persze mondanunk sem kell, hogy a modern orvostudomány ezt nem igazolta. Ez persze nem is meglepő, mivel az orrszarv lényegében ugyanolyan anyagokból épül fel, mint mondjuk az emberi köröm. A nagy kereslet miatt az ára a feketepiacon ma már szinte az aranyéval vetekszik, ami komoly motiváció az orrvadászoknak." },
+        { "type": "img", "content": [
+            { "name": "0922_2.jpg", "style": { "object-position": "center bottom" } }
+        ] },
+        { "type": "text", "content": "De mit lehet tenni az orrszarvúak megmentéséért?" },
+        { "type": "text", "content": "Elsődlegesen az orrszarv iránti kereslet visszaszorítása különböző ismeretterjesztő, szemléletformáló munkával. Hiszen ez segíthet, hogy minél többen megértsék, hogy az orrszarvnak semmiféle gyógyító hatása nem bizonyított, és megismerjék, hogy milyen véres és kegyetlen bűnözés kapcsolódik az orrszarv feketepiaci kereskedelméhez." },
+        { "type": "text", "content": "Továbbá a meglévő egyedek fokozott védelme, ami természetesen nem egyszerű feladat. Egyes régiókban minden orrszarvú mellé egy fegyveres vadőrt kellene rendelni. Ehhez persze az kell, hogy megfelelő számú, képzett és jól felszerelt vadőr vigyázzon rájuk." },
+        { "type": "text", "content": "Általában jellemző, hogy azokban az országokban, ahol a politikai helyzet stabilabbnak mondható, az orrszarvúakat védő jogszabályok is jobban működnek. Ahol viszont a központi kormányzat nem tudja az ország egész területén biztosítani a törvényes rendet, netán polgárháborús állapotok uralkodnak, az orrszarvúak esélyei is sokkal rosszabbak. Ezért is érezzük fontosnak szervezetünk jelenlétét és munkáját Afrikában és itthon egyatánt, hiszen az oktatás támogatásával és a szemléletformáló előadások tartásával tágíthatjuk a látásmódját a következő generációknak!" },
+        { "type": "text", "content": "A blogbejegyzésben található fotókat 2022. tavaszán készítette az akkori missziós csapat Ugandában a Ziwa rinocérosz rezervátumban. " },
+        { "type": "img", "content": [
+            { "name": "0922_1.jpg", "style": { "object-position": "center bottom" } }
+        ], "classes": ["keep-size"] }
+    ],
+    "cover": { "name": "0922_cover.jpg", "style": { "object-position":  "center bottom" } }
+}
+
+
