@@ -1,0 +1,75 @@
+@media (max-width: 1023.99px) {
+	.desktop {
+		display: none;
+	}
+}
+
+@media (min-width: 1024px) {
+	.mobile {
+		display: none;
+	}
+}
+
+// .container {
+// 	width: 100%;
+// 	margin: 0 auto;
+// 	padding: 0 10px;
+// 	box-sizing: border-box;
+
+// 	@media (min-width: 768px) {
+// 		max-width: 768px;
+// 	}
+
+// 	@media (min-width: 1024px) {
+// 		max-width: 1024px;
+// 	}
+
+// 	&.wide {
+// 		max-width: none;
+
+// 		@media (min-width: 1280px) {
+// 			max-width: 1280px;
+// 		}
+
+// 		@media (min-width: 1600px) {
+// 			max-width: 1600px;
+// 		}
+// 	}
+// }
+
+.moyo-header {
+	margin: 0 0 20px 0;
+	font-size: 20px;
+	font-weight: bold;
+
+	&.center {
+		font-size: 24px;
+		text-align: center;
+	}
+}
+
+p {
+	margin-top: 1rem;
+}
+
+a,
+.link {
+	color: var(--moyo-font-deep-dark);
+	transition: color 300ms ease;
+	cursor: pointer;
+	text-decoration: underline;
+
+	&:hover {
+		color: var(--moyo-highlight);
+	}
+}
+
+svg {
+	height: 100%;
+
+	* {
+		transition:
+			fill 0.4s ease,
+			stroke 0.4s ease;
+	}
+}

@@ -1,36 +1,49 @@
 {
-    "navbar": {
-        "1": {
-            "menu": "Rólunk",
-            "submenu1": "Csapatunk",
-            "submenu2": "Éves beszámolók"
-        },
-        "2": {
-            "menu": "Így segítünk",
-            "submenu1": "Alapelvek",
-            "submenu2": "Hol segítünk?",
-            "submenu3": "Projektjeink"
-        },
-        "3": {
-            "menu": "Így segíthetsz",
-            "submenu1": "Önkéntesség",
-            "submenu2": "Gyermektámogatás",
-            "submenu3": "Graduate a Girl!",
-            "submenu4": "Oktatás támogatás Kenyában",
-            "submenu5": "Adományozás",
-            "submenu6": "Események"
-        },
-        "4": {
-            "menu": "Megjelenések",
-            "submenu1": "Média",
-            "submenu2": "Vlog",
-            "submenu3": "Blog"
-        },
-        "5": {
-            "menu": "Támogatók"
-        },
-        "6": {
-            "menu": "Kapcsolat"
-        }
-    }
+	"navbar": {
+		"1": {
+			"menu": "Rólunk",
+			"submenu1": "Csapatunk",
+			"submenu2": "Éves beszámolók"
+		},
+		"2": {
+			"menu": "Így segítünk",
+			"submenu1": "Alapelvek",
+			"submenu2": "Hol segítünk?",
+			"submenu3": "Projektjeink"
+		},
+		"3": {
+			"menu": "Így segíthetsz",
+			"submenu1": "Önkéntesség",
+			"submenu2": "Gyermektámogatás",
+			"submenu3": "Graduate a Girl!",
+			"submenu4": "Oktatás támogatás Kenyában",
+			"submenu5": "Adományozás",
+			"submenu6": "Események"
+		},
+		"4": {
+			"menu": "Megjelenések",
+			"submenu1": "Média",
+			"submenu2": "Vlog",
+			"submenu3": "Blog"
+		},
+		"5": {
+			"menu": "Támogatók"
+		},
+		"6": {
+			"menu": "Kapcsolat"
+		}
+	},
+	"footer": {
+		"name": "Szívemben Született Afrika Egyesület",
+		"newsletter": "Hírlevél"
+	},
+	"home": {
+		"title": "Kedves Érdeklődő!",
+		"p1": "Sok szeretettel üdvözöllek a Szívemben Született Afrika Egyesület oldalán, örülünk, hogy ránk találtál.",
+		"p2": "Szilágyi - Könczöl Zsófi vagyok, a Szívemben Született Afrika megálmodója és alapítója. 14 éves koromban eldöntöttem, hogy ha törik, ha szakad, én bizony Afrikával fogok foglalkozni, majd 10 év várakozás és készülés után 2017-ben jártam első alkalommal a kontinensen, akkor az utam Uganda keleti részére, egy Manafwa nevű faluba vezetett, amelyre azóta már a második otthonomként tekintek. Azért mentem oda, hogy segítsek, hogy adjak és nem is gondoltam, hogy ezek az utak és ezek az emberek az én életemet is gyökeresen megváltoztatják majd.",
+		"p3": "Azóta a szervezet földrajzilag és tevékenységét tekintve is bővül és növekszik, 2022 óta megkezdtük a munkát Uganda legszegényebb, néhány évvel ezelőttig teljesen elzárt, jelenleg is aktív törzsi konfliktusokkal terhelt régiójában, Karamojában. Illetve Kenyában a főváros Nairobi nyomornegyedeiben és a szélesebb körben is ismert Mombassa és környékén.",
+		"p4": "Minden egyes afrikai utam alkalmával újabb és újabb dolgokat tanulok az életről és magamról. Megtanultam, hogy merhetek nagyot álmodni és megtanultam, hogy mindenkinek megvan az a hely a világban, ahol igazán nagy szükség van rá. Megtanultam, hogy „Afrikának” nem arra van szüksége, hogy mindent figyelmen kívül hagyva odamenjünk és „megjavítsunk” dolgokat, ”megmentsünk” embereket, arra van szükség, hogy alázatosak legyünk, megismerjünk, megértsünk és szeressünk. Mert segíteni csak így lehet és csak így érdemes. Megtanultam, hogy nem menthetem meg az egész világot, de segíthetek abban, hogy ezeknek távolinak tűnő tájak lakóinak jobb, emberhez méltóbb élete lehessen.",
+		"p5": "Nagyon büszke vagyok a csapatomra, akik az ügy köré szerveződtek és mára már együtt dolgozunk ezért a célért. Sokan vagyunk és sokfélék, de mindannyian hiszünk abban, hogy Afrika a lehetőségek kontinense, Uganda és Kenya pedig csodálatos országok, tele csodálatos emberekkel, akikkel, és akikért öröm és megtiszteltetés dolgozni.",
+		"p6": "Arra bíztatlak, hogy nézz szét az oldalunkon, ismerd meg a tevékenységeinket, és ha megszólítva érzed magad valamely programunk által, keress meg minket. Kérdezz, beszélgessünk, jelentkezz hozzánk önkéntesnek vagy pedig adományoddal támogasd a munkánkat. Mi már tudjuk: az összefogás csodákra képes!"
+	}
 }

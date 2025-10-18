@@ -1,36 +1,49 @@
 {
-    "navbar": {
-        "1": {
-            "menu": "About us",
-            "submenu1": "Our team",
-            "submenu2": "Annual reports"
-        },
-        "2": {
-            "menu": "How we help",
-            "submenu1": "Principles",
-            "submenu2": "Where do we help?",
-            "submenu3": "Our projects"
-        },
-        "3": {
-            "menu": "How you can help",
-            "submenu1": "Volunteering",
-            "submenu2": "Child support",
-            "submenu3": "Graduate a Girl!",
-            "submenu4": "Education support in Kenya",
-            "submenu5": "Donation",
-            "submenu6": "Events"
-        },
-        "4": {
-            "menu": "Appearances",
-            "submenu1": "Media",
-            "submenu2": "Vlog",
-            "submenu3": "Blog"
-        },
-        "5": {
-            "menu": "Supporters"
-        },
-        "6": {
-            "menu": "Contact"
-        }
-    }
+	"navbar": {
+		"1": {
+			"menu": "About us",
+			"submenu1": "Our team",
+			"submenu2": "Annual reports"
+		},
+		"2": {
+			"menu": "How we help",
+			"submenu1": "Principles",
+			"submenu2": "Where do we help?",
+			"submenu3": "Our projects"
+		},
+		"3": {
+			"menu": "How you can help",
+			"submenu1": "Volunteering",
+			"submenu2": "Child support",
+			"submenu3": "Graduate a Girl!",
+			"submenu4": "Education support in Kenya",
+			"submenu5": "Donation",
+			"submenu6": "Events"
+		},
+		"4": {
+			"menu": "Appearances",
+			"submenu1": "Media",
+			"submenu2": "Vlog",
+			"submenu3": "Blog"
+		},
+		"5": {
+			"menu": "Supporters"
+		},
+		"6": {
+			"menu": "Contact"
+		}
+	},
+	"footer": {
+		"name": "Africa Born in my Heart Association",
+		"newsletter": "Newsletter"
+	},
+	"home": {
+		"title": "Dear Inquirer!",
+		"p1": "I warmly welcome you to the website of Szívemben Született Afrika – “Africa Born in My Heart”. We are delighted to have you here!",
+		"p2": "My name is Zsófi Szilágyi-Könczöl, the dreamer and founder of the „Africa Born in My Heart”. At the age of 14, I decided that come what may, I would be involved with Africa. After ten years of anticipation and preparation, I managed to visit the continent for the first time in 2017. My journey led me to a village called Manafwa in the eastern part of Uganda, which I now consider as my second home. I went there to help, to give and I never imagined that these journeys and these people would profoundly change my life.",
+		"p3": "Since then, the organization has expanded geographically and in its activities. Since 2022, we have been working in the poorest region of Uganda, Karamoja, which was completely isolated until a few years ago and it is still captivated by active tribal conflicts. Additionally, we work in the slums of Nairobi, the capital of Kenya, and in the wider known areas of Mombasa and its surroundings.",
+		"p4": "During each of my journeys to Africa, I learn new things about life and myself. I have learned to dare to dream big and that everyone has a place in the world where they are truly needed. I have learned that Africa doesn't need us to go and \"fix\" things, to \"save\" people without consciousness toward its people, but it needs us to be humble, to understand and to love them. Because that's the only way to help and it's the only way it's worth it. I have learned that I cannot save the whole world, but I can contribute to improving the quality and dignity of life for these people in these seemingly distant lands.",
+		"p5": "I am very proud of my team of those participating and working with me toward this goal, on this journey. We are many and diverse, but we all believe that Africa is the „continent of opportunities”, and Uganda and Kenya are wonderful countries full of amazing people, with whom and for whom it is a joy and an honor to work.",
+		"p6": "I encourage you to take a look around our website, get to know our activities. Shoud you feel called by any of our programs, please contact us. Let's ask questions, let's talk, join us as a volunteer or support our work with your donations. We already know: cooperation makes wonders!"
+	}
 }

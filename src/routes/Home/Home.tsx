@@ -1,10 +1,19 @@
-import { Swiper, SwiperSlide } from 'swiper/react';
-import hero1 from '@images/home/hero-1.jpg';
+import welcomePic from '@images/home/elnoki.jpg';
 import hero1mobile from '@images/home/hero-1-mobile.jpg';
-import hero2 from '@images/home/hero-2.jpg';
+import hero1 from '@images/home/hero-1.jpg';
 import hero2mobile from '@images/home/hero-2-mobile.jpg';
-import hero3 from '@images/home/hero-3.jpg';
+import hero2 from '@images/home/hero-2.jpg';
 import hero3mobile from '@images/home/hero-3-mobile.jpg';
+import hero3 from '@images/home/hero-3.jpg';
+import hero4mobile from '@images/home/hero-4-mobile.jpg';
+import hero4 from '@images/home/hero-4.jpg';
+import hero5mobile from '@images/home/hero-5-mobile.jpg';
+import hero5 from '@images/home/hero-5.jpg';
+import { Container } from 'react-bootstrap';
+import { useTranslation } from 'react-i18next';
+import { Autoplay } from 'swiper/modules';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import './Home.scss';
 
 const heroPics = [
 	{
@@ -19,19 +28,24 @@ const heroPics = [
 		src: hero3,
 		mobileSrc: hero3mobile,
 	},
+	{
+		src: hero4,
+		mobileSrc: hero4mobile,
+	},
+	{
+		src: hero5,
+		mobileSrc: hero5mobile,
+	},
 ];
 
 export default function Home() {
+	const { t } = useTranslation('translation', { keyPrefix: 'home' });
+
 	return (
 		<div id='home'>
-			<Swiper
-				spaceBetween={50}
-				slidesPerView={3}
-				onSlideChange={() => console.log('slide change')}
-				onSwiper={(swiper) => console.log(swiper)}
-			>
-				{heroPics.map((pic, index) => (
-					<SwiperSlide key={index}>
+			<Swiper modules={[Autoplay]} autoplay={{ delay: 5000, disableOnInteraction: false }} slidesPerView={1} loop>
+				{heroPics.map((pic) => (
+					<SwiperSlide key={pic.src}>
 						<picture>
 							<source media='(min-width: 768px)' srcSet={pic.src} />
 							<img src={pic.mobileSrc} alt='' />
@@ -39,6 +53,18 @@ export default function Home() {
 					</SwiperSlide>
 				))}
 			</Swiper>
+			<Container>
+				<div className='moyo-header'>{t('title')}</div>
+				<p>{t('p1')}</p>
+				<p>{t('p2')}</p>
+				<p>{t('p3')}</p>
+				<p>{t('p4')}</p>
+				<p>{t('p5')}</p>
+				<p>{t('p6')}</p>
+				<div className='pic'>
+					<img src={welcomePic} />
+				</div>
+			</Container>
 		</div>
 	);
 }

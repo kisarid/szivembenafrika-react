@@ -12,5 +12,7 @@
 	"arrowParens": "always",
 	"endOfLine": "lf",
 	"proseWrap": "preserve",
-	"htmlWhitespaceSensitivity": "ignore"
+	"htmlWhitespaceSensitivity": "ignore",
+	"plugins": ["prettier-plugin-organize-imports"],
+	"organizeImportsSkipDestructiveCodeActions": true
 }

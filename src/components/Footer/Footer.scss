@@ -1,0 +1,45 @@
+#footer {
+	margin-top: 50px;
+	background-color: var(--moyo-grey);
+
+	.content {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		padding: 30px;
+		color: var(--moyo-light);
+
+		.title {
+			margin-bottom: 20px;
+		}
+
+		.logos {
+			a,
+			.link {
+				display: inline-block;
+
+				&:not(:hover) {
+					color: var(--moyo-light);
+				}
+
+				&:not(:last-child) {
+					margin-right: 40px;
+				}
+			}
+
+			svg {
+				height: 40px;
+				width: 40px;
+			}
+		}
+
+		@media (min-width: 768px) {
+			flex-direction: row;
+
+			.title {
+				margin: 0;
+			}
+		}
+	}
+}
