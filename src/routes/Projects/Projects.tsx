@@ -3,14 +3,15 @@ import StickyHeader from '@/components/StickyHeader/StickyHeader';
 import { useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Outlet, useLocation, useNavigate } from 'react-router-dom';
-import useWhereWeHelpCards from './WhereWeHelpCards';
+import './Projects.scss';
+import useProjectsCards from './ProjectsCards';
 
-export default function WhereWeHelp() {
+export default function Projects() {
 	const location = useLocation();
 	const navigate = useNavigate();
-	const { t } = useTranslation('translation', { keyPrefix: 'where-we-help' });
+	const { t } = useTranslation('translation', { keyPrefix: 'projects' });
 
-	const cards = useWhereWeHelpCards();
+	const cards = useProjectsCards();
 
 	const selectedCard = useMemo(
 		() => cards.find((card) => location.pathname.includes(card.id)),
@@ -22,11 +23,11 @@ export default function WhereWeHelp() {
 	const onBackClick = () => navigate('.');
 
 	return (
-		<div id='where-we-help'>
+		<div id='projects'>
 			<StickyHeader subheader={<b>{selectedCard?.title}</b>} onBackClick={selectedCard && onBackClick}>
 				{t('title')}
 			</StickyHeader>
-			{selectedCard ? <Outlet /> : <CardCatalogue cards={cards} onCardClick={onCardClick} />}
+			{selectedCard ? <Outlet /> : <CardCatalogue cards={cards} onCardClick={onCardClick} threeColumns />}
 		</div>
 	);
 }

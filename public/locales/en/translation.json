@@ -315,9 +315,11 @@
 			"text": "This is also important within the country, especially on the countryside, because lot of people are moving to the cities from the rural areas, however the big cities promising not just big hopes, but, in most cases, containing big disappointments too. A person can be poor in a village, but the poorness has a preserving force, while in the city, there’s only the segregating poverty waiting for them."
 		}
 	},
+	"card-catalogue": {
+		"desc": "Click on the photos for more information!"
+	},
 	"where-we-help": {
 		"title": "Where Do We Help?",
-		"desc": "Click on the photos for more information!",
 		"manafwa": {
 			"title": "Manafwa, Uganda",
 			"shortDesc": "Manafwa District is located in the Eastern Region of Uganda, with Manafwa as its centre. It borders Kenya to the East and South, Mbalé district to the West, and Bududa district to the North. Based on their social situation, the people living here can be considered as middle class when looking at Uganda as a whole. Despite this, the majority here live below the poverty line. The main source of income for the people comes from agriculture.",
@@ -366,6 +368,146 @@
 				"Throughout history, Mombasa has been in the sphere of interest of many empires due to its privileged location and has traded even more widely. There were many campaigns for the possession of the city until the 1840s, when it came under the rule of the Sultan of Zanzibar and became part of the British Empire in 1895. The city's architecture and ethnic composition also reflect the many cultural influences. As part of the British Empire, in order to use cheap labour, during the construction of the Uganda Railway, different ethnic groups were settled in the city.",
 				"Kongowea is one of the most densely populated areas of Mombasa, located on the northern coast of the city, adjacent to a wealthier part of the city. This is typically home to residents who moved to the city in the hope of job opportunities, and who take on occasional jobs in the surrounding wealthier neighbourhoods. Regardless of its location, the problems known from slums are also present in this quarter, such as the high crime rate, the low level of public hygiene, and the difficulty of meeting basic needs.",
 				"In this region, a particularly important city for us is Mtwapa, which unfortunately could also be called a centre for human trafficking and sex tourism. The entire economy and infrastructure of the city is based on these, and this is where our partner organization is headquartered, with whom we work together to suppress the above-mentioned issues, prevent victimization and help the rehabilitation and reintegration of victims."
+			]
+		}
+	},
+	"projects": {
+		"title": "Our Projects",
+		"text": "At the Africa Born in My Heart Association, we are many and diverse, but we all work for the same purpose: to ensure that people not only have a longer but also a  good-quality, dignified life. We believe that effective assistance is based on the foundation of understanding, so we develop all our programs based on the professional experiences gathered in the field.",
+		"desc": "Click on the photos for more information!",
+		"noi-program": {
+			"title": "Women's Programme",
+			"shortDesc": "The situation of women creates problems to be solved worldwide, but their situation is particularly dire in Africa. We believe that women play a crucial role in every community, so by improving their situation, the overall community's situation will also improve. In our program, we carry out theoretical and practical educational and vocational training projects.",
+			"paragraphs": [
+				"The main focus of our women's project is to help women and to better their circumstances. The women's situation creates issues in the whole world, that must be resolved, however, in Africa, their situation is serious. There are a lot of pressure on the African women's shoulders, but they are lack of opportunities, however, they have a huge potential.",
+				"We believe, that we have to do everything to lower the gender gap and to even make this gap completely disappear. We believe, that in every communities, the women hold a key role, therefore, if we improve the women's  situation, the whole community's circumstances will improve too. In Manafwa the majority of the women have either never went to school or had to drop out at a very young age. Our women's project has a theoretical and a practical element.",
+				"Theoretical: hygiene education, family planning, natural birth control methods, basic economic knowledge.",
+				"Practical: they will learn new skills, that will help their everyday house chores, as well as provide them some income too. For example, creating kraft products that can be sold on a domestic and an international market, professional training (mainly sewing), other services (e.g. hair dressing, etc.).",
+				"Our other goal with the programme is to set a role model to the children, so they can see that education is indeed valuable, for the parent too, they complete their homework, learn and practice at home too. The respect for women will increase within the community and the women's self esteem and self belief will grow too."
+			]
+		},
+		"84days": {
+			"title": "84 Days Project",
+			"shortDesc": "In sub-Saharan Africa, adolescent girls and women miss an average of 84 days of work and school each year due to menstrual poverty, which then leads to further serious issues. In this program, our projects focus on the following themes: eradicating menstrual poverty, ending violence against women and girls, eliminating teenage motherhood, and fighting against human trafficking.",
+			"paragraphs": [
+				"Just imagine, what it be like if you have dropped out of school or work for 84 days in a year. Just imagine, how much knowledge, opportunities and experiences you would miss out of? The teenage girls and women in sub-saharan Africa don't need to try and think about this. They don't need to try to think hard to imagine it, as this is their reality. Yes, you have read it correctly! In this region, in average this is how much they have to stay out of school and work because of period poverty and because of period shaming that are based on tabus and misconceptions.",
+				"The programmes in this project are working on subjects, that we have worked on before or we have started working on, such as period poverty, period shaming, domestic and sexual violence, child marriage, girls who have become mothers as a child themselves and also education.",
+				"Have you ever wondered, why we have chosen the name '84 days', that reflects on period poverty, for such a complex project?! The answer is simple: we believe, that the above listed issues are coming from the same root, and we cannot help with one area without helping with another. One of the most important principles of our work is, that for a complex issue we have to come up with a complex solution.",
+				"We believe, that we have to break down the tabus, liquidate the stigmatisation and create a peaceful, safe and encouraging environment, where these fantastic, smart and brave girls and women won't have to live in fear anymore and feel vulnerable and won't have to walk with their head down; instead they feel and believe their inner ability and endless potential to live a worthy life."
+			]
+		},
+		"84days-a": {
+			"title": "Ending period poverty",
+			"paragraphs": [
+				"<ul><li>body awareness</li>",
+				"<li>fertility awareness</li>",
+				"<li>the production of washable period pads</li>",
+				"<li>breaking down taboos: educating men</li></ul>"
+			]
+		},
+		"84days-b": {
+			"title": "Violence against women and girls",
+			"paragraphs": [
+				"Any form of violence against women and girls is a crime against basic human rights, and this issue affects every third woman in the whole world.",
+				"Millions of women suffer from some form of violence in their lifetime, including physical and oral abusement, sexual violence, sexual exploitation, child marriage and becoming a mother as a child. ",
+				"The victims will have to live with different mental and physical damage, e.g. post traumatic stress syndrome, depression, different injuries, including broken bones and bleeding, HIV and other sexually transmitted diseases and unwanted pregnancy.",
+				"In the long term, the violence and even just the fear from it, could lead to the girls dropping out of education, they are not allowed to choose who to marry and unable to unfold their talent and their own possibilities.",
+				"This is why we have decided, to fight against the violence against women. We don't just want to react to this issue and help the victims, instead, we put the emphasis on those projects that help prevent it.",
+				"Violence against women, unfortunately, is a global issue, and those women and girls living in poverty are exposed to it even more.",
+				"The abuse is just part of the girls' and women's lives. Our goal is to create a safety net, that offers protection and help even before becoming a victim.",
+				"With changing the point of view and with education, we would like if the above listed issues not just decreased in appearance, but disappeared completely from the community."
+			]
+		},
+		"84days-c": {
+			"title": "Ending child marriage and becoming mothers at a very young age",
+			"paragraphs": [
+				"Those girls, who are forced to marry as a child, are more likely to become a victim of domestic violence than those women, who had the choice to marry as an adult.",
+				"The child marriage robs the girls from their childhood, education, health and freedom, and in most cases, they become a victim of some form of violence in the rest of their lives. In a short space of time, the marriage is followed by becoming a mother. These girls are not ready to become sexually active, pregnant and giving birth neither physically nor emotionally.",
+				"We would like if the tradition of child marriage would end in the community where we work in, this is why we educate the members of the community, the senior decision makers, the parents and the young girls and boys themselves about the negative effects of child marriage. We encourage the girls to find their own voice and be able to say no."
+			]
+		},
+		"84days-d": {
+			"title": "Fight against human trafficking",
+			"paragraphs": [
+				"We organise and hold so called community awareness initiatives in Uganda and in Kenya, where we teach children and teenagers about children and human rights, safe relationships, women groups and adult communities about human rights, the safe migration and the nature of human trafficking and its dangers. We also work with our professional partners on finding the victims - mainly women -, rescuing, rehabilitating (health and mental) and reintegrating them back into the community.",
+				"In the future, we would like to create safe houses in Manafwa (Uganda) and Karamoja (Uganda) as well."
+			]
+		},
+		"supportchildren": {
+			"title": "Child Support Programme",
+			"shortDesc": "We believe that every child is entitled to a happy, safe childhood, education, and a chance for a good life. Unfortunately, education is not free in Uganda, and since most families live below the poverty line, sending a child to school is considered a luxury. In the program, symbolic adoptive parents support the education of a child of their choice with their monthly donation of 6,000 forints.",
+			"paragraphs": [
+				"We believe that every child deserves a happy, safe childhood, an education and the chance of a good life. Unfortunately, education in Uganda is not free and, with a large proportion of families living below the poverty line, sending a child to school is a luxury. For a monthly donation of 7500 Ft (18€), our child sponsorship programme allows the sponsor to become a symbolic adoptive parent. This amount covers a child's education, school supplies, meals and medical care if needed. We will periodically report on the child's progress, academic achievements, important life events and send photos and videos."
+			]
+		},
+		"shine": {
+			"title": "“Shine” School Development Programme",
+			"shortDesc": "In Manafwa, in February 2020, we began building our association's school, the Shine Nursery and Primary School, where local children can receive education of exceptionally high quality in a rural setting. Currently, there are 1 nursery and 3 kindergarten groups, as well as 5 primary school classes.",
+			"paragraphs": [
+				"In Manafwa, our association's school - Shine Nursery and Primary School - was built in February 2020, providing a uniquely high standard of education in a rural setting for children of the village. There are currently 3 nursery groups and two primary school classes. The construction of the school is still ongoing, with further classrooms to be built in the future, and we are really keen to have a playground, kitchen garden and a library.",
+				"It is very important to us that children receive a quality primary education from the very beginning.",
+				"We are currently developing a sports talent management programme among the school's students, as sport has a retaining power and talent discovered and nurtured in time can be a break out of a difficult fate.",
+				"The students are very interested in Hungary and we think it's important to enhance the reputation of our country, so these children know what Lake Balaton looks like, what a puli is and have eaten Pilóta biscuits."
+			]
+		},
+		"graduateagirl": {
+			"title": "Graduate a Girl - Education Support Programme",
+			"shortDesc": "Educating girls is one of the most potent and effective weapons we can use to combat global poverty. The program aims to prevent the lives and destinies of these girls from being determined solely by where they were born. Sponsors who participate in the program support the education of adolescent girl with their monthly donation of 7,800 forints, helping them reach at least a high school diploma.",
+			"paragraphs": [
+				"Educating girls is one of the most powerful and effective weapons we can use to eradicate global poverty. Currently, the majority of girls in Manafwa reach up to grade 5-6 of primary school. They have to become wives by the age of 13-14 and are not much older when they become pregnant with their first child. The programme is being launched with the aim of preventing these girls' lives and destinies from being sealed simply by where they were born, to help them get to secondary school graduation. With a donation of 9000 Ft (22€) per month, a supporter can help support the education of a teenage girl. This amount will cover her education and medical care if needed.",
+				"For more information about the programme, please visit the \"Graduate a Girl\" section in the menu."
+			]
+		},
+		"mtwapa": {
+			"title": "Education Support in Mtwapa\n&nbsp;",
+			"shortDesc": "Every young person in the program is a victim of human trafficking and/or is at high risk of sex tourism. The goal of the program is to ensure they can attend school and receive an education. Supporters who participate in the program support the education of a young person with their monthly donation of 9000 forints, helping them reach at least a high school diploma.",
+			"paragraphs": [
+				"All the young people in the programme are from Mtwapa and the surrounding area. This region is severely affected by human trafficking, sex tourism and child sexual exploitation, and all the young people in the programme are either affected - former victims - of one of these problems or are at increased risk due to their family or socio-cultural, economic environment and situation.",
+				"As a sponsor, you can do a lot for the young person you have chosen. In this programme, you can become a sponsor of a young person with a monthly donation of 9000 HUF (22€), which will cover tuition fees, daily meals at the school they attend, school supplies and medical care if needed.",
+				"If you have any questions, please contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
+				"For more information about the programme, please visit the \"Education Support in Kenya\" section in the menu."
+			]
+		},
+		"euprogram": {
+			"title": "Healthcare Programme",
+			"shortDesc": "We believe that every individual deserves to live the healthiest life possible and that when they fall ill, they should receive the necessary assistance. During our regular medical missions, we emphasize not only treatment but also education, patient education, various forms of prevention, and the training of local healthcare workers to ensure that help is never delayed even when we are not present.",
+			"paragraphs": [
+				"We believe that every person deserves to live as healthy a life as possible, and when they fall ill, they get the help they need. In addition to providing treatment, we place a strong emphasis on education, patient education and various forms of prevention during our regular medical missions, as well as training local health workers so that help is not delayed even when we are not there.",
+				"The main elements of our healthcare programme are:",
+				"<ul><li>Provision of necessary and missing vaccinations</li>",
+				"<li>Organising general health check-ups for villagers</li>",
+				"<li>Basic infant and maternity care education</li>",
+				"<li>Organising eye screening</li>",
+				"<li>Regular, extensive worming</li>",
+				"<li>Monitoring the growth and development of infants and children, providing medical assistance where necessary</li>",
+				"<li>Provision of HIV/AIDS screening, education and necessary treatment</li>",
+				"<li>Setting up a general gynaecological and HPV screening programme</li>",
+				"<li>Screening, treatment and education for malaria and other tropical infections</li>",
+				"<li>Improving public hygiene, teaching and introducing infection and epidemic control techniques</li></ul>"
+			]
+		},
+		"akitogogon": {
+			"title": "Akitogogon",
+			"title2": "Vulnerable to Unstoppable",
+			"shortDesc": "Vulnerable to Unstoppable<br><br>We are launching a joint program in Karamoja with Shanita.",
+			"paragraphs": [
+				"<b>Karamoja:</b> The most ancient traces and evidences of human were found in Karamoja and its neighbouring regions in Sudan and Kenya. These skeletons and remainders of everyday tools suggest that Karamoja is in fact the specific place where our history began even in Africa, which is traditionally known as the ‘cradle’ of humanity.This ancient heritage is there in all nooks and crannies of Karamoja; in its extraordinary soil, its giant yet wise mountains, the scent of the air that compares to nothing, the resilience of the people and their magnificently colorful culture.",
+				"However due to decades of conflicts Karamoja became stigmatized and separated from the rest of Uganda making life here significantly more challenging. Even though Karamoja is the poorest region of Uganda financially, in comparison to the rest of the country due to its people protecting their customs and religion still influencing everyday life as well as the way the society operates, Karamoja has a sense of richness after all.",
+				"Karamoja is located in northeastern Uganda, a picturesque yet impoverished region known for its rich cultural heritage and traditional lifestyle. Educational opportunities are extremely limited, quality education is almost non-existent and the chances of anyone having access to it are very scarce. Local communities mainly engage in pastoralism and agriculture, increasingly jeopardized by extreme weather conditions, the most visible symptom being water scarcity. Tribal customs, such as early and forced (child) marriage, extremely early motherhood and female genital mutilation, although officially illegal, unfortunately, still persist in practice, further complicating the lives of girls and rendering their futures impossible.",
+				"<b>How can you help? Again we are dreaming big and this time our goal is to give home, shelter, dignity, education and a chance for a normal life for 60 girls in school in the Karamoja region from the school year starting in February 2025 - we are seeking supporters for this.</b>",
+				"There are two ways to support: ",
+				"<ul><li><b>20.000 HUF per month</b> covers changing the whole life for one girl: this amount of monthly donation covers the housing, education, food and all cost of living</li>",
+				"<li>As we would like to make helping accessible to everyone, we have come up with an alternative construction as a secondary option: it is also possible to donate <b>10.000 HUF per month.</b> In this case we are ‘pairing up’ these donations and as a result, two people will conjointly support a girl</li>",
+				"<li>Similarily to our other child support programs we can provide updates and photos about the girls two times a year.</li></ul>",
+				"<b>Our Project:</b> We are launching a joint program in Karamoja with Shanita. Shanita has been successfully running similar programs in this area for years, and now we have teamed up to support even more girls utilizing our vast experience in supporting girls and women coming with a poor background of infrastructure, being subject to unsafe tribal customs and lack of opportunity for a normal life. We built the program based on our shared values and professional principles with the aim to help even more girls with even higher quality than before. We have built this program based on our common values and approach with Shanita, with the critical element of making sure we’re responding to real local needs and demands, as well as respecting the local communities' cultural and tribal customs, and collaborating with locals for their long-term, sustainable support. Thanks to Hungary Helps, we received resources for renovation, new beds, and the construction of a water block, for which we are also grateful.",
+				"<b>Background of the two organizations:</b> Zsófi, as the founder of Africa Born in my Heart, and Lior, as the leader of Shanita, found their second home in Uganda independently, following different journeys. Although our associations operate independently from different parts of the world, we can build on many common traits in our collaboration. Both of us firmly believe that human kindness and cooperation can work wonders, driving us to provide sustainable support to children, young people, and adult women in Uganda, often a matter of life and death for them. For us, an important professional principle is to involve and employ local people, launching our programs after thorough fieldwork, ensuring that every element of our activities respond to real needs.",
+				"<b>Project Details:</b>",
+				"<ul><li><b>What makes this project different?</b> Our goal is to lay the foundation for the future of 60 girls in a renovated and furnished school in Karamoja for the school year starting in February 2025. While the girls will live on a school campus, education is only one element of our program: we are enrolling girls from environments where they would otherwise not only be victims of poverty but also of violent and illegal tribal customs. In addition to education, we provide housing, meals, activities, and mental health support within the program.</li>",
+				"<li><b>About the girls' background:</b> In the tribes living in the project area, it is still a common practice for girls to become brides as early as 8-12 years old for financial reasons, with the groom typically being an older man, often with multiple wives. As soon as the young girls are deemed suitable, their new husbands take them away. Unfortunately, this is not the only danger the girls of Karamoja face, as female genital mutilation is also an active tribal custom and unfortunately child marriage and child prostitution are also present.</li>",
+				"<li><b>Long-term, professional solutions:</b> It is important that we enroll the girls in the program with their families' consent, for which it is essential to explain what education means and demonstrate its benefits. Therefore, we conduct awareness and educational programs with a local social worker. A key factor for success is replacing the short-term lost income of the families. Thus, we offer sustainable, long-term opportunities to the communities, so they do not have to live off marrying off their daughters: we teach them to produce and sell handicraft products, from which they can sustain themselves.</li>",
+				"<li><b>Comprehensive care:</b> The rescued girls are provided with accommodation, education, extracurricular activities, meals, and mental health support. Apart from the materialistic benefits this program offers the girls much more: safety, childhood, opportunities, a chance for a better life or in a lot of cases to live at all.</li></ul>",
+				"<b>We need you for success:</b> Support our project with 10.000 or 20.000 HUF per month to give a future and stable foundation to the girls of Karamoja together! If you would like to support a girl or you have any questions, please feel free to reach out to us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
+				"<i>Photo credits: Shanita</i>"
 			]
 		}
 	}

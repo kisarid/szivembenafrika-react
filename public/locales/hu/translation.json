@@ -316,9 +316,11 @@
 			"text": "Ez az országon belül is fontos, sőt ott fontos csak igazán, hiszen sokan mennek a városokba a vidéki területekről, de a nagy városok nem csak nagy reményeket, de az esetek többségében nagy csalódást is jelentenek. Lehet, hogy valaki egy faluban szegény ugyan, de a szegénységnek van egy megtartó ereje, amíg a városban nyomor vár rá, ami szegregál."
 		}
 	},
+	"card-catalogue": {
+		"desc": "Bővebb információkért kattints a képekre!"
+	},
 	"where-we-help": {
 		"title": "Hol segítünk?",
-		"desc": "Bővebb információkért kattints a képekre!",
 		"manafwa": {
 			"title": "Manafwa, Uganda",
 			"shortDesc": "Manafwa körzet Uganda keleti régiójában található, központja Manafwa. Keleti és déli oldalon Kenyával határos, nyugati oldalon Mbalé körzet, az északi oldalon pedig Bududa körzet a szomszédja. Az itt élő emberek társadalmi helyzete Uganda egészét vizsgálva középosztálynak mondható ennek ellenére a többség itt is a szegénységi küszöb alatt él. Az emberek legfőbb bevételi forrása a mezőgazdaságból származik.",
@@ -367,6 +369,146 @@
 				"Mombasa a történelem során, kiemelt elhelyezkedése miatt sok birodalom érdekszférájába tartozott, és még szélesebb körben folytatott kereskedelmet. A város birtoklásáért sok hadjárat folyt egészen az 1840-es évekig, amikor a Zanzibári szultán uralma alá került majd a Brit Birodalom része lett 1895-ben. A város építészete és etnikai összetétele is tükrözi a sokféle kulturális behatást. A Brit Birodalom részeként pedig az olcsó munkaerő felhasználása érdekében, az Ugandai Vasútvonal építése során különböző etnikumú csoportokat telepítettek a városba.",
 				"A város északi partszakaszán az város egy gazdagabb negyedének a szomszédságában található Mombasa egyik legsűrűbben lakott területe Kongowea. Itt jellemzően a városba munkalehetőség reményében beköltöző lakosok élnek, akik a környező gazdagabb negyedekben vállalnak alkalmi munkákat. Ebben a negyedben is – az elhelyezkedésétől függetlenül - jelen vannak a nyomornegyedekből ismert problémák a bűnözés magas aránya, a köztisztaság alacsony mértéke, és az alapszükségletek kielégítésének nehézsége.",
 				"A térségben kiemelten fontos számunkra Mtwapa, amit sajnálatos módon emberkereskedelmi és szexturisztikai központként is lehetne hívni, a város teljes gazdasága és infrastruktúrája erre épült rá és itt található a székhelye a partnerszervezetünknek, akikkel közösen a fent említett témák visszaszorításán, az áldozattá válás megelőzésén valamint az áldozatok rehabilitációján és reintegrációján dolgozunk."
+			]
+		}
+	},
+	"projects": {
+		"title": "Projektjeink",
+		"text": "Mi a Szívemben Született Afrika Egyesületnél sokan vagyunk és különbözőek, de mindannyian ugyanazért a célért dolgozunk: hogy embereknek ne csak hosszabb, de minőségi, méltóságteljes életük lehessen. Hiszünk abban, hogy a hatékony segítségnyújtás elengedhetetlen alappillére a megismerés, így minden programunkat a terepen begyűjtött szakmai tapasztalatokra építve dolgozzuk ki.",
+		"desc": "Bővebb információkért kattints a képekre!",
+		"noi-program": {
+			"title": "Női program",
+			"shortDesc": "A nők helyzete az egész világon teremt megoldandó problémákat, viszont Afrikában igazán súlyos a helyzetük. Hiszünk abban, hogy minden közösségben kulcs szerepe van a nőknek, így ha az ő helyzetüket javítjuk, a közösség egészének a helyzete javulni fog.",
+			"paragraphs": [
+				"Programjaink fő fókuszában a nők helyzetének javítása, az ő megsegítésük áll. A nők helyzete az egész világon teremt megoldandó problémákat, viszont Afrikában igazán súlyos a helyzetük. Az afrikai nők vállát nagyon sok teher nyomja, de kevés a lehetőségük, viszont nagyon nagy a potenciál bennük.",
+				"Hiszünk abban, hogy mindent meg kell tenni azért, hogy a nemek közti egyenlőtlenségek csökkenjenek, és végleg megszűnjenek. Hiszünk abban, hogy minden közösségben kulcs szerepe van a nőknek, így ha az ő helyzetüket javítjuk, a közösség egészének a helyzete javulni fog. Manafwában a felnőtt korú nők többsége vagy egyáltalán nem is járt iskolába, vagy nagyon fiatalon abba kellett hagynia. Nőkkel foglalkozó programunknak van egy elméleti és gyakorlati része is.",
+				"Elméleti: higiéniai oktatás, tudatos családtervezés, természetes fogamzásgátlás, gazdasági alapismeretek.",
+				"Gyakorlati: olyan dolgokat tanulnak, amelyek egyrészt a házkörüli mindennapjaikat segítik, másrészt pénzkereseti lehetőséget biztosít számukra. Például: bel- és külpiacon egyaránt értékesíthető kézműves termékek elkészítése, szakképzés (első sorban szabás-varrás), egyéb szolgáltatások (pl.fodrászat).",
+				"Női programjainkkal további célunk, hogy a gyerekek kapjanak egy példát, lássák, hogy a szülőnek is érték a tanulás, leckét ír, képzi magát, otthon is gyakorol. Nő a nők közösségen belüli megbecsültsége és nő az önbizalmuk, a saját magukba vetett hitük."
+			]
+		},
+		"84days": {
+			"title": "84 nap projekt",
+			"shortDesc": "A szub-szaharai Afrikában élő kamaszlányok és nők átlagosan évi 84 napra esnek ki a munkából és az iskolából a menstruációs szegénység miatt, ami aztán további súlyos problémákhoz vezet.",
+			"paragraphs": [
+				"Képzeld el milyen lenne, ha egy évben 84 napra kiesnél az iskolából vagy a munkádból. Képzeld el, mennyi tudásból, lehetőségből és élményből maradnál akkor ki? A szub-szaharai Afrikában élő kamaszlányoknak és nőknek, nem kell ezen gondolkodniuk. Nem kell kényszeríteniük magukat arra, hogy el tudják ezt képzelni, hiszen ez a valóságuk. Igen, bizony, jól olvastad! Abban a térségben átlagosan ennyi napot kell az iskolából és a munkahelyről távol maradniuk a nőknek a menstruációs szegénység, a tabuk és tévhitekből eredő „period shaming” miatt.",
+				"A projekt programjai alapvetően olyan témákkal foglalkoznak, amelyekkel már korábban is dolgoztunk vagy elkezdtünk dolgozni, mint – a teljesség igénye nélkül - a menstruációs szegénység, a „period shaming”, a családonbelüli és szexuális erőszak, a gyermekházasság és leányanyas lányok és az oktatás helyzete.",
+				"Felmerülhet bennetek a kérdés, hogy miért választottuk ezt a főleg a menstruációs szegénységre reflektáló 84 nap elnevezést egy ilyen szerteágazó programnak?! A válasz egyszerű: hiszünk abban, hogy a fentiekben felsorolt problémák nagyon sok esetben közös tőről fakadnak, és nem tudunk az egyik területen segíteni úgy, hogy egy másikat figyelmen kívül hagyunk. A munkánk egyik legfontosabb alapelve mindig is az volt, hogy összetett problémára, összetett megoldást kell kínálni.",
+				"Hiszünk abban, hogy tabukat le kell dönteni, a stigmatizálást fel kell számolni és meg kell teremtenünk azt a békés, biztonságos és bátorító  közeget, ahol ezek a fantasztikus, okos és bátor lányok és nők nem élnek többé félelemben, nem élnek többé kiszolgáltatottan, nem járnakleszegett fejjel, hanem megérzik és elhiszik a bennük rejlő képességet és végtelen lehetőséget arra, hogy a hozzájuk méltó életet élhessék."
+			]
+		},
+		"84days-a": {
+			"title": "Menstruációs szegénység felszámolása",
+			"paragraphs": [
+				"<ul><li>Testtudat</li>",
+				"<li>Termékenységtudat</li>",
+				"<li>Mosható intimbetét készítés</li>",
+				"<li>Tabuk ledöntése: férfiak oktatása is</li><ul>"
+			]
+		},
+		"84days-b": {
+			"title": "Nők és lánygyermekek elleni erőszak",
+			"paragraphs": [
+				"A nők és lánygyermekek elleni erőszak bármilyen formája megsértése és semmibevétele az alapvető emberi jogoknak, és ez a probléma világszerte minden harmadik nőt érint.",
+				"Nők milliói szenvednek el valamilyen erőszakot az életük során, ideértve a fizikai vagy mentális bántalmazást, szexuális erőszakot, szexuális kizsákmányolást, gyermekházasságot vagy akár a leányanyaságot is.",
+				"Az áldozatok túlélőinek különböző mentális és fizikai sérülésekkel kell tovább élniük, mint például a poszt traumás stressz szindróma, a depresszió, a töréssel és vérzéssel járó sérülések, a HIV és más nemi úton terjedő betegségek vagy a nem kívánt terhesség.",
+				"Hosszabbtávon az erőszak és az ettől való félelem ahhoz vezethet, hogy a lányok kiesnek az oktatásból, hogy nem választhatják meg, kihez menjenek férjhez és nem tudják kibontakoztatni a bennük rejlő tehetséget és lehetőséget.",
+				"Ezért is döntöttünk úgy, hogy felvesszük a harcot a nők ellenei erőszakkal. Nem csak reagálni szeretnénk a problémára és segíteni az áldozatoknak, hanem nagy hangsúlyt fektetünk azokra a programjainkra, amelyek a prevenciót segítik.",
+				"A nők elleni erőszak sajnos egy globális jelenség, de azok a nők és lányok, akik szegénységben élnek még nagyobb veszélynek vannak kitéve.",
+				"A bántalmazás a lányok, nők mindennapjainak az elfogadott része. Célunk egy olyan védőháló létrehozása, amely védelmet és segítséget nyújt számukra már az áldozattá válás előtt.",
+				"Szemlélet formálással és oktatással pedig szeretnénk, ha a fent említett problémák nem csak visszaszorulnának, de meg is szűnnének a közösségen belül."
+			]
+		},
+		"84days-c": {
+			"title": "Gyermekházasság és leányanyaság felszámolása",
+			"paragraphs": [
+				"Azok a lányok, akik gyermekként házasságra kényszerülnek sokkal nagyobb eséllyel válnak családon belüli erőszak áldoza azok akik felnőttként, szabad választással házasodnak.",
+				"A gyermekházasság ellopja a gyerekkorukat, a tanulási lehetőségüket, az egészségüket és a szabadságukat és a legtöbb esetben egész hátralévő életükre erőszak áldozatává teszi őket. A házasságot pedig rövid időn belül az követi, hogy leányanyává kell válniuk. Ezek a lányok egyszerűen még sem fizikailag, sem érzelmileg nem állnak készen a szexuális életre, a várandósságra és a szülésre.",
+				"Szeretnénk, ha a közösségben ahol dolgozunk, a gyermekházasság tradíciója véget érne, ezért edukáljuk a közösség tagjait, rangidős döntéshozóit, a szülőket és magukat a fiatal lányokat és fiúkat is a gyermekházasság negatív hatásairól. Bíztatjuk a lányokat arra, hogy találjanak rá a hangjukra és merjenek nem-et mondani."
+			]
+		},
+		"84days-d": {
+			"title": "Emberkereskedelem elleni küzdelem",
+			"paragraphs": [
+				"Figyelemfelhívó, úgynevezett “community awareness” programokat szervezünk és tartunk Ugandában és Kenyában, amelyek keretében gyerekeket és fiatalokat tanítunk a gyermekjogokról, emberi jogokról, biztonságos kapcsolatokról, női csoportokat és felnőtt közösségeket az emberi jogokról, a biztonságos migrációról és az emberkereskedelem természetéről és veszélyeiről. Emellett szakmai partnereinkkel együttműködve dolgozunk az áldozatul esett - többnyire - nők feltérképezésén, mentésén, rehabilitálásán(egészségügyi és mentális értelemben is) és reintegrálásán.",
+				"A jövőben szeretnénk védett házakat kialakítani Manafwában (Uganda) és Karamojában (Uganda) is."
+			]
+		},
+		"supportchildren": {
+			"title": "Gyermektámogatási program",
+			"shortDesc": "Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon, egy gyerek luxusnak számít.",
+			"paragraphs": [
+				"Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon, egy gyerek luxusnak számít. Gyermektámogatási programunk keretében havi 7500 Ft-os adományért a támogató jelképes örökbefogadó szülővé válhat. Ez az az összeg, amely fedezi egy gyerkőc oktatását, tanszereit, étkezését és szükség esetén az orvosi ellátását. Mi pedig rendszeres időközönként hírt adunk a gyerkőc fejlődéséről, tanulmányi eredményeiről, fontosabb életeseményeiről, valamint küldünk róla fotókat, videókat."
+			]
+		},
+		"shine": {
+			"title": "„Shine” Iskolafejlesztési program",
+			"shortDesc": "Manafwában 2020. februárjában kezdtük el felépíteni egyesületünk iskoláját - a Shine Nursery and Primary School-t - ahol a vidéki környezetben egyedülállóan jó színvonalon tanulhatnak a falubeli gyerekek. Jelenleg 1 bölcsödei és 3 óvodás csoport, valamint 5 általános iskolai osztály.",
+			"paragraphs": [
+				"Manafwában 2020.februárjára felépült egyesületünk iskolája - Shine Nursery and Primary School - ahol a vidéki környezetben egyedülállóan jó színvonalon tanulhatnak a falubeli gyerekek. Jelenleg 3 óvodai csoport és két általános iskolai osztály van. Az iskola építése folyamatosan zajlik, a jövőben megépítésre kerülnek tovább tantermek, illetve nagy vágyunk, hogy játszótér, konyhakert és könyvtár is kialakításra kerülhessen.",
+				"Nagyon fontosnak tartjuk, hogy a gyerekek kezdettől minőségi alapfokú oktatásban részesülhessenek.",
+				"Jelenleg kidolgozás alatt áll egy sporttehetség gondozó programunk az iskola diákja körében, hiszen a sportnak megtartó ereje van és az időben felfedezett és gondozott tehetség kitörést jelenthet a nehéz sorsból.",
+				"Nagyon sokat érdeklődnek Magyarországról és mi fontosnak tartjuk, hogy öregbítsük országunk hírnevét, úgyhogy ezek a gyermekek tudják, hogy hogy néz ki a Balaton, mi az a puli és ettek már Pilóta kekszet."
+			]
+		},
+		"graduateagirl": {
+			"title": "Graduate a Girl - oktatástámogatási program",
+			"shortDesc": "A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. A program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek.",
+			"paragraphs": [
+				"A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. Manafwában jelenleg a lányok többsége maximum az általános iskola 5.- 6. osztályáig jut el. 13 -14 évesen kell feleséggé válniuk és nem sokkal idősebbek akkor sem, amikor első gyermekükkel várandósak lesznek. A program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek, hogy segítsük őket abban, hogy eljuthassanak a középiskolai érettségiig. Havi 9000 Ft-os adománnyal segítheti a támogató egy kamasz lány oktatását. Ez az összeg fedezi az oktatását és szükség esetén az orvosi ellátását.",
+				"A programról bővebben a „Graduate a Girl” menüpont alatt olvashatsz."
+			]
+		},
+		"mtwapa": {
+			"title": "Oktatás támogatás Mtwapaban",
+			"shortDesc": "A programban szereplő minden fiatal az emberkereskedelem és/vagy szexturizmus áldozata vagy ezek veszélyének fokozottan kitett. A program célja, hogy iskolába járhassanak és tanulhassanak.",
+			"paragraphs": [
+				"A programban szereplő összes fiatal Mtwapából és a környékéről került a programba. Ez a régió súlyosan érintett az emberkereskedelem, a szexturizmus és a gyermekek szexuális célú kizsákmányolásával, így a programban szereplő összes fiatal vagy érintettje - korábbi áldozata - valamelyik felsorolt problémának vagy pedig családi vagy szociokultúrális, gazdaság közege és helyzete  miatt fokozottan kitett a veszélynek.",
+				"Támogatóként rengeteget tehetsz a kiválasztott fiatalért. Ebben a programban havi 9000 forintos adományoddal támogatójává válhatsz egy fiatalnak, amely biztosítja számára a tandíjat, napi étkezést az iskolában ahová jár, a tanszereit és szükség esetén orvosi ellátást.",
+				"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
+				"A programról bővebben az „Oktatás támogatás Kenyában” menüpont alatt olvashatsz."
+			]
+		},
+		"euprogram": {
+			"title": "Egészségügyi program",
+			"shortDesc": "Hiszünk abban, hogy minden embernek jár, hogy a lehető legegészségesebb életet élje, és amikor megbetegszik, megkapja a számára szükséges segítséget. Rendszeres orvosi misszióink alkalmával a gyógyítás mellett nagy hangsúlyt fektetünk az oktatásra, betegedukációra és megelőzés különböző formáira is.",
+			"paragraphs": [
+				"Hiszünk abban, hogy minden embernek jár, hogy a lehető legegészségesebb életet élje, és amikor megbetegszik, megkapja a számára szükséges segítséget. Rendszeres orvosi misszióink alkalmával a gyógyítás mellett nagy hangsúlyt fektetünk az oktatásra, betegedukációra és megelőzés különböző formáira, illetve helyi egészségügyi dolgozók képzésére is, hogy akkor se késsen a segítség, ha mi nem vagyunk ott.",
+				"Egészségügyi programunk legfőbb elemei:",
+				"<ul><li>Szükséges és hiányzó vakcináció beadása, pótlása</li>",
+				"<li>Általános egészségügyi szűrések megszervezése a falubeliek számára</li>",
+				"<li>Alapvető csecsemő- és várandósgondozás oktatása</li>",
+				"<li>Szemészeti szűrővizsgálatok megszervezése</li>",
+				"<li>Rendszeres, széleskörű féreghajtás</li>",
+				"<li>Csecsemők és gyermekek növekedésének, fejlődésének folyamatos követése, szükség esetén orvosi segítség nyújtása</li>",
+				"<li>HIV/AIDS szűrés, edukáció és a szükséges kezelés megszervezése</li>",
+				"<li>Általános nőgyógyászati és HPV szűrőprogram felállítása</li>",
+				"<li>Malária és más trópusi fertőzések szűrése, kezelése és az ezzel kapcsolatos edukáció</li>",
+				"<li>Közhigiénés viszonyok javítása, infekció és járványkontroll technikák tanítása, bevezetése</li></ul>"
+			]
+		},
+		"akitogogon": {
+			"title": "Akitogogon",
+			"title2": "Kiszolgáltatottból megállíthatatlan",
+			"shortDesc": "Kiszolgáltatottból megállíthatatlan<br><br>A Szívemben Született Afrika és a Shanita szervezete közös programot indít Karamojában.",
+			"paragraphs": [
+				"<b>Karamoja:</b> Karamojában és a szomszédos kenyai és szudáni területeken találták az emberiség legősibb nyomaira utaló csontvázakat és használati tárgyakat, szóval bátran kijelenthetjük, hogy az emberiség bölcsőjének nevezett afrikai kontinensnek is arról a részéről van szó, ahonnan az emberiség fejlődése elindult. Ez az ősiség ott van a régió minden egyes szegletében, a különleges talajban, a sokat látott hegyekben, a levegő semmihez sem hasonlítható illatában, az emberek rezilienciájában és lenyűgözően sokszínű kultúrájában.",
+				"A térségben jelenlévő sok évtizedes konfliktus miatt a régió teljesen elzárttá vált az ország többi részétől és számos stigma került rá, amely igen csak megnehezíti az itt élő emberek életét. Uganda legszegényebb régiója, bizonyos szempontból azonban mégis a leggazdagabb, hiszen minden más területhez képest a legjobban itt őrzik az emberek a törzsi hagyományaikat, hitrendszerüket és ezek a mai napig meghatározzák a mindennapi szokásaikat, működésüket és társadalmi berendezkedésüket.",
+				"Karamoja Uganda északkeleti részén található, az ország egyik leggyönyörűbb, ugyanakkor legszegényebb régiója. Az oktatási lehetőségek még afrikai viszonylatban is  rendkívül korlátozottak, gyakorlatilag csodaszámba megy a minőségi oktatás és az is, ha valaki számára ez hozzáférhető. A helyi közösségek főként pásztorkodással és földműveléssel foglalkoznak, amelyet egyre nagyobb mértékben nehezít meg a szélsőséges időjárás, melynek legszembetűnőbb tünete az extrém vízhiány. Az olyan törzsi szokások, mint például a korai (gyermek-) kényszerházasság, leányanyaság és a női nemiszerv csonkítás, bár hivatalosan törvénybe ütköző, a gyakorlatban sajnos még mindig jelen vannak és a mindennapi élet részét képezik, ami tovább nehezíti a lányok életét és ellehetetleníti jövőjüket.",
+				"<b>Hogyan tudsz segíteni? Ismét nagyot mertünk álmodni és ezúttal a célunk 60 lánynak otthont, biztonságot, méltóságot, oktatást és esélyt adni Karamoja területén, a 2025 februárjában kezdődő tanévtől, ehhez keresünk támogatókat.</b>",
+				"A támogatás kétféleképpen is lehetséges: ",
+				"<ul><li>Havonta <b>20.000 Ft</b> egy lány teljes életét megváltoztatja: ez az összeg fedezi egy lány teljes lakhatását, oktatását, étkezését, és ellátását</li>",
+				"<li>Szeretnénk minden érdeklődőnek lehetőséget biztosítani, ezért alternatív konstrukcióban is lehetséges a lányok támogatása, ami havi <b>10.000 Ft</b> támogatást jelent. Ebben az esetben az adományozókat “párba” állítjuk és közösen fognak támogatni egy lányt.</li>",
+				"<li>A támogatóknak gyermektámogatási programjainkhoz hasonlóan évi 2 alkalommal tudunk friss híreket és fotókat szolgáltatni.</li></ul>",
+				"<b>Projektünk:</b> A Szívemben Született Afrika és a Shanita szervezete közös programot indít Karamojában. A Shanita már évek óta sikeresen működtet a térségben hasonló, a gyermekek oktatására és biztonságának megteremtésére irányuló programot, amelyet most a szervezetünk több évnyi, a lányok és nők helyzetének javítása, az őket ért struktúláis hiányosságokból, törzsi berögződésekből eredő hátrányok csökkentése területén szerzett tapasztalataival egyesítettünk. Összefogásunk célja, hogy még több lányt tudjunk egy, a még eddiginél is magasabb szinten támogatni. Közös értékrendünk és szakmai alapelveink mentén építettük fel a programot, melynek kritikus eleme a valós helyi szükségletekre és igényekre való reflektálás, valamint a helyi közösségek kulturális és törzsi szokásainak tiszteletben tartása, a helyiekkel és az ő hosszútávú, fenntartható támogatásuk érdekében történő együttműködés. ",
+				"<b>A két szervezet hátteréről:</b> Zsófi a Szívemben Született Afrika alapítójaként, Lior pedig a Shanita első embereként egymástól függetlenül, különböző utat bejárva, de végül Ugandában találtak rá második otthonukra és hivatásukra. Bár egyesületeink is egymástól függetlenül, a világ két távoli pontjáról üzemeltetve működnek, rengeteg közös vonásra tudunk építeni az együttműködésünk során. Mind a Szívemben Született Afrika, mind a Shanita alapvető meggyőződése, hogy az emberi jóság és összefogás csodákra képes, ez hajt minket előre abban, hogy gyermekeknek, fiataloknak és felnőtt nőknek nyújtsunk fenntartható támogatást Ugandában, amely számukra sok esetben élet-halál kérdése. Munkánk során fontos szakmai alap megfontolás, hogy helyi emberek bevonásával és alkalmazásával dolgozzunk, alapos terepmunkát követően indítsuk el programjainkat, hogy tevékenységünk minden eleme azt szolgálhassa, hogy valós szükségletekre válaszoljunk. ",
+				"<b>A projekt részletei:</b>",
+				"<ul><li><b>Miben más ez a projekt?</b> Célunk, hogy a 2025 februárjában induló tanévben 60 lány jövőjét tudjuk megalapozni egy általunk felújított és berendezett karamojai iskolában. Bár a lányok egy iskola területén fognak élni, az oktatás csak egy eleme a programunknak: a projektbe bekerülő lányokat olyan környezetből emelünk ki, ahol nem csupán a szegénység, hanem erőszakos és törvénytelen törzsi szokások áldozataivá válnának, így az oktatás mellett lakhatást, étkezéseket, foglalkozásokat és mentálhigiénés segítséget is nyújtunk a program keretein belül.</li>",
+				"<li><b>A lányok hátteréről:</b> A projekt területén élő törzseknél a mai napig elterjedt szokás, hogy a lányok anyagi megfontolásból, már 8-12 éves korukban menyasszonyokká válnak, a vőlegény pedig egy idősebb férfi, jellemzően több feleséggel. Az első menstruációjuktól kezdve a fiatal lányokat alkalmasnak ítélik a feleség szerepre és újdonsült férjük magukkal is viszi őket. A karamojai lányokat sajnos nem ez az egy veszély fenyegeti, hiszen szintén aktív törzsi szokás a női nemiszerv csonkítás, de a térségre kimagasló mértékben jellemző a gyermekmunka és a gyermekprostitúció is.</li>",
+				"<li><b>Hosszútávú, szakmai alapokon nyugvó megoldások:</b> Ebben a projektben is kiemelten fontos számunkra a holisztikus megközelítés, hiszen abban hiszünk, hogy összetett problémákra, összetett megoldással kell reagálni. Fontos, hogy a lányokat a családjuk beleegyezésével vesszük fel a programba, amihez fontos, hogy értsék és megértsék, mit jelent az oktatás, megmutassuk annak előnyeit, ezért egy, a helyiek közül választott szociális munkással érzékenyítő és edukációs programot is tartunk. A siker egy fontos tényezője, hogy a családok rövid távon kieső jövedelmét helyettesítsük, így a közösségeknek fenntartható, hosszútávú lehetőségeket kínálunk, hogy ne kelljen lányaik kiházasításából élniük: megtanítjuk őket kézműves termékek előállítására és értékesítésére, amelyekből fenntarthatják magukat.</li>",
+				"<li><b>Teljes körű ellátás:</b> A kimentett lányoknak biztonságos szállást, oktatást, iskolán kívüli foglalkozásokat, étkezést, orvosi ellátást mentálhigiénés foglalkozást is biztosítunk. De a program valójában ennél sokkal többet ad számukra: biztonságot, gyermekkort, lehetőségeket, esélyt egy jobb életre, sőt sok esetben konkrétan a túlélésre.</li></ul>",
+				"<b>A sikerhez Rád is szükségünk van:</b> Támogasd projektünket havonta 10.000 vagy 20.000 Ft-tal, hogy együtt adhassunk jövőt és stabil alapokat Karamoja lányainak! Ha szeretnél támogatóvá válni, vagy kérdésed van,  fordulj hozzánk bizalommal a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> e-mail címen.",
+				"<i>A képeket a Shanita készítette.</i>"
 			]
 		}
 	}

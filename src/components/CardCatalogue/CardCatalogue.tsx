@@ -1,0 +1,39 @@
+import { CardCatalogueItem } from '@/interfaces/CardCatalogue';
+import { Card } from 'react-bootstrap';
+import { useTranslation } from 'react-i18next';
+import MoreButton from '../MoreButton';
+import './CardCatalogue.scss';
+
+export default function CardCatalogue({
+	cards,
+	onCardClick,
+	threeColumns = false,
+}: {
+	cards: CardCatalogueItem[];
+	onCardClick: (id: string) => void;
+	threeColumns?: boolean;
+}) {
+	const { t } = useTranslation('translation', { keyPrefix: 'card-catalogue' });
+
+	console.log(cards);
+
+	return (
+		<div id='card-catalogue'>
+			<i>{t('desc')}</i>
+			<div className={`card-catalogue-cards ${threeColumns ? 'three-columns' : ''}`}>
+				{cards.map((card) => (
+					<Card key={card.id} className='card-catalogue-card' onClick={() => onCardClick(card.id)}>
+						<Card.Title>{card.title}</Card.Title>
+						<div className='pic'>
+							<Card.Img variant='top' src={card.cover.src} alt={card.title} style={card.cover.style} />
+						</div>
+						<Card.Body>
+							<Card.Text>{card.shortDesc}</Card.Text>
+							<MoreButton />
+						</Card.Body>
+					</Card>
+				))}
+			</div>
+		</div>
+	);
+}
