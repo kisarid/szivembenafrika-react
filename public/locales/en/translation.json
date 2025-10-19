@@ -38,7 +38,7 @@
 		"newsletter": "Newsletter"
 	},
 	"home": {
-		"title": "Dear Inquirer!",
+		"header": "Dear Inquirer!",
 		"p1": "I warmly welcome you to the website of Szívemben Született Afrika – “Africa Born in My Heart”. We are delighted to have you here!",
 		"p2": "My name is Zsófi Szilágyi-Könczöl, the dreamer and founder of the „Africa Born in My Heart”. At the age of 14, I decided that come what may, I would be involved with Africa. After ten years of anticipation and preparation, I managed to visit the continent for the first time in 2017. My journey led me to a village called Manafwa in the eastern part of Uganda, which I now consider as my second home. I went there to help, to give and I never imagined that these journeys and these people would profoundly change my life.",
 		"p3": "Since then, the organization has expanded geographically and in its activities. Since 2022, we have been working in the poorest region of Uganda, Karamoja, which was completely isolated until a few years ago and it is still captivated by active tribal conflicts. Additionally, we work in the slums of Nairobi, the capital of Kenya, and in the wider known areas of Mombasa and its surroundings.",
@@ -285,5 +285,32 @@
 	},
 	"statement": {
 		"header": "Annual reports"
+	},
+	"principles": {
+		"header": "Principles",
+		"1": {
+			"title": "Humanitarian development, not aid",
+			"text": "One of the most important principles within our job, is to teach and empower people to change their circumstances for themselves.  This is a far better than simply providing financial aid alone, as this leads to greater vulnerability. We believe in the power of an individual realising they have options, and that they can make decisions about their lives. Of course, you can find aid elements in our projects as well, simply because it does happen, that this is what people need. The provision of Aid may be necessary when there isn’t time for the acquisition of new skills by individuals or communities, because starvation may occur before the required skills have been learnt and applied."
+		},
+		"2": {
+			"title": "Respect that spanning across continent and the love of cultural variation",
+			"text": "We take in to account a variety of elements in all our projects, and respect local traditions and customs. We never say, ‘do this’ or ‘don’t do that’, instead, we explore all of the options with which to do things. We believe that help can only be successful and long lasting, if the people we help are able to apply their newly acquired skills autonomously. A project which is not based on their needs, cannot be successful."
+		},
+		"3": {
+			"title": "Professionalism",
+			"text": "We believe the community’s problems and dreams should pinpoint a project’s directions, and not just researches and theories. As we progressed further and listened to the people’s dreams, there was always someone who had taken us even further. All of our projects have created by these meetings, dreams and issues we have listened to. However, before we realise any of these projects, we feel it’s important to conduct a research: theoretical as well as field research."
+		},
+		"4": {
+			"title": "Transparency",
+			"text": "We owe it first of all to the local community, as we find it very important to communicate everything to them openly, and for them to know and understand what is happening and why. Secondly, to our supporters and towards those who are interested in our work. We think it’s very important to be approachable and comprehensible to everyone."
+		},
+		"5": {
+			"title": "Sustainability",
+			"text": "Sustainability is important as per the UN’s sustainable development goals, for environmental reasons as well as it’s important for the maintainability of our projects."
+		},
+		"6": {
+			"title": "Helping to stay local",
+			"text": "This is also important within the country, especially on the countryside, because lot of people are moving to the cities from the rural areas, however the big cities promising not just big hopes, but, in most cases, containing big disappointments too. A person can be poor in a village, but the poorness has a preserving force, while in the city, there’s only the segregating poverty waiting for them."
+		}
 	}
 }

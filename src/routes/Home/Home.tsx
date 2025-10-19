@@ -54,7 +54,7 @@ export default function Home() {
 				))}
 			</Swiper>
 			<Container>
-				<div className='moyo-header'>{t('title')}</div>
+				<div className='moyo-header'>{t('header')}</div>
 				<p>{t('p1')}</p>
 				<p>{t('p2')}</p>
 				<p>{t('p3')}</p>

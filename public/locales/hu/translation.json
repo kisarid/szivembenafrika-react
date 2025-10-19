@@ -38,7 +38,7 @@
 		"newsletter": "Hírlevél"
 	},
 	"home": {
-		"title": "Kedves Érdeklődő!",
+		"header": "Kedves Érdeklődő!",
 		"p1": "Sok szeretettel üdvözöllek a Szívemben Született Afrika Egyesület oldalán, örülünk, hogy ránk találtál.",
 		"p2": "Szilágyi - Könczöl Zsófi vagyok, a Szívemben Született Afrika megálmodója és alapítója. 14 éves koromban eldöntöttem, hogy ha törik, ha szakad, én bizony Afrikával fogok foglalkozni, majd 10 év várakozás és készülés után 2017-ben jártam első alkalommal a kontinensen, akkor az utam Uganda keleti részére, egy Manafwa nevű faluba vezetett, amelyre azóta már a második otthonomként tekintek. Azért mentem oda, hogy segítsek, hogy adjak és nem is gondoltam, hogy ezek az utak és ezek az emberek az én életemet is gyökeresen megváltoztatják majd.",
 		"p3": "Azóta a szervezet földrajzilag és tevékenységét tekintve is bővül és növekszik, 2022 óta megkezdtük a munkát Uganda legszegényebb, néhány évvel ezelőttig teljesen elzárt, jelenleg is aktív törzsi konfliktusokkal terhelt régiójában, Karamojában. Illetve Kenyában a főváros Nairobi nyomornegyedeiben és a szélesebb körben is ismert Mombassa és környékén.",
@@ -286,5 +286,32 @@
 	},
 	"statement": {
 		"header": "Éves beszámolók"
+	},
+	"principles": {
+		"header": "Alapelvek",
+		"1": {
+			"title": "Humanitárius fejlesztés és nem segély",
+			"text": "a munkánk egyik legfőbb rendezőelve az, hogy nem hiszünk abban, amikor valaki csak és kizárólag segélyezéssel szeretne megoldani egy problémát, mert az csak egy újabb kiszolgáltatottságot eredményez. Azt, hogy a megsegített függjön a segítőjétől. Mi fejleszteni szeretnénk és képessé tenni az embereket arra, hogy saját maguk változtassanak az életükön. Hiszünk benne, hogy hatalmas erő rejlik abban, amikor az ember megérzi, hogy vannak lehetőségei, hogy hozhat döntéseket az élete alakulásáról. Persze a mi projektjeinkben is felfedezhetőek segélyezési elemek is, hiszen van, hogy erre van szükség. Egy egyszerű példával élve: tudjuk, hogy feleslegesen szeretnénk tanítani bármit is, ha addigra mire megtanulnák az adott dolgot éhen halnának."
+		},
+		"2": {
+			"title": "Kontinenseken átívelő tisztelet és a kulturális sokszínűség szeretete",
+			"text": "minden programelemünknél maximálisan figyelembe vesszük és tiszteletben tartjuk a helyi tradíciókat és szokásokat. Mi soha nem azt mondjuk, hogy „csináld ezt…” vagy „ne csináld azt..”, hanem mindig csak rávilágítunk a lehetőségre, hogy lehet ezt máshogyan is. Abban hiszünk, hogy a segítség csak akkor lehet igazán sikeres és tartós, ha a megsegített emberek is magukénak érzik azt. Az a projekt, ami nem az ő igényeiken és szükségleteiket alapszik egyszerűen nem lehet sikeres."
+		},
+		"3": {
+			"title": "Szakmaiság",
+			"text": "Hiszünk abban, hogy soha nem kutatásoknak és elméleteknek kell, hogy kijelöljék az irányt egy egy ilyen projekthez, hanem a közösség problémái és álmai. Ahogy haladunk előre meghallgattunk sok sok álmot, aztán van, aki rámutatott egy őt érintő problémára, aztán ahogy haladunk tovább, találkozunk valakivel, aki még messzebbre mutatott. Ezeknek a találkozásoknak és meghallgatott álmoknak és problémáknak a nyomán születnek meg a projektjeink. Mielőtt belevágunk valamelyiknek a megvalósításába, nagyon fontosnak tartjuk, hogy szakirodalmi és terepkutatás előzze azt meg."
+		},
+		"4": {
+			"title": "Átláthatóság és teljes transzparencia",
+			"text": "egyrészt a helyiek felé, hiszen nagyon fontos nekünk, hogy mindig minden nyíltan legyen feléjük kommunikálva, tudják és értsék, hogy mi miért történik. Másrészt pedig a támogatóink felé és azok felé, akik érdeklődnek a munkánk iránt. Fontosnak tartjuk, hogy elérhetőek és érthetőek legyünk mindenki számára."
+		},
+		"5": {
+			"title": "Fenntarthatóság",
+			"text": "az ENSZ által kitűzött fenntartható fejlődési célok értelmében, a környezetvédelmi szempontok szerint és a projektek fenntarthatósága szempontjából is."
+		},
+		"6": {
+			"title": "A helyben maradás segítése",
+			"text": "Ez az országon belül is fontos, sőt ott fontos csak igazán, hiszen sokan mennek a városokba a vidéki területekről, de a nagy városok nem csak nagy reményeket, de az esetek többségében nagy csalódást is jelentenek. Lehet, hogy valaki egy faluban szegény ugyan, de a szegénységnek van egy megtartó ereje, amíg a városban nyomor vár rá, ami szegregál."
+		}
 	}
 }
