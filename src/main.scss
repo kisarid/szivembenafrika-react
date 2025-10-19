@@ -2,6 +2,8 @@
 @import './styles/bootstrap-setup.scss';
 @import 'swiper/css';
 @import 'swiper/css/autoplay';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
 
 body {
 	--bs-body-font-family: 'Montserrat', sans-serif;
@@ -14,6 +16,7 @@ body {
 	color: var(--moyo-font-dark);
 	background-color: var(--moyo-light);
 	-webkit-tap-highlight-color: transparent;
+	overflow: hidden;
 
 	*:focus,
 	*:focus-visible {
@@ -25,9 +28,17 @@ body {
 #root {
 	display: flex;
 	flex-direction: column;
-	min-height: 100vh;
+	height: 100vh;
+	overflow: hidden;
 
-	.container.main {
+	.main-content {
 		flex: 1;
+		display: flex;
+		flex-direction: column;
+		overflow-y: auto;
+
+		.container.main {
+			flex: 1;
+		}
 	}
 }

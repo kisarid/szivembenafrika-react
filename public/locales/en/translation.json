@@ -34,7 +34,7 @@
 		}
 	},
 	"footer": {
-		"name": "Africa Born in my Heart Association",
+		"name": "Africa Born in My Heart Association",
 		"newsletter": "Newsletter"
 	},
 	"home": {
@@ -45,5 +45,242 @@
 		"p4": "During each of my journeys to Africa, I learn new things about life and myself. I have learned to dare to dream big and that everyone has a place in the world where they are truly needed. I have learned that Africa doesn't need us to go and \"fix\" things, to \"save\" people without consciousness toward its people, but it needs us to be humble, to understand and to love them. Because that's the only way to help and it's the only way it's worth it. I have learned that I cannot save the whole world, but I can contribute to improving the quality and dignity of life for these people in these seemingly distant lands.",
 		"p5": "I am very proud of my team of those participating and working with me toward this goal, on this journey. We are many and diverse, but we all believe that Africa is the „continent of opportunities”, and Uganda and Kenya are wonderful countries full of amazing people, with whom and for whom it is a joy and an honor to work.",
 		"p6": "I encourage you to take a look around our website, get to know our activities. Shoud you feel called by any of our programs, please contact us. Let's ask questions, let's talk, join us as a volunteer or support our work with your donations. We already know: cooperation makes wonders!"
+	},
+	"about": {
+		"header": "Our team",
+		"title1": "Our mission",
+		"p1": "We believe that everyone is equal and should have equal opportunities. That put simply: because of where you were born, you shouldn't be put in a bad situation.  We work for the eradication of poverty, social justice and gender equality, and for every child and woman to have the opportunity to create the future they aspire for. We believe that through our work, we can contribute to a just and sustainable world in which all people enjoy the right to live in dignity, free from deprivation and oppression.",
+		"title2": "Team Members",
+		"title3": "Our Volunteers",
+		"kzsofi": {
+			"shortBio": "President",
+			"longBio": [
+				"I am Zsófi Könczöl, the creator of Africa Born in My Heart.",
+				"I graduated in Political Science at ELTE - where I studied the social and security policy aspects of child soldiers in Africa - and then continued my studies in International Studies, Diplomacy specialization at University Corvinus, where I conducted a case study on the role of women in aid effectiveness in Uganda.",
+				"Donating and volunteering has been an important part of my life since childhood. The main focus of my professional interests is social responsibility, humanitarian aid, development policy, security policy and the civil sector, civic engagement. I also have a special interest in human rights, women's and children's rights and how to improve their situation. It is my firm belief that in today's globalised world, where everything is interconnected, people cannot ignore what is happening beyond national borders and across continents.",
+				"It is now almost 15 years since I heard a lecture at school that was a turning point for me. I decided that, come hell or high water, I was going to study Africa. The first time I visited Africa was 4 years ago, when I spent a month there. After that one month, a part of my heart stayed there forever. From the moment I stepped off the plane, I had an infinitely comforting feeling of home, of falling in love with the country, the landscape, the people. I felt that Uganda is a beautiful place, full of (metaphorically speaking) beautiful people. On one of my first mornings in Manafwa, I woke up to a goat hanging its head from the window and nibbling on the curtains, the room filled with bright sunlight and the sound of children laughing and talking playfully outside in a language I couldn't understand. As I stepped out, they stood around me, dirty in their little torn clothes, and yet I saw them at their most beautiful. Despite their young age, their eyes were full of depth and a wisdom I had not, or rarely, seen before. I felt that this was happiness itself and I knew that I had arrived, that I had a task and a mission here. During my time there, I got to know the people, I was invited into their homes, I got a glimpse into their daily lives, I saw the challenges and opportunities they had. I decided that I wanted to help, that I would go back. I did, I've been there several times since and now when I go, I feel like I'm \"going home from home\".",
+				"I'm delighted that such a fantastic team has come together and with these unconventional minds and willingness to do things, we have formed the Africa Born in My Heart Association, confident that together with the local people we can make a big difference to their lives."
+			]
+		},
+		"szbalazs": {
+			"shortBio": "Vice President for Economic Affairs",
+			"longBio": [
+				"I am Balázs Szilágyi, Vice President of the Association.",
+				"I graduated from the Kodolányi János College as an economist. I visited the African continent for the first time as a child in 2001 and was captivated from the first breath. Years went by and shortly after graduating in economics, I was reconnected with Africa, but this time on a professional basis. That year I started working as a foreign trader for a Hungarian IT company. For me, the breakthrough came in 2014, when I started to deal with the challenges there professionally.",
+				"Last but not least, it was through this work that I first visited sub-Saharan Africa, where I saw the \"real\" face of Africa. My interest is undiminished, I have spent the last 6 years in many African countries and I am determined to explore the continent's potential. This year, I have reached another milestone in my life; I have decided to use my experience to work towards the goals of the organisation, under the auspices of the Africa Born in My Heart Association. I believe that by joining forces and adopting a new approach, we can provide serious help and sustainable development in the areas where we are present."
+			]
+		},
+		"perzsa": {
+			"shortBio": "Board member, administration and communications",
+			"longBio": [
+				"I am Erzsa Pocsai, member of the Association's Board.",
+				"I studied at the University of Debrecen and at the Faculty of Social Sciences of ELTE, currently I work in public administration.",
+				"I have had the privilege of getting to know the Africa Born in My Heart initiative from the very beginning, and I am particularly grateful to be a member of the Association and to be actively involved in its work.",
+				"I am convinced that education is what puts real power in the hands of the people, and I feel particularly close to all the initiatives and activities of the Organisation aimed at knowledge transfer."
+			]
+		},
+		"ffbalazs": {
+			"shortBio": "Board member, medical projects",
+			"longBio": [
+				"I am Ferenc Balázs Farkas, member of the Association's Board, a medical doctor coming to the end of my studies. I started volunteering during my high school years and in 2016 I decided to help where it is needed the most; in Africa.",
+				"I visited Manafwa Mission for the first time in March 2019 and was immediately captivated by the magic of the black continent. In my chosen vocation, I value humility and an innovative, evidence-based approach that is adaptable to the situation. I am particularly interested in the treatment of infectious diseases and public health problems and issues in Africa."
+			]
+		},
+		"vmarci": {
+			"shortBio": "Board member",
+			"longBio": [
+				"I am Marcell Végh, lawyer. I am currently working as a trainee lawyer in a law firm in Budapest. Africa has been a constant preoccupation of mine since childhood. Currently I am supporting the legal background of the association and I am looking forward to being involved in the humanitarian activities of the association in Uganda in the near future."
+			]
+		},
+		"kpeter": {
+			"shortBio": "Association member",
+			"longBio": [
+				"I am Péter Király, member of the Association, political scientist, international relations and economic diplomacy expert. During my university years and my internships in Paris and Prague, I dealt with security policy issues in the African region and relations between the African continent and Hungary. I am currently working in the Hungarian administration in the international field.",
+				"In 2017/19, I had the opportunity to participate in the Africa College of the Lakitelk People's College, and the people I met there only strengthened my will to deal more seriously with the challenges and opportunities of Hungarian-African relations."
+			]
+		},
+		"kanna": {
+			"shortBio": "Association member",
+			"longBio": [
+				"I am Anna Kiss and I work as a researcher in the Department of Science Policy and Science Metrics at the Hungarian Academy of Sciences, Library and Information Centre. I am a nutrition scientist, a PhD candidate at the Faculty of Food Science of Szent István University, and my dissertation is on obesity and the definition of the social burden of obesity in different forms.",
+				"I have been to Uganda several times, teaching Nutrition Science at Kyambogo University in the context of an agricultural degree course. My work in Africa has a particular focus on optimising nutrition for women and children and increasing knowledge of good perinatal nutrition among women."
+			]
+		},
+		"tklaudia": {
+			"shortBio": "Association member",
+			"longBio": [
+				"I am Klaudia Tóth, 26 years old and I am currently studying at the National University of Public Service.",
+				"My interest in Africa was already evident at an early age, as I was a diligent visitor to the Africa Museum in Balatonederics. Later on, during my undergraduate studies, I was involved in several research and publication projects dealing with the security situation in Africa. I have been following with particular interest the Great Green Wall initiative, the interlinkages between climate change and migration trends in the Sahel region, and the activities of jihadist organisations in the region."
+			]
+		},
+		"tliliana": {
+			"shortBio": "Association member",
+			"longBio": [
+				"I am Liliána Tóth, 26 years old. I graduated from Corvinus University of Budapest, majoring in International Studies. My main field of research is the functioning of non-political NGOs, their opportunities, scope and constraints in implementing their programmes and objectives in the 21st century. A particular area of interest for me is the protection of children, women, vulnerable groups and minorities and the improvement of their situation in public life (e.g. through social dialogue, education, awareness-raising, sensitisation programmes) and in everyday life.",
+				"In recent years I have had the opportunity to get to know cultures that are in many respects different from European ones. I spent 6 months in Vietnam in 2018, and in the autumn of 2019 I took part in a legal-anthropological research in Zambia, where we investigated the social and political system of the South African country, and documented in film, audio and visual material aspects of the life and cultures of the tribal population that are difficult to find in other sources. This experience of fieldwork in Africa has been extremely influential in my thinking about Africa, and has strengthened my desire to do something, to improve it.",
+				"Until the spring of 2020, I lived in Turkey, where I worked for an NGO working on the development of cultural relations between Europe and the Mediterranean."
+			]
+		},
+		"mpanna": {
+			"shortBio": "Association member",
+			"longBio": [
+				"I joined the Africa Born in My Heart team as a volunteer: it was love at first sight. I've drifted to many places, engaged with many communities. In all the work that I have done and continue to do, I have always put first the community that surrounds me in my work; the values that they operate by; and the purpose that they set for themselves.",
+				"I have been drawn to the culture of Africa and its communities from the very beginning, and I am particularly interested in the role of women in different societies. I believe that people need to connect, cultures need to meet, and I believe that sustainable development can only be achieved by supporting each other in the transfer of different knowledge - this is the direction in which I feel I can join the values and activities of the organisation."
+			]
+		},
+		"njuli": {
+			"shortBio": "Association member",
+			"longBio": [
+				"I'm Júlia Németh, a member of the Association's Patrons and coordinator of the Child Support and Graduate a Girl programmes.I joined Africa Born in My Heart in early 2022, but I have been following the work of the Association since before that.",
+				"I graduated from Corvinus University with a degree in International Studies and a Master's degree in Political Science from the University of Vienna. I am currently working in higher education.",
+				"I started working on Africa during my university years and after my studies I spent six months in Ghana as an intern for a German development organisation. Although my professional career has taken a different path for the time being, I know that Africa will always play a role in my life in some form."
+			]
+		},
+		"ibarbi": {
+			"shortBio": "",
+			"longBio": [
+				"I'm Barbi Illyés Györfi, I've been a follower of the organisation for 3 years and an active volunteer for 1 year. I am interested in cultures, their similarities/differences and people. In response to the latter, I study psychology, and feeding the curiosity of the former, I travel and explore as much as I can. And I read. Although I have never been to Africa, for some reason I have been a lover since childhood. The culture, the patterns, the exuberance of the people, the rhythm that can make your heart beat... everything attracts me. I trust that as long as my eyes open in the morning, I can do something for humanity, for a better future. I am a free spirit, which I sometimes forget, but I always find my way back quickly. My dreams are big, my ambitions have never let me down, and once I get to Africa, I may never come home again. Looking within ourselves, opening up to others, being curious and volunteering is cool!"
+			]
+		},
+		"kdori": {
+			"shortBio": "",
+			"longBio": [
+				"I'm the type of person who sees new opportunities for the day every morning and goes to sleep every night with gratitude in my heart. I think of myself as “a daughter of luck”, and I live my life very consciously. I find the things I can fulfill myself in and the people and communities that inspire me. One of those gems in my life is the Africa Born in My Heart Association.",
+				"For me, it is important to do volunteer work where the needs of the giver and the receiver meet, making the give-and-take relationship reciprocal. I love to travel, to keep my eyes open and I am attracted by different cultures, especially the world of Africa. And working with children is part of my everyday life, it really makes me feel alive. And when I am able to give of myself to children who really need it, it is an unsurpassed joy for me. I can fully identify not only with the mission and projects of the association, but also with the way it works and its principles. In fact, I didn't choose an organisation to join, but the people who make it come alive. I joined the volunteer team in October 2022, but I already feel that I have received much more from them than I have to give."
+			]
+		},
+		"btunde": {
+			"shortBio": "",
+			"longBio": [
+				"I'm Tünde Balogh, an accountant in everyday life, but more of a volunteer with a smile on her face, who believes that if we really want to achieve something in life, we can make it happen.",
+				"In September 2022, I joined the Africa Born in My Heart Association.",
+				"Volunteering has been a part of my everyday life for about 7 years, I feel every one of these events and activities makes me feel more fulfilled in my life and moves me forward in achieving my dreams.",
+				"A quote I try to follow:",
+				"\"The best way to find oneself is to lose oneself in the service of others\" /Gandhi/",
+				"As a child I dreamed of volunteering in Africa one day, life took me in a different direction but I feel it's never too late to fulfill our dreams.",
+				"Over the years, I have been involved with several non-profit organizations, so I consciously sought out a community where I could have a family environment, develop human connections and physically see the grants being implemented.",
+				"From the first meetings, I felt I had chosen the best one, and when the time comes, I will definitely be involved in missions in Africa."
+			]
+		},
+		"sdani": {
+			"shortBio": "",
+			"longBio": [
+				"I am Daniel Steigler and I have been a member of this wonderful community for 6 months.",
+				"During my years of living abroad, I have experienced the beauty of diversity of people, regardless of religion, colour, gender and social class, which is why I wanted to be part of a similarly open organisation at home.",
+				"I've always wanted to volunteer for a greater cause, but so far it has taken a back seat.",
+				"Africa, with its vibrant colourful sense of life, its wonderful flora and fauna and its culture, fascinated me as a child.",
+				"This is how I ended up with the Africa Born in My Heart community, a combination of a desire to do something and a sense of life.",
+				"I believe that with this team, we can make the world a better place, if only a little, because of our skills and motivation."
+			]
+		},
+		"magi": {
+			"shortBio": "",
+			"longBio": [
+				"The really big things in our lives have a dimension that can only be described in words. Feelings, smells, thoughts, condensed into experiences, provide the milestones that are still defining after many years, decades, and can be recalled later by a person, a melody, a word, anything, even if condensed into a moment.",
+				"I expect many such moments from the mission trip to Uganda in November. There is such a sense of security in the regular African mission academy day, where we can meet each other every month, relive the stories of previous missions indirectly, the self-awareness exercises are very empowering for me.",
+				"Why Africa? Because it is exotic, remote, where there is a great need, where it is perhaps easier to forget oneself. Where there is poverty by materialistic standards, yet you can experience the serenity and gratitude of the people who live there for the small, everyday things.",
+				"As a paediatrician, as a woman, I am very interested in how Ugandan women experience childbirth, motherhood and child-rearing. What we have in common, despite all the differences and distances.",
+				"Why volunteering? Because \"It is more blessed to give than to receive\" (Acts of Apostles 20:35)."
+			]
+		},
+		"zcsenge": {
+			"shortBio": "",
+			"longBio": [
+				"Something has to be done... Something has to be done - my six-year-old self thought, and collected all her pocket money to deliver it to the flood victims through the Ecumenical Relief Organisation.",
+				"I'm Csenge Záhoczky, an expert in foreign policy and international security and defence, an admirer of children and an eternal idealist.",
+				"I've always been considered a \"child whisperer\" by my peers, who have been clinging to me since I was a baby. For a long time, everyone thought I would be a kindergarten teacher. However, I feel that the desire to help and the dedication to people that I have always had can be better fulfilled in humanitarian aid, in a life of work for children and women's rights.",
+				"Zsófi and I met years ago as volunteers for another organisation. When I found out that she had founded the Africa Born in My Heart Association, there was no doubt in my mind that I wanted to be part of her team. Because I feel that Zsófi and I share the same heart: the same love for people, the same inner urge to make the lives of others better, easier, more beautiful, more peaceful, even if only by a hair's breadth.",
+				"Because, as the Talmud says: whoever saves one person saves the whole world."
+			]
+		},
+		"vjuli": {
+			"shortBio": "",
+			"longBio": [
+				"I am Julianna Vető and I have been volunteering with the Africa Born in My Heart team for two and a half years. In this short time, I have had a lot of experiences and met a lot of fantastic people.",
+				"It was a childhood dream of mine to work with African children, but I never thought that I would really have the opportunity to do so. During Covid, I met the organisation when they were looking for token adoptive parents. At the time, there was no question of me joining the team and adopting a child. I was very lucky because after a year of volunteering, I managed to get out to Manafwa with the organisation and meet my adopted baby girl and all the members of the community. It was an experience of a lifetime for me and since then it has been a constant reminder to never give up on our dreams.",
+				"With my family, I run a small vegetarian restaurant in the heart of Buda, the Szelence Café. The restaurant was converted from our childhood home and we still live in the house. It is very important to me to have a friendly, homely environment and to keep the family together. That's why it's a matter of my heart to help as many Manafwa families as possible in the future, so that as few families as possible have to be torn apart.",
+				"Thanks to the organisation, I have met so many fantastic people who have now become close friends and friendships. And there is nothing more fantastic for me than when different people can come together for a common goal."
+			]
+		},
+		"dklaudia": {
+			"shortBio": "",
+			"longBio": [
+				"By becoming a volunteer, we have the hope to make the world a better, more beautiful place! <3",
+				"More than a year ago I started looking for an organization that helps children in Africa. I've always been interested in Africa, so one of my plans was to definitely go there at some point in my life and help the children there in any way I could. I joined this amazing team in February and from the first time I felt I had found a great place. It's good to feel how important it is to the organization that they are constantly working to prepare us for a possible mission, and also that they are looking to make sure we are part of a really good community.",
+				"You must have wondered why you chose to volunteer with the Africa Born in My Heart team?",
+				"The answer is simple: If you want to be part of a super team where we work with our hearts and souls every day to help children achieve a better future, then don't hesitate, this is the place for you! 😊"
+			]
+		},
+		"pbadel": {
+			"shortBio": "",
+			"longBio": [
+				"My name is Adél Pribelszki-Balatincz, I have been volunteering with the organisation for almost a year and a half. My current task is to prepare the data sheets of the children participating in the support programmes. I have wanted to volunteer since I was in high school. I found the organisation on Instagram during university and joined immediately.",
+				"As a designer, it's important for me to get to know as many people and situations as possible. I want to use my work to support others and make their lives easier.",
+				"The happiest moment for me, during my volunteering, was when I saw that the children on the first data sheets I created had found a sponsor. It was a great feeling to see the results of my work."
+			]
+		},
+		"knori": {
+			"shortBio": "",
+			"longBio": [
+				"Smile, energy, children, faith, healthcare... just a few words, but that would be me.",
+				"I'm Nóra Kárász, doctor, dancer, globetrotter and, from autumn 2021, volunteer at the Africa Born in My Heart Association.",
+				"I have always been the kind of person who can't sit still, I have to do something all the time to feel useful. One of the main mottos of my life is to make the most of every minute of the day and never waste my time... Similar thoughts were also stirring in my mind when the desire to help came over me in the merry-go-round of university life. It was then that I became really interested in Africa and found the Africa Born in My Heart Association. I was immediately convinced by the mentality and attitude of the organisation, the principle of \"we don't help, we develop\", and I knew that here I would always get rid of the feeling that I was not a useful person.",
+				"Although I disbelieve what I learned in anatomy, I believe that a person has not two, but hundreds or thousands of arms that he can extend to people in need. I believe that, although my dress size does not suggest it, my arms are long enough to reach across continents and all the way to Africa. I want everyone to feel safe and loved between these arms.",
+				"I really like being part of our small, close-knit team, as it is much happier to achieve and experience success together. I thank the volunteers for their constant motivation and trust that my energetic, cheerful and always smiling self will reciprocate."
+			]
+		},
+		"bdora": {
+			"shortBio": "",
+			"longBio": [
+				"My name is Dóra Barabás, I have been volunteering with Africa Born in My Heart for a year. I have been interested in Africa for a long time and find its diversity fascinating. Besides, when I first heard about humanitarian development during my studies, I decided I wanted to learn more about it. As the organisation had already successfully implemented a number of professionally sound projects in Uganda, there was no doubt in my mind that I would join after reading their call for volunteers.",
+				"During my one year as a volunteer, I gained an insight into the workings of the Africa Born in My Heart Association and learned a lot of details about the background of the projects. I have been actively involved in activities such as running Africa Day and educating secondary school students about the impact of climate change on Africa, from which I have learned a lot. It is a great feeling for me to be able to help the organisation achieve its goals. I have also been able to be part of a fantastic community of people united by a common interest and desire to do something. I encourage everyone to join :)"
+			]
+		},
+		"ttlilla": {
+			"shortBio": "Volunteer",
+			"longBio": [
+				"Although I graduated as a translator and interpreter, my career path took a different turn and I have started to work in the chocolate industry instead. As a volunteer though, I am happy to support the work of the Association by providing them with translations to use on their website or in their printed materials.",
+				"Since I have started to work with chocolate, it has become more important for me to play an active role in eradicating extreme poverty and child labor in cacao growing countries not only financially but also through education and awareness raising. So, I am focusing on sharing my knowledge about the current situation within the African cacao growing regions and highlighting some of the inspiring examples, too.",
+				"I have been giving talks and participating as an exhibitor at many of the Association's cultural events in the last few years."
+			]
+		},
+		"zzoe": {
+			"shortBio": "Volunteer",
+			"longBio": [
+				"My name is Zoe Zahorák and I am a political scientist and a Master's student in Cultural Anthropology. My main interests are social issues, human rights, community organizing, culture and arts. I joined this organisation as a volunteer in March 2022. ",
+				"The work of Africa Born in My Heart for me is a series of exemplary activities and projects that bring about real change, and I am honoured to be an active member of this organisation.",
+				"It is very exciting and important for me to be able to contribute my ideas to the work of the organisation and learn about Uganda and Kenya in detail. My goal is to be a long-term participant in this work that makes a difference in the lives of Ugandans and Kenyans and brings about generational change."
+			]
+		},
+		"pagyongyi": {
+			"shortBio": "Volunteer",
+			"longBio": [
+				"My name is Panka, I am a political scientist, lawyer, paramedic, and a volunteer of Africa Born in My Heart. I am convinced that the smallest selfless act of assistance heals society and our souls, which is why volunteering has been an important part of my life for many years. For years, I have worked in marginalized regions, segregated areas, striving to make the days of the people living there better. ",
+				"In January 2023, I made the decision to join an organization’s work beyond the borders of Hungary.",
+				"Since childhood, I have been in love with Africa, its wild landscapes, and the hot weather. Thanks to this, I found Zsófi, whose travels and then the development of her Association I followed with sparkling eyes on social media for years. Reading the organization’s profession and seeing its projects, there was no question that I wanted to be a part of the wonder that this small community does.",
+				"Joining the organization, besides finding one of the most suitable tasks for myself in newsletter editing, I also got to know a lot of fantastic people, for which I am very thankful."
+			]
+		},
+		"cpanni": {
+			"shortBio": "Volunteer",
+			"longBio": [
+				"I am Panni Czikkely, illustrator and graphic designer.",
+				"Themes I find important and represent in my art include: tough times, femininity, the power of unity and communication of one's feelings.",
+				"These led me close to the organisation back in 2021: I was chosen to design the logo of project '84 days' and I got to be one of the ambassadors of the project as well. Shortly after that I adopted Phionah who was 5 years old at the time. In that same year I made the journey with Zsófi to Manafwa, where I got to decorate Shine Primary and Nursery School built by Hungary Helps with my own drawings and designs to provide a joyful and inspiring atmosphere for both students and teachers. Through our brand 'Cakkompakkom' I set out to theach women how to craft several eco-friendly textile-wares thus advancing their current knowledge and skills and I also held several workshops for children centered around the development of motor-skills.",
+				"To this day I frequently design creatives for missions and campaigns on a voluntary basis while also spreading word about the organisation so that it's message may reach those who would listen.",
+				"Every movement I am able to be part of connects the whole world as I see it and I am one of the links in the chain of happiness that keeps this distraught and unsure but also colourful and full-of-love dumpling in one piece."
+			]
+		},
+		"ldorina": {
+			"shortBio": "Volunteer",
+			"longBio": [
+				"László Dorina vagyok, rendező-operatőr-vágó-fotós, a Dorinka Studio és egy csodás kislány anyukája.",
+				"A videókészítés és a fotózás világa 2012-ben, 16 éves koromban szippantott be amikor elkészíthettem életem első videoklipjét és ez a mánia azóta is tart. ",
+				"Számos magyarországi előadónak készíthettem videoklipet különböző műfajokban. Többek között együtt dolgozhattam Zórával, a Kollár Klemencz Kamarazenekarral, Szirtes Edina Mókussal, a Belmondo zenekarral, a Cotton Club Singerssel, a Hajdu Klára Quartettel, Hrutka Róberttel és Grecsó Krisztiánnal, Szekeres Adriennel, a Stereo Swinggel. A klipek rendezésén, forgatásán és vágásán túl számos alkalommal kaptam lehetőséget arra, hogy különböző rendezvényeket örökítsek meg. Ezek közé tartoztak esküvők, céges rendezvények, valamint koncertek, interjúsorozatok, fesztiválok és kulturális események. ",
+				"Az egyesülethez eleinte mint vágó csatlakoztam - a 2021-es őszi misszió alatt az Volunteerek elvételeket küldtek nekem a mindennapi kalandjaikról, amiket én itthon vlogokká formáltam. Ezt a jó szokást megtartottuk és azóta már a számát sem tudom, hogy hány missziónak lehettem az elmesélője ezáltal. ",
+				"2023-ban Zsófi megkeresett a lehetőséggel, hogy ezúttal mi lenne, hogyha nem csak itthon vágnék, hanem csatlakoznék a csapathoz az őszi misszió során. Kamerámmal igyekeztem minden pillanatot megörökíteni, legyen az fotó vagy videó, és Isten áldja a laptopok feltalálóját, mert így akár a kisbuszban, a földúton zötykölődve is tudtam képeket retusálni, hogy az otthoniak mindig naprakészek legyenek a csapat kalandjairól. A misszió sikeres volt, nekem pedig megváltozott az életem.",
+				"Nagyon büszke vagyok, hogy ennek a csodás közösségnek a tagja vagyok és nagyon remélem, hogy lehetek még a missziók krónikása itthon és a csodás ugandai terepen egyaránt. "
+			]
+		}
 	}
 }

@@ -1,5 +1,5 @@
 import { createBrowserRouter, redirect } from 'react-router-dom';
-import About from './routes/about';
+import About from './routes/About/About';
 import Blog from './routes/blog';
 import Contact from './routes/contact';
 import Home from './routes/Home/Home';

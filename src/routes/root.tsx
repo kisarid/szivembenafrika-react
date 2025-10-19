@@ -10,14 +10,16 @@ export default function Root() {
 	return (
 		<>
 			<NavBar />
-			{displayContainer ? (
-				<Container className='main'>
+			<div className='main-content'>
+				{displayContainer ? (
+					<Container className='main'>
+						<Outlet />
+					</Container>
+				) : (
 					<Outlet />
-				</Container>
-			) : (
-				<Outlet />
-			)}
-			<Footer />
+				)}
+				<Footer />
+			</div>
 		</>
 	);
 }

@@ -1,0 +1,52 @@
+.header {
+	position: sticky;
+	top: 0;
+	margin-bottom: 20px;
+	line-height: normal;
+	background-color: var(--moyo-light);
+	z-index: 2;
+
+	.header-main {
+		padding: 15px 0 5px;
+		font-size: 30px;
+		font-weight: bold;
+		color: var(--moyo-font-deep-dark);
+		border-bottom: 1px solid var(--moyo-font-deep-dark);
+
+		&.small {
+			font-size: 18px;
+		}
+	}
+
+	.header-description {
+		margin-top: 8px;
+		color: var(--moyo-font-dark);
+		font-size: 18px;
+
+		.link {
+			width: fit-content;
+			margin-left: auto;
+			padding-bottom: 5px;
+			text-align: right;
+			font-size: 14px;
+		}
+	}
+
+	@media (min-width: 768px) {
+		.header-main {
+			font-size: 45px;
+
+			&.small {
+				font-size: 30px;
+			}
+		}
+
+		.description {
+			font-size: 22px;
+
+			.link {
+				font-size: 16px;
+			}
+		}
+	}
+}
