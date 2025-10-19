@@ -14,7 +14,7 @@ import SupportChildren from './routes/how-you-help/support-children';
 import Volunteering from './routes/how-you-help/volunteering';
 import Media from './routes/media';
 import Root from './routes/Root';
-import Statement from './routes/statement';
+import Statement from './routes/Statement';
 import Supporters from './routes/supporters';
 import Vlog from './routes/vlog';
 
