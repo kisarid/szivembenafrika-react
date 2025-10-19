@@ -4,7 +4,6 @@ import Blog from './routes/blog';
 import Contact from './routes/contact';
 import Home from './routes/Home/Home';
 import Projects from './routes/how-we-help/projects';
-import WhereWeHelp from './routes/how-we-help/where-we-help';
 import Donations from './routes/how-you-help/donations';
 import EducationProgramKenya from './routes/how-you-help/education-program-kenya';
 import Events from './routes/how-you-help/events';
@@ -17,6 +16,8 @@ import Root from './routes/Root';
 import Statement from './routes/Statement';
 import Supporters from './routes/supporters';
 import Vlog from './routes/vlog';
+import WhereWeHelp from './routes/WhereWeHelp/WhereWeHelp';
+import WhereWeHelpSubpage from './routes/WhereWeHelp/WhereWeHelpSubpage';
 
 export const router = createBrowserRouter([
 	{
@@ -46,6 +47,24 @@ export const router = createBrowserRouter([
 			{
 				path: '/hol-segitunk',
 				element: <WhereWeHelp />,
+				children: [
+					{
+						path: 'manafwa',
+						element: <WhereWeHelpSubpage id='manafwa' />,
+					},
+					{
+						path: 'karamoja',
+						element: <WhereWeHelpSubpage id='karamoja' />,
+					},
+					{
+						path: 'nairobi',
+						element: <WhereWeHelpSubpage id='nairobi' />,
+					},
+					{
+						path: 'mombasa',
+						element: <WhereWeHelpSubpage id='mombasa' />,
+					},
+				],
 			},
 			{
 				path: '/adomanyozas',

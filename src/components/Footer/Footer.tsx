@@ -30,14 +30,14 @@ export default function Footer() {
 							target='_blank'
 							rel='noopener noreferrer'
 						>
-							<ReactSVG src='src/assets/icons/facebook-logo.svg' />
+							<ReactSVG src='/src/assets/icons/facebook-logo.svg' />
 						</a>
 						<a
 							href='https://www.instagram.com/szivembenszuletettafrika'
 							target='_blank'
 							rel='noopener noreferrer'
 						>
-							<ReactSVG src='src/assets/icons/instagram-logo.svg' />
+							<ReactSVG src='/src/assets/icons/instagram-logo.svg' />
 						</a>
 					</div>
 				</div>

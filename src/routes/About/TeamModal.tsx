@@ -7,10 +7,10 @@ export default function TeamModal({ show, bio, onHide }: { show: boolean; bio?: 
 
 	return (
 		<Modal className='team-modal' show={show} onHide={onHide} size='lg' centered fullscreen='sm-down'>
-			<ReactSVG src='src/assets/icons/close.svg' className='team-modal-close' onClick={onHide} />
+			<ReactSVG src='/src/assets/icons/close.svg' className='team-modal-close' onClick={onHide} />
 			<Modal.Body>
 				<div className='team-modal-image'>
-					<img src={`src/assets/images/${bio.image}`} style={{ objectPosition: bio.objectPosition }} />
+					<img src={`/src/assets/images/${bio.image}`} style={{ objectPosition: bio.objectPosition }} />
 				</div>
 				<div className='team-modal-text'>
 					<div className='moyo-header'>{bio.name}</div>

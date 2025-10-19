@@ -1,4 +1,4 @@
-import StickyHeader from '@/components/layout/Header/StickyHeader';
+import StickyHeader from '@/components/StickyHeader/StickyHeader.tsx';
 import { Bio } from '@/interfaces/Bio.ts';
 import { useMemo, useState } from 'react';
 import { useTranslation } from 'react-i18next';
@@ -12,8 +12,6 @@ export default function About() {
 	const { t } = useTranslation('translation', { keyPrefix: 'about' });
 
 	const [selectedBio, setSelectedBio] = useState<Bio>();
-
-	console.log(t(`szbalazs.longBio`, {}));
 
 	const teamMembersWithBios: Bio[] = useMemo(
 		() =>
@@ -42,9 +40,9 @@ export default function About() {
 			<StickyHeader>{t('header')}</StickyHeader>
 			<section>
 				<div className='moyo-header'>{t('title1')}</div>
-				<p>{t('p1')}</p>5865
+				<p>{t('p1')}</p>
 				<div className='pic'>
-					<img src='src/assets/images/about.jpg' alt='' />
+					<img src='/src/assets/images/about.jpg' alt='' />
 				</div>
 			</section>
 			<section style={{ marginTop: '40px' }}>

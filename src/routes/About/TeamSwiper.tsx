@@ -41,7 +41,7 @@ export default function TeamSwiper({ bios, onClick }: { bios: Bio[]; onClick: (i
 					>
 						<div className='team-swiper-card-image'>
 							<img
-								src={`src/assets/images/${bio.imageSmall || bio.image}`}
+								src={`/src/assets/images/${bio.imageSmall || bio.image}`}
 								style={{ objectPosition: bio.objectPosition }}
 							/>
 						</div>

@@ -71,12 +71,12 @@ export default function NavBar() {
 				<Container fluid>
 					<Navbar.Brand as={NavLink} to='/'>
 						<div className='icon'>
-							<img src='src/assets/icons/logo.png' alt='' />
+							<img src='/src/assets/icons/logo.png' alt='' />
 						</div>
 						<span>Szívemben Született Afrika</span>
 					</Navbar.Brand>
 					<Navbar.Toggle aria-controls='offcanvas-navbar-nav'>
-						<img src='src/assets/icons/menu-button.svg' alt='' />
+						<img src='/src/assets/icons/menu-button.svg' alt='' />
 					</Navbar.Toggle>
 					<Navbar.Offcanvas aria-labelledby='offcanvas-navbar-nav' placement='end'>
 						<Offcanvas.Header closeButton />

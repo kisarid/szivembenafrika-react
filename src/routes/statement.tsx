@@ -1,4 +1,4 @@
-import StickyHeader from '@/components/layout/Header/StickyHeader';
+import StickyHeader from '@/components/StickyHeader/StickyHeader';
 import { useTranslation } from 'react-i18next';
 
 export default function Statement() {

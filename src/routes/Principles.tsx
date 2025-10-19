@@ -1,4 +1,4 @@
-import StickyHeader from '@/components/layout/Header/StickyHeader';
+import StickyHeader from '@/components/StickyHeader/StickyHeader';
 import { useTranslation } from 'react-i18next';
 
 export default function Principles() {
@@ -12,8 +12,8 @@ export default function Principles() {
 					<b>{t('1.title')}: </b>
 					{t('1.text')}
 				</p>
-				<div className='pic right'>
-					<img src='src/assets/images/principles.jpg' alt='' />
+				<div className='pic float-right'>
+					<img src='/src/assets/images/principles.jpg' alt='' />
 				</div>
 				<p>
 					<b>{t('2.title')}: </b>

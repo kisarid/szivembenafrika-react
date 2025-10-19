@@ -18,17 +18,19 @@
 		}
 	}
 
-	.header-description {
-		margin-top: 8px;
-		color: var(--moyo-font-dark);
-		font-size: 18px;
+	.header-misc {
+		display: flex;
+		justify-content: space-between;
+
+		.subheader {
+			margin-block: 8px;
+			color: var(--moyo-font-dark);
+			font-size: 18px;
+		}
 
 		.link {
-			width: fit-content;
-			margin-left: auto;
-			padding-bottom: 5px;
-			text-align: right;
-			font-size: 14px;
+			align-self: top;
+			margin-top: 5px;
 		}
 	}
 
@@ -41,7 +43,7 @@
 			}
 		}
 
-		.description {
+		.header-misc .subheader {
 			font-size: 22px;
 
 			.link {
