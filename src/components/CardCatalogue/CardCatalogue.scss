@@ -6,15 +6,17 @@
 
 	@media (min-width: 768px) {
 		grid-template-columns: 1fr 1fr;
-
-		&.three-columns {
-			grid-template-columns: 1fr 1fr;
-		}
 	}
 
 	@media (min-width: 1024px) {
-		&.three-columns {
+		&.columns-3 {
 			grid-template-columns: 1fr 1fr 1fr;
+		}
+	}
+
+	.card-catalogue-card {
+		.card-title {
+			height: 40px;
 		}
 	}
 }

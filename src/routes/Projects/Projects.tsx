@@ -27,7 +27,7 @@ export default function Projects() {
 			<StickyHeader subheader={<b>{selectedCard?.title}</b>} onBackClick={selectedCard && onBackClick}>
 				{t('title')}
 			</StickyHeader>
-			{selectedCard ? <Outlet /> : <CardCatalogue cards={cards} onCardClick={onCardClick} threeColumns />}
+			{selectedCard ? <Outlet /> : <CardCatalogue cards={cards} onCardClick={onCardClick} columns={3} />}
 		</div>
 	);
 }

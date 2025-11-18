@@ -11,5 +11,4 @@ export type CardCatalogueItem = {
 	title: string;
 	shortDesc: string;
 	cover: CardCataloguePic;
-	pics?: { [key: number]: CardCataloguePic | CardCataloguePic[] };
 };

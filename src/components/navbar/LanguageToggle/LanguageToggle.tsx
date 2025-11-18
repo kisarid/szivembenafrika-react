@@ -4,7 +4,10 @@ import './LanguageToggle.scss';
 
 export default function LanguageToggle({ theme }: { theme?: 'light' | 'dark' }) {
 	const i18n = useTranslation().i18n;
-	const setLocale = (locale: 'hu' | 'en') => i18n.changeLanguage(locale);
+	const setLocale = (locale: 'hu' | 'en') => {
+		i18n.changeLanguage(locale);
+		localStorage.setItem('lang', locale);
+	};
 
 	return (
 		<div id='language-toggle' className={theme}>

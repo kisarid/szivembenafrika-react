@@ -21,15 +21,15 @@ export default function useProjectsCards(): CardCatalogueItem[] {
 		},
 		{
 			id: '84-nap',
-			title: t('84days.title'),
+			title: t('84-nap.title'),
 			cover: { src: baseSrc + '84-nap-logo.png' },
-			shortDesc: t('84days.shortDesc'),
+			shortDesc: t('84-nap.shortDesc'),
 		},
 		{
 			id: 'gyermektamogatas',
-			title: t('supportchildren.title'),
+			title: t('gyermektamogatas.title'),
 			cover: { src: baseSrc + 'gyermektamogatas-projekt-2.jpg', style: { objectPosition: '60%' } },
-			shortDesc: t('supportchildren.shortDesc'),
+			shortDesc: t('gyermektamogatas.shortDesc'),
 		},
 		{
 			id: 'shine',
@@ -39,9 +39,9 @@ export default function useProjectsCards(): CardCatalogueItem[] {
 		},
 		{
 			id: 'graduate-a-girl',
-			title: t('graduateagirl.title'),
+			title: t('graduate-a-girl.title'),
 			cover: { src: baseSrc + 'graduate-a-girl-projekt-1.jpg' },
-			shortDesc: t('graduateagirl.shortDesc'),
+			shortDesc: t('graduate-a-girl.shortDesc'),
 		},
 		{
 			id: 'mtwapa',
@@ -51,9 +51,9 @@ export default function useProjectsCards(): CardCatalogueItem[] {
 		},
 		{
 			id: 'eu-program',
-			title: t('euprogram.title'),
+			title: t('eu-program.title'),
 			cover: { src: baseSrc + 'eu-2.jpg', style: { objectPosition: 'top' } },
-			shortDesc: t('euprogram.shortDesc'),
+			shortDesc: t('eu-program.shortDesc'),
 		},
 	];
 }

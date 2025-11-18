@@ -57,17 +57,17 @@ export default function NavBar() {
 
 	const activeNavDropdown = useMemo(
 		() =>
-			menuItems.findIndex(
-				(menuItem) =>
-					menuItem.children?.map((c) => c.route).includes(location.pathname) ||
-					menuItem.route === location.pathname
+			menuItems.findIndex((menuItem) =>
+				[menuItem.route, ...(menuItem.children || []).map((c) => c.route)]
+					.filter(Boolean)
+					.some((route) => location.pathname.includes(route || ''))
 			),
 		[location, menuItems]
 	);
 
 	return (
 		<>
-			<Navbar collapseOnSelect expand='xl' className='moyo-navbar bg-body-tertiary'>
+			<Navbar collapseOnSelect expand='xxl' className='moyo-navbar bg-body-tertiary'>
 				<Container fluid>
 					<Navbar.Brand as={NavLink} to='/'>
 						<div className='icon'>
