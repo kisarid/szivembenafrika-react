@@ -37,7 +37,7 @@ export default function NavBar() {
 					{ label: t('3.submenu2'), route: '/projektjeink/akitogogon' },
 					{ label: t('3.submenu3'), route: '/gyermektamogatas' },
 					{ label: t('3.submenu4'), route: '/graduate-a-girl' },
-					{ label: t('3.submenu5'), route: '/oktatasi-tamogatas' },
+					{ label: t('3.submenu5'), route: '/oktatas-tamogatas-kenya' },
 					{ label: t('3.submenu6'), route: '/adomanyozas' },
 					{ label: t('3.submenu7'), route: '/esemenyek' },
 				],

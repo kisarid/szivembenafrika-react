@@ -621,5 +621,35 @@
 			"If you have any question do not hesitate to contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
 			"If you would like to support the education of a girl by donating 9000 HUF, please send an e-mail to the address above and we will get back to you with all the needed information."
 		]
+	},
+	"education-program-kenya": {
+		"title": "Education sponsorship programme in Kenya",
+		"paragraphs": [
+			{ "type": "header", "text": "Supporting education in Mtwapa" },
+			{
+				"type": "pic",
+				"class": "float-right",
+				"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_2.jpg"
+			},
+			"All the young people in this programme are from Mtwapa and the surrounding area (Kenya's coastal region, Mombasa region); they are all coming from those communities that our local partner organisation is already in contact with for many years. This is especially important, as this way we can make sure, that only those youngsters are included in this programme, who need this support the most.",
+			"This region of Kenya is severely affected with human trafficking, sex tourism and sexual exploitation of the children, therefore, everyone in the programme are either a victim of any of the listed issues or are in an increased danger of exposure because of family or sociocultural, economical environment and situation.",
+			"For security reasons, and because of the sensitivity of the issue, we will not give any information out of this aspect of their lives. Thank you for your understanding.",
+			"As a sponsor, you can do a lot for the chosen child or teenager. Within this programme you can become a sponsor of a young person, for a monthly donation of 8500 HUF, that will provide them the tuition fee, daily meals in the school, books and health care, when needed.",
+			"If you have any question do not hesitate to contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
+			{ "type": "header", "text": "Sponsoring education in one of Kenya's largest slum" },
+			"Korogocho is one of Kenya's largest slum, that was founded on the border of Nairobi's biggest landfill. It doesn't have any infrastructure, tapped water or sewage system. The residents live in houses that they built themselves, using only what they found in the landfill. Its residents struggle to enter the job market, mainly because of lack of education or skills and in some cases, because they live a long distance from the workplace. The crime rate is high, even in broad daylight (theft, burglary, rape, prostitution, drug and weapon trade, etc.). The only way out of this for the young people living here is through education, however, without help, for many, the education is unavailable. Furthermore, many families instead of education, they need their children to work to increase the family's income.",
+			"As a sponsor, you can do a lot for the chosen child or teenager. Within this programme we help the young people living in the slum of Nairobi. THe targeted group lives in extreme poverty, young kids and teenagers, who are exposed to the danger of human trafficking, sexwork and crime group activities. In this programme, you can become a sponsor of a young person, for a monthly donation of 9000 HUF, that will provide them the tuition fee, daily meals in the school, books and health care, when needed.",
+			"If you have any question do not hesitate to contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
+			[
+				{
+					"type": "pic",
+					"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_1.jpg"
+				},
+				{
+					"type": "pic",
+					"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_3.jpg"
+				}
+			]
+		]
 	}
 }

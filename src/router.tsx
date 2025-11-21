@@ -5,7 +5,7 @@ import Blog from './routes/blog';
 import Contact from './routes/contact';
 import Home from './routes/Home/Home';
 import Donations from './routes/how-you-help/donations';
-import EducationProgramKenya from './routes/how-you-help/education-program-kenya';
+import EducationProgramKenya from './routes/how-you-help/EducationProgramKenya';
 import Events from './routes/how-you-help/events';
 import GraduateAGirl from './routes/how-you-help/GraduateAGirl';
 import SupportChildren from './routes/how-you-help/SupportChildren';

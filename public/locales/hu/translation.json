@@ -616,5 +616,35 @@
 			"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
 			"Ha szívesen támogatnád havi 9000 forinttal egy lány oktatását, szintén írj a fenti email címre, mi pedig küldünk neked minden további szükséges információt."
 		]
+	},
+	"education-program-kenya": {
+		"title": "Oktatás támogatási program Kenyában",
+		"paragraphs": [
+			{ "type": "header", "text": "Oktatás támogatás Mtwapaban" },
+			{
+				"type": "pic",
+				"class": "float-right",
+				"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_2.jpg"
+			},
+			"A programban szereplő összes fiatal Mtwapából és a környékéről került a programba (Kenya óceánparti régiója, Mombasa térsége), azokból a közösségekből, amelyekkel a helyi partnerszervezetünk már évek óta kapcsolatban van. Ez azért nagyon fontos, mert így biztos, hogy a leginkább rászorulók kerülnek a programba.",
+			"Kenyának ez a régiója súlyosan érintett az emberkereskedelem, a szexturizmus és a gyermekek szexuális célú kizsákmányolásával, így a programban szereplő összes fiatal vagy érintettje - korábbi áldozata - valamelyik felsorolt problémának vagy pedig családi vagy szociokultúrális, gazdaság közege és helyzete  miatt fokozottan kitett a veszélynek. ",
+			"Biztonsági okokból és a téma érzékenysége miatt az életünknek erről az aspektusáról nem adunk ki információt. Köszönjük a megértéseteket!",
+			"Támogatóként rengeteget tehetsz a kiválasztott fiatalért. Ebben a programban havi 8500 forintos adományoddal támogatójává válhatsz egy fiatalnak, amely biztosítja számára a tandíjat, napi étkezést az iskolában ahová jár, a tanszereit és szükség esetén orvosi ellátást.",
+			"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
+			{ "type": "header", "text": "Oktatás támogatás Kenya egyik legnagyobb nyomornegyedében" },
+			"Korogocho Kenya egyik legnagyobb nyomornegyede, Nairobi legnagyobb szeméttelepe határán alakult ki. Nem rendelkezik kiépített infrastruktúrával, vezetékes vízzel vagy szennyvízhálózattal. A lakosok saját maguk építette házakban laknak melyet, a szeméttelepen talált vagy újrahasznosított anyagokból építettek. Lakói nehezen tudnak belépni a munkaerőpiacra, aminek a fő okai között említhető az iskolázottságbeli hiányosságok, munkaerőpiaci készségek hiánya, vagy akár a munkahelyektől való távolság. A bűnözés mértéke magas, még a nappali órák során is(lopás, betöréses rablás, nemi erőszak, prostitúció, kábítószer és fegyverkereskedelem stb.). Az itt élő fiatalok egyetlen kitörési lehetősége az oktatásban való részvétel, azonban ez segítség nélkül a legtöbbek számára hozzáférhetetlen. Továbbá sok család az oktatás helyett a bevételek növelése céljából az iskola helyett munkára fogja a gyerekeket.",
+			"Támogatóként rengeteget tehetsz a kiválasztott fiatalért. Ebben a programban Nairobi nyomornegyedében lévő iskolásoknak segítünk. A támogatott célcsoport extrém mélyszegényben élő, emberkereskedelem, szexmunka és bűnszervezetek veszélyének kitett gyerekek és kamaszkorú fiatalok. Ebben a programban havi 9000 forintos adományoddal támogatójává válhatsz egy fiatalnak, amely biztosítja számára a tandíjat, napi étkezést az iskolában ahová jár, a tanszereit és szükség esetén orvosi ellátást.",
+			"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
+			[
+				{
+					"type": "pic",
+					"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_1.jpg"
+				},
+				{
+					"type": "pic",
+					"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_3.jpg"
+				}
+			]
+		]
 	}
 }
