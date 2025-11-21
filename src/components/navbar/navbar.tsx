@@ -34,11 +34,12 @@ export default function NavBar() {
 				label: t('3.menu'),
 				children: [
 					{ label: t('3.submenu1'), route: '/onkentesseg' },
-					{ label: t('3.submenu2'), route: '/gyermektamogatas' },
-					{ label: t('3.submenu3'), route: '/graduate-a-girl' },
-					{ label: t('3.submenu4'), route: '/oktatasi-tamogatas' },
-					{ label: t('3.submenu5'), route: '/adomanyozas' },
-					{ label: t('3.submenu6'), route: '/esemenyek' },
+					{ label: t('3.submenu2'), route: '/projektjeink/akitogogon' },
+					{ label: t('3.submenu3'), route: '/gyermektamogatas' },
+					{ label: t('3.submenu4'), route: '/graduate-a-girl' },
+					{ label: t('3.submenu5'), route: '/oktatasi-tamogatas' },
+					{ label: t('3.submenu6'), route: '/adomanyozas' },
+					{ label: t('3.submenu7'), route: '/esemenyek' },
 				],
 			},
 			{
