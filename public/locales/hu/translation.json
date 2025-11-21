@@ -603,5 +603,18 @@
 			"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
 			{ "type": "pic", "src": "/src/assets/images/support-children/gyermektamogatas-2.jpg" }
 		]
+	},
+	"graduate-a-girl": {
+		"title": "Graduate a Girl",
+		"subtitle": "Ugandai oktatástámogatási program",
+		"paragraphs": [
+			"A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. Amikor egy lány legalább a középiskola végéig az oktatásban maradhat, az életeket változtat. Nem csak az övét, hanem a jelenlegi és leendő családjáét, és az egész közösségét, amelyben él.",
+			{ "type": "pic", "class": "float-right", "src": "/src/assets/images/graduate-a-girl/graduate-a-girl.jpg" },
+			"Kutatások bizonyítják, hogy azok a lányok, akik befejezték a középiskolát, tudatosabbak lesznek a családtervezésben, jobb az egészségi állapotuk, alacsonyabb a körükben a HIV fertőzöttek száma, alacsonyabb a munkanélküliség és magasabb bérrel járó munkákat végeznek. Az is kimutatható, hogy a tanult nők gyerekei sokkal magasabb számban és hosszabb ideig vesznek részt az oktatásban, mint az alacsony iskolai végzettséggel rendelkezőké, így ebből is látszik, hogy egy lány oktatásának több generáción átívelő hatása van.",
+			"Manafwában jelenleg a lányok többsége maximum az általános iskola 5.- 6. osztályáig jut el. 13 -14 évesen kell feleséggé válniuk és nem sokkal idősebbek akkor sem, amikor első gyermekükkel várandósak lesznek. A családok nagy szegénységben élnek és mivel az egyre magasabb osztályok egyre magasabb tandíjjal járnak, elérkezik a pont, amikor nem tudják tovább fizetni az iskolát a gyermeküknek, nem tudják tovább gondját viselni és nincs más lehetősége a túlélésre, csak az, hogy férjhez megy. A Graduate a Girl program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek, hogy segítsük őket abban, hogy eljuthassanak a középiskolai érettségiig. Hiszünk benne, hogy minden gyereknek joga van a minőségi oktatáshoz, valamint abban, hogy a lányoknak ugyanolyan esélyeket kell biztosítani, mint a hasonló korú fiúknak.",
+			"Csatlakozz hozzánk és segíts! Váltsuk valóra az álmaikat, változtassunk életeket! A havi támogatás összege 9000 Ft, amely magában foglalja a kiválasztott lány tandíját, tanszereit és szükség esetén az orvosi ellátását.",
+			"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
+			"Ha szívesen támogatnád havi 9000 forinttal egy lány oktatását, szintén írj a fenti email címre, mi pedig küldünk neked minden további szükséges információt."
+		]
 	}
 }

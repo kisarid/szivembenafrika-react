@@ -608,5 +608,18 @@
 			"If you have any question do not hesitate to contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
 			{ "type": "pic", "src": "/src/assets/images/support-children/gyermektamogatas-2.jpg" }
 		]
+	},
+	"graduate-a-girl": {
+		"title": "Graduate a Girl",
+		"subtitle": "Educational program in Uganda",
+		"paragraphs": [
+			"The education of girls is one of the most powerful tool that we have in our hands against the global poverty. When a girl can stay in the educational system till the end of high-school, that changes lives. Not only hers’ but her present and future family’s life, and the life of the community she lives in. ",
+			{ "type": "pic", "class": "float-right", "src": "/src/assets/images/graduate-a-girl/graduate-a-girl.jpg" },
+			"Researches show, that those girls who have graduated from high-school are more conscious in planned-parenthood, have a generally better state of health, and the spread of HIV is lower in their scope, the unemployment is lower and the jobs they have provide higher wages. It is also demonstrable that the educated women’s children will stay in education for longer and in greater numbers, compared to women with lower educationallevel. This highlights that the education of a girl goes beyond and affects more generations.",
+			"In Manafwa the majority of girls only stay in education till 5.- 6. grade. At the age of 13 - 14 they are turned into wives and they are not much older when they are expecting their first child. Families live in serious poverty and by each passing grade the tuiton-fees rise, which means that the time arises when the family is not able to pay these fees any longer. Meaning they cannot take care of these girls, and there is no other chance of survival but getting married. The Gradute Girl program is called to life aiming to prevent the life of these girls from getting sealed by the financial state of the family they were born into, and to help them graduate from High-School. We believe that every child has the right of quality education, and that girls should be granted the same chances as boys of their age get.",
+			"Join us and help! Lets make their dreams come true, and changes their lives! The amount of monthly donation is 9000 HUF, which includes the chosen girls’ tuition-fees, school supplies, and medical attendance if needed.",
+			"If you have any question do not hesitate to contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
+			"If you would like to support the education of a girl by donating 9000 HUF, please send an e-mail to the address above and we will get back to you with all the needed information."
+		]
 	}
 }
