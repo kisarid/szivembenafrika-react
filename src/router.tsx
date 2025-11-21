@@ -9,7 +9,7 @@ import EducationProgramKenya from './routes/how-you-help/education-program-kenya
 import Events from './routes/how-you-help/events';
 import GraduateAGirl from './routes/how-you-help/graduate-a-girl';
 import SupportChildren from './routes/how-you-help/support-children';
-import Volunteering from './routes/how-you-help/volunteering';
+import Volunteering from './routes/how-you-help/Volunteering';
 import Media from './routes/media';
 import Principles from './routes/Principles';
 import Projects from './routes/Projects/Projects';
@@ -117,7 +117,7 @@ export const router = createBrowserRouter([
 				element: <GraduateAGirl />,
 			},
 			{
-				path: '/oktatasi-tamogatas',
+				path: '/oktatas-tamogatas-kenya',
 				element: <EducationProgramKenya />,
 			},
 			{

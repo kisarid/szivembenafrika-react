@@ -1,14 +1,8 @@
-import { CSSProperties } from 'react';
-
-export type CardCataloguePic = {
-	class?: string;
-	style?: CSSProperties;
-	src: string;
-};
+import { Pic } from './global';
 
 export type CardCatalogueItem = {
 	id: string;
 	title: string;
 	shortDesc: string;
-	cover: CardCataloguePic;
+	cover: Pic;
 };

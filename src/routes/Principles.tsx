@@ -1,4 +1,6 @@
 import StickyHeader from '@/components/StickyHeader/StickyHeader';
+import { TranslationParagraph } from '@/interfaces/global';
+import { getParagraphHtml } from '@/util';
 import { useTranslation } from 'react-i18next';
 
 export default function Principles() {
@@ -6,35 +8,11 @@ export default function Principles() {
 
 	return (
 		<>
-			<StickyHeader>{t('header')}</StickyHeader>
+			<StickyHeader>{t('title')}</StickyHeader>
 			<section>
-				<p>
-					<b>{t('1.title')}: </b>
-					{t('1.text')}
-				</p>
-				<div className='pic float-right'>
-					<img src='/src/assets/images/principles.jpg' alt='' />
-				</div>
-				<p>
-					<b>{t('2.title')}: </b>
-					{t('2.text')}
-				</p>
-				<p>
-					<b>{t('3.title')}: </b>
-					{t('3.text')}
-				</p>
-				<p>
-					<b>{t('4.title')}: </b>
-					{t('4.text')}
-				</p>
-				<p>
-					<b>{t('5.title')}: </b>
-					{t('5.text')}
-				</p>
-				<p>
-					<b>{t('6.title')}: </b>
-					{t('6.text')}
-				</p>
+				{(t('paragraphs', { returnObjects: true }) as TranslationParagraph[]).map((p, i) =>
+					getParagraphHtml(p, `principles.paragraphs.${i}`)
+				)}
 			</section>
 		</>
 	);

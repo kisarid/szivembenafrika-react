@@ -49,11 +49,11 @@
 		"p6": "Arra bíztatlak, hogy nézz szét az oldalunkon, ismerd meg a tevékenységeinket, és ha megszólítva érzed magad valamely programunk által, keress meg minket. Kérdezz, beszélgessünk, jelentkezz hozzánk önkéntesnek vagy pedig adományoddal támogasd a munkánkat. Mi már tudjuk: az összefogás csodákra képes!"
 	},
 	"about": {
-		"header": "Csapatunk",
-		"title1": "Küldetésünk",
+		"title": "Csapatunk",
+		"subtitle1": "Küldetésünk",
 		"p1": "Hiszünk benne, hogy mindenki egyenlő és mindenkinek egyenlő esélyek kellene, hogy járjanak. Hogy egyszerűen nem kerülhet valaki rossz helyzetbe amiatt, hogy hová született.   A szegénység felszámolásáért, a társadalmi igazságosságért és a nemek közti egyenlőtlenség megszűntetéséért dolgozunk és azért, hogy minden gyermeknek és nőnek legyen meg a lehetősége egy olyan jövő megteremtésére, amilyet szeretne. Hiszünk abban, hogy a munkánkkal tehetünk egy igazságosan és fenntarthatóan működő világért, amelyben, minden ember élvezheti a jogát a méltóságteljes, nélkülözéstől és elnyomástól mentes élethez.",
-		"title2": "Csapattagok",
-		"title3": "Önkénteseink",
+		"subtitle2": "Csapattagok",
+		"subtitle3": "Önkénteseink",
 		"kzsofi": {
 			"shortBio": "Elnök",
 			"longBio": [
@@ -287,34 +287,19 @@
 		}
 	},
 	"statement": {
-		"header": "Éves beszámolók"
+		"title": "Éves beszámolók"
 	},
 	"principles": {
-		"header": "Alapelvek",
-		"1": {
-			"title": "Humanitárius fejlesztés és nem segély",
-			"text": "a munkánk egyik legfőbb rendezőelve az, hogy nem hiszünk abban, amikor valaki csak és kizárólag segélyezéssel szeretne megoldani egy problémát, mert az csak egy újabb kiszolgáltatottságot eredményez. Azt, hogy a megsegített függjön a segítőjétől. Mi fejleszteni szeretnénk és képessé tenni az embereket arra, hogy saját maguk változtassanak az életükön. Hiszünk benne, hogy hatalmas erő rejlik abban, amikor az ember megérzi, hogy vannak lehetőségei, hogy hozhat döntéseket az élete alakulásáról. Persze a mi projektjeinkben is felfedezhetőek segélyezési elemek is, hiszen van, hogy erre van szükség. Egy egyszerű példával élve: tudjuk, hogy feleslegesen szeretnénk tanítani bármit is, ha addigra mire megtanulnák az adott dolgot éhen halnának."
-		},
-		"2": {
-			"title": "Kontinenseken átívelő tisztelet és a kulturális sokszínűség szeretete",
-			"text": "minden programelemünknél maximálisan figyelembe vesszük és tiszteletben tartjuk a helyi tradíciókat és szokásokat. Mi soha nem azt mondjuk, hogy „csináld ezt…” vagy „ne csináld azt..”, hanem mindig csak rávilágítunk a lehetőségre, hogy lehet ezt máshogyan is. Abban hiszünk, hogy a segítség csak akkor lehet igazán sikeres és tartós, ha a megsegített emberek is magukénak érzik azt. Az a projekt, ami nem az ő igényeiken és szükségleteiket alapszik egyszerűen nem lehet sikeres."
-		},
-		"3": {
-			"title": "Szakmaiság",
-			"text": "Hiszünk abban, hogy soha nem kutatásoknak és elméleteknek kell, hogy kijelöljék az irányt egy egy ilyen projekthez, hanem a közösség problémái és álmai. Ahogy haladunk előre meghallgattunk sok sok álmot, aztán van, aki rámutatott egy őt érintő problémára, aztán ahogy haladunk tovább, találkozunk valakivel, aki még messzebbre mutatott. Ezeknek a találkozásoknak és meghallgatott álmoknak és problémáknak a nyomán születnek meg a projektjeink. Mielőtt belevágunk valamelyiknek a megvalósításába, nagyon fontosnak tartjuk, hogy szakirodalmi és terepkutatás előzze azt meg."
-		},
-		"4": {
-			"title": "Átláthatóság és teljes transzparencia",
-			"text": "egyrészt a helyiek felé, hiszen nagyon fontos nekünk, hogy mindig minden nyíltan legyen feléjük kommunikálva, tudják és értsék, hogy mi miért történik. Másrészt pedig a támogatóink felé és azok felé, akik érdeklődnek a munkánk iránt. Fontosnak tartjuk, hogy elérhetőek és érthetőek legyünk mindenki számára."
-		},
-		"5": {
-			"title": "Fenntarthatóság",
-			"text": "az ENSZ által kitűzött fenntartható fejlődési célok értelmében, a környezetvédelmi szempontok szerint és a projektek fenntarthatósága szempontjából is."
-		},
-		"6": {
-			"title": "A helyben maradás segítése",
-			"text": "Ez az országon belül is fontos, sőt ott fontos csak igazán, hiszen sokan mennek a városokba a vidéki területekről, de a nagy városok nem csak nagy reményeket, de az esetek többségében nagy csalódást is jelentenek. Lehet, hogy valaki egy faluban szegény ugyan, de a szegénységnek van egy megtartó ereje, amíg a városban nyomor vár rá, ami szegregál."
-		}
+		"title": "Alapelvek",
+		"paragraphs": [
+			"<b>Humanitárius fejlesztés és nem segély:</b> a munkánk egyik legfőbb rendezőelve az, hogy nem hiszünk abban, amikor valaki csak és kizárólag segélyezéssel szeretne megoldani egy problémát, mert az csak egy újabb kiszolgáltatottságot eredményez. Azt, hogy a megsegített függjön a segítőjétől. Mi fejleszteni szeretnénk és képessé tenni az embereket arra, hogy saját maguk változtassanak az életükön. Hiszünk benne, hogy hatalmas erő rejlik abban, amikor az ember megérzi, hogy vannak lehetőségei, hogy hozhat döntéseket az élete alakulásáról. Persze a mi projektjeinkben is felfedezhetőek segélyezési elemek is, hiszen van, hogy erre van szükség. Egy egyszerű példával élve: tudjuk, hogy feleslegesen szeretnénk tanítani bármit is, ha addigra mire megtanulnák az adott dolgot éhen halnának.",
+			{ "type": "pic", "class": "float-right", "src": "/src/assets/images/principles.jpg" },
+			"<b>Kontinenseken átívelő tisztelet és a kulturális sokszínűség szeretete:</b> minden programelemünknél maximálisan figyelembe vesszük és tiszteletben tartjuk a helyi tradíciókat és szokásokat. Mi soha nem azt mondjuk, hogy „csináld ezt…” vagy „ne csináld azt..”, hanem mindig csak rávilágítunk a lehetőségre, hogy lehet ezt máshogyan is. Abban hiszünk, hogy a segítség csak akkor lehet igazán sikeres és tartós, ha a megsegített emberek is magukénak érzik azt. Az a projekt, ami nem az ő igényeiken és szükségleteiket alapszik egyszerűen nem lehet sikeres.",
+			"<b>Szakmaiság:</b> Hiszünk abban, hogy soha nem kutatásoknak és elméleteknek kell, hogy kijelöljék az irányt egy egy ilyen projekthez, hanem a közösség problémái és álmai. Ahogy haladunk előre meghallgattunk sok sok álmot, aztán van, aki rámutatott egy őt érintő problémára, aztán ahogy haladunk tovább, találkozunk valakivel, aki még messzebbre mutatott. Ezeknek a találkozásoknak és meghallgatott álmoknak és problémáknak a nyomán születnek meg a projektjeink. Mielőtt belevágunk valamelyiknek a megvalósításába, nagyon fontosnak tartjuk, hogy szakirodalmi és terepkutatás előzze azt meg.",
+			"<b>Átláthatóság és teljes transzparencia:</b> egyrészt a helyiek felé, hiszen nagyon fontos nekünk, hogy mindig minden nyíltan legyen feléjük kommunikálva, tudják és értsék, hogy mi miért történik. Másrészt pedig a támogatóink felé és azok felé, akik érdeklődnek a munkánk iránt. Fontosnak tartjuk, hogy elérhetőek és érthetőek legyünk mindenki számára.",
+			"<b>Fenntarthatóság:</b> az ENSZ által kitűzött fenntartható fejlődési célok értelmében, a környezetvédelmi szempontok szerint és a projektek fenntarthatósága szempontjából is.",
+			"<b>A helyben maradás segítése:</b> Ez az országon belül is fontos, sőt ott fontos csak igazán, hiszen sokan mennek a városokba a vidéki területekről, de a nagy városok nem csak nagy reményeket, de az esetek többségében nagy csalódást is jelentenek. Lehet, hogy valaki egy faluban szegény ugyan, de a szegénységnek van egy megtartó ereje, amíg a városban nyomor vár rá, ami szegregál."
+		]
 	},
 	"card-catalogue": {
 		"desc": "Bővebb információkért kattints a képekre!"
@@ -325,12 +310,12 @@
 			"title": "Manafwa, Uganda",
 			"shortDesc": "Manafwa körzet Uganda keleti régiójában található, központja Manafwa. Keleti és déli oldalon Kenyával határos, nyugati oldalon Mbalé körzet, az északi oldalon pedig Bududa körzet a szomszédja. Az itt élő emberek társadalmi helyzete Uganda egészét vizsgálva középosztálynak mondható ennek ellenére a többség itt is a szegénységi küszöb alatt él. Az emberek legfőbb bevételi forrása a mezőgazdaságból származik.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/where-we-help/manafwa1.jpg" },
+				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/where-we-help/manafwa1.jpg" },
 				"Manafwa körzet Uganda keleti régiójában található, központja Manafwa. Keleti és déli oldalon Kenyával határos, nyugati oldalon Mbalé körzet, az északi oldalon pedig Bududa körzet a szomszédja. A keleti régió legnagyobb városa Mbalé nagyjából 30 kilométerre helyezkedik el a körzet központjától, Manafwától. A körzet 87%-a vidéki terület és csak a fennmaradó 13%-ot tartják városként számon.",
 				"Manafwa körzet lakossága nagyjából 158 000 fő. Az itt élő emberek társadalmi helyzete Uganda egészét vizsgálva középosztálynak mondható. Az emberek itt is a szegénységi küszöb alatt élnek, de megvan a potenciál, hogy kis segítséggel, viszonylag könnyen fejlődjenek. ",
 				"Még abban a házban, ahol élünk sincs vezetékes víz, a kannákban összegyűjtött esővízben fürdünk és áramunk is csak akkor van, amikor a napelemek feltöltődnek, ez esős időszakban csak napi néhány órát jelent. Az ételünket az udvaron, a földön, faszénen főzik és a kamránk például egyben tyúkólként is funkcionál. Mégis azzal, hogy van mit ennünk, van hol laknunk és tudunk venni tiszta vizet, amelyet biztonsággal fogyaszthattunk szerencsésebbek vagyunk, mint a falu lakói.",
 				"Vidék lévén az emberek többségének nincs állandó munkája, gyakorlatilag egyfajta cserekereskedelmet folytatnak egymással. A falu lakói nagy részének a bevétele informális munkákból származik, mint például ásásból, chapati árulásból, ha van bármilyen olyan termésük a ház körül, ami értékesíthető, akkor annak az eladásából. A falu nagyon közel fekszik a kenyai határhoz és ennek az egyik velejárója, hogy nagyon sokan átmennek Kenyába egy jobb élet reményében. Vannak családok, ahol a szülők gyerekeiket hátrahagyva indulnak útnak, de olyan is van, ahol a gyereket adják el mosogatólánynak, vagy takarítónak a szomszédos országba. Amikor elkezdtük nőkkel foglalkozó programjaink, a többségük csak és kizárólak a házkörüli teendőkkel foglalkozott, egyáltalán nem volt saját bevételük. ",
-				{ "class": "float-left", "src": "/src/assets/images/where-we-help/manafwa2.jpg" },
+				{ "type": "pic", "class": "float-left", "src": "/src/assets/images/where-we-help/manafwa2.jpg" },
 				"A körülöttünk lévő sárból döngölt házakban semmilyen áram nincs, a berendezési tárgy nagyjából egy rozoga fekvő alkalmatosság a férfinak, és egy földre leterített rongy a nőknek és a gyermekeknek. A házak egy légterűek, egy kis szobányi hely van, ami egyszerre a hálószoba, gyerekszoba és nappali. A konyha és „mosdó” általában a házon kívül található. Higiéniai szempontból komoly problémát jelent, hogy a faluban nem állnak rendelkezésre mosdók. Toalettként szárított bab levelekkel elkerített területeket használnak, fürdeni pedig lavórban összegyűjtött esővízben fürdenek, de vannak családok ahol ez a heti rendszerességnél is ritkábban történik meg. Ezekben a házakban akár sokgyermekes családok, vagy több generáció is együtt él.",
 				"Amikor megkezdtük itt a munkát, a falubeli emberek többsége nem jutott napi szinten élelmiszerhez, átlagosan heti két – három, a szerencsésebbek esetleg négy napon tudtak enni, akkor is csak napi egyszer.",
 				"Nagyon sok a félárva és árva gyermek a faluban, róluk egyébként a közösség lakói együttesen gondoskodnak. Mindig másik háznál kapnak enni például.",
@@ -341,16 +326,20 @@
 			"title": "Karamoja, Uganda",
 			"shortDesc": "Az észak-nyugat Ugandában található Karamoja régió hét nagyobb területi egységre bontható fel és hozzávetőleg 1,3 milli ember lakja. Uganda legszegényebb régiója, melynek látogatása néhány évvel ezelőttig komoly veszélyt jelentett. Emellett azonban Uganda rejtett gyöngyszeme is, ahol még megtalálható a valódi érintetlen afrikai táj és a hagyományaikat még őrző és aktívan gyakorló törzsek.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/where-we-help/karamoja4.jpg" },
+				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/where-we-help/karamoja4.jpg" },
 				"Az észak-nyugat Ugandában található Karamoja régió hét nagyobb területi egységre bontható fel Kaabong, Kotido, Abim, Moroto, Napak, Amudat és Nakapiripirit. A régiót hozzávetőleg 1,3 millió ember lakja, melynek nagy százaléka mélyszegénységben él. Alapvető problémát jelent a régióban az élelmezés bizonytalansága, illetve a természeti erőforrásokra való nagymértékű támaszkodás. A természeti hatásoknak való túlzott kitettség egyértelműen bemutatja a klímaváltozás hatásait, valamint e változások azonnali mindennapi életet befolyásoló negatív következményeit. Példaként említhetők a rendszeresen előforduló hosszabb szárazságok, majd gyors áradások, melyek negatív hatással vannak a talaj termékenységére. Azonban nem csak külső tényezők nehezítik az itt élők megélhetését, jelen vannak társadalmi és politikai problémák is. ",
 				"A Karamojában élő emberek számára az állattenyésztés és a földművelés biztosítja a fő megélhetési formát. A régión belül egymástól elkülöníthető zónák határozhatók meg az éves csapadék mennyiség függvényében, mely nagymértékben meghatározza az adott területen előállítható javakat. A termesztett növények vízellátását csak az esőzések biztosítják, így azokon a területeket, ahol az esőzés éves mértéke alacsonyabb a hangsúly a nomád állattenyésztés felé tolódik.",
 				"Az állatok birtoklása a társadalmon belül státuszt biztosít, mivel birtoklásuk önmagában jelentheti a gazdagságot, ebből adódóan az állattartáshoz köthető az egyik kiemelt konfliktus, az ún. cattle raids vagy livestock raids, vagyis állatok fegyveres kényszerrel történő eltulajdonítása. A probléma méretét mutatja, hogy az állami erőszakszervezet rendszeres beavatkozásra kényszerül a területen a béke biztosítása érdekében. ",
 				"Az biztonsági szempontokból instabil környezet tovább nehezíti a megélhetést, így bizonyos problémák orvoslása közben új problémák keletkeznek, melyek nem szűnnek meg az eredeti probléma elhárulásával. Ezen problémák összessége vezet az általános szegénységhez, melyek fő kiváltó okai az éveken átívelő gyenge termés, a vízhiány, az elmaradott földművelési technikák, valamint a konfliktusokból adódó létbizonytalanság.",
 				"Az elmúlt években a térségben kialakult helyzet nagyon sokat javult, azonban az itt élő embereket sok hátrány éri a régióról alkotott negatív előítéletek és korábbi tapasztalatok miatt. Fontos kihangsúlyozni, hogy Karamoja sokkal több, mint a fentiekben leírt nehézségek és kihívások. Karamoja ugyanis Uganda rejtett gyöngyszeme is, ahol még megtalálható a valódi érintetlen afrikai táj és a hagyományaikat még őrző és aktívan gyakorló törzsek, valamint az ország egyik legnagyobb nemzeti parkja is itt található.",
 				[
-					{ "class": "top left", "src": "/src/assets/images/where-we-help/karamoja2.jpg" },
-					{ "class": "bottom left", "src": "/src/assets/images/where-we-help/karamoja3.jpg" },
-					{ "class": "span-vertical right", "src": "/src/assets/images/where-we-help/karamoja1.jpg" }
+					{ "type": "pic", "class": "top left", "src": "/src/assets/images/where-we-help/karamoja2.jpg" },
+					{ "type": "pic", "class": "bottom left", "src": "/src/assets/images/where-we-help/karamoja3.jpg" },
+					{
+						"type": "pic",
+						"class": "span-vertical right",
+						"src": "/src/assets/images/where-we-help/karamoja1.jpg"
+					}
 				]
 			]
 		},
@@ -358,31 +347,31 @@
 			"title": "Nairobi nyomornegyedei",
 			"shortDesc": "Ezek a területek nem rendelkeznek kiépített infrastruktúrával, vezetékes vízzel vagy szennyvízhálózattal. A lakosok saját maguk építette házakban laknak melyet, a szeméttelepen talált vagy újrahasznosított anyagokból építettek. A nyomornegyed lakói nehezen tudnak belépni a munkaerőpiacra, aminek a fő okai között említhető az iskolázottságbeli hiányosságok, munkaerőpiaci készségek hiánya, vagy akár a munkahelyektől való távolság. A bűnözés mértéke magas, még a nappali órák során is. A nyomornegyedekben élő fiatalok kitörési lehetősége az oktatásban való részvétel, azonban ez sok család számára okoz anyagi nehézséget az egyéb szükségszerű kiadások mellett. Sok család az oktatás helyett a bevételek növelése céljából az iskola helyett munkára fogja a gyerekeket.",
 			"paragraphs": [
-				{ "src": "/src/assets/images/where-we-help/nairobi1.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi1.jpg" },
 				"Nairobi központjától észak-keletre található Korogocho, egy 1,5 négyzetkilométer kiterjedésú terület, melyen 150.000-200.000 ember él közvetlenül Nairobi legnagyobb szeméttelepének szomszédságában. Korogocho benépesedése az 1960-as évek során kezdődött meg a vidékről a városba betelepülő emberek által, jelenleg pedig Nairobi negyedik legnagyobb nyomornegyedének számít. ",
 				"A terület nem rendelkezik kiépített infrastruktúrával, vezetékes vízzel vagy szennyvízhálózattal. A lakosok saját maguk építette házakban laknak melyet, a szeméttelepen talált vagy újrahasznosított anyagokból építettek, de az sem meglepő hogy nejlon szatyrokból van megépítve a lakhelyük fala. Ilyen anyagok közé tartoznak az olajos hordók vagy akár a sár, világításhoz pedig többnyire parafin lámpákat használnak. A vízszükségletüket vizet áruló standokról fedezik, melyeknél az árak a kínálat szűkössége esetén akár több mint a 200%-ot is emelkedhetnek, valamint a legtöbb akár adományként épített kút is a vízmaffia kezében van. Az infrastruktúrális hiányosságok és a nagy népsűrűség higiéniai és egészségügyi problémákat is okoznak, melyek kezelésének lehetősége sem kielégítő. Tavaly például kitört az elmúlt évtizedek egyik legnagyobb kolera járványa.",
 				"A nyomornegyed lakói nehezen tudnak belépni a munkaerőpiacra, aminek a fő okai között említhető az iskolázottságbeli hiányosságok, munkaerőpiaci készségek hiánya, vagy akár a munkahelyektől való távolság, ebből kifolyólag a lakosok nagyrésze él a szeméttelepen talált dolgokkal való kereskedésből, vagy fordul a bűnözés felé.",
 				"A bűnözés mértéke magas, még a nappali órák során is, a biztonságérzetet pedig tovább csökkenti az illegális tevékenységek jelenléte, mint az illegális tudatmódosító szerek készítése terjesztése, lopott értéktárgyakkal való üzletelés vagy a prostitúció. Jelentősek továbbá a felsorolt tevékenységek folytató bűnözői csoportok összetűzései.",
 				"A nyomornegyedekben élő fiatalok kitörési lehetősége az oktatásban való részvétel, azonban ez sok család számára okoz anyagi nehézséget az egyéb szükségszerű kiadások mellett. Sok család az oktatás helyett a bevételek növelése céljából az iskola helyett munkára fogja a gyerekeket. Kenyában az általános iskolai oktazás ingyenes azonban Korogocho csak két közösségi iskolával rendelkezik, ahova nagyjából 4000 gyerek jár.",
-				{ "src": "/src/assets/images/where-we-help/nairobi3.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi3.jpg" },
 				"Nairobi központjától nagyjából 6 kilométerre található a város és egyben Afrika legnagyobb nyomornegyede Kibera. A 2009-ben végzett hivatalos kenyai népszámlálás alapján lakosainak száma 170.000 főre tehető, azonban egyes értesülések ezt a számot 500.000 vagy akár 1 millió fő környékére teszik. Az eltérés attól függő, hogy hogyan határozzák meg a nyomornegyed határait.",
 				"Nairobit az Ugandai Vasútvonal építésekor alapították 1899-ben, azzal a céllal, hogy lakóhelyet biztosítsanak a Brit Birodalmi tisztviselőknek, illetve az olcsó munkaerőt biztosító afrikai és ázsiai munkásoknak, akiket jellemzően alacsonyabb rendű vagy fizikai munkákra alkalmaztak. Az 1900-tól 1940-ig terjedő időszakban több a szegregációt elősegítő és fenntartó törvénykezés lépett hatályba, mely többek között meggátolta az afrikaiak szabad költözését a városban. Nairobit az ehhez hasonló intézkedések etnikai csoportok mentén szegregálták. Egy ilyen szegregátumként alakult ki Kibera is, mely kezdetben a britek szolgálatában álló afrikai katonák lakhelye volt. Az évek során a kormányzó szerv informálisan engedélyezte a település növekedését, mivel a gazdasági fejlődés fenntartásához szüksége volt az olcsó munkaerőre. Ezen felfogás mentén több nyomornegyed keletkezett.",
 				"Kenya 1963-as függetlenedésével törvényi úton próbálták szabályozni a nyomornegyedek terjedését, bizonyos lakhatási formák betiltásával, mely azonban nem vezetett célra. A lakhatás drágulásával a nyomornegyedek továbbra is fennmaradtak, azon egyszerű okból kifolyólag, hogy az itt kiadásra kínált „lakások” relatív elérhető áron biztosítottak lakhatást.",
 				"A kiberai lakosok nagyrésze nagyfokú szegénységben él, a lakosság nagyrésze munkanélküli, nehezen jut alapvető szükségletihez, élelemhez vagy akár vízhez. Magas a különböző betegségek fertőzések aránya a lakosság körében, amelyek kezelésére szolgáló orvosi ellátás is nehezen hozzáférhető. A nyomornegyed területe jelentősen szennyezett, az utcákat szemét, valamint a nyílt csatornarendszer miatt emberi ürülék borítja. ",
-				{ "src": "/src/assets/images/where-we-help/nairobi4.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi4.jpg" },
 				"Mombasa a Kenya dél-keleti részén fekvő partmenti város, Kr.u. 900 körüli alapításával Kenya legrégebben alapított, jelenleg második legnagyobb városa. A város elhelyezkedése történelmileg fontos kereskedelmi csomóponttá, valamint jelentős turisztikai célponttá tette, és jelenleg is kiemelt gazdasági központja Kenyának. Jelentős a kávé, élelmiszer, kereskedelme és vegyipara, továbbá Kenya kiszolgálja a szomszédos országok Tanzánia és Uganda kereskedelmi igényeit is a városon keresztül.",
-				{ "src": "/src/assets/images/where-we-help/nairobi2.jpg" }
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi2.jpg" }
 			]
 		},
 		"mombasa": {
 			"title": "Mombasa és környéke",
 			"shortDesc": "Mombasa és környéke világszerte ismert és kedvelt turista desztináció. Nagyjából az év egészében kellemes az idő, a szuahéli emberek kedvessége, a konyhájukra jellemző finom ízek és a csodás tengerpart sokakat hívogat. A napfény és kéklő víz azonban gyakran sötét dolgokat rejt. A helyiek többsége a turizmusból él és luxus szállodák ide vagy oda, mégis nagyon szegények. Valamint pont a turizmussal összefüggésben nagyon magas a térségben az emberkereskedelemmel és szexturizmussal kapcsolatos bűncselekmények és problémák előfordulás.",
 			"paragraphs": [
-				{ "src": "/src/assets/images/where-we-help/mombasa1.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/mombasa1.jpg" },
 				"Mombasa a történelem során, kiemelt elhelyezkedése miatt sok birodalom érdekszférájába tartozott, és még szélesebb körben folytatott kereskedelmet. A város birtoklásáért sok hadjárat folyt egészen az 1840-es évekig, amikor a Zanzibári szultán uralma alá került majd a Brit Birodalom része lett 1895-ben. A város építészete és etnikai összetétele is tükrözi a sokféle kulturális behatást. A Brit Birodalom részeként pedig az olcsó munkaerő felhasználása érdekében, az Ugandai Vasútvonal építése során különböző etnikumú csoportokat telepítettek a városba.",
 				"A város északi partszakaszán az város egy gazdagabb negyedének a szomszédságában található Mombasa egyik legsűrűbben lakott területe Kongowea. Itt jellemzően a városba munkalehetőség reményében beköltöző lakosok élnek, akik a környező gazdagabb negyedekben vállalnak alkalmi munkákat. Ebben a negyedben is – az elhelyezkedésétől függetlenül - jelen vannak a nyomornegyedekből ismert problémák a bűnözés magas aránya, a köztisztaság alacsony mértéke, és az alapszükségletek kielégítésének nehézsége.",
 				"A térségben kiemelten fontos számunkra Mtwapa, amit sajnálatos módon emberkereskedelmi és szexturisztikai központként is lehetne hívni, a város teljes gazdasága és infrastruktúrája erre épült rá és itt található a székhelye a partnerszervezetünknek, akikkel közösen a fent említett témák visszaszorításán, az áldozattá válás megelőzésén valamint az áldozatok rehabilitációján és reintegrációján dolgozunk.",
-				{ "src": "/src/assets/images/where-we-help/mombasa2.jpg" }
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/mombasa2.jpg" }
 			]
 		}
 	},
@@ -400,10 +389,10 @@
 				"Gyakorlati: olyan dolgokat tanulnak, amelyek egyrészt a házkörüli mindennapjaikat segítik, másrészt pénzkereseti lehetőséget biztosít számukra. Például: bel- és külpiacon egyaránt értékesíthető kézműves termékek elkészítése, szakképzés (első sorban szabás-varrás), egyéb szolgáltatások (pl.fodrászat).",
 				"Női programjainkkal további célunk, hogy a gyerekek kapjanak egy példát, lássák, hogy a szülőnek is érték a tanulás, leckét ír, képzi magát, otthon is gyakorol. Nő a nők közösségen belüli megbecsültsége és nő az önbizalmuk, a saját magukba vetett hitük.",
 				[
-					{ "src": "/src/assets/images/projects/noi-program-1.jpg" },
-					{ "src": "/src/assets/images/projects/noi-program-2.jpg" },
-					{ "src": "/src/assets/images/projects/noi-program-3.jpg" },
-					{ "src": "/src/assets/images/projects/noi-program-4.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-2.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-3.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-4.jpg" }
 				]
 			]
 		},
@@ -411,14 +400,15 @@
 			"title": "84 nap projekt",
 			"shortDesc": "A szub-szaharai Afrikában élő kamaszlányok és nők átlagosan évi 84 napra esnek ki a munkából és az iskolából a menstruációs szegénység miatt, ami aztán további súlyos problémákhoz vezet.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/projects/84-nap-logo.png" },
+				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/projects/84-nap-logo.png" },
 				"Képzeld el milyen lenne, ha egy évben 84 napra kiesnél az iskolából vagy a munkádból. Képzeld el, mennyi tudásból, lehetőségből és élményből maradnál akkor ki? A szub-szaharai Afrikában élő kamaszlányoknak és nőknek, nem kell ezen gondolkodniuk. Nem kell kényszeríteniük magukat arra, hogy el tudják ezt képzelni, hiszen ez a valóságuk. Igen, bizony, jól olvastad! Abban a térségben átlagosan ennyi napot kell az iskolából és a munkahelyről távol maradniuk a nőknek a menstruációs szegénység, a tabuk és tévhitekből eredő „period shaming” miatt.",
 				"A projekt programjai alapvetően olyan témákkal foglalkoznak, amelyekkel már korábban is dolgoztunk vagy elkezdtünk dolgozni, mint – a teljesség igénye nélkül - a menstruációs szegénység, a „period shaming”, a családonbelüli és szexuális erőszak, a gyermekházasság és leányanyas lányok és az oktatás helyzete.",
 				"Felmerülhet bennetek a kérdés, hogy miért választottuk ezt a főleg a menstruációs szegénységre reflektáló 84 nap elnevezést egy ilyen szerteágazó programnak?! A válasz egyszerű: hiszünk abban, hogy a fentiekben felsorolt problémák nagyon sok esetben közös tőről fakadnak, és nem tudunk az egyik területen segíteni úgy, hogy egy másikat figyelmen kívül hagyunk. A munkánk egyik legfontosabb alapelve mindig is az volt, hogy összetett problémára, összetett megoldást kell kínálni.",
 				"Hiszünk abban, hogy tabukat le kell dönteni, a stigmatizálást fel kell számolni és meg kell teremtenünk azt a békés, biztonságos és bátorító  közeget, ahol ezek a fantasztikus, okos és bátor lányok és nők nem élnek többé félelemben, nem élnek többé kiszolgáltatottan, nem járnakleszegett fejjel, hanem megérzik és elhiszik a bennük rejlő képességet és végtelen lehetőséget arra, hogy a hozzájuk méltó életet élhessék.",
-				{ "class": "float-right", "src": "/src/assets/images/projects/84-nap-1.jpg" },
-				"<b>Menstruációs szegénység felszámolása</b>",
+				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/projects/84-nap-1.jpg" },
+				{ "type": "header", "text": "Menstruációs szegénység felszámolása" },
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"Testtudat",
@@ -427,7 +417,7 @@
 						"Tabuk ledöntése: férfiak oktatása is"
 					]
 				},
-				"<b>Nők és lánygyermekek elleni erőszak</b>",
+				{ "type": "header", "text": "Nők és lánygyermekek elleni erőszak" },
 				"A nők és lánygyermekek elleni erőszak bármilyen formája megsértése és semmibevétele az alapvető emberi jogoknak, és ez a probléma világszerte minden harmadik nőt érint.",
 				"Nők milliói szenvednek el valamilyen erőszakot az életük során, ideértve a fizikai vagy mentális bántalmazást, szexuális erőszakot, szexuális kizsákmányolást, gyermekházasságot vagy akár a leányanyaságot is.",
 				"Az áldozatok túlélőinek különböző mentális és fizikai sérülésekkel kell tovább élniük, mint például a poszt traumás stressz szindróma, a depresszió, a töréssel és vérzéssel járó sérülések, a HIV és más nemi úton terjedő betegségek vagy a nem kívánt terhesség.",
@@ -436,11 +426,11 @@
 				"A nők elleni erőszak sajnos egy globális jelenség, de azok a nők és lányok, akik szegénységben élnek még nagyobb veszélynek vannak kitéve.",
 				"A bántalmazás a lányok, nők mindennapjainak az elfogadott része. Célunk egy olyan védőháló létrehozása, amely védelmet és segítséget nyújt számukra már az áldozattá válás előtt.",
 				"Szemlélet formálással és oktatással pedig szeretnénk, ha a fent említett problémák nem csak visszaszorulnának, de meg is szűnnének a közösségen belül.",
-				"<b>Gyermekházasság és leányanyaság felszámolása</b>",
+				{ "type": "header", "text": "Gyermekházasság és leányanyaság felszámolása" },
 				"Azok a lányok, akik gyermekként házasságra kényszerülnek sokkal nagyobb eséllyel válnak családon belüli erőszak áldoza azok akik felnőttként, szabad választással házasodnak.",
 				"A gyermekházasság ellopja a gyerekkorukat, a tanulási lehetőségüket, az egészségüket és a szabadságukat és a legtöbb esetben egész hátralévő életükre erőszak áldozatává teszi őket. A házasságot pedig rövid időn belül az követi, hogy leányanyává kell válniuk. Ezek a lányok egyszerűen még sem fizikailag, sem érzelmileg nem állnak készen a szexuális életre, a várandósságra és a szülésre.",
 				"Szeretnénk, ha a közösségben ahol dolgozunk, a gyermekházasság tradíciója véget érne, ezért edukáljuk a közösség tagjait, rangidős döntéshozóit, a szülőket és magukat a fiatal lányokat és fiúkat is a gyermekházasság negatív hatásairól. Bíztatjuk a lányokat arra, hogy találjanak rá a hangjukra és merjenek nem-et mondani.",
-				"<b>Emberkereskedelem elleni küzdelem</b>",
+				{ "type": "header", "text": "Emberkereskedelem elleni küzdelem" },
 				"Figyelemfelhívó, úgynevezett “community awareness” programokat szervezünk és tartunk Ugandában és Kenyában, amelyek keretében gyerekeket és fiatalokat tanítunk a gyermekjogokról, emberi jogokról, biztonságos kapcsolatokról, női csoportokat és felnőtt közösségeket az emberi jogokról, a biztonságos migrációról és az emberkereskedelem természetéről és veszélyeiről. Emellett szakmai partnereinkkel együttműködve dolgozunk az áldozatul esett - többnyire - nők feltérképezésén, mentésén, rehabilitálásán(egészségügyi és mentális értelemben is) és reintegrálásán.",
 				"A jövőben szeretnénk védett házakat kialakítani Manafwában (Uganda) és Karamojában (Uganda) is."
 			]
@@ -451,8 +441,8 @@
 			"paragraphs": [
 				"Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon, egy gyerek luxusnak számít. Gyermektámogatási programunk keretében havi 7500 Ft-os adományért a támogató jelképes örökbefogadó szülővé válhat. Ez az az összeg, amely fedezi egy gyerkőc oktatását, tanszereit, étkezését és szükség esetén az orvosi ellátását. Mi pedig rendszeres időközönként hírt adunk a gyerkőc fejlődéséről, tanulmányi eredményeiről, fontosabb életeseményeiről, valamint küldünk róla fotókat, videókat.",
 				[
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
 				]
 			]
 		},
@@ -465,8 +455,8 @@
 				"Jelenleg kidolgozás alatt áll egy sporttehetség gondozó programunk az iskola diákja körében, hiszen a sportnak megtartó ereje van és az időben felfedezett és gondozott tehetség kitörést jelenthet a nehéz sorsból.",
 				"Nagyon sokat érdeklődnek Magyarországról és mi fontosnak tartjuk, hogy öregbítsük országunk hírnevét, úgyhogy ezek a gyermekek tudják, hogy hogy néz ki a Balaton, mi az a puli és ettek már Pilóta kekszet.",
 				[
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
 				]
 			]
 		},
@@ -474,7 +464,11 @@
 			"title": "Graduate a Girl - oktatástámogatási program",
 			"shortDesc": "A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. A program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/projects/graduate-a-girl-projekt-1.jpg" },
+				{
+					"type": "pic",
+					"class": "float-right",
+					"src": "/src/assets/images/projects/graduate-a-girl-projekt-1.jpg"
+				},
 				"A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. Manafwában jelenleg a lányok többsége maximum az általános iskola 5.- 6. osztályáig jut el. 13 -14 évesen kell feleséggé válniuk és nem sokkal idősebbek akkor sem, amikor első gyermekükkel várandósak lesznek. A program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek, hogy segítsük őket abban, hogy eljuthassanak a középiskolai érettségiig. Havi 9000 Ft-os adománnyal segítheti a támogató egy kamasz lány oktatását. Ez az összeg fedezi az oktatását és szükség esetén az orvosi ellátását.",
 				"A programról bővebben a <a href=\"/graduate-a-girl\">Graduate a Girl</a> oldalon olvashatsz."
 			]
@@ -483,11 +477,11 @@
 			"title": "Oktatás támogatás Mtwapaban",
 			"shortDesc": "A programban szereplő minden fiatal az emberkereskedelem és/vagy szexturizmus áldozata vagy ezek veszélyének fokozottan kitett. A program célja, hogy iskolába járhassanak és tanulhassanak.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/projects/mtwapa.jpg" },
+				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/projects/mtwapa.jpg" },
 				"A programban szereplő összes fiatal Mtwapából és a környékéről került a programba. Ez a régió súlyosan érintett az emberkereskedelem, a szexturizmus és a gyermekek szexuális célú kizsákmányolásával, így a programban szereplő összes fiatal vagy érintettje - korábbi áldozata - valamelyik felsorolt problémának vagy pedig családi vagy szociokultúrális, gazdaság közege és helyzete  miatt fokozottan kitett a veszélynek.",
 				"Támogatóként rengeteget tehetsz a kiválasztott fiatalért. Ebben a programban havi 9000 forintos adományoddal támogatójává válhatsz egy fiatalnak, amely biztosítja számára a tandíjat, napi étkezést az iskolában ahová jár, a tanszereit és szükség esetén orvosi ellátást.",
 				"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
-				"A programról bővebben az „Oktatás támogatás Kenyában” menüpont alatt olvashatsz."
+				"A programról bővebben az <a href=\"/oktatas-tamogatas-kenya\">Oktatás támogatás Kenyában</a> oldalunkon olvashatsz."
 			]
 		},
 		"eu-program": {
@@ -497,6 +491,7 @@
 				"Hiszünk abban, hogy minden embernek jár, hogy a lehető legegészségesebb életet élje, és amikor megbetegszik, megkapja a számára szükséges segítséget. Rendszeres orvosi misszióink alkalmával a gyógyítás mellett nagy hangsúlyt fektetünk az oktatásra, betegedukációra és megelőzés különböző formáira, illetve helyi egészségügyi dolgozók képzésére is, hogy akkor se késsen a segítség, ha mi nem vagyunk ott.",
 				"Egészségügyi programunk legfőbb elemei:",
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"Szükséges és hiányzó vakcináció beadása, pótlása",
@@ -512,10 +507,10 @@
 					]
 				},
 				[
-					{ "src": "/src/assets/images/projects/eu-1.jpg" },
-					{ "src": "/src/assets/images/projects/eu-2.jpg" },
-					{ "src": "/src/assets/images/projects/eu-3.jpg" },
-					{ "src": "/src/assets/images/projects/eu-4.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-2.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-3.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-4.jpg" }
 				]
 			]
 		},
@@ -527,10 +522,11 @@
 				"<b>Karamoja:</b> Karamojában és a szomszédos kenyai és szudáni területeken találták az emberiség legősibb nyomaira utaló csontvázakat és használati tárgyakat, szóval bátran kijelenthetjük, hogy az emberiség bölcsőjének nevezett afrikai kontinensnek is arról a részéről van szó, ahonnan az emberiség fejlődése elindult. Ez az ősiség ott van a régió minden egyes szegletében, a különleges talajban, a sokat látott hegyekben, a levegő semmihez sem hasonlítható illatában, az emberek rezilienciájában és lenyűgözően sokszínű kultúrájában.",
 				"A térségben jelenlévő sok évtizedes konfliktus miatt a régió teljesen elzárttá vált az ország többi részétől és számos stigma került rá, amely igen csak megnehezíti az itt élő emberek életét. Uganda legszegényebb régiója, bizonyos szempontból azonban mégis a leggazdagabb, hiszen minden más területhez képest a legjobban itt őrzik az emberek a törzsi hagyományaikat, hitrendszerüket és ezek a mai napig meghatározzák a mindennapi szokásaikat, működésüket és társadalmi berendezkedésüket.",
 				"Karamoja Uganda északkeleti részén található, az ország egyik leggyönyörűbb, ugyanakkor legszegényebb régiója. Az oktatási lehetőségek még afrikai viszonylatban is  rendkívül korlátozottak, gyakorlatilag csodaszámba megy a minőségi oktatás és az is, ha valaki számára ez hozzáférhető. A helyi közösségek főként pásztorkodással és földműveléssel foglalkoznak, amelyet egyre nagyobb mértékben nehezít meg a szélsőséges időjárás, melynek legszembetűnőbb tünete az extrém vízhiány. Az olyan törzsi szokások, mint például a korai (gyermek-) kényszerházasság, leányanyaság és a női nemiszerv csonkítás, bár hivatalosan törvénybe ütköző, a gyakorlatban sajnos még mindig jelen vannak és a mindennapi élet részét képezik, ami tovább nehezíti a lányok életét és ellehetetleníti jövőjüket.",
-				{ "src": "/src/assets/images/projects/akitogogon-3.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/projects/akitogogon-3.jpg" },
 				"<b>Hogyan tudsz segíteni? Ismét nagyot mertünk álmodni és ezúttal a célunk 60 lánynak otthont, biztonságot, méltóságot, oktatást és esélyt adni Karamoja területén, a 2025 februárjában kezdődő tanévtől, ehhez keresünk támogatókat.</b>",
 				"A támogatás kétféleképpen is lehetséges: ",
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"Havonta <b>20.000 Ft</b> egy lány teljes életét megváltoztatja: ez az összeg fedezi egy lány teljes lakhatását, oktatását, étkezését, és ellátását",
@@ -539,15 +535,16 @@
 					]
 				},
 				"<b>Projektünk:</b> A Szívemben Született Afrika és a Shanita szervezete közös programot indít Karamojában. A Shanita már évek óta sikeresen működtet a térségben hasonló, a gyermekek oktatására és biztonságának megteremtésére irányuló programot, amelyet most a szervezetünk több évnyi, a lányok és nők helyzetének javítása, az őket ért struktúláis hiányosságokból, törzsi berögződésekből eredő hátrányok csökkentése területén szerzett tapasztalataival egyesítettünk. Összefogásunk célja, hogy még több lányt tudjunk egy, a még eddiginél is magasabb szinten támogatni. Közös értékrendünk és szakmai alapelveink mentén építettük fel a programot, melynek kritikus eleme a valós helyi szükségletekre és igényekre való reflektálás, valamint a helyi közösségek kulturális és törzsi szokásainak tiszteletben tartása, a helyiekkel és az ő hosszútávú, fenntartható támogatásuk érdekében történő együttműködés. ",
-				{ "src": "/src/assets/images/projects/akitogogon-1.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/projects/akitogogon-1.jpg" },
 				"<b>A két szervezet hátteréről:</b> Zsófi a Szívemben Született Afrika alapítójaként, Lior pedig a Shanita első embereként egymástól függetlenül, különböző utat bejárva, de végül Ugandában találtak rá második otthonukra és hivatásukra. Bár egyesületeink is egymástól függetlenül, a világ két távoli pontjáról üzemeltetve működnek, rengeteg közös vonásra tudunk építeni az együttműködésünk során. Mind a Szívemben Született Afrika, mind a Shanita alapvető meggyőződése, hogy az emberi jóság és összefogás csodákra képes, ez hajt minket előre abban, hogy gyermekeknek, fiataloknak és felnőtt nőknek nyújtsunk fenntartható támogatást Ugandában, amely számukra sok esetben élet-halál kérdése. Munkánk során fontos szakmai alap megfontolás, hogy helyi emberek bevonásával és alkalmazásával dolgozzunk, alapos terepmunkát követően indítsuk el programjainkat, hogy tevékenységünk minden eleme azt szolgálhassa, hogy valós szükségletekre válaszoljunk. ",
 				"<b>A projekt részletei:</b>",
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"<b>Miben más ez a projekt?</b> Célunk, hogy a 2025 februárjában induló tanévben 60 lány jövőjét tudjuk megalapozni egy általunk felújított és berendezett karamojai iskolában. Bár a lányok egy iskola területén fognak élni, az oktatás csak egy eleme a programunknak: a projektbe bekerülő lányokat olyan környezetből emelünk ki, ahol nem csupán a szegénység, hanem erőszakos és törvénytelen törzsi szokások áldozataivá válnának, így az oktatás mellett lakhatást, étkezéseket, foglalkozásokat és mentálhigiénés segítséget is nyújtunk a program keretein belül.",
 						"<b>A lányok hátteréről:</b> A projekt területén élő törzseknél a mai napig elterjedt szokás, hogy a lányok anyagi megfontolásból, már 8-12 éves korukban menyasszonyokká válnak, a vőlegény pedig egy idősebb férfi, jellemzően több feleséggel. Az első menstruációjuktól kezdve a fiatal lányokat alkalmasnak ítélik a feleség szerepre és újdonsült férjük magukkal is viszi őket. A karamojai lányokat sajnos nem ez az egy veszély fenyegeti, hiszen szintén aktív törzsi szokás a női nemiszerv csonkítás, de a térségre kimagasló mértékben jellemző a gyermekmunka és a gyermekprostitúció is.",
-						{ "src": "/src/assets/images/projects/akitogogon-2.jpg" },
+						{ "type": "pic", "src": "/src/assets/images/projects/akitogogon-2.jpg" },
 						"<b>Hosszútávú, szakmai alapokon nyugvó megoldások:</b> Ebben a projektben is kiemelten fontos számunkra a holisztikus megközelítés, hiszen abban hiszünk, hogy összetett problémákra, összetett megoldással kell reagálni. Fontos, hogy a lányokat a családjuk beleegyezésével vesszük fel a programba, amihez fontos, hogy értsék és megértsék, mit jelent az oktatás, megmutassuk annak előnyeit, ezért egy, a helyiek közül választott szociális munkással érzékenyítő és edukációs programot is tartunk. A siker egy fontos tényezője, hogy a családok rövid távon kieső jövedelmét helyettesítsük, így a közösségeknek fenntartható, hosszútávú lehetőségeket kínálunk, hogy ne kelljen lányaik kiházasításából élniük: megtanítjuk őket kézműves termékek előállítására és értékesítésére, amelyekből fenntarthatják magukat.",
 						"<b>Teljes körű ellátás:</b> A kimentett lányoknak biztonságos szállást, oktatást, iskolán kívüli foglalkozásokat, étkezést, orvosi ellátást mentálhigiénés foglalkozást is biztosítunk. De a program valójában ennél sokkal többet ad számukra: biztonságot, gyermekkort, lehetőségeket, esélyt egy jobb életre, sőt sok esetben konkrétan a túlélésre."
 					]
@@ -556,5 +553,44 @@
 				"<i>A képeket a Shanita készítette.</i>"
 			]
 		}
+	},
+	"volunteering": {
+		"title": "Önkéntesség",
+		"paragraphs": [
+			{ "type": "pic", "class": "float-right", "src": "/src/assets/images/volunteering/atadas.jpg" },
+			{ "type": "header", "text": "Önkéntességgel kapcsolatos alapelveink" },
+			"Mi, a Szívemben Született Afrikánál hiszünk abban, hogy az önkéntes szerepvállalás izgalmas, tartalmas, sokszínű és lélekemelő. Hiszünk abban, hogy minden önkéntes megtalálhatja nálunk a maga számára a változatos, gyakran kihívásokban gazdag, a segítségnyújtáson túl az egyéni fejlődést elősegítő feladatokat. Hiszünk abban, hogy az eredményes segítségnyújtás egyik alappillére a sokszínű, összetartó csapat, így tárt karokkal várjuk kortól, nemtől, élethelyzettől függetlenül minden olyan érdeklődő jelentkezését, aki szívesen csatlakozna be a munkánkba. Hiszünk a társadalmi felelősségvállalás fontosságában, így arra törekszünk, hogy szervezett keretek között minden önkéntesünknek lehetőséget biztosítunk ennek a megtapasztalására.",
+			"Tudjuk, hogy akár itthon is, de az afrikai önkéntes munkák alkalmával pedig különösen van esély arra, hogy az önkénteseink lelkileg megterhelőbb történetekkel, helyzetekkel is találkoznak. Ezért folyamatos, jól átgondolt és tapasztalati tudáson alapuló képzéseinkkel igyekszünk a lehető leginkább felkészíteni minden csapattagot az adott feladat elvégzésére, majd amennyiben szükséges szupervíziós lehetőséget is biztosítunk. Hiszünk abban, hogy eredményesek csak valódi csapatban lehetünk és hogy bármilyen feladatot sokkal élvezetesebb jó társaságban végezni, így folyamatosan tartunk csapatépítő programokat, hogy a csoportból csapattá váljanak önkénteseink is és lehetőségük nyíljon minél jobban megismerni a szervezet tagjait is.",
+			"A szervezetünk vallás és politikamentesen működik és ezeket az alapelveket az önkéntes munka során is tiszteletben tartjuk.",
+			{ "type": "header", "text": "Az önkéntessé válás menete" },
+			"Ahhoz, hogy a Szívemben Született Afrika önkéntese lehess, a következő lépések megtétele szükséges:",
+			{
+				"type": "list",
+				"listType": "ul",
+				"listItems": [
+					"Olvasd el <a href=\"/files/Infopack_Onkentesseg_SzivembenAfrika.pdf\">Infopackünket</a>, mely Önkénteseinknek készült és minden fontos információt tartalmaz, amire első körben szükséged lehet.",
+					"Amennyiben egyetértesz az Infopackben leírtakkal, kérjük töltsd ki a <a href=\"https://forms.gle/kaTAhGQpjYXyTt4EA\">Jelentkezési formot</a>. Erre azért van szükség, hogy jobban megismerhessünk, átlássuk milyen céllal és motivációval érkeztél szervezetünkhöz, milyen tevékenységgel foglalkoznál szívesen. A kérdőív kitöltése több időt vesz igénybe, mert motivációs kérdések is szerepelnek benne, így ezt kérjük vedd figyelembe, mielőtt belevágsz.",
+					"Ezt követően egy személyes találkozásra hívunk majd, hogy megismerkedhessünk veled.",
+					"Ezzel bekerülsz az önkéntes csapatunkba és folyamatosan értesítünk majd azokról az eseményekről és feladatokról, amikbe be lehet kapcsolódni.",
+					"Évente kétszer tartunk egy csapatépítéssel egybekötött képzést. Egy ilyenen a jelentkezésedet követően egy éven belül részt kell venned. Az afrikai önkéntesség csak a képzésen való részvételt követően történhet meg. (A képzés nem évül el, ha egy adott évben részt veszel az érvényes lesz egy akár több évvel későbbi kiutazáshoz is.)",
+					"Az afrikai önkéntesség előfeltétele minden esetben minimum 1 év aktív hazai önkéntesség. Erre azért van szükség, hogy te is kellőképpen megismerhesd a szervezetünket, filozófiánkat és mi is alaposan megismerhessünk téged és láthassuk, hogy hogyan vagy jelen a különböző helyzetekben. Így mindenki a legfelkészültebben tud belekezdeni egy misszióba."
+				]
+			},
+			"Fontos, hogy tudd, az, ha jelentkezel és bekerülsz az önkéntes csapatunkba, nem jelenti automatikusan azt, hogy egyből a soron következő kiutazással lehetőséged lesz Afrikába menni. Egy misszió megszervezésénél nagyon sok szempontot figyelembe kell vennünk az adott misszió kitűzött céljától kezdve, a csapatösszeállításon át az olyan operatív és logisztikai kérdésekig, mint az országon, településen belüli utazás, férőhelyek a szálláson stb.",
+			{ "type": "header", "text": "A „tökéletes” önkéntes" },
+			"Tudjuk, hogy senki sem tökéletes, de mindenki tökéletes valamilyen feladatra, csak meg kell találni a leginkább hozzáillőt. A Szívemben Született Afrika önkéntese:",
+			{
+				"type": "list",
+				"listType": "ul",
+				"listItems": [
+					"Megérti és támogatja az egyesületünk filozófiáját, értékeit és céljait",
+					"Rugalmas és felelősségteljes",
+					"Nyitott és elfogadó embertársai iránt",
+					"Proaktív és érdeklődő",
+					"Folyamatos önreflexiónak köszönhetően fel tudja mérni és jelzi, ha szakmai segítségre vagy az esetleges lelki nehézségek átbeszélésére van szüksége",
+					"Megérti, hogy önkéntesként gyakorlatilag a szervezet nagykövete is, hiszen feladatai elvégzése közben minket képvisel. Mindig ezt észben tartva cselekszik."
+				]
+			}
+		]
 	}
 }

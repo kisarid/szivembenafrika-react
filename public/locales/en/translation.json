@@ -49,11 +49,11 @@
 		"p6": "I encourage you to take a look around our website, get to know our activities. Shoud you feel called by any of our programs, please contact us. Let's ask questions, let's talk, join us as a volunteer or support our work with your donations. We already know: cooperation makes wonders!"
 	},
 	"about": {
-		"header": "Our team",
-		"title1": "Our mission",
+		"title": "Our team",
+		"subtitle1": "Our mission",
 		"p1": "We believe that everyone is equal and should have equal opportunities. That put simply: because of where you were born, you shouldn't be put in a bad situation.  We work for the eradication of poverty, social justice and gender equality, and for every child and woman to have the opportunity to create the future they aspire for. We believe that through our work, we can contribute to a just and sustainable world in which all people enjoy the right to live in dignity, free from deprivation and oppression.",
-		"title2": "Team Members",
-		"title3": "Our Volunteers",
+		"subtitle2": "Team Members",
+		"subtitle3": "Our Volunteers",
 		"kzsofi": {
 			"shortBio": "President",
 			"longBio": [
@@ -290,30 +290,15 @@
 	},
 	"principles": {
 		"header": "Principles",
-		"1": {
-			"title": "Humanitarian development, not aid",
-			"text": "One of the most important principles within our job, is to teach and empower people to change their circumstances for themselves.  This is a far better than simply providing financial aid alone, as this leads to greater vulnerability. We believe in the power of an individual realising they have options, and that they can make decisions about their lives. Of course, you can find aid elements in our projects as well, simply because it does happen, that this is what people need. The provision of Aid may be necessary when there isn’t time for the acquisition of new skills by individuals or communities, because starvation may occur before the required skills have been learnt and applied."
-		},
-		"2": {
-			"title": "Respect that spanning across continent and the love of cultural variation",
-			"text": "We take in to account a variety of elements in all our projects, and respect local traditions and customs. We never say, ‘do this’ or ‘don’t do that’, instead, we explore all of the options with which to do things. We believe that help can only be successful and long lasting, if the people we help are able to apply their newly acquired skills autonomously. A project which is not based on their needs, cannot be successful."
-		},
-		"3": {
-			"title": "Professionalism",
-			"text": "We believe the community’s problems and dreams should pinpoint a project’s directions, and not just researches and theories. As we progressed further and listened to the people’s dreams, there was always someone who had taken us even further. All of our projects have created by these meetings, dreams and issues we have listened to. However, before we realise any of these projects, we feel it’s important to conduct a research: theoretical as well as field research."
-		},
-		"4": {
-			"title": "Transparency",
-			"text": "We owe it first of all to the local community, as we find it very important to communicate everything to them openly, and for them to know and understand what is happening and why. Secondly, to our supporters and towards those who are interested in our work. We think it’s very important to be approachable and comprehensible to everyone."
-		},
-		"5": {
-			"title": "Sustainability",
-			"text": "Sustainability is important as per the UN’s sustainable development goals, for environmental reasons as well as it’s important for the maintainability of our projects."
-		},
-		"6": {
-			"title": "Helping to stay local",
-			"text": "This is also important within the country, especially on the countryside, because lot of people are moving to the cities from the rural areas, however the big cities promising not just big hopes, but, in most cases, containing big disappointments too. A person can be poor in a village, but the poorness has a preserving force, while in the city, there’s only the segregating poverty waiting for them."
-		}
+		"paragraphs": [
+			"<b>Humanitarian development, not aid:</b> One of the most important principles within our job, is to teach and empower people to change their circumstances for themselves.  This is a far better than simply providing financial aid alone, as this leads to greater vulnerability. We believe in the power of an individual realising they have options, and that they can make decisions about their lives. Of course, you can find aid elements in our projects as well, simply because it does happen, that this is what people need. The provision of Aid may be necessary when there isn’t time for the acquisition of new skills by individuals or communities, because starvation may occur before the required skills have been learnt and applied.",
+			{ "type": "pic", "class": "float-right", "src": "/src/assets/images/principles.jpg" },
+			"<b>Respect that spanning across continent and the love of cultural variation:</b> We take in to account a variety of elements in all our projects, and respect local traditions and customs. We never say, ‘do this’ or ‘don’t do that’, instead, we explore all of the options with which to do things. We believe that help can only be successful and long lasting, if the people we help are able to apply their newly acquired skills autonomously. A project which is not based on their needs, cannot be successful.",
+			"<b>Professionalism:</b> We believe the community’s problems and dreams should pinpoint a project’s directions, and not just researches and theories. As we progressed further and listened to the people’s dreams, there was always someone who had taken us even further. All of our projects have created by these meetings, dreams and issues we have listened to. However, before we realise any of these projects, we feel it’s important to conduct a research: theoretical as well as field research.",
+			"<b>Transparency:</b> We owe it first of all to the local community, as we find it very important to communicate everything to them openly, and for them to know and understand what is happening and why. Secondly, to our supporters and towards those who are interested in our work. We think it’s very important to be approachable and comprehensible to everyone.",
+			"<b>Sustainability:</b> Sustainability is important as per the UN’s sustainable development goals, for environmental reasons as well as it’s important for the maintainability of our projects.",
+			"<b>Helping to stay local:</b> This is also important within the country, especially on the countryside, because lot of people are moving to the cities from the rural areas, however the big cities promising not just big hopes, but, in most cases, containing big disappointments too. A person can be poor in a village, but the poorness has a preserving force, while in the city, there’s only the segregating poverty waiting for them."
+		]
 	},
 	"card-catalogue": {
 		"desc": "Click on the photos for more information!"
@@ -324,12 +309,12 @@
 			"title": "Manafwa, Uganda",
 			"shortDesc": "Manafwa District is located in the Eastern Region of Uganda, with Manafwa as its centre. It borders Kenya to the East and South, Mbalé district to the West, and Bududa district to the North. Based on their social situation, the people living here can be considered as middle class when looking at Uganda as a whole. Despite this, the majority here live below the poverty line. The main source of income for the people comes from agriculture.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/where-we-help/manafwa1.jpg" },
+				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/where-we-help/manafwa1.jpg" },
 				"Manafwa District is located in the Eastern Region of Uganda, with Manafwa as its centre. It borders Kenya to the East and South, Mbalé district to the West, and Bududa district to the North. Mbalé, the largest city in the eastern region, is approximately 30 kilometres from the centre of the district, Manafwa. 87% of the district is rural and only the remaining 13% is considered a city.",
 				"The population of Manafwa district is roughly 158,000. Based on their social situation, the people living here can be considered as middle class when looking at Uganda as a whole. Here, too, people live below the poverty line, but they have the potential to develop relatively easily with a little support.",
 				"Even in the house where we stay, we don't have running water, we bathe in the rainwater collected in cans and we only have electricity when the solar panels are charged, which is only a few hours a day during the rainy season. Our food is cooked in the yard on the ground, on charcoal, and our pantry, for example, also functions as a chicken coop. Still, by having something to eat, a place to live and being able to buy clean water that we can safely drink, we are luckier than the villagers.",
 				"Being a rural area, most of the people do not have a permanent job. They practically engage in a kind of bartering with each other. Most of the villagers earn their income from informal jobs such as digging, selling chapati, if they have any produce around the house that can be sold, then from selling that. The village is very close to the Kenyan border, and one of the consequences of this is that many people cross over to Kenya in the hope of a better life. There are families where the parents leave their children behind and go on a journey, but there are also families where the child is sold as a dishwasher or cleaner to the neighbouring country. When we started our programs for women, most of them only and exclusively dealt with chores around the house, they had no income of their own at all.",
-				{ "class": "float-left", "src": "/src/assets/images/where-we-help/manafwa2.jpg" },
+				{ "class": "float-left", "type": "pic", "src": "/src/assets/images/where-we-help/manafwa2.jpg" },
 				"There is no electricity in the mud rammed houses around us, the furnishing is roughly a dilapidated reclining device for the man, and a rag spread on the ground for the women and children. The houses have one open space, there is one small room, which is the bedroom, children's room and living room at the same time. The kitchen and \"bathroom\" are usually located outside the house. From a hygienic point of view, the lack of toilets in the village is a serious problem. Areas fenced with dried bean leaves are used as toilets, and they bathe in rainwater collected in a basin, but there are families where this happens less than weekly. Families with many children or even several generations live together in these houses.",
 				"When we started working here, most of the people in the village did not have access to food on a daily basis. On average, they could eat two or three times a week, the luckier ones maybe four times, but even then, only once during the day.",
 				"There are many half-orphaned and orphaned children in the village, and the residents of the community take care of them together. They always get food at another house, for example.",
@@ -340,16 +325,20 @@
 			"title": "Karamoja, Uganda",
 			"shortDesc": "The Karamoja region in north-western Uganda can be divided into seven larger territorial units and is home to approximately 1.3 million people. It is the poorest region of Uganda, which, until a few years ago, was seriously dangerous to visit. However, it is also a hidden gem of Uganda, where you can still find the real untouched African landscape and the tribes that still preserve and actively practice their traditions.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/where-we-help/karamoja4.jpg" },
+				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/where-we-help/karamoja4.jpg" },
 				"The Karamoja region in north-western Uganda can be divided into seven major territorial units: Kaabong, Kotido, Abim, Moroto, Napak, Amudat and Nakapiripirit. The region is inhabited by approximately 1.3 million people, a large percentage of whom live in extreme poverty. A fundamental problem in the region is food insecurity and high reliance on natural resources. The excessive exposure to natural influences clearly shows the effects of climate change, as well as the negative consequences of these changes affecting immediate everyday life. Examples include the regularly occurring longer droughts followed by rapid floods, which have a negative effect on soil fertility. However, it is not only external factors that make it difficult for the people living here, there are also social and political problems.",
 				"For the people living in Karamoja, raising livestock and farming provide the main form of livelihood. Zones that can be separated from each other within the region can be defined depending on the amount of annual precipitation, which largely determines the goods that can be produced in the given area. The water supply for cultivated plants is provided only by rains, so in those areas where the annual amount of rain is lower, the emphasis is shifted towards nomadic livestock breeding.",
 				"Owning animals provides status within society, since owning them can mean wealth in itself, and as a result, one of the prominent conflicts, the so-called cattle raids or livestock raids, i.e., the taking of animals by armed force. The size of the problem is shown by the fact that the state violence organization is forced to regularly intervene in the area to ensure peace.",
 				"This environment of unstable security makes it harder to earn a living, so while certain problems are being remedied, new problems arise, which do not disappear when the original problem is eliminated. All these problems together lead to general poverty, mainly caused by poor harvests over the years, lack of water, outdated farming techniques, and insecurity resulting from conflicts.",
 				"In recent years, the situation in the region has improved a lot, but the people living here suffer many disadvantages due to negative prejudices about the region and previous experiences. It is important to emphasize that Karamoja is much more than the difficulties and challenges described above. Karamoja is also Uganda's hidden gem, where you can still find the real untouched African landscape and the tribes that still preserve and actively practice their traditions, and one of the country's largest national parks is also located here.",
 				[
-					{ "class": "top left", "src": "/src/assets/images/where-we-help/karamoja2.jpg" },
-					{ "class": "bottom left", "src": "/src/assets/images/where-we-help/karamoja3.jpg" },
-					{ "class": "span-vertical right", "src": "/src/assets/images/where-we-help/karamoja1.jpg" }
+					{ "class": "top left", "type": "pic", "src": "/src/assets/images/where-we-help/karamoja2.jpg" },
+					{ "class": "bottom left", "type": "pic", "src": "/src/assets/images/where-we-help/karamoja3.jpg" },
+					{
+						"class": "span-vertical right",
+						"type": "pic",
+						"src": "/src/assets/images/where-we-help/karamoja1.jpg"
+					}
 				]
 			]
 		},
@@ -357,31 +346,31 @@
 			"title": "Slums of Nairobi",
 			"shortDesc": "These areas have a lack of infrastructure, tap water and sewage networks. The residents live in self-built houses built from recycled materials or things found in the landfill. It is difficult for slum dwellers to enter the labour market, the main reasons of which are educational deficiencies, lack of labour market skills, or even distance from workplaces. Crime rates are high, even during daylight hours. Participating in education is one of the only breakthrough opportunities for young people living in slums, but this represents a great financial burden for many families in addition to other necessary expenses. Many families send their children to work instead of school to increase income.",
 			"paragraphs": [
-				{ "src": "/src/assets/images/where-we-help/nairobi1.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi1.jpg" },
 				"Korogocho, an area of 1.5 km2 to the north-east of the centre of Nairobi, is home to 150,000-200,000 people, and it is located right next to Nairobi's largest landfill site. Korogocho began to be populated during the 1960s by people moving from the countryside to the city and is currently the fourth largest slum in Nairobi.",
 				"The area has no developed infrastructure, tap water or sewage network. The residents live in self-built houses built from recycled materials or things found in the landfill, but it is not unusual either when the walls of their homes are made of nylon bags. Such materials also include oil barrels or even mud, and paraffin lamps are mostly used for lighting. Their water needs are covered by stands selling water, where the prices can rise by more than 200% in case of scarcity of supply, and most of the wells, even those built as donations, are in the hands of the water mafia. Infrastructural deficiencies and high population density also cause hygiene and health problems, the possibility of their treatment is also unsatisfactory. Last year, for example, one of the largest cholera epidemics of recent decades broke out in the area.",
 				"The residents of the slum find it difficult to enter the labour market, the main reasons of which include educational deficiencies, lack of labour market skills, or even distance from workplaces, so most of the residents make a living by trading things found in the landfill or turning to crime.",
 				"The crime level is high, even during daylight hours, and the sense of security is further reduced by the presence of illegal activities such as the manufacture and distribution of illegal mind-altering drugs, dealing in stolen valuables or prostitution. Clashes between criminal groups engaged in the listed activities are also significant.",
 				"Participating in education is one of the only breakthrough opportunities for young people living in slums, but this represents a great financial burden for many families in addition to other necessary expenses. Many families send their children to work instead of school in order to increase income. In Kenya, primary school education is free, but Korogocho has only two community schools attended by roughly 4,000 children.",
-				{ "src": "/src/assets/images/where-we-help/nairobi3.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi3.jpg" },
 				"About 6 kilometres from the centre of Nairobi is the city’s and Africa's largest slum, Kibera. Based on the official Kenyan census conducted in 2009, the number of its inhabitants is around 170,000 people, however, some reports place this figure at around 500,000 or even 1 million people. The difference depends on how the boundaries of the slum are defined.",
 				"Nairobi was founded during the construction of the Uganda Railway in 1899, with the aim of housing British Imperial officials and providing cheap labour for African and Asian labourers, who were typically employed in low-skilled or manual labour. In the period from 1900 to 1940, several laws promoting and maintaining segregation entered into force, which, among other things, prevented the free movement of Africans in the city. Nairobi was segregated along ethnic lines by measures like these. Kibera was also formed as such a segregate, which was initially the residence of African soldiers in the service of the British. Over the years, the governing body informally allowed the settlement to grow, as it needed cheap labour to sustain economic development. Following this, several slums began to form.",
 				"With the independence of Kenya in 1963, attempts were made to regulate the spread of slums by law, by banning certain forms of housing, but this was not successful. As housing became more expensive, the slums continued to exist, for the simple reason that the \"apartments\" offered for rent here provided housing at a relatively affordable price.",
 				"The majority of Kibera residents live in extreme poverty, most of the population is unemployed, and it is difficult to access basic needs, food or even water. The rate of infection of various diseases among the population is high, and medical care for treatment is also difficult to access. The area of the slum is significantly polluted, the streets are covered with rubbish and human excrement due to the open sewer system.",
-				{ "src": "/src/assets/images/where-we-help/nairobi4.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi4.jpg" },
 				"Mombasa is a coastal city in the south-eastern part of Kenya, founded around 900 AD. It is the oldest and currently the second largest city in Kenya. The city's location has historically made it an important commercial hub as well as a major tourist destination, and it is still a key economic centre for Kenya. Coffee, food, trade, and the chemical industry are significant, and Kenya also serves the commercial needs of neighbouring countries Tanzania and Uganda through the city.",
-				{ "src": "/src/assets/images/where-we-help/nairobi2.jpg" }
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi2.jpg" }
 			]
 		},
 		"mombasa": {
 			"title": "Mombasa and its surroundings",
 			"shortDesc": "Mombasa and its surroundings are a well-known and popular tourist destination worldwide. The weather is pleasant almost throughout the year, the kindness of the Swahili people, the delicious flavours characteristic of their cuisine and the wonderful beach invite many. However, sunlight and blue water often hide darker things. Most of the locals make their living from tourism, but despite the luxury hotels, they are very poor. Also, precisely in connection with tourism, the incidence of crimes and problems related to human trafficking and sex tourism in the region is very high.",
 			"paragraphs": [
-				{ "src": "/src/assets/images/where-we-help/mombasa1.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/mombasa1.jpg" },
 				"Throughout history, Mombasa has been in the sphere of interest of many empires due to its privileged location and has traded even more widely. There were many campaigns for the possession of the city until the 1840s, when it came under the rule of the Sultan of Zanzibar and became part of the British Empire in 1895. The city's architecture and ethnic composition also reflect the many cultural influences. As part of the British Empire, in order to use cheap labour, during the construction of the Uganda Railway, different ethnic groups were settled in the city.",
 				"Kongowea is one of the most densely populated areas of Mombasa, located on the northern coast of the city, adjacent to a wealthier part of the city. This is typically home to residents who moved to the city in the hope of job opportunities, and who take on occasional jobs in the surrounding wealthier neighbourhoods. Regardless of its location, the problems known from slums are also present in this quarter, such as the high crime rate, the low level of public hygiene, and the difficulty of meeting basic needs.",
 				"In this region, a particularly important city for us is Mtwapa, which unfortunately could also be called a centre for human trafficking and sex tourism. The entire economy and infrastructure of the city is based on these, and this is where our partner organization is headquartered, with whom we work together to suppress the above-mentioned issues, prevent victimization and help the rehabilitation and reintegration of victims.",
-				{ "src": "/src/assets/images/where-we-help/mombasa2.jpg" }
+				{ "type": "pic", "src": "/src/assets/images/where-we-help/mombasa2.jpg" }
 			]
 		}
 	},
@@ -399,10 +388,10 @@
 				"Practical: they will learn new skills, that will help their everyday house chores, as well as provide them some income too. For example, creating kraft products that can be sold on a domestic and an international market, professional training (mainly sewing), other services (e.g. hair dressing, etc.).",
 				"Our other goal with the programme is to set a role model to the children, so they can see that education is indeed valuable, for the parent too, they complete their homework, learn and practice at home too. The respect for women will increase within the community and the women's self esteem and self belief will grow too.",
 				[
-					{ "src": "/src/assets/images/projects/noi-program-1.jpg" },
-					{ "src": "/src/assets/images/projects/noi-program-2.jpg" },
-					{ "src": "/src/assets/images/projects/noi-program-3.jpg" },
-					{ "src": "/src/assets/images/projects/noi-program-4.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-2.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-3.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/noi-program-4.jpg" }
 				]
 			]
 		},
@@ -410,14 +399,15 @@
 			"title": "84 Days Project",
 			"shortDesc": "In sub-Saharan Africa, adolescent girls and women miss an average of 84 days of work and school each year due to menstrual poverty, which then leads to further serious issues. In this program, our projects focus on the following themes: eradicating menstrual poverty, ending violence against women and girls, eliminating teenage motherhood, and fighting against human trafficking.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/projects/84-nap-logo.png" },
+				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/projects/84-nap-logo.png" },
 				"Just imagine, what it be like if you have dropped out of school or work for 84 days in a year. Just imagine, how much knowledge, opportunities and experiences you would miss out of? The teenage girls and women in sub-saharan Africa don't need to try and think about this. They don't need to try to think hard to imagine it, as this is their reality. Yes, you have read it correctly! In this region, in average this is how much they have to stay out of school and work because of period poverty and because of period shaming that are based on tabus and misconceptions.",
 				"The programmes in this project are working on subjects, that we have worked on before or we have started working on, such as period poverty, period shaming, domestic and sexual violence, child marriage, girls who have become mothers as a child themselves and also education.",
 				"Have you ever wondered, why we have chosen the name '84 days', that reflects on period poverty, for such a complex project?! The answer is simple: we believe, that the above listed issues are coming from the same root, and we cannot help with one area without helping with another. One of the most important principles of our work is, that for a complex issue we have to come up with a complex solution.",
 				"We believe, that we have to break down the tabus, liquidate the stigmatisation and create a peaceful, safe and encouraging environment, where these fantastic, smart and brave girls and women won't have to live in fear anymore and feel vulnerable and won't have to walk with their head down; instead they feel and believe their inner ability and endless potential to live a worthy life.",
-				{ "class": "float-right", "src": "/src/assets/images/projects/84-nap-1.jpg" },
-				"<b>Ending period poverty</b>",
+				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/projects/84-nap-1.jpg" },
+				{ "type": "header", "text": "Ending period poverty" },
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"body awareness",
@@ -426,7 +416,7 @@
 						"breaking down taboos: educating men"
 					]
 				},
-				"<b>Violence against women and girls</b>",
+				{ "type": "header", "text": "Violence against women and girls" },
 				"Any form of violence against women and girls is a crime against basic human rights, and this issue affects every third woman in the whole world.",
 				"Millions of women suffer from some form of violence in their lifetime, including physical and oral abusement, sexual violence, sexual exploitation, child marriage and becoming a mother as a child. ",
 				"The victims will have to live with different mental and physical damage, e.g. post traumatic stress syndrome, depression, different injuries, including broken bones and bleeding, HIV and other sexually transmitted diseases and unwanted pregnancy.",
@@ -435,11 +425,11 @@
 				"Violence against women, unfortunately, is a global issue, and those women and girls living in poverty are exposed to it even more.",
 				"The abuse is just part of the girls' and women's lives. Our goal is to create a safety net, that offers protection and help even before becoming a victim.",
 				"With changing the point of view and with education, we would like if the above listed issues not just decreased in appearance, but disappeared completely from the community.",
-				"<b>Ending child marriage and becoming mothers at a very young age</b>",
+				{ "type": "header", "text": "Ending child marriage and becoming mothers at a very young age" },
 				"Those girls, who are forced to marry as a child, are more likely to become a victim of domestic violence than those women, who had the choice to marry as an adult.",
 				"The child marriage robs the girls from their childhood, education, health and freedom, and in most cases, they become a victim of some form of violence in the rest of their lives. In a short space of time, the marriage is followed by becoming a mother. These girls are not ready to become sexually active, pregnant and giving birth neither physically nor emotionally.",
 				"We would like if the tradition of child marriage would end in the community where we work in, this is why we educate the members of the community, the senior decision makers, the parents and the young girls and boys themselves about the negative effects of child marriage. We encourage the girls to find their own voice and be able to say no.",
-				"<b>Fight against human trafficking</b>",
+				{ "type": "header", "text": "Fight against human trafficking" },
 				"We organise and hold so called community awareness initiatives in Uganda and in Kenya, where we teach children and teenagers about children and human rights, safe relationships, women groups and adult communities about human rights, the safe migration and the nature of human trafficking and its dangers. We also work with our professional partners on finding the victims - mainly women -, rescuing, rehabilitating (health and mental) and reintegrating them back into the community.",
 				"In the future, we would like to create safe houses in Manafwa (Uganda) and Karamoja (Uganda) as well."
 			]
@@ -450,8 +440,8 @@
 			"paragraphs": [
 				"We believe that every child deserves a happy, safe childhood, an education and the chance of a good life. Unfortunately, education in Uganda is not free and, with a large proportion of families living below the poverty line, sending a child to school is a luxury. For a monthly donation of 7500 Ft (18€), our child sponsorship programme allows the sponsor to become a symbolic adoptive parent. This amount covers a child's education, school supplies, meals and medical care if needed. We will periodically report on the child's progress, academic achievements, important life events and send photos and videos.",
 				[
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
 				]
 			]
 		},
@@ -464,8 +454,8 @@
 				"We are currently developing a sports talent management programme among the school's students, as sport has a retaining power and talent discovered and nurtured in time can be a break out of a difficult fate.",
 				"The students are very interested in Hungary and we think it's important to enhance the reputation of our country, so these children know what Lake Balaton looks like, what a puli is and have eaten Pilóta biscuits.",
 				[
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
-					{ "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/gyermektamogatas-projekt-2.jpg" }
 				]
 			]
 		},
@@ -473,7 +463,11 @@
 			"title": "Graduate a Girl - Education Support Programme",
 			"shortDesc": "Educating girls is one of the most potent and effective weapons we can use to combat global poverty. The program aims to prevent the lives and destinies of these girls from being determined solely by where they were born. Sponsors who participate in the program support the education of adolescent girl with their monthly donation of 7,800 forints, helping them reach at least a high school diploma.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/projects/graduate-a-girl-projekt-1.jpg" },
+				{
+					"class": "float-right",
+					"type": "pic",
+					"src": "/src/assets/images/projects/graduate-a-girl-projekt-1.jpg"
+				},
 				"Educating girls is one of the most powerful and effective weapons we can use to eradicate global poverty. Currently, the majority of girls in Manafwa reach up to grade 5-6 of primary school. They have to become wives by the age of 13-14 and are not much older when they become pregnant with their first child. The programme is being launched with the aim of preventing these girls' lives and destinies from being sealed simply by where they were born, to help them get to secondary school graduation. With a donation of 9000 Ft (22€) per month, a supporter can help support the education of a teenage girl. This amount will cover her education and medical care if needed.",
 				"For more information about the programme, please visit our <a href=\"/graduate-a-girl\">Graduate a Girl</a> page."
 			]
@@ -482,11 +476,11 @@
 			"title": "Education Support in Mtwapa",
 			"shortDesc": "Every young person in the program is a victim of human trafficking and/or is at high risk of sex tourism. The goal of the program is to ensure they can attend school and receive an education. Supporters who participate in the program support the education of a young person with their monthly donation of 9000 forints, helping them reach at least a high school diploma.",
 			"paragraphs": [
-				{ "class": "float-right", "src": "/src/assets/images/projects/mtwapa.jpg" },
+				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/projects/mtwapa.jpg" },
 				"All the young people in the programme are from Mtwapa and the surrounding area. This region is severely affected by human trafficking, sex tourism and child sexual exploitation, and all the young people in the programme are either affected - former victims - of one of these problems or are at increased risk due to their family or socio-cultural, economic environment and situation.",
 				"As a sponsor, you can do a lot for the young person you have chosen. In this programme, you can become a sponsor of a young person with a monthly donation of 9000 HUF (22€), which will cover tuition fees, daily meals at the school they attend, school supplies and medical care if needed.",
 				"If you have any questions, please contact us at <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a>.",
-				"For more information about the programme, please visit the \"Education Support in Kenya\" section in the menu."
+				"For more information about the programme, please visit the <a href=\"/oktatas-tamogatas-kenya\">Education Support in Kenya</a> section."
 			]
 		},
 		"eu-program": {
@@ -496,6 +490,7 @@
 				"We believe that every person deserves to live as healthy a life as possible, and when they fall ill, they get the help they need. In addition to providing treatment, we place a strong emphasis on education, patient education and various forms of prevention during our regular medical missions, as well as training local health workers so that help is not delayed even when we are not there.",
 				"The main elements of our healthcare programme are:",
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"Provision of necessary and missing vaccinations",
@@ -511,10 +506,10 @@
 					]
 				},
 				[
-					{ "src": "/src/assets/images/projects/eu-1.jpg" },
-					{ "src": "/src/assets/images/projects/eu-2.jpg" },
-					{ "src": "/src/assets/images/projects/eu-3.jpg" },
-					{ "src": "/src/assets/images/projects/eu-4.jpg" }
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-1.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-2.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-3.jpg" },
+					{ "type": "pic", "src": "/src/assets/images/projects/eu-4.jpg" }
 				]
 			]
 		},
@@ -526,10 +521,11 @@
 				"<b>Karamoja:</b> The most ancient traces and evidences of human were found in Karamoja and its neighbouring regions in Sudan and Kenya. These skeletons and remainders of everyday tools suggest that Karamoja is in fact the specific place where our history began even in Africa, which is traditionally known as the ‘cradle’ of humanity.This ancient heritage is there in all nooks and crannies of Karamoja; in its extraordinary soil, its giant yet wise mountains, the scent of the air that compares to nothing, the resilience of the people and their magnificently colorful culture.",
 				"However due to decades of conflicts Karamoja became stigmatized and separated from the rest of Uganda making life here significantly more challenging. Even though Karamoja is the poorest region of Uganda financially, in comparison to the rest of the country due to its people protecting their customs and religion still influencing everyday life as well as the way the society operates, Karamoja has a sense of richness after all.",
 				"Karamoja is located in northeastern Uganda, a picturesque yet impoverished region known for its rich cultural heritage and traditional lifestyle. Educational opportunities are extremely limited, quality education is almost non-existent and the chances of anyone having access to it are very scarce. Local communities mainly engage in pastoralism and agriculture, increasingly jeopardized by extreme weather conditions, the most visible symptom being water scarcity. Tribal customs, such as early and forced (child) marriage, extremely early motherhood and female genital mutilation, although officially illegal, unfortunately, still persist in practice, further complicating the lives of girls and rendering their futures impossible.",
-				{ "src": "/src/assets/images/projects/akitogogon-3.jpg" },
+				{ "type": "pic", "src": "/src/assets/images/projects/akitogogon-3.jpg" },
 				"<b>How can you help? Again we are dreaming big and this time our goal is to give home, shelter, dignity, education and a chance for a normal life for 60 girls in school in the Karamoja region from the school year starting in February 2025 - we are seeking supporters for this.</b>",
 				"There are two ways to support: ",
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"<b>20.000 HUF per month</b> covers changing the whole life for one girl: this amount of monthly donation covers the housing, education, food and all cost of living",
@@ -538,15 +534,22 @@
 					]
 				},
 				"<b>Our Project:</b> We are launching a joint program in Karamoja with Shanita. Shanita has been successfully running similar programs in this area for years, and now we have teamed up to support even more girls utilizing our vast experience in supporting girls and women coming with a poor background of infrastructure, being subject to unsafe tribal customs and lack of opportunity for a normal life. We built the program based on our shared values and professional principles with the aim to help even more girls with even higher quality than before. We have built this program based on our common values and approach with Shanita, with the critical element of making sure we’re responding to real local needs and demands, as well as respecting the local communities' cultural and tribal customs, and collaborating with locals for their long-term, sustainable support. Thanks to Hungary Helps, we received resources for renovation, new beds, and the construction of a water block, for which we are also grateful.",
-				{ "src": "/src/assets/images/projects/akitogogon-1.jpg" },
+				{
+					"type": "pic",
+					"src": "/src/assets/images/projects/akitogogon-1.jpg"
+				},
 				"<b>Background of the two organizations:</b> Zsófi, as the founder of Africa Born in my Heart, and Lior, as the leader of Shanita, found their second home in Uganda independently, following different journeys. Although our associations operate independently from different parts of the world, we can build on many common traits in our collaboration. Both of us firmly believe that human kindness and cooperation can work wonders, driving us to provide sustainable support to children, young people, and adult women in Uganda, often a matter of life and death for them. For us, an important professional principle is to involve and employ local people, launching our programs after thorough fieldwork, ensuring that every element of our activities respond to real needs.",
 				"<b>Project Details:</b>",
 				{
+					"type": "list",
 					"listType": "ul",
 					"listItems": [
 						"<b>What makes this project different?</b> Our goal is to lay the foundation for the future of 60 girls in a renovated and furnished school in Karamoja for the school year starting in February 2025. While the girls will live on a school campus, education is only one element of our program: we are enrolling girls from environments where they would otherwise not only be victims of poverty but also of violent and illegal tribal customs. In addition to education, we provide housing, meals, activities, and mental health support within the program.",
 						"<b>About the girls' background:</b> In the tribes living in the project area, it is still a common practice for girls to become brides as early as 8-12 years old for financial reasons, with the groom typically being an older man, often with multiple wives. As soon as the young girls are deemed suitable, their new husbands take them away. Unfortunately, this is not the only danger the girls of Karamoja face, as female genital mutilation is also an active tribal custom and unfortunately child marriage and child prostitution are also present.",
-						{ "src": "/src/assets/images/projects/akitogogon-2.jpg" },
+						{
+							"type": "pic",
+							"src": "/src/assets/images/projects/akitogogon-2.jpg"
+						},
 						"<b>Long-term, professional solutions:</b> It is important that we enroll the girls in the program with their families' consent, for which it is essential to explain what education means and demonstrate its benefits. Therefore, we conduct awareness and educational programs with a local social worker. A key factor for success is replacing the short-term lost income of the families. Thus, we offer sustainable, long-term opportunities to the communities, so they do not have to live off marrying off their daughters: we teach them to produce and sell handicraft products, from which they can sustain themselves.",
 						"<b>Comprehensive care:</b> The rescued girls are provided with accommodation, education, extracurricular activities, meals, and mental health support. Apart from the materialistic benefits this program offers the girls much more: safety, childhood, opportunities, a chance for a better life or in a lot of cases to live at all."
 					]
@@ -555,5 +558,44 @@
 				"<i>Photo credits: Shanita</i>"
 			]
 		}
+	},
+	"volunteering": {
+		"title": "Önkéntesség",
+		"paragraphs": [
+			{ "type": "pic", "class": "float-right", "src": "/src/assets/images/volunteering/atadas.jpg" },
+			{ "type": "header", "text": "Principles of volunteering" },
+			"We at Africa born in my heart believe that the role of a volunteer is exciting, rich, diverse, and uplifting. We believe that every volunteer is able to find wide variety of - often challenging - tasks at our organization, that is not limited to aid work but also serve self-improvement purposes. We believe that one of the main pillars of successful aid work is the diverse yet united group, so we warmly welcome every applicants irrespectively from age profile, gender or life situation, who wants to join our work. We believe in the importance of social responsibility, and our amibition is to provide the possibility of this experience in an organized environment to each of our volutneers.",
+			"We are aware that while performing volunteer work there is a high chance of getting involved in life situations that are challenging the mental health of the volunteer. Therefore we provide continuos courses - based on on-field knowledge - to prepare each member of the group to the highest level possible, for carrying out the assigned task, and if needed we offer a possibility of supervision. We believe that we can only be successful as a united group, and that each of our tasks are more joyful if we act as a united community, therefore we arrange team-building events in succession, to forge a team out of a group of volunteers , and also to offer a chance to get ot know the menbers of the organization better.",
+			"Our organization operates free from religion and politics and we respect and follow these principles throught volunteer work as well.",
+			{ "type": "header", "text": "How to become a volunteer" },
+			"To volunteer for Africa born in my heart you need to do the following steps:",
+			{
+				"type": "list",
+				"listType": "ul",
+				"listItems": [
+					"Read our <a href=\"/files/Infopack_Onkentesseg_SzivembenAfrika.pdf\">Infopack</a>, which was created for our volunteers and contains all important information you need.",
+					"If you agree to the contents of the Infopack, please fill out the <a href=\"https://forms.gle/kaTAhGQpjYXyTt4EA\">Application form</a>.",
+					"Then we invite you to a personal meeting to get to know you better.",
+					"After that you will be admitted into our volunteer group and we will inform you of those events and tasks that you can join to.",
+					"We arrange team-building events tied together with courses every 4 months. It is manadatory for you to attend one of these within 1 year after you joining the group. Volunteering in Africa is only available after attending one of these events. (the course doesnt not lose its validation with a year passing, so if you took part in a course, it will be valid for a journey even in later years.)",
+					"To volunteer in Africa you have to spend 1 active year as volunteer in Hungary. It is mandatory, to allow you to get to know the organization and understand our philosophy to a needed level. It is also needed so we get to know you and see how you act in various situations. It allows everyone the be fully prepared to start a mission"
+				]
+			},
+			"It is important to understand that even if you apply and get in to the volunteer group, that does not guarantee an automatical chance of travelling to Uganda for the next mission. There are lots of factors to take into account when planning mission, starting from the aim of the mission through the selection of the team, to operational and logistical matters such as commuting in Uganda and the possibilities in accomodation.",
+			{ "type": "header", "text": "The „perfect” volunteer" },
+			"We understand that no one is perfect, however there is a perfect task for everyone, it just has to be found. The voltuneer of Africa born in my heart:",
+			{
+				"type": "list",
+				"listType": "ul",
+				"listItems": [
+					"Understands our association's philosophy and supports our values and goals",
+					"Flexible and responsible",
+					"Open and welcoming to other human beings",
+					"Proactive and inquiring",
+					"As a result of self-reflective behaviour is able to realize and commincate the need of professional help or the need of discussion in case of experiencing issues that are challenging to the volunteer's mental health.",
+					"Understands that as a volunteer the person acts as an ambassador of the organization,as the volunteer represents us while working. The volunteers acts are always inline with this concept."
+				]
+			}
+		]
 	}
 }

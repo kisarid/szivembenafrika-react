@@ -37,20 +37,20 @@ export default function About() {
 
 	return (
 		<div id='about'>
-			<StickyHeader>{t('header')}</StickyHeader>
+			<StickyHeader>{t('title')}</StickyHeader>
 			<section>
-				<div className='moyo-header'>{t('title1')}</div>
+				<div className='moyo-header'>{t('subtitle1')}</div>
 				<p>{t('p1')}</p>
 				<div className='pic'>
 					<img src='/src/assets/images/about.jpg' alt='' />
 				</div>
 			</section>
 			<section style={{ marginTop: '40px' }}>
-				<div className='moyo-header'>{t('title2')}</div>
+				<div className='moyo-header'>{t('subtitle2')}</div>
 				<TeamSwiper bios={teamMembersWithBios} onClick={onSwiperCardClick} />
 			</section>
 			<section>
-				<div className='moyo-header'>{t('title3')}</div>
+				<div className='moyo-header'>{t('subtitle3')}</div>
 				<TeamSwiper bios={volunteersWithBios} onClick={onSwiperCardClick} />
 			</section>
 			<TeamModal show={!!selectedBio} bio={selectedBio} onHide={() => setSelectedBio(undefined)} />
