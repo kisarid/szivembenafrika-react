@@ -593,5 +593,15 @@
 				]
 			}
 		]
+	},
+	"support-children": {
+		"title": "Gyermektámogatás",
+		"paragraphs": [
+			"Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon egy gyerek luxusnak számít. Gyermektámogatási programunk keretében havi 7500 Ft-os adományért a támogató jelképes örökbefogadó szülővé válhat. Ez az az összeg, amely fedezi egy gyerkőc oktatását, tanszereit, étkezését és szükség esetén az orvosi ellátását. Mi pedig rendszeres időközönként hírt adunk a gyerkőc fejlődéséről, tanulmányi eredményeiről, fontosabb életeseményeiről, valamint küldünk róla fotókat, videókat.",
+			{ "type": "pic", "src": "/src/assets/images/support-children/gyermektamogatas-1.jpg" },
+			"Csatlakozz hozzánk és segíts! Váltsuk valóra az álmaikat, változtassunk életeket! A havi támogatás összege 7500 Ft, amely magában foglalja a kiválasztott gyermek tandíját, egyenruháját, tanszereit, étkezését és szükség esetén az orvosi ellátását.",
+			"Kérdés esetén fordulj bizalommal hozzánk a <a href=\"mailto:gyermektamogatas@szivembenafrika.org\">gyermektamogatas@szivembenafrika.org</a> email címen.",
+			{ "type": "pic", "src": "/src/assets/images/support-children/gyermektamogatas-2.jpg" }
+		]
 	}
 }

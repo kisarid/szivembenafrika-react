@@ -1,0 +1,19 @@
+import StickyHeader from '@/components/StickyHeader/StickyHeader';
+import { TranslationParagraph } from '@/interfaces/global';
+import { getParagraphHtml } from '@/util';
+import { useTranslation } from 'react-i18next';
+
+export default function SupportChildren() {
+	const { t } = useTranslation('translation', { keyPrefix: 'support-children' });
+
+	return (
+		<>
+			<StickyHeader>{t('title')}</StickyHeader>
+			<section>
+				{(t('paragraphs', { returnObjects: true }) as TranslationParagraph[]).map((p, i) =>
+					getParagraphHtml(p, `support-children.paragraphs.${i}`)
+				)}
+			</section>
+		</>
+	);
+}

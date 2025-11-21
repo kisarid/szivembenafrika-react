@@ -8,7 +8,7 @@ import Donations from './routes/how-you-help/donations';
 import EducationProgramKenya from './routes/how-you-help/education-program-kenya';
 import Events from './routes/how-you-help/events';
 import GraduateAGirl from './routes/how-you-help/graduate-a-girl';
-import SupportChildren from './routes/how-you-help/support-children';
+import SupportChildren from './routes/how-you-help/SupportChildren';
 import Volunteering from './routes/how-you-help/Volunteering';
 import Media from './routes/media';
 import Principles from './routes/Principles';
