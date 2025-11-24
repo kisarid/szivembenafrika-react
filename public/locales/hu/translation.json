@@ -312,7 +312,7 @@
 	"where-we-help": {
 		"title": "Hol segítünk?",
 		"manafwa": {
-			"title": "Manafwa, Uganda",
+			"header": "Manafwa, Uganda",
 			"shortDesc": "Manafwa körzet Uganda keleti régiójában található, központja Manafwa. Keleti és déli oldalon Kenyával határos, nyugati oldalon Mbalé körzet, az északi oldalon pedig Bududa körzet a szomszédja. Az itt élő emberek társadalmi helyzete Uganda egészét vizsgálva középosztálynak mondható ennek ellenére a többség itt is a szegénységi küszöb alatt él. Az emberek legfőbb bevételi forrása a mezőgazdaságból származik.",
 			"paragraphs": [
 				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/where-we-help/manafwa1.jpg" },
@@ -328,7 +328,7 @@
 			]
 		},
 		"karamoja": {
-			"title": "Karamoja, Uganda",
+			"header": "Karamoja, Uganda",
 			"shortDesc": "Az észak-nyugat Ugandában található Karamoja régió hét nagyobb területi egységre bontható fel és hozzávetőleg 1,3 milli ember lakja. Uganda legszegényebb régiója, melynek látogatása néhány évvel ezelőttig komoly veszélyt jelentett. Emellett azonban Uganda rejtett gyöngyszeme is, ahol még megtalálható a valódi érintetlen afrikai táj és a hagyományaikat még őrző és aktívan gyakorló törzsek.",
 			"paragraphs": [
 				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/where-we-help/karamoja4.jpg" },
@@ -349,7 +349,7 @@
 			]
 		},
 		"nairobi": {
-			"title": "Nairobi nyomornegyedei",
+			"header": "Nairobi nyomornegyedei",
 			"shortDesc": "Ezek a területek nem rendelkeznek kiépített infrastruktúrával, vezetékes vízzel vagy szennyvízhálózattal. A lakosok saját maguk építette házakban laknak melyet, a szeméttelepen talált vagy újrahasznosított anyagokból építettek. A nyomornegyed lakói nehezen tudnak belépni a munkaerőpiacra, aminek a fő okai között említhető az iskolázottságbeli hiányosságok, munkaerőpiaci készségek hiánya, vagy akár a munkahelyektől való távolság. A bűnözés mértéke magas, még a nappali órák során is. A nyomornegyedekben élő fiatalok kitörési lehetősége az oktatásban való részvétel, azonban ez sok család számára okoz anyagi nehézséget az egyéb szükségszerű kiadások mellett. Sok család az oktatás helyett a bevételek növelése céljából az iskola helyett munkára fogja a gyerekeket.",
 			"paragraphs": [
 				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi1.jpg" },
@@ -369,7 +369,7 @@
 			]
 		},
 		"mombasa": {
-			"title": "Mombasa és környéke",
+			"header": "Mombasa és környéke",
 			"shortDesc": "Mombasa és környéke világszerte ismert és kedvelt turista desztináció. Nagyjából az év egészében kellemes az idő, a szuahéli emberek kedvessége, a konyhájukra jellemző finom ízek és a csodás tengerpart sokakat hívogat. A napfény és kéklő víz azonban gyakran sötét dolgokat rejt. A helyiek többsége a turizmusból él és luxus szállodák ide vagy oda, mégis nagyon szegények. Valamint pont a turizmussal összefüggésben nagyon magas a térségben az emberkereskedelemmel és szexturizmussal kapcsolatos bűncselekmények és problémák előfordulás.",
 			"paragraphs": [
 				{ "type": "pic", "src": "/src/assets/images/where-we-help/mombasa1.jpg" },
@@ -385,7 +385,7 @@
 		"text": "Mi a Szívemben Született Afrika Egyesületnél sokan vagyunk és különbözőek, de mindannyian ugyanazért a célért dolgozunk: hogy embereknek ne csak hosszabb, de minőségi, méltóságteljes életük lehessen. Hiszünk abban, hogy a hatékony segítségnyújtás elengedhetetlen alappillére a megismerés, így minden programunkat a terepen begyűjtött szakmai tapasztalatokra építve dolgozzuk ki.",
 		"desc": "Bővebb információkért kattints a képekre!",
 		"noi-program": {
-			"title": "Női program",
+			"header": "Női program",
 			"shortDesc": "A nők helyzete az egész világon teremt megoldandó problémákat, viszont Afrikában igazán súlyos a helyzetük. Hiszünk abban, hogy minden közösségben kulcs szerepe van a nőknek, így ha az ő helyzetüket javítjuk, a közösség egészének a helyzete javulni fog.",
 			"paragraphs": [
 				"Programjaink fő fókuszában a nők helyzetének javítása, az ő megsegítésük áll. A nők helyzete az egész világon teremt megoldandó problémákat, viszont Afrikában igazán súlyos a helyzetük. Az afrikai nők vállát nagyon sok teher nyomja, de kevés a lehetőségük, viszont nagyon nagy a potenciál bennük.",
@@ -402,7 +402,7 @@
 			]
 		},
 		"84-nap": {
-			"title": "84 nap projekt",
+			"header": "84 nap projekt",
 			"shortDesc": "A szub-szaharai Afrikában élő kamaszlányok és nők átlagosan évi 84 napra esnek ki a munkából és az iskolából a menstruációs szegénység miatt, ami aztán további súlyos problémákhoz vezet.",
 			"paragraphs": [
 				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/projects/84-nap-logo.png" },
@@ -441,7 +441,7 @@
 			]
 		},
 		"gyermektamogatas": {
-			"title": "Gyermektámogatási program",
+			"header": "Gyermektámogatási program",
 			"shortDesc": "Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon, egy gyerek luxusnak számít.",
 			"paragraphs": [
 				"Hiszünk abban, hogy minden gyermeknek jár a boldog, biztonságos gyerekkor, az oktatás és az esély egy jó életre. Ugandában sajnos nem ingyenes az oktatás és mivel a családok nagy része a szegénységi küszöb alatt él, az, hogy iskolába járjon, egy gyerek luxusnak számít. Gyermektámogatási programunk keretében havi 7500 Ft-os adományért a támogató jelképes örökbefogadó szülővé válhat. Ez az az összeg, amely fedezi egy gyerkőc oktatását, tanszereit, étkezését és szükség esetén az orvosi ellátását. Mi pedig rendszeres időközönként hírt adunk a gyerkőc fejlődéséről, tanulmányi eredményeiről, fontosabb életeseményeiről, valamint küldünk róla fotókat, videókat.",
@@ -452,7 +452,7 @@
 			]
 		},
 		"shine": {
-			"title": "„Shine” Iskolafejlesztési program",
+			"header": "„Shine” Iskolafejlesztési program",
 			"shortDesc": "Manafwában 2020. februárjában kezdtük el felépíteni egyesületünk iskoláját - a Shine Nursery and Primary School-t - ahol a vidéki környezetben egyedülállóan jó színvonalon tanulhatnak a falubeli gyerekek. Jelenleg 1 bölcsödei és 3 óvodás csoport, valamint 5 általános iskolai osztály.",
 			"paragraphs": [
 				"Manafwában 2020.februárjára felépült egyesületünk iskolája - Shine Nursery and Primary School - ahol a vidéki környezetben egyedülállóan jó színvonalon tanulhatnak a falubeli gyerekek. Jelenleg 3 óvodai csoport és két általános iskolai osztály van. Az iskola építése folyamatosan zajlik, a jövőben megépítésre kerülnek tovább tantermek, illetve nagy vágyunk, hogy játszótér, konyhakert és könyvtár is kialakításra kerülhessen.",
@@ -466,7 +466,7 @@
 			]
 		},
 		"graduate-a-girl": {
-			"title": "Graduate a Girl - oktatástámogatási program",
+			"header": "Graduate a Girl - oktatástámogatási program",
 			"shortDesc": "A lányok oktatása az egyik legerősebb és leghatékonyabb fegyver, amit bevethetünk a globális szegénység felszámolására. A program azzal a céllal indul útjára, hogy megakadályozzuk, hogy ezeknek a lányoknak az élete és sorsa megpecsételődjön pusztán az által, hogy hová születtek.",
 			"paragraphs": [
 				{
@@ -479,7 +479,7 @@
 			]
 		},
 		"mtwapa": {
-			"title": "Oktatás támogatás Mtwapaban",
+			"header": "Oktatás támogatás Mtwapaban",
 			"shortDesc": "A programban szereplő minden fiatal az emberkereskedelem és/vagy szexturizmus áldozata vagy ezek veszélyének fokozottan kitett. A program célja, hogy iskolába járhassanak és tanulhassanak.",
 			"paragraphs": [
 				{ "type": "pic", "class": "float-right", "src": "/src/assets/images/projects/mtwapa.jpg" },
@@ -490,7 +490,7 @@
 			]
 		},
 		"eu-program": {
-			"title": "Egészségügyi program",
+			"header": "Egészségügyi program",
 			"shortDesc": "Hiszünk abban, hogy minden embernek jár, hogy a lehető legegészségesebb életet élje, és amikor megbetegszik, megkapja a számára szükséges segítséget. Rendszeres orvosi misszióink alkalmával a gyógyítás mellett nagy hangsúlyt fektetünk az oktatásra, betegedukációra és megelőzés különböző formáira is.",
 			"paragraphs": [
 				"Hiszünk abban, hogy minden embernek jár, hogy a lehető legegészségesebb életet élje, és amikor megbetegszik, megkapja a számára szükséges segítséget. Rendszeres orvosi misszióink alkalmával a gyógyítás mellett nagy hangsúlyt fektetünk az oktatásra, betegedukációra és megelőzés különböző formáira, illetve helyi egészségügyi dolgozók képzésére is, hogy akkor se késsen a segítség, ha mi nem vagyunk ott.",
@@ -520,8 +520,7 @@
 			]
 		},
 		"akitogogon": {
-			"title": "Akitogogon",
-			"title2": "Kiszolgáltatottból megállíthatatlan",
+			"header": "Akitogogon",
 			"shortDesc": "Kiszolgáltatottból megállíthatatlan<br><br>A Szívemben Született Afrika és a Shanita szervezete közös programot indít Karamojában.",
 			"paragraphs": [
 				"<b>Karamoja:</b> Karamojában és a szomszédos kenyai és szudáni területeken találták az emberiség legősibb nyomaira utaló csontvázakat és használati tárgyakat, szóval bátran kijelenthetjük, hogy az emberiség bölcsőjének nevezett afrikai kontinensnek is arról a részéről van szó, ahonnan az emberiség fejlődése elindult. Ez az ősiség ott van a régió minden egyes szegletében, a különleges talajban, a sokat látott hegyekben, a levegő semmihez sem hasonlítható illatában, az emberek rezilienciájában és lenyűgözően sokszínű kultúrájában.",

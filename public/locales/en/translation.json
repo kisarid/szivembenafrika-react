@@ -311,7 +311,7 @@
 	"where-we-help": {
 		"title": "Where Do We Help?",
 		"manafwa": {
-			"title": "Manafwa, Uganda",
+			"header": "Manafwa, Uganda",
 			"shortDesc": "Manafwa District is located in the Eastern Region of Uganda, with Manafwa as its centre. It borders Kenya to the East and South, Mbalé district to the West, and Bududa district to the North. Based on their social situation, the people living here can be considered as middle class when looking at Uganda as a whole. Despite this, the majority here live below the poverty line. The main source of income for the people comes from agriculture.",
 			"paragraphs": [
 				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/where-we-help/manafwa1.jpg" },
@@ -327,7 +327,7 @@
 			]
 		},
 		"karamoja": {
-			"title": "Karamoja, Uganda",
+			"header": "Karamoja, Uganda",
 			"shortDesc": "The Karamoja region in north-western Uganda can be divided into seven larger territorial units and is home to approximately 1.3 million people. It is the poorest region of Uganda, which, until a few years ago, was seriously dangerous to visit. However, it is also a hidden gem of Uganda, where you can still find the real untouched African landscape and the tribes that still preserve and actively practice their traditions.",
 			"paragraphs": [
 				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/where-we-help/karamoja4.jpg" },
@@ -348,7 +348,7 @@
 			]
 		},
 		"nairobi": {
-			"title": "Slums of Nairobi",
+			"header": "Slums of Nairobi",
 			"shortDesc": "These areas have a lack of infrastructure, tap water and sewage networks. The residents live in self-built houses built from recycled materials or things found in the landfill. It is difficult for slum dwellers to enter the labour market, the main reasons of which are educational deficiencies, lack of labour market skills, or even distance from workplaces. Crime rates are high, even during daylight hours. Participating in education is one of the only breakthrough opportunities for young people living in slums, but this represents a great financial burden for many families in addition to other necessary expenses. Many families send their children to work instead of school to increase income.",
 			"paragraphs": [
 				{ "type": "pic", "src": "/src/assets/images/where-we-help/nairobi1.jpg" },
@@ -368,7 +368,7 @@
 			]
 		},
 		"mombasa": {
-			"title": "Mombasa and its surroundings",
+			"header": "Mombasa and its surroundings",
 			"shortDesc": "Mombasa and its surroundings are a well-known and popular tourist destination worldwide. The weather is pleasant almost throughout the year, the kindness of the Swahili people, the delicious flavours characteristic of their cuisine and the wonderful beach invite many. However, sunlight and blue water often hide darker things. Most of the locals make their living from tourism, but despite the luxury hotels, they are very poor. Also, precisely in connection with tourism, the incidence of crimes and problems related to human trafficking and sex tourism in the region is very high.",
 			"paragraphs": [
 				{ "type": "pic", "src": "/src/assets/images/where-we-help/mombasa1.jpg" },
@@ -384,7 +384,7 @@
 		"text": "At the Africa Born in My Heart Association, we are many and diverse, but we all work for the same purpose: to ensure that people not only have a longer but also a  good-quality, dignified life. We believe that effective assistance is based on the foundation of understanding, so we develop all our programs based on the professional experiences gathered in the field.",
 		"desc": "Click on the photos for more information!",
 		"noi-program": {
-			"title": "Women's Programme",
+			"header": "Women's Programme",
 			"shortDesc": "The situation of women creates problems to be solved worldwide, but their situation is particularly dire in Africa. We believe that women play a crucial role in every community, so by improving their situation, the overall community's situation will also improve. In our program, we carry out theoretical and practical educational and vocational training projects.",
 			"paragraphs": [
 				"The main focus of our women's project is to help women and to better their circumstances. The women's situation creates issues in the whole world, that must be resolved, however, in Africa, their situation is serious. There are a lot of pressure on the African women's shoulders, but they are lack of opportunities, however, they have a huge potential.",
@@ -401,7 +401,7 @@
 			]
 		},
 		"84-nap": {
-			"title": "84 Days Project",
+			"header": "84 Days Project",
 			"shortDesc": "In sub-Saharan Africa, adolescent girls and women miss an average of 84 days of work and school each year due to menstrual poverty, which then leads to further serious issues. In this program, our projects focus on the following themes: eradicating menstrual poverty, ending violence against women and girls, eliminating teenage motherhood, and fighting against human trafficking.",
 			"paragraphs": [
 				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/projects/84-nap-logo.png" },
@@ -440,7 +440,7 @@
 			]
 		},
 		"gyermektamogatas": {
-			"title": "Child Support Programme",
+			"header": "Child Support Programme",
 			"shortDesc": "We believe that every child is entitled to a happy, safe childhood, education, and a chance for a good life. Unfortunately, education is not free in Uganda, and since most families live below the poverty line, sending a child to school is considered a luxury. In the program, symbolic adoptive parents support the education of a child of their choice with their monthly donation of 6,000 forints.",
 			"paragraphs": [
 				"We believe that every child deserves a happy, safe childhood, an education and the chance of a good life. Unfortunately, education in Uganda is not free and, with a large proportion of families living below the poverty line, sending a child to school is a luxury. For a monthly donation of 7500 Ft (18€), our child sponsorship programme allows the sponsor to become a symbolic adoptive parent. This amount covers a child's education, school supplies, meals and medical care if needed. We will periodically report on the child's progress, academic achievements, important life events and send photos and videos.",
@@ -451,7 +451,7 @@
 			]
 		},
 		"shine": {
-			"title": "“Shine” School Development Programme",
+			"header": "“Shine” School Development Programme",
 			"shortDesc": "In Manafwa, in February 2020, we began building our association's school, the Shine Nursery and Primary School, where local children can receive education of exceptionally high quality in a rural setting. Currently, there are 1 nursery and 3 kindergarten groups, as well as 5 primary school classes.",
 			"paragraphs": [
 				"In Manafwa, our association's school - Shine Nursery and Primary School - was built in February 2020, providing a uniquely high standard of education in a rural setting for children of the village. There are currently 3 nursery groups and two primary school classes. The construction of the school is still ongoing, with further classrooms to be built in the future, and we are really keen to have a playground, kitchen garden and a library.",
@@ -465,7 +465,7 @@
 			]
 		},
 		"graduate-a-girl": {
-			"title": "Graduate a Girl - Education Support Programme",
+			"header": "Graduate a Girl - Education Support Programme",
 			"shortDesc": "Educating girls is one of the most potent and effective weapons we can use to combat global poverty. The program aims to prevent the lives and destinies of these girls from being determined solely by where they were born. Sponsors who participate in the program support the education of adolescent girl with their monthly donation of 7,800 forints, helping them reach at least a high school diploma.",
 			"paragraphs": [
 				{
@@ -478,7 +478,7 @@
 			]
 		},
 		"mtwapa": {
-			"title": "Education Support in Mtwapa",
+			"header": "Education Support in Mtwapa",
 			"shortDesc": "Every young person in the program is a victim of human trafficking and/or is at high risk of sex tourism. The goal of the program is to ensure they can attend school and receive an education. Supporters who participate in the program support the education of a young person with their monthly donation of 9000 forints, helping them reach at least a high school diploma.",
 			"paragraphs": [
 				{ "class": "float-right", "type": "pic", "src": "/src/assets/images/projects/mtwapa.jpg" },
@@ -489,7 +489,7 @@
 			]
 		},
 		"eu-program": {
-			"title": "Healthcare Programme",
+			"header": "Healthcare Programme",
 			"shortDesc": "We believe that every individual deserves to live the healthiest life possible and that when they fall ill, they should receive the necessary assistance. During our regular medical missions, we emphasize not only treatment but also education, patient education, various forms of prevention, and the training of local healthcare workers to ensure that help is never delayed even when we are not present.",
 			"paragraphs": [
 				"We believe that every person deserves to live as healthy a life as possible, and when they fall ill, they get the help they need. In addition to providing treatment, we place a strong emphasis on education, patient education and various forms of prevention during our regular medical missions, as well as training local health workers so that help is not delayed even when we are not there.",
@@ -519,8 +519,7 @@
 			]
 		},
 		"akitogogon": {
-			"title": "Akitogogon",
-			"title2": "Vulnerable to Unstoppable",
+			"header": "Akitogogon",
 			"shortDesc": "Vulnerable to Unstoppable<br><br>We are launching a joint program in Karamoja with Shanita.",
 			"paragraphs": [
 				"<b>Karamoja:</b> The most ancient traces and evidences of human were found in Karamoja and its neighbouring regions in Sudan and Kenya. These skeletons and remainders of everyday tools suggest that Karamoja is in fact the specific place where our history began even in Africa, which is traditionally known as the ‘cradle’ of humanity.This ancient heritage is there in all nooks and crannies of Karamoja; in its extraordinary soil, its giant yet wise mountains, the scent of the air that compares to nothing, the resilience of the people and their magnificently colorful culture.",

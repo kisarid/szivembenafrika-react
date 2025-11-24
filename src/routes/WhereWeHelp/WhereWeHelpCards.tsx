@@ -9,25 +9,25 @@ export default function useWhereWeHelpCards(): CardCatalogueItem[] {
 	return [
 		{
 			id: 'manafwa',
-			title: t('manafwa.title'),
+			header: t('manafwa.header'),
 			shortDesc: t('manafwa.shortDesc'),
 			cover: { src: baseSrc + 'manafwa1.jpg' },
 		},
 		{
 			id: 'karamoja',
-			title: t('karamoja.title'),
+			header: t('karamoja.header'),
 			shortDesc: t('karamoja.shortDesc'),
 			cover: { src: baseSrc + 'karamoja2.jpg' },
 		},
 		{
 			id: 'nairobi',
-			title: t('nairobi.title'),
+			header: t('nairobi.header'),
 			shortDesc: t('nairobi.shortDesc'),
 			cover: { src: baseSrc + 'nairobi1.jpg' },
 		},
 		{
 			id: 'mombasa',
-			title: t('mombasa.title'),
+			header: t('mombasa.header'),
 			shortDesc: t('mombasa.shortDesc'),
 			cover: { src: baseSrc + 'mombasa1.jpg' },
 		},

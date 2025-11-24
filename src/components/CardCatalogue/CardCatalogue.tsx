@@ -22,9 +22,9 @@ export default function CardCatalogue({
 			<div className={`card-catalogue-cards ${columns ? `columns-${columns}` : ''}`}>
 				{cards.map((card) => (
 					<Card key={card.id} className='card-catalogue-card' onClick={() => onCardClick(card.id)}>
-						<Card.Title>{card.title}</Card.Title>
+						<Card.Title>{card.header}</Card.Title>
 						<div className='pic'>
-							<Card.Img variant='top' src={card.cover.src} alt={card.title} style={card.cover.style} />
+							<Card.Img variant='top' src={card.cover.src} alt={card.header} style={card.cover.style} />
 						</div>
 						<Card.Body>
 							<Card.Text

@@ -23,7 +23,7 @@ export default function WhereWeHelp() {
 
 	return (
 		<div id='where-we-help'>
-			<StickyHeader subheader={<b>{selectedCard?.title}</b>} onBackClick={selectedCard && onBackClick}>
+			<StickyHeader subheader={<b>{selectedCard?.header}</b>} onBackClick={selectedCard && onBackClick}>
 				{t('title')}
 			</StickyHeader>
 			{selectedCard ? <Outlet /> : <CardCatalogue cards={cards} onCardClick={onCardClick} />}

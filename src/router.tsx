@@ -1,5 +1,4 @@
 import { createBrowserRouter, redirect } from 'react-router-dom';
-import CardCataloguePage from './components/CardCatalogue/CardCataloguePage';
 import ParagraphedSection from './components/ParagraphedSection';
 import About from './routes/About/About';
 import Blog from './routes/blog';
@@ -39,35 +38,35 @@ export const router = createBrowserRouter([
 				children: [
 					{
 						path: 'akitogogon',
-						element: <CardCataloguePage id='akitogogon' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.akitogogon' />,
 					},
 					{
 						path: 'noi-program',
-						element: <CardCataloguePage id='noi-program' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.noi-program' />,
 					},
 					{
 						path: '84-nap',
-						element: <CardCataloguePage id='84-nap' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.84-nap' />,
 					},
 					{
 						path: 'gyermektamogatas',
-						element: <CardCataloguePage id='gyermektamogatas' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.gyermektamogatas' />,
 					},
 					{
 						path: 'shine',
-						element: <CardCataloguePage id='shine' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.shine' />,
 					},
 					{
 						path: 'graduate-a-girl',
-						element: <CardCataloguePage id='graduate-a-girl' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.graduate-a-girl' />,
 					},
 					{
 						path: 'mtwapa',
-						element: <CardCataloguePage id='mtwapa' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.mtwapa' />,
 					},
 					{
 						path: 'eu-program',
-						element: <CardCataloguePage id='eu-program' keyPrefix='projects' />,
+						element: <ParagraphedSection keyPrefix='projects.eu-program' />,
 					},
 				],
 			},
@@ -77,19 +76,19 @@ export const router = createBrowserRouter([
 				children: [
 					{
 						path: 'manafwa',
-						element: <CardCataloguePage id='manafwa' keyPrefix='where-we-help' />,
+						element: <ParagraphedSection keyPrefix='where-we-help.manafwa' />,
 					},
 					{
 						path: 'karamoja',
-						element: <CardCataloguePage id='karamoja' keyPrefix='where-we-help' />,
+						element: <ParagraphedSection keyPrefix='where-we-help.karamoja' />,
 					},
 					{
 						path: 'nairobi',
-						element: <CardCataloguePage id='nairobi' keyPrefix='where-we-help' />,
+						element: <ParagraphedSection keyPrefix='where-we-help.nairobi' />,
 					},
 					{
 						path: 'mombasa',
-						element: <CardCataloguePage id='mombasa' keyPrefix='where-we-help' />,
+						element: <ParagraphedSection keyPrefix='where-we-help.mombasa' />,
 					},
 				],
 			},
