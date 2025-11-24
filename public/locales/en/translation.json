@@ -291,7 +291,7 @@
 		}
 	},
 	"statement": {
-		"header": "Annual reports"
+		"title": "Annual reports"
 	},
 	"principles": {
 		"header": "Principles",
@@ -709,5 +709,35 @@
 			"No upcoming events available.",
 			"Until new events are announced, visit our <a href=\"https://www.facebook.com/szivembenszuletettafrika\">Facebook page</a>!"
 		]
+	},
+	"media": {
+		"title": "Media",
+		"subtitle": "External Media Appearances",
+		"paragraphs": [
+			"A nők nem a bűnüktől tisztulnak a menstruációval - mosható betét varrását tanítják magyarok Afrikában | <a href=\"https://wmn.hu/ugy/58214-a-nok-nem-a-bunuktol-tisztulnak-a-menstruacioval--moshato-betet-varrasat-tanitjak-magyarok-afrikaban?fbclid=IwAR3Sr4qmt2EPG9zm76QAR9zVSAtsvdlpiWo_4fPY2XQH2ko1liNC9GY50c4\">wmn.hu</a>",
+			"Vállat vonsz vagy vállalod? - önkéntesség, humanitárius segítségnyújtás | <a href=\"https://www.youtube.com/watch?v=-9TUOjQgMZU&t=1s&ab_channel=Eur%C3%B3paiBizotts%C3%A1gMagyarorsz%C3%A1giK%C3%A9pviselete\">Európai Bizottság Magyarországi Képviselete</a>",
+			"Beszélgetés a Szívemben Született Afrika nőhavi kampányáról | <a href=\"https://player.fm/series/sargabogre-podcast/ep-0408-szivemben-szuletett-afrika\">SárgaBögre Podcast</a>",
+			"Mit keres egy keszthelyi lány az afrikai dzsungelben? | <a href=\"https://refresher.hu/1118-Mit-keres-egy-keszthelyi-lany-az-afrikai-dzsungelben-Interju-a-Szivemben-szuletett-Afrika-misszio-elnokevel\">REFRESHER</a>",
+			"Azoknak a hangja vagyok, akik nem tudnak megszólalni | <a href=\"https://www.evamagazin.hu/tarsadalom/azoknak-a-hangja-vagyok-akik-nem-tudnak-megszolalni\">Éva Magazin</a>",
+			"Így lett az álmom a hivatásom | <a href=\"https://www.youtube.com/watch?v=BDIq-Pvvk6g&t=578s&ab_channel=TouatiKaren\">Szakmák között</a>",
+			"Czikkcakk Panni mesél önkéntességről és az afrikai élményeiről | <a href=\"https://www.youtube.com/watch?v=qyaWB4fi1_w&ab_channel=AfrikaSztorik\">Afrika Sztorik Talks</a>",
+			"Itthonról haza - Afrika, mint a második otthonom | <a href=\"https://www.youtube.com/watch?v=Ia6qVXQCOzM&ab_channel=AfrikaSztorik\">Afrika Sztorik Talks</a>",
+			"Czikkcakk Panni mesél a szervezetről, ugandai látogatásáról | <a href=\"https://noivalto.hu/az-en-tortenetem/afrika-onkentes-czikkely-panni/\">Női Váltó</a>",
+			"Mini orvosi laboratóriumot állított fel egy magyar csapat Afrikában | <a href=\"https://index.hu/kulfold/2021/06/04/orvosi-misszio-afrika-uganda-segitsegnyujtas/\">index.hu</a>",
+			"Őszintén a menstruációs szegénységről | <a href=\"https://www.youtube.com/watch?v=i3V0p1zOuVY&t=1047s&ab_channel=V%C3%A1szonzs%C3%A1kosl%C3%A1ny\">Vászonzsákoslány Podcast</a>",
+			"Afrikában ha egy párnak nem születik gyermeke az a nő szégyene | <a href=\"https://femina.hu/gyerek/afrikai-nok-szules-hagyomanyok/\">femina.hu</a>",
+			"Lelkében Afrikával indult útnak | <a href=\"https://szabadfold.hu/orszag-vilag/lelkeben-afrikaval-indult-utnak-283126/\">Szabad Föld</a>",
+			"Lehet, hogy nem Afrikában születtem, de Afrika megszületett bennem | <a href=\"https://www.youtube.com/watch?v=MzpaRY2GFtc&t=715s&ab_channel=AfrikaSztorik\">Afrika Sztorik Talks</a>",
+			"Gyermekházasságok áldozatai Afrikában | <a href=\"https://femina.hu/kapcsolat/gyermekhazassagok-aldozatai-afrikaban/\">femina.hu</a>",
+			"Irene és Joshua története | <a href=\"https://femina.hu/gyerek/irene-orokbefogadas-afrika/\">femina.hu</a>",
+			"Magyar segítők külföldön | <a href=\"https://www.youtube.com/watch?v=LMP2fBxS3HQ&t=47s&ab_channel=MagyarAfrikaT%C3%A1rsas%C3%A1gAHU\">Ridikül</a>",
+			"3 érdekesség Ugandáról | <a href=\"https://vous.hu/20180612-uganda-szivemben-szuletett-afrika-blog/\">vous.hu</a>",
+			"Fekete öves önkéntes | <a href=\"https://szimpatika.hu/cikkek/7674/fekete-oves-onkentes\">Szimpatika Magazin</a>",
+			"Összefogás a menstruációs szegénység felszámolásáért | <a href=\"https://hooplasewing.com/blogs/news/adomanyozz-hoopla-moshato-betetet\">Hoopla Sewing</a>",
+			"84 nap projekt, menstruációs szegénység | <a href=\"https://emilla.me/szivemben\">Emilla Pads</a>"
+		]
+	},
+	"supporters": {
+		"title": "Supporters"
 	}
 }

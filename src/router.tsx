@@ -5,18 +5,11 @@ import About from './routes/About/About';
 import Blog from './routes/blog';
 import Contact from './routes/contact';
 import Home from './routes/Home/Home';
-import Donations from './routes/how-you-help/Donations';
-import EducationProgramKenya from './routes/how-you-help/EducationProgramKenya';
-import Events from './routes/how-you-help/events';
-import GraduateAGirl from './routes/how-you-help/GraduateAGirl';
-import SupportChildren from './routes/how-you-help/SupportChildren';
-import Volunteering from './routes/how-you-help/Volunteering';
-import Media from './routes/media';
-import Principles from './routes/Principles';
+import Media from './routes/Media';
 import Projects from './routes/Projects/Projects';
 import Root from './routes/Root';
 import Statement from './routes/Statement';
-import Supporters from './routes/supporters';
+import Supporters from './routes/Supporters/Supporters';
 import Vlog from './routes/vlog';
 import WhereWeHelp from './routes/WhereWeHelp/WhereWeHelp';
 
@@ -127,7 +120,7 @@ export const router = createBrowserRouter([
 			},
 			{
 				path: '/media',
-				element: <Media />,
+				element: <ParagraphedSection key='media' keyPrefix='media' />,
 			},
 			{
 				path: '/vlog',

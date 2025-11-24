@@ -6,13 +6,8 @@ export default function Statement() {
 
 	return (
 		<>
-			<StickyHeader
-				description='A kettős könyvvitelt vezető egyéb szervezet egyszerűsített éves beszámolója és közhasznúsági
-					melléklet'
-			>
-				{t('header')}
-			</StickyHeader>
-			<section style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+			<StickyHeader subheader={t('subtitle', '')}>{t('title')}</StickyHeader>
+			<section style={{ display: 'flex', flexDirection: 'column', gap: '1rem', width: 'fit-content' }}>
 				<a href='/files/szivembenafrika_beszamolo_2024.pdf'>2024</a>
 				<a href='/files/szivembenafrika_beszamolo_2023.pdf'>2023</a>
 				<a href='/files/szivembenafrika_beszamolo_2022.pdf'>2022</a>
