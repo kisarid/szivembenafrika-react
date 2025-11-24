@@ -702,5 +702,12 @@
 			{ "type": "header", "text": "Organizational donations" },
 			"We offer to perform interactive courses throughout the country on organizational events, family days and on team-building events. Moreover we accept and appreciate all material and financial support of any organizations willing to aid our running projects."
 		]
+	},
+	"events": {
+		"title": "Events",
+		"paragraphs": [
+			"No upcoming events available.",
+			"Until new events are announced, visit our <a href=\"https://www.facebook.com/szivembenszuletettafrika\">Facebook page</a>!"
+		]
 	}
 }

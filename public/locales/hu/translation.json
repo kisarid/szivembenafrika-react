@@ -696,5 +696,12 @@
 			{ "type": "header", "text": "Vállalati adományozás" },
 			"Vállalati rendezvények, családi napok, csapatépítők alkalmából interaktív előadás megtartását vállaljuk országszerte. Ezen kívül, örömmel fogadjuk vállalatok tárgyi- és pénzbeli felajánlásait a futó programjaink támogatására."
 		]
+	},
+	"events": {
+		"title": "Események",
+		"paragraphs": [
+			"Jelenleg nem várható esemény.",
+			"Új események bejelentéséig látogass el <a href=\"https://www.facebook.com/szivembenszuletettafrika\">Facebook oldalunkra</a>!"
+		]
 	}
 }

@@ -1,5 +1,6 @@
 import { createBrowserRouter, redirect } from 'react-router-dom';
 import CardCataloguePage from './components/CardCatalogue/CardCataloguePage';
+import ParagraphedSection from './components/ParagraphedSection/ParagraphedSection';
 import About from './routes/About/About';
 import Blog from './routes/blog';
 import Contact from './routes/contact';
@@ -38,7 +39,7 @@ export const router = createBrowserRouter([
 			},
 			{
 				path: '/alapelvek',
-				element: <Principles />,
+				element: <ParagraphedSection keyPrefix='principles' />,
 			},
 			{
 				path: '/projektjeink',
@@ -102,11 +103,11 @@ export const router = createBrowserRouter([
 			},
 			{
 				path: '/adomanyozas',
-				element: <Donations />,
+				element: <ParagraphedSection keyPrefix='donations' />,
 			},
 			{
 				path: '/esemenyek',
-				element: <Events />,
+				element: <ParagraphedSection keyPrefix='events' />,
 			},
 			{
 				path: '/esemenyek/ubuntu',
