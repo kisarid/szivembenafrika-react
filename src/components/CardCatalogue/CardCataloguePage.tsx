@@ -1,5 +1,4 @@
 import { getParagraphHtml } from '@/util';
-import { KeyPrefix } from 'i18next';
 import { useTranslation } from 'react-i18next';
 
 export default function CardCataloguePage({ id, keyPrefix }: { id: string; keyPrefix: string }) {

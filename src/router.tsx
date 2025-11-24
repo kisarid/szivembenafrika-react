@@ -1,6 +1,6 @@
 import { createBrowserRouter, redirect } from 'react-router-dom';
 import CardCataloguePage from './components/CardCatalogue/CardCataloguePage';
-import ParagraphedSection from './components/ParagraphedSection/ParagraphedSection';
+import ParagraphedSection from './components/ParagraphedSection';
 import About from './routes/About/About';
 import Blog from './routes/blog';
 import Contact from './routes/Contact';
@@ -9,7 +9,7 @@ import Projects from './routes/Projects/Projects';
 import Root from './routes/Root';
 import Statement from './routes/Statement';
 import Supporters from './routes/Supporters/Supporters';
-import Vlog from './routes/vlog';
+import Vlog from './routes/Vlog/Vlog';
 import WhereWeHelp from './routes/WhereWeHelp/WhereWeHelp';
 
 export const router = createBrowserRouter([

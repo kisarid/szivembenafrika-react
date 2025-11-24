@@ -1,4 +1,4 @@
-import ParagraphedSection from '@/components/ParagraphedSection/ParagraphedSection';
+import ParagraphedSection from '@/components/ParagraphedSection';
 import hero1mobile from '@images/home/hero-1-mobile.jpg';
 import hero1 from '@images/home/hero-1.jpg';
 import hero2mobile from '@images/home/hero-2-mobile.jpg';

@@ -1,0 +1,30 @@
+.video-gallery {
+	.link {
+		grid-column: 1 / -1;
+		text-align: right;
+	}
+
+	.video-gallery-header {
+		font-weight: bold;
+	}
+
+	@media (min-width: 768px) {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		gap: 20px;
+
+		.collapse {
+			grid-column: 1 / -1;
+
+			.video-gallery-inner {
+				display: grid;
+				grid-template-columns: 1fr 1fr 1fr;
+				gap: 20px;
+			}
+		}
+
+		.link {
+			margin-top: -20px;
+		}
+	}
+}

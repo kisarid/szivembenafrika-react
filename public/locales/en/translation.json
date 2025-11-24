@@ -743,5 +743,61 @@
 	"contact": {
 		"title": "Contact",
 		"address": "Mailing address"
+	},
+	"vlog": {
+		"episode": "Episode {{nr}}",
+		"more-episodes": "More episodes...",
+		"less-episodes": "Less episodes",
+		"paragraphs": [
+			{ "type": "header", "text": "Fall 2021, Uganda" },
+			"Zsófi and Czikkcakk Panni travelled to Uganda for a month and in this vlog series they will show you how their mission days are spent in Manafwa.",
+			{ "type": "video-gallery", "eps": ["https://www.youtube-nocookie.com/embed/eiIDIQg1BmU"] },
+			{ "type": "header", "text": "Spring 2022, Uganda" },
+			"Juli, Móni, Zoli and Zsófi travelled to Uganda, where they spent 3 weeks in Manafwa and then went to one of the most beautiful places in Uganda - if not the world - Murchinson Falls National Park, and even visited a rhino reserve on the way.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/4xD-M7rfHUw",
+					"https://www.youtube-nocookie.com/embed/UPjEr1Z5H4k"
+				]
+			},
+			{ "type": "header", "text": "Fall 2022, Uganda and Kenya" },
+			"Zsófi and Dr. Balázs packed for a long trip, as they travelled to Uganda for a month-long mission. The original destination was Manafwa, but then they made a detour for a few days to Karamoja, where exciting new things began. Finally, Zsófi even travelled to Kenya for a week.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/j3hXOyV-JWE",
+					"https://www.youtube-nocookie.com/embed/VMrP_GksjXc",
+					"https://www.youtube-nocookie.com/embed/4EF3cgYQYkc",
+					"https://www.youtube-nocookie.com/embed/8PVEAFqv8dc"
+				]
+			},
+			{ "type": "header", "text": "January 2023, Kenya" },
+			"After long preparations, Zsófi, Balázs and Dr. Balázs set off on our first independent, larger mission in Kenya in January, during which they spent the first half of the time in Mombasa and the coastal area, and then headed for the slums of Nairobi.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/0eSG6uV1YWM",
+					"https://www.youtube-nocookie.com/embed/rQzr0upAi3E",
+					"https://www.youtube-nocookie.com/embed/SKjz8qx0RH0",
+					"https://www.youtube-nocookie.com/embed/l_9sHjbe3YM"
+				]
+			},
+			{ "type": "header", "text": "Spring 2023, Uganda" },
+			"And once again, donations are collected and packages are ready, as Panna, Juli and Zsófi headed to Uganda to deliver the gifts and kind messages of the symbolic adoptive parents to the children they support and to get all the news about the pupils of the school in Manafwa.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/-9CmuP4lB88",
+					"https://www.youtube-nocookie.com/embed/2kppsBe8vss",
+					"https://www.youtube-nocookie.com/embed/k-QZu2GQafU",
+					"https://www.youtube-nocookie.com/embed/jeaF2EjEPmQ",
+					"https://www.youtube-nocookie.com/embed/ucEJRKE8cHQ",
+					"https://www.youtube-nocookie.com/embed/PrHcf30Sfic",
+					"https://www.youtube-nocookie.com/embed/p2LVw95V8Pc",
+					"https://www.youtube-nocookie.com/embed/ooAEdnu6CKY"
+				]
+			}
+		]
 	}
 }

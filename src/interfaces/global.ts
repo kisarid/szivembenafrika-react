@@ -25,4 +25,9 @@ export type InfoBox = {
 	paragraphs: string[];
 };
 
-export type TranslationParagraph = string | Pic | Pic[] | Header | List | InfoBox;
+export type VideoGallery = {
+	type: 'video-gallery';
+	eps: string[];
+};
+
+export type TranslationParagraph = string | Pic | Pic[] | Header | List | InfoBox | VideoGallery;

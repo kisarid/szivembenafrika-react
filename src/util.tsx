@@ -1,5 +1,6 @@
 import DOMPurify from 'dompurify';
 import { JSX } from 'react';
+import VideoGallery from './components/VideoGallery/VideoGallery';
 import { Pic, TranslationParagraph } from './interfaces/global';
 
 const getPicHtml = (pic?: Pic | Pic[], picId?: string) =>
@@ -66,6 +67,10 @@ export function getParagraphHtml(p: TranslationParagraph, paragraphId: string) {
 				))}
 			</div>
 		);
+	}
+
+	if (p.type === 'video-gallery') {
+		return <VideoGallery key={paragraphId} wrapperKey={paragraphId} eps={p.eps} />;
 	}
 
 	return null;

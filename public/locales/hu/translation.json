@@ -738,5 +738,61 @@
 	"contact": {
 		"title": "Kapcsolat",
 		"address": "Levelezési cím"
+	},
+	"vlog": {
+		"episode": "{{nr}}. rész",
+		"more-episodes": "További részek...",
+		"less-episodes": "Kevesebb rész",
+		"paragraphs": [
+			{ "type": "header", "text": "2021. ősz, Uganda" },
+			"Zsófi és Czikkcakk Panni egy hónapra Ugandába utaztak és ebben a vlog sorozatban mutatják meg nektek, hogyan telnek a missziós mindennapjaik Manafwában.",
+			{ "type": "video-gallery", "eps": ["https://www.youtube-nocookie.com/embed/eiIDIQg1BmU"] },
+			{ "type": "header", "text": "2022. tavasz, Uganda" },
+			"Juli, Móni, Zoli és Zsófi Ugandába utaztak, ahol 3 hetet töltöttek Manafwában majd pedig felkerekedtek Uganda – ha nem a világ – egyik legszebb pontjára, a Murchinson Falls Nemzeti Parkba, sőt útközben még egy orrszarvú rezervátumot is meglátogattak.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/4xD-M7rfHUw",
+					"https://www.youtube-nocookie.com/embed/UPjEr1Z5H4k"
+				]
+			},
+			{ "type": "header", "text": "2022. ősz, Uganda és Kenya" },
+			"Zsófi és Dr. Balázs hosszú útra pakoltak, ugyanis egy egy hónapig tartó misszióra utaztak Ugandába. Az eredeti úticél Manafwa volt, de aztán egy pár napos kitérőt tettek Karamojába is, ahol izgalmas új dolgok vették kezdetüket. Végül pedig Zsófi még egy hétre Kenyába is átutazott.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/j3hXOyV-JWE",
+					"https://www.youtube-nocookie.com/embed/VMrP_GksjXc",
+					"https://www.youtube-nocookie.com/embed/4EF3cgYQYkc",
+					"https://www.youtube-nocookie.com/embed/8PVEAFqv8dc"
+				]
+			},
+			{ "type": "header", "text": "2023. január, Kenya" },
+			"Zsófi, Balázs és Dr. Balázs januárban hosszas előkészítéseket követően útnak indultak az első önálló, nagyobb ívű kenyai missziónkra, amely során az idő első felében Mombassában és a tengerparti térségben voltak, majd pedig Nairobi nyomornegyedei felé vették az irányt.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/0eSG6uV1YWM",
+					"https://www.youtube-nocookie.com/embed/rQzr0upAi3E",
+					"https://www.youtube-nocookie.com/embed/SKjz8qx0RH0",
+					"https://www.youtube-nocookie.com/embed/l_9sHjbe3YM"
+				]
+			},
+			{ "type": "header", "text": "2023. tavasz, Uganda" },
+			"És ismét adományok begyűjtve, csomagok készen, hiszen Panna, Juli és Zsófi Uganda felé vették az irányt, hogy a jelképes örökbefogadó szülők ajándékait és kedves üzeneteit továbbítsák az általuk támogatott gyerekeknek és összegyűjtsék az aktuális híreket a manafwai suli lurkóiról.",
+			{
+				"type": "video-gallery",
+				"eps": [
+					"https://www.youtube-nocookie.com/embed/-9CmuP4lB88",
+					"https://www.youtube-nocookie.com/embed/2kppsBe8vss",
+					"https://www.youtube-nocookie.com/embed/k-QZu2GQafU",
+					"https://www.youtube-nocookie.com/embed/jeaF2EjEPmQ",
+					"https://www.youtube-nocookie.com/embed/ucEJRKE8cHQ",
+					"https://www.youtube-nocookie.com/embed/PrHcf30Sfic",
+					"https://www.youtube-nocookie.com/embed/p2LVw95V8Pc",
+					"https://www.youtube-nocookie.com/embed/ooAEdnu6CKY"
+				]
+			}
+		]
 	}
 }

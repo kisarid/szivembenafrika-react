@@ -1,6 +1,6 @@
 import { getParagraphHtml } from '@/util';
 import { useTranslation } from 'react-i18next';
-import StickyHeader from '../StickyHeader/StickyHeader';
+import StickyHeader from './StickyHeader/StickyHeader';
 
 export default function ParagraphedSection({ keyPrefix }: { keyPrefix: string }) {
 	const { t } = useTranslation('translation', { keyPrefix });
