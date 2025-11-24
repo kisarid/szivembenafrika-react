@@ -41,13 +41,16 @@
 		"newsletter": "Hírlevél"
 	},
 	"home": {
-		"header": "Kedves Érdeklődő!",
-		"p1": "Sok szeretettel üdvözöllek a Szívemben Született Afrika Egyesület oldalán, örülünk, hogy ránk találtál.",
-		"p2": "Szilágyi - Könczöl Zsófi vagyok, a Szívemben Született Afrika megálmodója és alapítója. 14 éves koromban eldöntöttem, hogy ha törik, ha szakad, én bizony Afrikával fogok foglalkozni, majd 10 év várakozás és készülés után 2017-ben jártam első alkalommal a kontinensen, akkor az utam Uganda keleti részére, egy Manafwa nevű faluba vezetett, amelyre azóta már a második otthonomként tekintek. Azért mentem oda, hogy segítsek, hogy adjak és nem is gondoltam, hogy ezek az utak és ezek az emberek az én életemet is gyökeresen megváltoztatják majd.",
-		"p3": "Azóta a szervezet földrajzilag és tevékenységét tekintve is bővül és növekszik, 2022 óta megkezdtük a munkát Uganda legszegényebb, néhány évvel ezelőttig teljesen elzárt, jelenleg is aktív törzsi konfliktusokkal terhelt régiójában, Karamojában. Illetve Kenyában a főváros Nairobi nyomornegyedeiben és a szélesebb körben is ismert Mombassa és környékén.",
-		"p4": "Minden egyes afrikai utam alkalmával újabb és újabb dolgokat tanulok az életről és magamról. Megtanultam, hogy merhetek nagyot álmodni és megtanultam, hogy mindenkinek megvan az a hely a világban, ahol igazán nagy szükség van rá. Megtanultam, hogy „Afrikának” nem arra van szüksége, hogy mindent figyelmen kívül hagyva odamenjünk és „megjavítsunk” dolgokat, ”megmentsünk” embereket, arra van szükség, hogy alázatosak legyünk, megismerjünk, megértsünk és szeressünk. Mert segíteni csak így lehet és csak így érdemes. Megtanultam, hogy nem menthetem meg az egész világot, de segíthetek abban, hogy ezeknek távolinak tűnő tájak lakóinak jobb, emberhez méltóbb élete lehessen.",
-		"p5": "Nagyon büszke vagyok a csapatomra, akik az ügy köré szerveződtek és mára már együtt dolgozunk ezért a célért. Sokan vagyunk és sokfélék, de mindannyian hiszünk abban, hogy Afrika a lehetőségek kontinense, Uganda és Kenya pedig csodálatos országok, tele csodálatos emberekkel, akikkel, és akikért öröm és megtiszteltetés dolgozni.",
-		"p6": "Arra bíztatlak, hogy nézz szét az oldalunkon, ismerd meg a tevékenységeinket, és ha megszólítva érzed magad valamely programunk által, keress meg minket. Kérdezz, beszélgessünk, jelentkezz hozzánk önkéntesnek vagy pedig adományoddal támogasd a munkánkat. Mi már tudjuk: az összefogás csodákra képes!"
+		"paragraphs": [
+			{ "type": "header", "text": "Kedves Érdeklődő!" },
+			"Sok szeretettel üdvözöllek a Szívemben Született Afrika Egyesület oldalán, örülünk, hogy ránk találtál.",
+			"Szilágyi - Könczöl Zsófi vagyok, a Szívemben Született Afrika megálmodója és alapítója. 14 éves koromban eldöntöttem, hogy ha törik, ha szakad, én bizony Afrikával fogok foglalkozni, majd 10 év várakozás és készülés után 2017-ben jártam első alkalommal a kontinensen, akkor az utam Uganda keleti részére, egy Manafwa nevű faluba vezetett, amelyre azóta már a második otthonomként tekintek. Azért mentem oda, hogy segítsek, hogy adjak és nem is gondoltam, hogy ezek az utak és ezek az emberek az én életemet is gyökeresen megváltoztatják majd.",
+			"Azóta a szervezet földrajzilag és tevékenységét tekintve is bővül és növekszik, 2022 óta megkezdtük a munkát Uganda legszegényebb, néhány évvel ezelőttig teljesen elzárt, jelenleg is aktív törzsi konfliktusokkal terhelt régiójában, Karamojában. Illetve Kenyában a főváros Nairobi nyomornegyedeiben és a szélesebb körben is ismert Mombassa és környékén.",
+			"Minden egyes afrikai utam alkalmával újabb és újabb dolgokat tanulok az életről és magamról. Megtanultam, hogy merhetek nagyot álmodni és megtanultam, hogy mindenkinek megvan az a hely a világban, ahol igazán nagy szükség van rá. Megtanultam, hogy „Afrikának” nem arra van szüksége, hogy mindent figyelmen kívül hagyva odamenjünk és „megjavítsunk” dolgokat, ”megmentsünk” embereket, arra van szükség, hogy alázatosak legyünk, megismerjünk, megértsünk és szeressünk. Mert segíteni csak így lehet és csak így érdemes. Megtanultam, hogy nem menthetem meg az egész világot, de segíthetek abban, hogy ezeknek távolinak tűnő tájak lakóinak jobb, emberhez méltóbb élete lehessen.",
+			"Nagyon büszke vagyok a csapatomra, akik az ügy köré szerveződtek és mára már együtt dolgozunk ezért a célért. Sokan vagyunk és sokfélék, de mindannyian hiszünk abban, hogy Afrika a lehetőségek kontinense, Uganda és Kenya pedig csodálatos országok, tele csodálatos emberekkel, akikkel, és akikért öröm és megtiszteltetés dolgozni.",
+			"Arra bíztatlak, hogy nézz szét az oldalunkon, ismerd meg a tevékenységeinket, és ha megszólítva érzed magad valamely programunk által, keress meg minket. Kérdezz, beszélgessünk, jelentkezz hozzánk önkéntesnek vagy pedig adományoddal támogasd a munkánkat. Mi már tudjuk: az összefogás csodákra képes!",
+			{ "type": "pic", "src": "/src/assets/images/home/elnoki.jpg" }
+		]
 	},
 	"about": {
 		"title": "Csapatunk",
@@ -645,6 +648,53 @@
 					"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_3.jpg"
 				}
 			]
+		]
+	},
+	"donations": {
+		"title": "Adományozás",
+		"paragraphs": [
+			{ "type": "header", "text": "Pénzadomány, szolgáltatás adomány, tárgyi adomány" },
+			{
+				"type": "info-box",
+				"header": "Adományodat az alábbi helyre tudod elküldeni:",
+				"paragraphs": [
+					"Szívemben Sz.A.E.",
+					"Magnet Bank HUF: 16200223-10126679-00000000",
+					"Közlemény: az általad támogatni kívánt program neve és az email címed, hogy megköszönhessük az adományodat",
+					"IBAN: HU40 1620 0223 1012 6679 0000 0000",
+					"SWIFT: HBWEHUHB"
+				]
+			},
+			{ "type": "header", "text": "Miért fontos a szervezetünknek a rendszeres, havi adományozás?" },
+			"Minden adomány számít és sokat jelent, és nagyon hálásak vagyunk a legkisebb segítségért is. Az egyszeri adományozás egy remek kezdet, de azok a problémák, amelyekkel a nők, lányok és a gyermekek szembe kell, hogy nézzenek Manafwában – a szegénység, az erőszak, az oktatáshoz való korlátozott hozzáférés, az egészségügyi ellátás hiánya – hosszú távú problémák, amelyek hosszú távú megoldást igényelnek. A rendszeres adományok azt biztosítják számunkra, hogy dolgozni tudjunk és segíteni, mindaddig, amíg erre szükség van, akkor is, ha ez több és hosszabb időt vesz igénybe.",
+			"A havi rendszerességű támogatás lehetővé teszi számunkra, hogy bele merjünk vágni hosszabb távú, nagy ívű projektekbe is, hogy belefektessünk a nők és gyermekek és közösségeik életébe. Ez azt jelenti, hogy valódi és fenntartható változást tudunk hozni az életükbe. <b>Kérünk, segíts életeket változtatni!</b>",
+			{
+				"type": "pic",
+				"class": "float-right",
+				"src": "/src/assets/images/donations/atadas2.jpg"
+			},
+			{ "type": "header", "text": "Programok támogatása" },
+			"Projektjeink folyamatos, eredményes működtetését segítheted a célzott adományozással. Ilyenkor kérünk, hogy az utalás közleményébe írd be annak a projektnek a nevét, amelyiket támogatni szeretnéd.",
+			{ "type": "header", "text": "Tárgyi adomány és szolgáltatás" },
+			"Számunkra a szeretett manafwai közösségünk boldogsága és boldogulása a legfontosabb, azonban ahhoz, hogy a projektjeink megvalósítása során a maximumot nyújtsuk és valódi, hatékony segítséget tudjunk biztosítani, egy stabil háttércsapattal is rendelkeznünk kell.",
+			"Válassz az alábbi listából, támogasd a szervezet stabil működését és ezáltal járulj hozzá te is, hogy a lehető legtöbbet tudjuk segíteni Manafwában.",
+			"Ha minket segítesz, őket segíted!",
+			{
+				"type": "list",
+				"listType": "ul",
+				"listItems": [
+					"Grafikus szolgáltatás",
+					"Videó készítés",
+					"Terem bérlés (a rendezvényeinkhez)",
+					"Stúdió fotózás (a kampányainkhoz)",
+					"Laptop",
+					"Projektor",
+					"Fényképezőgép (a helyi csapatunk számára)",
+					"Okostelefonok (a helyi segítőink számára)"
+				]
+			},
+			{ "type": "header", "text": "Vállalati adományozás" },
+			"Vállalati rendezvények, családi napok, csapatépítők alkalmából interaktív előadás megtartását vállaljuk országszerte. Ezen kívül, örömmel fogadjuk vállalatok tárgyi- és pénzbeli felajánlásait a futó programjaink támogatására."
 		]
 	}
 }

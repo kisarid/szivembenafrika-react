@@ -42,12 +42,16 @@
 	},
 	"home": {
 		"header": "Dear Inquirer!",
-		"p1": "I warmly welcome you to the website of Szívemben Született Afrika – “Africa Born in My Heart”. We are delighted to have you here!",
-		"p2": "My name is Zsófi Szilágyi-Könczöl, the dreamer and founder of the „Africa Born in My Heart”. At the age of 14, I decided that come what may, I would be involved with Africa. After ten years of anticipation and preparation, I managed to visit the continent for the first time in 2017. My journey led me to a village called Manafwa in the eastern part of Uganda, which I now consider as my second home. I went there to help, to give and I never imagined that these journeys and these people would profoundly change my life.",
-		"p3": "Since then, the organization has expanded geographically and in its activities. Since 2022, we have been working in the poorest region of Uganda, Karamoja, which was completely isolated until a few years ago and it is still captivated by active tribal conflicts. Additionally, we work in the slums of Nairobi, the capital of Kenya, and in the wider known areas of Mombasa and its surroundings.",
-		"p4": "During each of my journeys to Africa, I learn new things about life and myself. I have learned to dare to dream big and that everyone has a place in the world where they are truly needed. I have learned that Africa doesn't need us to go and \"fix\" things, to \"save\" people without consciousness toward its people, but it needs us to be humble, to understand and to love them. Because that's the only way to help and it's the only way it's worth it. I have learned that I cannot save the whole world, but I can contribute to improving the quality and dignity of life for these people in these seemingly distant lands.",
-		"p5": "I am very proud of my team of those participating and working with me toward this goal, on this journey. We are many and diverse, but we all believe that Africa is the „continent of opportunities”, and Uganda and Kenya are wonderful countries full of amazing people, with whom and for whom it is a joy and an honor to work.",
-		"p6": "I encourage you to take a look around our website, get to know our activities. Shoud you feel called by any of our programs, please contact us. Let's ask questions, let's talk, join us as a volunteer or support our work with your donations. We already know: cooperation makes wonders!"
+		"paragraphs": [
+			{ "type": "header", "text": "Dear Inquirer!" },
+			"I warmly welcome you to the website of Szívemben Született Afrika – “Africa Born in My Heart”. We are delighted to have you here!",
+			"My name is Zsófi Szilágyi-Könczöl, the dreamer and founder of the „Africa Born in My Heart”. At the age of 14, I decided that come what may, I would be involved with Africa. After ten years of anticipation and preparation, I managed to visit the continent for the first time in 2017. My journey led me to a village called Manafwa in the eastern part of Uganda, which I now consider as my second home. I went there to help, to give and I never imagined that these journeys and these people would profoundly change my life.",
+			"Since then, the organization has expanded geographically and in its activities. Since 2022, we have been working in the poorest region of Uganda, Karamoja, which was completely isolated until a few years ago and it is still captivated by active tribal conflicts. Additionally, we work in the slums of Nairobi, the capital of Kenya, and in the wider known areas of Mombasa and its surroundings.",
+			"During each of my journeys to Africa, I learn new things about life and myself. I have learned to dare to dream big and that everyone has a place in the world where they are truly needed. I have learned that Africa doesn't need us to go and \"fix\" things, to \"save\" people without consciousness toward its people, but it needs us to be humble, to understand and to love them. Because that's the only way to help and it's the only way it's worth it. I have learned that I cannot save the whole world, but I can contribute to improving the quality and dignity of life for these people in these seemingly distant lands.",
+			"I am very proud of my team of those participating and working with me toward this goal, on this journey. We are many and diverse, but we all believe that Africa is the „continent of opportunities”, and Uganda and Kenya are wonderful countries full of amazing people, with whom and for whom it is a joy and an honor to work.",
+			"I encourage you to take a look around our website, get to know our activities. Shoud you feel called by any of our programs, please contact us. Let's ask questions, let's talk, join us as a volunteer or support our work with your donations. We already know: cooperation makes wonders!",
+			{ "type": "pic", "src": "/src/assets/images/home/elnoki.jpg" }
+		]
 	},
 	"about": {
 		"title": "Our team",
@@ -650,6 +654,53 @@
 					"src": "/src/assets/images/eductation-program-kenya/EducationProgramKenya_3.jpg"
 				}
 			]
+		]
+	},
+	"donations": {
+		"title": "Donations",
+		"paragraphs": [
+			{ "type": "header", "text": "Donation, donation of service, material donation" },
+			{
+				"type": "info-box",
+				"header": "You can send your donation to the following address:",
+				"paragraphs": [
+					"Szívemben Sz.A.E.",
+					"Magnet Bank HUF: 16200223-10126679-00000000",
+					"message box: write here the name of the program you wish to support and your e-mail adress, so we can thank you for your donation",
+					"IBAN: HU40 1620 0223 1012 6679 0000 0000",
+					"SWIFT: HBWEHUHB"
+				]
+			},
+			{ "type": "header", "text": "Why is the monthly donation important for the organization?" },
+			"Every donation counts, and we are appreciative even for the smallest help. One time donation is a great start, but the problems that women, girls and kids have to face in Manafwa such as poverty, violence, the limited access to education, and the lack of medical care are long-lasting problems that need long-lasting solutions. The periodical donations enable us to keep on working and providing help as long as it is needed, even if it has to be for a longer period of time.",
+			"Monthly donations allow us to launch major projects that last for longer period of time, to invest into the lives of women and kids and ito their comminuties. This means we can bring change into their lives. <b>We ask you to help us change lives!</b>",
+			{
+				"type": "pic",
+				"class": "float-right",
+				"src": "/src/assets/images/donations/atadas2.jpg"
+			},
+			{ "type": "header", "text": "Supporting programs" },
+			"By directed donations you can support the operation of our continuos projects. Doing so please write the name of the project which you wish to support into the message box of the money transfer",
+			{ "type": "header", "text": "Donation of service and material donations" },
+			"The most important thing for us is the well being of our beloved community in Manafwa. To provide our very best throughout our projects, and offer real and effective help we need a stable helping team in the background.",
+			"Choose from the list below to support the steady operation of the organization, and by doing so do your bit to allow us to help the most in Manafwa.",
+			"If you help us, you help them!",
+			{
+				"type": "list",
+				"listType": "ul",
+				"listItems": [
+					"Graphical design",
+					"Video making",
+					"booking rooms (for events)",
+					"Studio photos (for campaigns)",
+					"Laptops",
+					"Projectors",
+					"Cameras (for the local team)",
+					"Smartphones (for the local helpers)"
+				]
+			},
+			{ "type": "header", "text": "Organizational donations" },
+			"We offer to perform interactive courses throughout the country on organizational events, family days and on team-building events. Moreover we accept and appreciate all material and financial support of any organizations willing to aid our running projects."
 		]
 	}
 }

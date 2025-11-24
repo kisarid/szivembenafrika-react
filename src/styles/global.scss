@@ -127,3 +127,14 @@ svg {
 		}
 	}
 }
+
+.info-box {
+	margin-block: 20px;
+	padding: 20px;
+	border: 1px solid var(--moyo-font-light);
+	border-radius: 5px;
+
+	.info-box-header {
+		margin-bottom: 20px;
+	}
+}

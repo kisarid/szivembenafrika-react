@@ -20,7 +20,6 @@ const getPicHtml = (pic?: Pic | Pic[], picId?: string) =>
 	) : null;
 
 export function getParagraphHtml(p: TranslationParagraph, paragraphId: string) {
-	console.log(p);
 	if (typeof p === 'string') {
 		return <p key={paragraphId} dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(p) }}></p>;
 	}
@@ -56,6 +55,17 @@ export function getParagraphHtml(p: TranslationParagraph, paragraphId: string) {
 			return <ol key={paragraphId}>{listItems}</ol>;
 		}
 		return null;
+	}
+
+	if (p.type === 'info-box') {
+		return (
+			<div key={paragraphId} className='info-box'>
+				<div className='info-box-header'>{p.header}</div>
+				{p.paragraphs.map((para, k) => (
+					<div key={paragraphId + k}>{para}</div>
+				))}
+			</div>
+		);
 	}
 
 	return null;

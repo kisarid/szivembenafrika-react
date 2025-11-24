@@ -19,4 +19,10 @@ export type List = {
 	listItems: TranslationParagraph[];
 };
 
-export type TranslationParagraph = string | Pic | Pic[] | Header | List;
+export type InfoBox = {
+	type: 'info-box';
+	header: string;
+	paragraphs: string[];
+};
+
+export type TranslationParagraph = string | Pic | Pic[] | Header | List | InfoBox;
