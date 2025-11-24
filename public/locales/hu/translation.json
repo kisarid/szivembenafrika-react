@@ -734,5 +734,9 @@
 	},
 	"supporters": {
 		"title": "Támogatók"
+	},
+	"contact": {
+		"title": "Kapcsolat",
+		"address": "Levelezési cím"
 	}
 }

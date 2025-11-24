@@ -739,5 +739,9 @@
 	},
 	"supporters": {
 		"title": "Supporters"
+	},
+	"contact": {
+		"title": "Contact",
+		"address": "Mailing address"
 	}
 }
