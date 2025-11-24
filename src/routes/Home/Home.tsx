@@ -1,4 +1,4 @@
-import welcomePic from '@images/home/elnoki.jpg';
+import ParagraphedSection from '@/components/ParagraphedSection/ParagraphedSection';
 import hero1mobile from '@images/home/hero-1-mobile.jpg';
 import hero1 from '@images/home/hero-1.jpg';
 import hero2mobile from '@images/home/hero-2-mobile.jpg';
@@ -10,7 +10,6 @@ import hero4 from '@images/home/hero-4.jpg';
 import hero5mobile from '@images/home/hero-5-mobile.jpg';
 import hero5 from '@images/home/hero-5.jpg';
 import { Container } from 'react-bootstrap';
-import { useTranslation } from 'react-i18next';
 import { Autoplay } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import './Home.scss';
@@ -39,8 +38,6 @@ const heroPics = [
 ];
 
 export default function Home() {
-	const { t } = useTranslation('translation', { keyPrefix: 'home' });
-
 	return (
 		<div id='home'>
 			<Swiper modules={[Autoplay]} autoplay={{ delay: 5000, disableOnInteraction: false }} slidesPerView={1} loop>
@@ -54,16 +51,7 @@ export default function Home() {
 				))}
 			</Swiper>
 			<Container>
-				<div className='moyo-header'>{t('header')}</div>
-				<p>{t('p1')}</p>
-				<p>{t('p2')}</p>
-				<p>{t('p3')}</p>
-				<p>{t('p4')}</p>
-				<p>{t('p5')}</p>
-				<p>{t('p6')}</p>
-				<div className='pic'>
-					<img src={welcomePic} />
-				</div>
+				<ParagraphedSection keyPrefix='home' />
 			</Container>
 		</div>
 	);

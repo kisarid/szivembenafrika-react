@@ -39,7 +39,7 @@ export const router = createBrowserRouter([
 			},
 			{
 				path: '/alapelvek',
-				element: <ParagraphedSection keyPrefix='principles' />,
+				element: <ParagraphedSection key='principles' keyPrefix='principles' />,
 			},
 			{
 				path: '/projektjeink',
@@ -103,31 +103,27 @@ export const router = createBrowserRouter([
 			},
 			{
 				path: '/adomanyozas',
-				element: <ParagraphedSection keyPrefix='donations' />,
+				element: <ParagraphedSection key='donations' keyPrefix='donations' />,
 			},
 			{
 				path: '/esemenyek',
-				element: <ParagraphedSection keyPrefix='events' />,
-			},
-			{
-				path: '/esemenyek/ubuntu',
-				element: <Events />,
+				element: <ParagraphedSection key='events' keyPrefix='events' />,
 			},
 			{
 				path: '/graduate-a-girl',
-				element: <GraduateAGirl />,
+				element: <ParagraphedSection key='graduate-a-girl' keyPrefix='graduate-a-girl' />,
 			},
 			{
 				path: '/oktatas-tamogatas-kenya',
-				element: <EducationProgramKenya />,
+				element: <ParagraphedSection key='education-program-kenya' keyPrefix='education-program-kenya' />,
 			},
 			{
 				path: '/gyermektamogatas',
-				element: <SupportChildren />,
+				element: <ParagraphedSection key='support-children' keyPrefix='support-children' />,
 			},
 			{
 				path: '/onkentesseg',
-				element: <Volunteering />,
+				element: <ParagraphedSection key='volunteering' keyPrefix='volunteering' />,
 			},
 			{
 				path: '/media',
