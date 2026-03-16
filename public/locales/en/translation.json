@@ -1,6 +1,8 @@
 {
-	"more": "Read more",
-	"back": "Back",
+	"global": {
+		"more": "Read more",
+		"back": "Back"
+	},
 	"navbar": {
 		"1": {
 			"menu": "About us",
