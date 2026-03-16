@@ -1,0 +1,101 @@
+{
+  "id": "2024-12-12c",
+  "title": "Karácsonyi könyvajánló - könyvek Afrikáról, Afrikából",
+  "date": "2024-12-12",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Lukas Bärfuss: 100 nap",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Kíméletlen beszámoló a ruandai népirtás földi pokláról. 1994 áprilisában egy svájci segélyszervezet Ruandában tevékenykedő munkatársa, David Kigaliban ragad, így testközelből nézheti végig az egyre nagyobb méreteket öltő, és elképzelhetetlen áldozatokkal járó pusztítást. 100 nap – ennyi ideig rejtőzött a házában David, ennyi ideig tartott a hutuk és a tuszik közötti véres villongás. Bärfuss nemcsak a ruandai történelem legsötétebb óráit tárja elénk, de szembesít minket azzal is, hogy nekünk, európaiaknak milyen szerepünk van Afrika, így Ruanda és a népirtás történetében is."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-12-12c_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Mohamed Mbougar Sarr: Az emberek legtitkosabb emlékezete",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A 2021-ben Goncourt-díjjal jutalmazott Mohamed Mbougar Sarr, Franciaországban élő, szenegáli származású író. A szakmai zsűri szerint könyve „Himnusz az irodalomért”. És valóban. Sarr könyve egyszerre izgalmas nyomozás egy 1938-ban kiadott, majd később eltűnt könyv, Az embertelenség labirintusa után, amelynek szerzőjét a „néger Rimbaudként” emlegették, és egyúttal értekezés az irodalom és az élet értelméről. A könyv lapjain időben és térben is utazunk, a történet több mint 100 év és több kontinens eseményeit öleli fel."
+    },
+    {
+      "type": "text",
+      "content": "„A nagy könyvnek nincs tárgya, és nem szól semmiről, csak kimondani, megtalálni próbál valamit, de ez a csak, ez a minden, és az a valami, az is minden.”",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "Egyszerre szóljon semmiről, és mégis mindenről. Mégis mi, ha nem ez minden író célja? Hogy bekússzon a gondolatainkba, az álmainkba, a bőrünk alá, a zsigereinkbe. Hogy a csontjainkig hatoljon, igazán megérintsen minket a mesélő története. Mindig is úgy gondoltam, hogy azok a legjobb könyvek, amelyek még az álmaimban is velem vannak, velem lélegeznek a szereplők, a történések napokig nem hagynak nyugodni. Sarr könyve pedig ilyen. Nagy könyv."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-12-12c_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Mungi Ngomane: Ubuntu - Boldogság afrikai módra",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "És végezetül jöjjön a Nobel-békedíjas Desmond Tutu unokája, Mungi Ngomane Ubuntu című könyve. Ez a könyv kiemelkedően különleges számomra. A tavalyi szervezeti karácsonyon ugyanis a szervezet munkatársai és önkéntesei rendhagyó módon ajándékozták meg egymást: nem előre húztunk egy csapattársat, akinek ajándékot kellett választanunk, hanem olyan ajándékkal kellett készülnünk, amelynek bárki örülne. Ez egyszerre volt könnyű és nehéz feladat: könnyű, mert nagy teret enged az ötletelésre, nehéz, mert alaposan végig kellett gondolni, mi az, amivel senkinél nem nyúlunk mellé. A kedvenc jógaoktatóm mindig azt mondta, a hasonló helyzetben lévő emberek, azok az emberek, akiknek szükségük van egymásra, meg is találják egymást. Azt hiszem, nemcsak az emberek, de a tárgyak, így a könyvek is gyakran találnak meg minket, amikor szükségünk van rájuk. Hát így találtunk mi egymásra az Ubuntuval."
+    },
+    {
+      "type": "text",
+      "content": "Az ubuntu nemcsak egy szó, sokkal inkább egy életszemlélet, amely eredetileg a dél-afrikai filozófiából származik, de mondhatni a tradicionális afrikai életfilozófiát rejti magában. Az ubuntuban benne van minden arról, hogy hogyan kellene helyesen és egymással békében élnünk, hiszen „az ember csak mások által válik emberré”. Mungi Ngomane könyve tizennégy leckén keresztül kalauzol végig minket az ubuntu szemléletén. Nézeteink olyan leckéken keresztül formálódnak, melyek többek között az empátiát, a kapcsolatteremtést, a megbocsátást, a derűt, vagy éppen a valódi figyelmet és hallgatást helyezik a középpontba. Akár folyamatában olvassuk, akár apránként emésztjük a könyv leckéit, a végére biztosan nem leszünk ugyanazok. Igazi ünnepi könyv, ha az ember nemcsak az otthonát, de a lelkét is ünneplőbe szeretné öltöztetni, és karácsonyra azt kívánja, hogy a saját kereteinken túllépve megtanuljunk megértésben és békében élni egymással."
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "„Ha igazán meg akarunk dicsérni valakit, azt mondjuk: >Yhu, u nobuntu<, vagyis >Nézd csak, megvan benne az ubuntu<. Ez azt jelenti, hogy az illető nagylelkű, vendégszerető, barátságos és tele van együttérzéssel.” /Desmond Tutu/",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-12-12c_3.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    }
+  ],
+  "cover": {
+    "name": "2024-12-12c_1.jpg",
+    "style": { "object-position": "center 75%" }
+  },
+  "innerCover": null
+}

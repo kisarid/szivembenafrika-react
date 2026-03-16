@@ -1,0 +1,72 @@
+{
+  "id": "2026-02-27c",
+  "title": "Itt a farsang, áll a bál",
+  "subtitle": "Afrikai fűszeres fánk februári receptrovatunkban",
+  "date": "2026-02-27",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Itt a farsang, áll a bál – februári receptrovatunkban pedig mi más kaphatna helyet, mint egy fűszeres afrikai fánk, a mandazi? A mandazi – vagy szuahéli kókuszos fánk - Kelet-Afrika szuahéli partvidékéről származik, így számos országban – köztük Kenyában, Tanzániában, Szomáliában, Mozambikban, Nigériában, Ugandában – mindennapos desszertnek számít, maga a szó pedig szuahéli nyelven sütést jelent. Karakterességét az őrölt fahéj és az őrölt kardamom, lágyságát pedig a kókusztej adja. Jellemzően háromszög alakúra, de gyakran gömb formára is szaggatják."
+    },
+    {
+      "type": "text",
+      "content": "Hozzávalók:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "1,5 dl langyos víz",
+        "10 dkg cukor",
+        "20 g friss élesztő",
+        "50 dkg finomliszt",
+        "1 tk. só",
+        "1 ek. őrölt kardamom",
+        "1 tk. őrölt fahéj",
+        "1,5 dl kókuszteej",
+        "1 tojás",
+        "a sütéshez bő olaj"
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Elkészítés:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Az élesztőt 1 teáskanál cukorral elkeverjük a langyos vízben, és megvárjuk, míg felfut. Egy nagy tálban összevegyítjük a lisztet, a többi cukrot, a sót és az őrölt fűszereket. A közepébe mélyedést készítünk, beletesszük a kókusztejet, az élesztős vizet és a tojást. Kézzel vagy géppel addig dagasztjuk, míg össze nem áll gombóccá. Ezt követően enyhén lisztes gyúródeszkára borítjuk, és átgyúrjuk. Puha, de nem ragacsos tésztát készítünk. 4-6 egyforma részre vágjuk, amelyeket egyesével gömbölyítünk, majd letakarva szobahőmérsékleten kb. 1 órát kelni hagyjuk."
+    },
+    {
+      "type": "text",
+      "content": "A gombócokat nagyjából fél centi vastag körlappá nyújtjuk, mindegyiket 4-4 cikkre vágjuk. Ezeket ismét letakarjuk, és kb. 30 percig kelni hagyjuk."
+    },
+    {
+      "type": "text",
+      "content": "Egy mélyebb serpenyőben olajat hevítünk, amikor közepesen forró, elkezdjük benne sütni a fánkokat, egyszerre mindig annyit, hogy könnyen tudjuk őket forgatni. Ha jó tésztát készítettünk, a belseje szép üreges lesz, de kicsit le is nyomhatjuk szűrőlapáttal az olaj alá. Aranybarnára sütjük őket, papírtörlőn lecsöpögtetjük róla a felesleges olajat, majd frissen tálaljuk."
+    },
+    {
+      "type": "text",
+      "content": "Kufurahia mlo wako!"
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Forrás: Limara péksége, Afrika Sztorik"
+    }
+  ],
+  "cover": {
+    "name": "2026-02-27c_1.jpg",
+    "style": {
+      "object-position": "center center"
+    }
+  },
+  "innerCover": {
+    "name": "2026-02-27c_2.jpg"
+  }
+}

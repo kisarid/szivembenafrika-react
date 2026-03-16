@@ -1,0 +1,51 @@
+{
+  "id": "2024-03-19d",
+  "title": "Könyvajánló: Nélküled nem létezem",
+  "date": "2024-03-19",
+  "author": "Fazekas Leila",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Az alábbi könyvajánlóban Melissa Fay Greene Nélküled nem létezem című könyvét szeretnénk bemutatni. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19d_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A megrendítő, ám csodálatos hangvételű könyv egy különleges etiópiai asszonyról, Haregovin Teferra-ról szól, aki szerény anyagi körülményei ellenére megnyitotta otthonát az addisz-abebai AIDS-árvák előtt."
+    },
+    {
+      "type": "text",
+      "content": "A közel 400 oldalas könyvben számos ember sorsát ismerhetjük meg, emellett pedig átfogó betekintést enged az etióp lakosság életébe, az ország történelmébe és politikai helyzetébe – az írónő leplezetlen őszinteséggel mutatja be a kontinens valóságát és a nyugati országokhoz való viszonyát. A rengeteg statisztika és számadat mellett regényszerűen meséli el a sokszor megrendítő, ám legalább ugyanannyira felemelő emberi életeket, eseményeket és erőfeszítéseket, amelyeket azok tesznek nap, mint nap, akik – a legtöbbször önkéntes munka árán – próbálják megmenteni és jobbá tenni mások életét. "
+    },
+    {
+      "type": "text",
+      "content": "A szerző külön fejezeteket szentel a vírus felbukkanásának és elterjedésének, illetve a betegség kezelésére kidolgozott gyóyszerek a harmadik világ számára is elérhetővé tételének nehézségeinek."
+    },
+    {
+      "type": "text",
+      "content": "Az utolsó részben az Amerikai Egyesült Államokba örökbeadott gyermekek ottani beilleszkedéséről olvashatunk – a szerző maga is örökbefogadott két etióp árvát. Milyen nehézségeket jelent a traumatizált gyerekek egy új családba és egy teljesen más kultúrába való integrálása, milyen hosszútávú hatásai vannak a korai életszakaszban elszenvedett éhezésnek és a különböző betegségeknek. Sok-sok türelem, szeretet, áldozatkészség kell ahhoz, hogy leküzdjék a hátrányokat. És ezt a terhet nem minden család bírja el."
+    },
+    {
+      "type": "text",
+      "content": "Haregovin Teferra ma egy árvaházat és nappali gondozót vezet, és az etióp árvák örökbefogadását próbálja szorgalmazni szerte a világon."
+    },
+    {
+      "type": "text",
+      "content": "Mindenkinek ajánljuk a könyvet, akit érdekel az afrikai kultúra, a nyugati világ hatásai a harmadik világra vagy akár az örökbefogadás és az önkéntes munka."
+    }
+  ],
+  "cover": {
+    "name": "2024-03-19d_1.jpg",
+    "style": { "object-position": "center 25%" }
+  },
+  "innerCover": null
+}

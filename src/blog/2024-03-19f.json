@@ -1,0 +1,75 @@
+{
+  "id": "2024-03-19f",
+  "title": "Afrikai divat",
+  "date": "2024-03-19",
+  "author": "Tomasovszki Réka",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Sokszor, ha Afrikára és az afrikai divatra gondolunk, egyből a törzsi minták, az élénk színek jutnak eszünkbe, pedig az afrikai kultúra sokkal többrétűbb ennél."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19f_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: epuzzle.info"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Afrika egy hatalmas kontinens rengeteg országgal, annál is több kultúrával és törzzsel. Az öltözékeknek is rendkívül széles skálája található meg itt, az élénk színű törzsi mintáktól a horgolt textúrákon át, a gyöngyös karkötőkig és nyakláncokig. Mivel a kontinens maga is számtalan éghajlati adottsággal és természeti képződménnyel rendelkezik, ezért nagy eltérések vannak az öltözékek közt is. Ugyanígy nagy eltéréseket találhatunk a városi és természetes területek közt. Míg a városi részek már egy sokkal modernebb képet mutatnak, addig a vidéki helyeken még mindig az autentikus törzsi ruházat jellemzőbb. Természetesen, mint oly sok mindent, a turizmus nagyban befolyásolja a divatot is, hiszen a globalizációnak köszönhetően a turisták számára népszerűbb célpontokon akár számunkra is ismertebb ruhamárkákkal találkozhatunk. Azonban, ahogy az amerikai, európai és ázsiai utak betörnek Afrikába, úgy az afrikai kultúra is hatással van a nagy divatházakra és fast fashion márkákra."
+    },
+    {
+      "type": "text",
+      "content": "Amikor a plázába besétálunk vagy éppen a kedvenc ruhaboltunk honlapjára felnézünk, időről időre belefuthatunk szafari tematikájú ruhadarabokba. Ezek tipikus példái annak, ahogy a modern amerikai és európai ruhaipar adaptálta az afrikai kultúrát. Bár ezek már igen elrugaszkodtak a valóságtól, hiszen számos más divatirányzat is hat rájuk. Ezért ha valaki elmegy egy afrikai szafarira, nem feltétlenül tanácsos a legújabb trend szerint felöltözni. Előtte sokkal inkább ajánlatos tájékozódni, hogy az adott afrikai országban milyen ruhadarabokat illendő hordani vagy melyek kerülendők. Bár sok helyen már igencsak ismerik a turistákat, nekünk például egy-egy misszió alatt az öltözékünkre is ugyanolyan hangsúlyt kell fektetnünk. Mivel sokszor járunk elzárt területeken, ahol még szinte sosem láttak fehér embert, fontos, hogy tiszteljük a hagyományaikat és az öltözékünkkel se zavarjuk őket."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19f_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "A mi missziós kalandjainkról kicsit visszakanyarodva szeretnék bemutatni néhány ismertebb afrikai divattervezőt/márkát, akik akár a legnagyobb sztárok segítségével terjesztik az afrikai kultúrát és örökséget szerte a világban."
+    },
+    {
+      "type": "text",
+      "content": "Lisa Folawiyo",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Nigériai divattervező, talán az egyik legismertebb afrikai tervező. Termékei számos nemzetközi divatlapban is megjelentek, kreációit viselte már Lupita Nyong’o vagy éppen Solange Knowles is."
+    },
+    {
+      "type": "text",
+      "content": "Loza Maléombho",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Elefántcsontparti tervező, aki a new yorki divatot vegyíti az autentikus elefántcsontparti hagyományos elemekkel."
+    },
+    {
+      "type": "text",
+      "content": "Kikoromeo",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Egy kenyai márka, ami nagy hangsúlyt fektet a helyi, tradicionális kézzel festett anyagok használatára, valamint a helyi művészek (különböző művészeti ágazatok) támogatására."
+    }
+  ],
+  "cover": {
+    "name": "2024-03-19f_2.jpg",
+    "style": { "object-position": "15% bottom" }
+  },
+  "innerCover": null
+}

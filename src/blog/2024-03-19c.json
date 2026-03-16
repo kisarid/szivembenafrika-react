@@ -1,0 +1,70 @@
+{
+  "id": "2024-03-19c",
+  "title": "Gyermektámogatási program - interjú",
+  "date": "2024-03-19",
+  "author": "Fazekas Leila",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Miért döntöttél úgy, hogy gyermektámogató leszel?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Szűk egy év önkéntesség után, tavaly novemberben csatlakozhattam egy ugandai misszióhoz, - aminek keretein belül 6 másik lánnyal Afrikába utaztam."
+    },
+    {
+      "type": "text",
+      "content": "A felkészülési idő alatt sok mindent megtudtam a szervezet céljairól, projektjeiről és általánosságban a humanitárius segítségnyújtásról. Tudtam, hogy létezik gyermektámogatási program és nagyon megható volt egy önkéntes akadémia keretein belül egy rutinos jelképes örökbefogadó személyes történeteit hallgatni. Már akkor elkezdett bennem motoszkálni a vágy, hogy én is szeretnék ilyen módon szülő lenni."
+    },
+    {
+      "type": "text",
+      "content": "Ez egy kicsit háttérbe szorult, ahogy közeledett a misszió. A pakolás, a kötelező védőoltások, adományszortírozás és a munkahelyi pörgés levette erről a fókuszt."
+    },
+    {
+      "type": "text",
+      "content": "Amikor az ember eltölt Afrikában egy bizonyos időt, az első élmények között van, hogy rácsodálkozik, milyen sok kíváncsi, nyílt tekintetű cuki gyerkőc veszi körül."
+    },
+    {
+      "type": "text",
+      "content": "Aztán az egyik napsütéses délutánon a manawfai bázisunkon a ház előtt berendezett szabadtéri “irodánkban” elkezdtük a helyi gyerekek regisztrációját. Nem szerepeltem az eredeti beosztásban, de spontán úgy alakult, hogy valaki helyett részt vettem a feladatban. És ott többször elég erősen bedobbant a szívem. Letaglózó volt hallgatni, hogy milyen nehéz családi körülmények között élnek a gyerekek, rengeteg az akár 5-6-7 gyermekét egyedül nevelő anyuka, sokan árvák a gyerekek közül, akiket nagyobb testvér, nagyszülő vagy távolabbi rokon nevel. Arra esély sincs, hogy a tandíjat önerőből kifizessék. Igaz ez a kisebb, általános iskolás gyerkőcökre és a tinédzserekre is. Amikor a gyerekek adatait rögzítettük, nagyjából mindenkinél bennem volt, hogy, őt akarom támogatni. Mert mindegyikük egyformán megérdemli, és nem mellékesen nagyon kedves, tisztelettudó gyerekek, akik türelmesen kivárták a sorukat."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19c_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Mesélj kérlek kicsit az általad támogatott gyerekekről.",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A regisztráció befejezése után kellett pár nap, hogy leülepedjenek az információk, helyükre kerüljenek az érzelmeim. Végül két gyerek jelképes örökbefogadó anyukája lettem. Az egyikük egy kisfiú, másikuk egy 14 éves lány. Mivel március a nők hónapja, ezért Elizabethről mesélek kicsit. Ő egy tündéri, mosolygós, nagyon szép lány, aki már elvégezte az általános iskolát. Nővér szeretne lenni, de a további tanulmányaira a családnak nincs pénze. A kedves lényén, szerénységén kívül nagyon tetszett a neve is, szeretem az Erzsébet nevet, nagymamámat is így hívták. Annyira várom, hogy majd hírt kapjak róla, hogy lássam, ahogy felnő. Az is olyan jó, hogy a fix támogatási összegen kívül lehetőség van időnként apró tárgyi adományt is küldeni. Így még személyesebb a kapcsolat kettőnk között."
+    },
+    {
+      "type": "text",
+      "content": "Mit üzennél azoknak, akik fontolgatják, hogy támogatók lesznek, de még nem vágtak bele?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A havi pár ezer forintos támogatást anyagilag egy átlag dolgozó magyar ember nem érzi meg, a támogatott gyereknek pedig a továbbtanulása, az étele, az egészégügyi költségei kijönnek belőle. Amikor ezt egyszer egy társaságban meséltem, valaki rávágta, hogy akkor hogy lehet, hogy nem vág bele ebbe az önkéntes támogató programba mindenki?!"
+    },
+    {
+      "type": "text",
+      "content": "És amúgy tényleg, miért nem? Első lépés egy email a szervezet honlapján megadott e-mail címre. A többi jön magától."
+    }
+  ],
+  "cover": {
+    "name": "2024-03-19c_1.jpg",
+    "style": { "object-position": "center top" }
+  },
+  "innerCover": null
+}

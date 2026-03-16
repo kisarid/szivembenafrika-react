@@ -1,0 +1,47 @@
+{
+  "id": "2025-02-13e",
+  "title": "Afrikából egyenesen a reggeli bögréig - a kávétermesztés Ugandában",
+  "date": "2025-02-13",
+  "author": "Cziklin Veronika",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Uganda az egyik legnagyobb kávétermelő ország a világon, közel 394 tonna éves előállított volumenével szám szerint a hatodik (2022-es adatok alapján), Afrikában pedig Etiópia mellett a második legnagyobb kávéexportőr. Uganda kávéipara kulcsfontosságú a helyi megélhetés és a nemzetközi kereskedelem szempontjából; a kávé Ugandában tekintélyes helyet foglal el a top exporttermékek listáján olyan termékek között, mint a gyöngy, drágakövek, nemesfémek, tea, fűszerek és kakaó."
+    },
+    {
+      "type": "text",
+      "content": "Uganda túlnyomórészt Robusta kávét termel, amely a teljes kávétermelés mintegy 80%-át teszi ki, míg az Arabica kávét a magasabb hegyvidéki területeken, különösen a Bugisu régióban termesztik. Érdekesség, hogy a kávé néhány helyen még vadon is megterem a világon, Uganda épp ilyen: Kampala közelében és a Viktória-tó mellett még találkozhatunk vadon termő Robusta kávé növényekkel. A kávétermesztés meglehetősen kitett a környezeti hatásoknak, kiváltképp az elmúlt években tapasztalt megnövekedett klímaváltozásból eredő hőmérséklet-változás, időjárási jelenségek és betegségek miatt, ezért a kávé mindkét fő fajtája dinamikusan drágul. "
+    },
+    {
+      "type": "text",
+      "content": "A két típus ránézésre is megkülönböztethető, az Arabica kávészemet található repedés hullámos, illetve maga a kávészem is hosszúkásabb alakú, mint egy Robusta szem. A két fajta közül az Arabica érzékenyebb, termesztése emiatt nehezebb, ebből eredően drágább is. A  Robusta valamivel ellenállóbb fajta, amely kevésbé csapadékigényes és alacsonyabban fekvő vidékeken is megterem, azonban még ezt a fajtát is sújtják a környezeti hatások, így sajnos ez a fajta sincsen teljes biztonságban, világpiaci ára ennek is folyamatosan emelkedik. A különbség a termesztési tényezőkön túl ízprofilban mutatkozik meg, bár ehhez hozzá kell tenni, hogy a termesztési régió és körülmények, valamint a feldolgozás során alkalmazott paraméterek (pl. a pörkölés) nagyban befolyásolja a végeredményt. Az Arabica kávé lágyabb, gyümölcsös ízvilágú, koffeintartalma is alacsonyabb a Robustához képest, amely általában földesebb, kesernyésebb ízjegyekkel rendelkezik. Az Arabica kávékat általában világosabbra pörkölik, míg a Robustát sötétebbre, ami önmagában is meghatározza az ízélményt. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-02-13e_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: <a href=\"https://bestmixer.hu/\">bestmixer.hu</a>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "A kézműves kávézókban szinte mindig Arabica kávéval találkozhatunk a nagyon világostól a közepes pörkölésig, az újítóbb pörkölők időről-időre kísérleteznek néhány világosabbra pörkölt Robusta kávéval is, azonban ez még nem túl elterjedt, mivel a Robustának jobban áll a sötétebb pörkölés. A boltokban kapható kávé mindezek nyomán  túlnyomórészt Robusta, amennyiben Arabica kávét tartalmaz egy termék, azt prémiumabb megítélése lévén általában fel szokták tüntetni, tehát ha nincs feltüntetve a kávé fajtája, az jó eséllyel Robusta. Ugandában is leginkább Robusta-termesztés zajlik, azonban helyenként Arabicával is foglalkoznak, ezeket leginkább kézműves kávézókban vagy kávéra specializálódott online boltokban tudjátok fellelni."
+    },
+    {
+      "type": "text",
+      "content": "A kávéipar Uganda gazdaságában betöltött fontos szerepéről már beszéltünk, azonban zárásként még egy fontos tény: mintegy 1,7 millió háztartás függ a kávétermesztéstől. Nem meglepő tehát, hogy igyekeznek a kávétermesztést szabályozni és fenntarthatóbbá tenni, így ezzel foglalkozó szervezet is létezik Ugandában: az Uganda Coffee Development Authority (UCDA) fő tevékenysége a minőség javítására és az értékesített kávétermékek bővítésére összpontosít, beleértve a feldolgozott kávét és a fenntartható gazdálkodási gyakorlatokat."
+    },
+    {
+      "type": "text",
+      "content": "Ha kedvet kaptatok megkóstolni az ugandai kávét, kitelepüléseinknél általában vásárolhattok a standunknál adományért cserébe, úgyhogy érdemes figyelni eseményeinket, megjelenéseinket. Ha pedig nem szeretnétek várni, a feltörekvő kávékultúrának köszönhetően már Magyarországon is több helyen találhattok online, sőt, még válogatni is tudtok, hogy Ugandán belül mely régióból és milyen fajta kávét szeretnétek vásárolni."
+    }
+  ],
+  "cover": {
+    "name": "2025-02-13e_1.jpg",
+    "style": { "object-position": "40% center" }
+  },
+  "innerCover": null
+}

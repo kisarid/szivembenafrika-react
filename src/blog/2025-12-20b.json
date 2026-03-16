@@ -1,0 +1,63 @@
+{
+  "id": "2025-12-20b",
+  "title": "Karamojong féltök",
+  "date": "2025-12-20",
+  "author": "Kozári Dóri",
+  "blocks": [
+    {
+      "type": "img",
+      "content": [{ "name": "2025-12-20b_1.jpg", "caption": "" }]
+    },
+    {
+      "type": "text",
+      "content": "A féltökből készült karamojong tál a hagyományos kézművesség egyedülálló formája, amely a praktikumot kulturális jelentőséggel ötvözi, s melyet különféle célokra használnak."
+    },
+    {
+      "type": "text",
+      "content": "Anyagforrás: a tálakat általában úgy készítik, hogy egy tököt kettévágnak, és kitisztítják a belsejét. A tök héját ezután megszárítják, és esetleg díszítik vagy polírozzák. Ez fenntartható, környezetbarát választás a helyben elérhető természeti erőforrások felhasználásával."
+    },
+    {
+      "type": "img",
+      "content": [{ "name": "2025-12-20b_2.jpg", "caption": "" }]
+    },
+    {
+      "type": "text",
+      "content": "Felhasználások:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "Élelmiszertárolás: ezek a tálak élelmiszerek vagy folyadékok tárolására használhatók, alapvető szerepet játszva a közösség földművelő és pásztorkodást folytató életmódjában. Könnyűek és hordozhatóak, tökéletesek a nomád élethez.",
+        "Szertartási funkciók: egyes esetekben felhasználhatók szertartásokban vagy rituálékban, gyakran áldásokkal vagy közösségi eseményekkel kapcsolatban. Használhatják hangszerként, dobként is.",
+        "Mindennapi használat: a szárítást és a megkeményedést követően, tartósságuknak köszönhetően hasznos edényként szolgálnak evéshez, iváshoz vagy akár kisebb tárgyak tárolásához. Ritkább esetekben használhatják még párnaként vagy székként is."
+      ]
+    },
+    {
+      "type": "text",
+      "content": "<b>Dekoráció:</b> néha a tálakat bonyolult faragások, gyöngyök vagy festékek díszítik. Ez a díszítés tükrözheti az egyén vagy a közösség kulturális identitását, egyedi szimbólumokkal vagy motívumokkal, amelyek személyes vagy spirituális jelentőséggel bírnak."
+    },
+    {
+      "type": "text",
+      "content": "<b>Szimbolika:</b> maga a tök a haszonelvű felhasználáson túl kulturális jelentést is hordozhat. Számos afrikai hagyomány szerint a tökök szimbolikusan kapcsolódnak a termékenységhez, a bőséghez vagy a spirituális gyakorlatokhoz."
+    },
+    {
+      "type": "text",
+      "content": "<b>Fenntarthatóság:</b> a karamojongok sok más bennszülött csoporthoz hasonlóan mélyen ismerik a rendelkezésre álló erőforrások fenntartható módon történő felhasználását. A tök tálként való használata minimálisra csökkenti a pazarlást, és a növény teljes körű felhasználását teszi lehetővé."
+    },
+    {
+      "type": "img",
+      "content": [
+        { "name": "2025-12-20b_3.jpg", "caption": "" },
+        { "name": "2025-12-20b_4.jpg", "caption": "" }
+      ],
+      "classes": ["keep-size"]
+    }
+  ],
+  "cover": {
+    "name": "2025-12-20b_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

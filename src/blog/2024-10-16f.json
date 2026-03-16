@@ -1,0 +1,77 @@
+{
+  "id": "2024-10-16f",
+  "title": "Találkozás a támogatott gyerekekkel",
+  "date": "2024-10-16",
+  "author": "Csomai Borbála",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A második manafwai missziós napunk sokunk számára nagyon különleges volt, hiszen meglátogathattuk a jelképesen örökbefogadott gyerekeinket."
+    },
+    {
+      "type": "text",
+      "content": "Tanítás után két tanár, Esther és Milly körbevezettek minket a faluban. Elsőként Judit kamaszlányának házához mentünk. Rita már a kapunban várt minket, és Juditot meglátva előreszaladt és öleléssel üdvözölte.  Köszöntésként letérdelt előttünk, ami először meglepő volt számunkra, de később Esther elmagyarázta, hogy ez náluk a tisztelet jele. Így köszöntik azokat, akikre felnéznek. A lány bemutatta az apukáját, majd a hálószobát, amin 5 lánytestvérével osztozik."
+    },
+    {
+      "type": "text",
+      "content": "Utána Judit kisebb lányához mentünk. Anyukája a legszebb ruhába öltöztette a kis Maryt. A család hálája jeléül egy hatalmas jackfruitot ajándékozott Juditnak."
+    },
+    {
+      "type": "text",
+      "content": "Ezt követően Secretet látogattuk meg, a saját támogatott kislányomat. Az anyukája a ház előtt fogadott, majd beinvitált minket a konyhába. A beszélgetés elején köszönetet mondott. Érződött, hogy a beszédre már regóta készült. Nagyon megható volt látni, hogy mennyire hálás, és, hogy valóban rengeteget jelent számukra a támogatás. Ekkor ért haza Secret, aki tárt karokkal szaladt felém, majd megölelt. Körbevezettek a házukban és megmutatták a tavasszal adományozott matracot, amin Secret alszik. Ők is több testvérrel osztoznak a hálószobán és ez volt az egyetlen hagyományos ágy, takaróval és párnával. A látogatás végén még egy vendégágyat is felajánlottak nekem, ha máskor is erre járok."
+    },
+    {
+      "type": "text",
+      "content": "A sétánk utolsó állomása a 2 éves Kevin háza volt, akit Dóri támogat. A bátortalan kisfiú nehezen engedte el anyukája kezét, nagyon bújóssá vált. Az anyukája Pauline az iskolában tanít, így már ismerősek voltunk számára. Dóri láttára ugrált, sikítozott és táncolt örömében. Sokszor elnevette magát a meghatottságtól."
+    },
+    {
+      "type": "text",
+      "content": "Zoli a Pure Life Alapítványon keresztül 12 gyerek oktatását támogatja, velük egy későbbi napon tudtunk találkozni. Az egyik kamaszfiú, Innocent egy megható levéllel készült Zolinak."
+    },
+    {
+      "type": "text",
+      "content": "Az összes családon látszott a hatalmas öröm, köszönet és hála. Testközelből érezhettük, hogy nekik ez a támogatás ténylegesen mennyit jelent, láthattuk, hogy milyen szerény körülményekből jönnek a gyerekek. Ennek ellenére mindenki viszonozta valahogy a segítséget. Kaptunk avokádót, tojást, banánt és jackfruitot is, melyeket közösen fogyasztottunk el."
+    },
+    {
+      "type": "text",
+      "content": "Mindenkin érződött, hogy a legszebb ruháját öltötte fel az alkalomra. Sokat készültek a találkozóra. Persze mi is hoztunk ajándékokat, melyeket másnap délután adtunk át a gyerekeknek."
+    },
+    {
+      "type": "text",
+      "content": "Számomra a gyermeklátogatás volt az eddigi misszió legkülönlegesebb napja. Megtelt a szívem az afrikai szeretettel, ami már egész életemen elkísér majd."
+    },
+
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-10-16f_1.jpg",
+          "style": { "object-position": "center bottom" }
+        },
+        {
+          "name": "2024-10-16f_3.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-10-16f_4.jpg",
+          "style": { "object-position": "center bottom" }
+        },
+        {
+          "name": "2024-10-16f_2.jpg",
+          "style": { "object-position": "30% center" }
+        }
+      ],
+      "classes": ["keep-size"]
+    }
+  ],
+  "cover": {
+    "name": "2024-10-16f_5.jpg",
+    "style": { "object-position": "center bottom", "object-fit": "cover" }
+  }
+}

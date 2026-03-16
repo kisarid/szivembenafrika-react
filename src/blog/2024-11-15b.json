@@ -1,0 +1,82 @@
+{
+  "id": "2024-11-15b",
+  "title": "Afrikai Nobel-díjasok",
+  "date": "2024-11-15",
+  "author": "Balogh Tünde",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "„Hátramaradó vagyonom egészét a következőképpen kell kezelni: a végrendeleti végrehajtóim által biztos értékpapírokba fektetett pénz képez egy alapot, amelynek kamatait évente azok között osszák ki díjként, akik a megelőző évben a legnagyobb szolgálatot tették az emberiségnek. ...”",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "Párizs, 1895. november 27, Alfred Bernhard Nobel",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "A svéd kémikus és feltaláló Alfred Bernhard Nobel 1895. november 27-én a végrendeletében rendelkezett, hogy vagyonának kamataiból évről évre részesedjenek a fizika, kémia, fiziológia és orvostudomány, továbbá az irodalom legjobbjai és az a személy, aki a békéért tett erőfeszítéseivel a díjat kiérdemli."
+    },
+    {
+      "type": "text",
+      "content": "Az elmúlt években több mint 800 díjat ítéltek oda, közöttük afrikai személyek mind az öt kategóriában kaptak már."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15b_2.jpg",
+          "style": { "object-position": "center bottom", "max-width": "300px" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Az első fehér-afrikai Nobel díjas Max Teiler (1899.01.30. – 1972.08.11.) dél-afroamerikai virológus és orvos. Az 1937-ben kifejlesztett sárgaláz elleni vakcina okán kapta, 1951-ben fiziológia és orvostudományi kategóriában. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15b_1.jpg",
+          "style": { "object-position": "center bottom", "max-width": "300px" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Az első fekete-afrikai, aki Nobel díjat nyert, Albert John Luthuli (1898 körül – 1967. július 21.) dél-afrikai apartheidellenes aktivista, hagyományos vezető és politikus, aki 1952-től 1967-ben bekövetkezett haláláig az Afrikai Nemzeti Kongresszus elnöke volt. Keresztény hite és Gandhi erőszakmentes módszerei által inspirálva Luthulit dicsérték az apartheid elleni erőszakmentes ellenállás iránti elkötelezettségéért, valamint a fajmentes dél-afrikai társadalom víziójáért. 1961-ben Luthuli 1960-ban Nobel-békedíjat kapott az erőszakmentes apartheidellenes mozgalom vezetésében játszott szerepéért."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15b_3.jpg",
+          "style": { "object-position": "center bottom", "max-width": "300px" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A Nobel-békedíj egyik jelentős címzettje Nelson Rolihlahla Mandela (1918. július 18. – 2013. december 5.) dél-afrikai apartheidellenes aktivista és politikus, 1994 és 1999 között Dél-Afrika első elnöke. "
+    },
+    {
+      "type": "text",
+      "content": "Ő volt az ország első fekete államfője, és az első, akit teljesen reprezentatív demokratikus választásokon választottak meg. Kormánya az apartheid örökségének lebontására összpontosított a faji megbékélés elősegítésével. Ideológiailag afrikai nacionalista és szocialista, 1991 és 1997 között az Afrikai Nemzeti Kongresszus (ANC) párt elnöke volt. 1993-ban F.W. de Klerk elnök mellett Nobel-békedíjat kapott."
+    },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "text",
+      "content": "Forrás: <a href=\"https://www.wikipedia.hu\">wikipedia.hu</a>"
+    }
+  ],
+  "cover": {
+    "name": "2024-11-15b_3.jpg",
+    "style": { "object-position": "center 45%" }
+  },
+  "innerCover": null
+}

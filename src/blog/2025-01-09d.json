@@ -1,0 +1,102 @@
+{
+  "id": "2025-01-09d",
+  "title": "Önkéntes interjúk",
+  "date": "2025-01-09",
+  "author": "Tomasovszki Réka",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Szervezetünk életében az új év egy újabb lehetőséget hordoz magában, hogy még több rászoruló afrikai gyermeknek nyújthassunk segítséget. A munkánk azonban nem jöhetne létre az önkéntesek nélkül, akik talán az egyik legértékesebb támogatást nyújtják, hiszen a saját idejüket és tudásukat adják a segítségnyújtás érdekében. "
+    },
+    {
+      "type": "text",
+      "content": "Jelenlegi hírlevelünkben három önkéntesünkkel folytattunk interjút, akik a saját szakmájukkal is segítik egyesületünk munkáját. <b>Czikkely Panni</b>, illusztrátor és grafikus, számos brandnek, kiadónak, cégnek támogatta már a munkáját rajzaival, de emellett a saját márkáját (Czikkcakk) és a Zug műhely közösségi alkotóteret egyengeti. <b>Vető Julianna</b> a családjával közösen üzemeltet egy vegetáriánus éttermet Buda szívében (Szelence Café). <b>Kárász Nóra</b> pedig gyermekgyógyász rezidens, leendő gyermek-hematoonkológus. Mindhárman évek óta a szervezet önkéntesei."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-01-09d_3.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Czikkely Panni"
+        },
+        {
+          "name": "2025-01-09d_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Vető Julianna"
+        },
+        {
+          "name": "2025-01-09d_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Kárász Nóra"
+        }
+      ],
+      "classes": ["keep-size"],
+      "style": { "object-position": "center bottom" }
+    },
+    {
+      "type": "text",
+      "content": "Hogyan és mikor ismerkedtél meg a szervezettel, és miért csatlakoztál hozzá?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Panni</span>: 2021-ben kerültem közel a szervezethez: a 84 nap projekt logóját tervezhettem meg, illetve a kampány egyik nagykövete is lehettem. Megfogott, hogy ez a maréknyi ember Zsófival az élen mekkora ráhatással van egy távoli országra, és hogy milyen lelkesedéssel és transzparensen végzik a munkájukat. Nem sokkal ezután fogadtam örökbe jelképesen <span style=\"text-decoration: underline\">Phionah</span>-t, aki akkor 5 éves volt. Még ebben az évben kiutazhattam Zsófival Manafwába, ahol a Hungary Helps által építtetett Shine iskolát festhettem ki a grafikáimmal, hogy méltó, vidám és inspiráló környezetet biztosíthasson a gyermekeknek és a tanároknak egyaránt. A Cakkompakkom márkánk keretein belül a nőknek különböző környezettudatos termékek varrását tanítottam meg, ezzel fejlesztve az eddigi tudásukat és a termékpalettát, emellett finommotorikát fejlesztő foglalkozásokat tartottam a kicsiknek."
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Juli</span>: Lassan 4 éve önkénteskedem a Szívemben Született Afrika csapatában. A covid közepén találtam rá az egyesületre, amikor egy másik önkéntes lánynál (Czikkcakk Panninál) láttam egy posztot, hogy lehet csatlakozni jelképes örökbefogadó szülőnek. Kiskorom óta foglalkoztatott az afrikai szegénység, a gyermekek alultápláltsága, és hogy vajon én hogyan tudnék itthonról segíteni nekik. Ezért örültem meg nagyon, amikor rátaláltam a szervezetre. Egy évvel később már teljesült is a legnagyobb álmom, kijuthattam egy misszió keretein belül Ugandába, ahol ténylegesen a két kezemmel is tudtam segíteni."
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Nóri</span>: 2021 őszén csatlakoztam a Szívemben Született Afrika Egyesülethez, és azóta önkéntesként erősítem a csapatot. A csatlakozásom idején még csak orvostanhallgató voltam, és akkor már hetek-hónapok óta erős késztetést éreztem, hogy másoknak segítsek valamilyen szervezett, rendszeres formában. Az afrikai kultúráról akkor még nem sokat tudtam, de elkezdtem érdeklődni iránta és egy ismerős révén végül rátaláltam a szervezetre.  Az egyesület egyik fő mottója rögtön nagy hatással volt rám: “Nem segélyezünk, hanem fejlesztünk.” Az egyesület elképzelései, mentalitása és az emberek kedvessége azonnal meggyőzött arról, hogy a megfelelő helyen vagyok."
+    },
+    {
+      "type": "text",
+      "content": "Sokakban felmerül, hogy vajon hogyan tudnának hasznára lenni a szervezetnek? Esetleg a saját szakmájuk révén vagy más kompetenciákon keresztül? Ezzel Juli, Nóri és Panni sem volt másként…",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Juli</span>: Sokat gondolkoztam amikor beléptem a szervezetbe, hogy én, mint “vendéglátós, étterem-tulajdonos” hogyan tudnék segíteni, adni valamit, önkéntes munkát felajánlani a szervezetnek. Aztán Zsófival hamar rájöttünk, hogy mindig kell egy hely a szervezet saját programjainak. Így a legtöbb esetben azzal tudok segíteni, hogy otthont adok a különböző programoknak. Számos infóest, élménybeszámoló, önkéntes akadémia, csapatépítő, vásár, és adománygyűjtés alkalmával tudtam segíteni befogadással a Szívemben Született Afrika csapatát. "
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Nóri</span>: Orvosként szívesen támogatom az egészségügyi projekteket, ugyanakkor szeretek teljesen más, a szakmámtól független  feladatokban is részt venni."
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Panni</span>: Az én szupererőm a művészeten át kifejezni, figyelmet felhívni, érzékenyíteni. Fontosnak tartom a rajzaimon keresztül kommunikálni az érzelmekről, a nehéz pillanatokról, a nőiségről és az összefogás erejéről - ezek szuperül rímelnek a szervezet üzenetével is."
+    },
+    {
+      "type": "text",
+      "content": "Rendszeresen készítek önkéntes alapon kreatívokat missziókhoz, kampányokhoz, felhívásokhoz, illetve szívesen viszem a szervezet hírét, hogy a lehető legtöbb és legjobb emberhez jusson el az üzenetünk és a szívügyünk."
+    },
+    {
+      "type": "text",
+      "content": "Sokszor felmerülhet az emberekben, hogy az önkénteskedés során csak adunk, pedig a valóságban sokszor sokkal többet kapunk vissza. Pontosan miket is adhat egy önkéntes munka? Miért fontos az önkénteskedés?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Nóri</span>: Az elmúlt években nagyon sokat tanultam az önkénteskedésről és rengeteg élményben volt részem. Szeretem a csapatunk elköteleződését, lelkesedését, összetartását. Megtanultam, milyen egy jól működő csapatban dolgozni. És a legfelemelőbb érzés az, amikor visszaigazolódik, hogy a közös munkánkkal mások életét tesszük szebbé, könnyebbé, biztonságosabbá."
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Juli</span>: Nagyon sok barátságot, kapcsolatot, és élményt kaptam az itteni önkéntes munkám során, amiért nagyon hálás vagyok.  De a leghálásabb azért vagyok, hogy van lehetőségem adni, és így számomra sosem volt kérdés, hogy önkéntes munkát vállaljak."
+    },
+    {
+      "type": "text",
+      "content": "<span style=\"text-decoration: underline\">Panni</span>: Jó érzés tudni, hogy az alkotásaim nemcsak öncéllal, hanem valami összetettebb és fontos dolog miatt is készülnek. Annak tudatában élem a mindennapjaimat, hogy a távolból fogom én is egy csapat ember kezét, akik szebb jövőt érdemelnek."
+    },
+    {
+      "type": "text",
+      "content": "Minden megmozdulásnál, amelyben részt vehetek, nekem körbeér a világ, és az öleléslánc egyik szeme lehetek, ami egyben tartja ezt az egész zavarodott, bizonytalan, de mégis színes és szeretettel teli gombócot."
+    }
+  ],
+  "cover": {
+    "name": "2025-01-09d_2.jpg",
+    "style": { "object-position": "center 65%" }
+  },
+  "innerCover": null
+}

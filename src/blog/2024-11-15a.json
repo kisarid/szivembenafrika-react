@@ -1,0 +1,110 @@
+{
+  "id": "2024-11-15a",
+  "title": "Hírek az afrikai kontinensről",
+  "date": "2024-11-15",
+  "author": "Hrubi Csilla",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Kenya: A szigeten lakók csónakokat építettek szemétből",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A Lamu szigeten – Kenya keleti partjai mellett- élő 47 éves Usmail összegyűjti a szétszórt szemetet, majd továbbadja az ún. Flipflopi Projektnek, annak a 2016-ban alapított civil szervezetnek, amely hajókat és bútorokat készít a helyben gyűjtött műanyag szemétből."
+    },
+    {
+      "type": "text",
+      "content": "A szigetet sajnos belepi a szemét, egy részét az óceán hozza a partokra a másik részét pedig a helyiek termelik."
+    },
+    {
+      "type": "text",
+      "content": "“Régebben rengeteg szemét gyűlt fel ezen a területen. Mikor megjelent ez a szervezet, elkezdtük gyűjteni és eladtuk nekik kilogrammonként 16 centért. Mivel munka itt nincs, így kerestük meg a pénzt a gyerekeink taníttatására és élelemre is.” – Mondta Usmail."
+    },
+    {
+      "type": "text",
+      "content": "Ali Skanda, a szervezet társalapítója elmondta, hogy beszállítóként tekintenek a helyi lakosokra. Miután megérkezik hozzájuk a hulladék, a náluk dolgozók szétválogatják típus és szín szerint, majd összezúzzák apró darabokra és különböző formájú alkotóelemekké préselik őket, amikből aztán összeállítják a bútorokat."
+    },
+    {
+      "type": "text",
+      "content": "2019 óta a szervezet a Flipflopi nevű hajóval szeli az óceán hullámait, ami a világ első újrahasznosított hulladákból épült vitorlása, és már az Indiai óceán és Viktória tó közötti távon is sikeresen megállta a helyét."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15a_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: <a href=\"https://www.africanews.com/2024/09/18/kenya-islanders-upcycle-washed-up-plastic-waste-into-boats/\">africanews.com</a>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Díjat kapott a világ leghosszabb ideje börtönben lévő újságírója",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Dawit Isaak újságíró, akit 23 évvel ezelőtt tárgyalás nélkül rabosítottak és egy eritreai börtönbe zártak, elnyerte a svéd emberi jogok díját -az ún. Edelstam-díjat -, a szólásszabadság előmozdításáért tett erőfeszítései elismeréseként."
+    },
+    {
+      "type": "text",
+      "content": "Isaak-et, aki eritreai-svéd kettős állampolgársággal rendelkezik, \"kivételes bátorsága\" miatt ismerték el. A díjat a nevében Bethlehem Isaak, Isaak lánya veszi át a stockholmi ünnepségen, 2024. november 19-én."
+    },
+    {
+      "type": "text",
+      "content": "Isaak az egyik alapítója volt a Setitnek, Eritrea első független újságának, amely 2001-ben demokratikus reformokra felszólító leveleket is közölt. Egy kormányzati “tisztogatás” során vették őrizetbe körülbelül két tucat másik személlyel együtt, akik között voltak vezető miniszterek, parlamenti képviselők és más független újságírók is. Eritrea kormánya nem adott tájékoztatást hollétéről vagy egészségi állapotáról, a többi elítélt közül sokakról azt gondolják, már nincsenek az élők sorában."
+    },
+    {
+      "type": "text",
+      "content": "Eritreában a függetlenedés óta nem tartottak választásokat, Isaias Afwerki elnök pedig közel 31 éve van hatalmon."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15a_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: <a href=\"https://allafrica.com/view/group/main/main/id/00091000.html\">allafrica.com</a>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Gondoltál már arra, hogy Gambiába, Sierra Leone-ba vagy Malawiba menj nyaralni?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A címben említett és más afrikai országok is egyre többet dolgoznak azon, hogy vonzó úticéllá tegyék országukat. A nemzetközi sajtót, utazási szakértőket és még egy londoni kereskedelmi kiállítást is többen közülük felkerestek, hogy rajtuk keresztül szólítsák meg a potenciális turistákat."
+    },
+    {
+      "type": "text",
+      "content": "A BBC Africa is részt vett az említett eseményen, és végig járta a kiállítókat, hogy maguk győződjenek meg arról, mit ajánlanak ezek az országok az érdeklődők figyelmébe, ha ellátogatnak hozzájuk. A látottakról egy videó is készült, ami itt tekinthető meg: "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15a_3.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: <a href=\"https://www.bbc.com/news/articles/c5yx09g1jxvo\">bbc.com</a>"
+        }
+      ]
+    }
+  ],
+  "cover": {
+    "name": "2024-11-15a_1.jpg",
+    "style": { "object-position": "center bottom" }
+  },
+  "innerCover": null
+}

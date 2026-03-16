@@ -1,0 +1,57 @@
+{
+  "id": "2025-01-09c",
+  "title": "Könyvajánló: A szabadság szolgaság?",
+  "date": "2025-01-09",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Abdulrazak Gurnah: Paradicsom",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "„A levegő megtelt az úti célul szolgáló távoli helyek sokat sejtető illatával, és ott visszhangoztak benne a parancsszavak.”",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "Kelet-Afrika történelme, az Ezeregyéjszaka meséi, József-parafrázis; az éjszaka sötétjében vicsorgó kutyák, zsúfolt vasúti kocsik, ragacsos föld, vibráló levegő, lélegzetelállító tájak… Mindez egy regényben. Az irodalmi Nobel-díjas Abdulrazak Gurnah eredetileg 1994-ben megjelent, Paradicsom című regényét ajánljuk."
+    },
+    {
+      "type": "text",
+      "content": "Yusuf 12 éves, amikor édesapja adóssága törlesztésének zálogaként „kölcsönadja” a családnál gyakran vendégeskedő Aziz bácsinak. Az elegáns férfi, aki búcsúzáskor soha nem mulasztja el a kisfiút egy pénzérmével jutalmazni, gazdag kereskedő, aki a vízpartról indulva, hegyeken és dzsungeleken át az ország belseje felé vezeti expedícióit, hogy ott a „vademberekkel” kereskedjen. Ebbe az addig számára ismeretlen világba csöppen bele Yusuf, aki Aziz bácsi tengerparti boltjában dolgozik mindaddig, amíg apja nem törleszti az adósságát a nagyhatalmú nagybácsi felé. Ha ugyan eljön az a nap. Yusuf ugyanis a boltban megismerkedik Khalillal, aki hozzá hasonló okokból került a kereskedő háztartásába, az apja halála után azonban esélye sem marad a távozásra. Khalil, aki „kifa urongo”-nak, vagyis élőhalottnak nevezi a félénk Yusufot, és a fiú tájékozatlanságát mutató kérdéseit gyakran „jutalmazza” egy-egy pofonnal, egyengeti Yusuf útját ebben az új életben. Minden durvasága ellenére Khalil nemcsak Yusuf mentorává, de egyfajta apafigurává is változik az évek során."
+    },
+    {
+      "type": "text",
+      "content": "Nincs rossz élete a fiúknak: nappal a boltban dolgoznak, éjjel az az előtti teraszon alszanak, hogy őrködjenek az üzlet biztonsága felett. Részt vesznek az expedíciók előkészítésében, majd idővel Yusuf Aziz bácsival tarthat egy expedícióján. Yusuf számára odahaza a menekvést Aziz bácsi fallal körülzárt titkos kertje jelenti, ahova egy idő után bebocsátást nyer, és a kertet gondozó mzee Hamdani még azt is megengedi neki, hogy gondozza a növényeket, és kedvére bóklásszon a hatalmas fák árnyékában. "
+    },
+    {
+      "type": "text",
+      "content": "„(…) úgy járt-kelt, mintha ezen a kerten és munkán kívül semmi más nem létezne a világon.”",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "Yusuf számára ez a mákkal és jázminnal, rozmaringgal és aloéval, sárga rózsával és levendulával, narancs- és gránátalmafákkal teleültetett kert maga a paradicsom."
+    },
+    {
+      "type": "text",
+      "content": "„Csendje és hűvössége, amely még a távolból is észlelhető volt, már az érkezésekor megbabonázta Yusufot. (…) Bár hangosan nem mondta ki, de amikor így beszélgettek, Yusuf minden másnál jobban vágyott arra, hogy abba a néma ligetbe száműzzék.”",
+      "classes": ["quote"]
+    },
+    {
+      "type": "text",
+      "content": "De az életben gyakran igaz, hogy nem minden az, aminek látszik, és ahogy a rossz, úgy a jó sem tarthat örökké. Gyarmatosítás, az identitások keveredése vagy éppen egyiknek a másikon való felülemelkedése, az emberi könyörtelenség, szabadság és szolgaság kérdése… Mert valójában ki a szabad ember? Aki szegény, de nem kötik őt a civilizáció és egy másoktól kapott identitás korlátai, vagy aki látszólag gazdag, de egy nem önmaga által választott, fallal körülzárt kertben él?"
+    },
+    {
+      "type": "text",
+      "content": "„A szolgája vagy. Én is a szolgája vagyok. A rabszolgái vagyunk. (…) Hová tetted a szemedet? (…) Mindig mindent hagyni fogsz, hogy megtörténjen veled?”",
+      "classes": ["quote"]
+    }
+  ],
+  "cover": {
+    "name": "2025-01-09c_1.jpg",
+    "style": { "object-position": "center 80%" }
+  }
+}

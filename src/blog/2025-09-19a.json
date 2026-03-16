@@ -1,0 +1,85 @@
+{
+  "id": "2025-09-19a",
+  "title": "Karamojong tollas kalap",
+  "date": "2025-09-19",
+  "author": "Kozári Dóri",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A karamojong férfiak, akik az északkelet-ugandai karamojong etnikai csoporthoz tartoznak, jellegzetes és kidolgozott hagyományos öltözékükről ismertek. Öltözködésük egyik figyelemre méltó eleme a tollas kalapjuk, amely a kulturális identitás, a státusz és néha még a harcos vitézség szimbóluma is."
+    },
+    {
+      "type": "text",
+      "content": "Íme egy kicsit részletesebben ezekről a tollas kalapokról:"
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-09-19a_2.jpg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Kulturális jelentősége",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A karamojong férfiak által viselt tollas kalapok gyakran olyan helyi anyagokból készülnek, mint a bőr, a szövött szálak és a madarak tollai. A tollak különféle madaraktól származnak, beleértve a struccokat is, amelyeket nagy, dekoratív tollaik miatt értékelnek."
+    },
+    {
+      "type": "text",
+      "content": "Ezek a kalapok nem csak dekorációként szolgálnak; kulturális jelentőséggel bírnak, és gyakran hordják fontos szertartások során, beleértve a beavatási szertartásokat, ünnepeket és táncokat. Vizuálisan reprezentálják viselőjének társadalmi helyzetét és közösségen belüli szerepét."
+    },
+    {
+      "type": "text",
+      "content": "Kivitel és jellemzők",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Ezeknek a kalapoknak a kialakítása egyénenként változik, de a leggyakoribb jellemző a nagy, függőleges toll, amely jól kiemelkedik a kalap tetejéről."
+    },
+    {
+      "type": "text",
+      "content": "A tollak hossza, alakja és színe változhat, az egyén gazdagságától, teljesítményétől vagy az alkalom konkrét céljától függően. Például minél hosszabbak és dekoratívabbak a tollak, annál magasabb a kalapot viselő személy státusza. A facér férfiak fekete színű tollat, a házas férfiak pedig fehér tollat viselnek kalapjukon."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-09-19a_1.jpg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Státusz és szimbolika",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Hagyományosan a harcos karamojong férfiak (gyakran „ngakarimojongként” is emlegetik) ezeket a kalapokat harcos dísztárgyaik részeként viselik. A tollak a bátorságot, az erőt és a közösség védelmére való készséget jelképezik. "
+    },
+    {
+      "type": "text",
+      "content": "Egyes esetekben a viselt tollak stílusa vagy konkrét típusa jelezheti egy személy eredményeit vagy családi származását. Minél kidolgozottabb a kalap, annál magasabb státusszal rendelkezik a viselője a csoporton belül."
+    },
+    { "type": "text", "content": "Modern idők", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "Míg a hagyományos tollas kalapokat néhány karamojong férfi még mindig hordja, különösen kulturális események alkalmával, a modern hatások és az életmódbeli változások mindennapi használatuk visszaszorulásához vezettek. Ezek a kalapok azonban továbbra is a régió kulturális örökségének fontos részét képezik."
+    },
+    {
+      "type": "text",
+      "content": "A karamojongok félig nomád pásztorok, és kulturális gyakorlataik és öltözködésük nagy részét úgy alakították ki, hogy tükrözzék kapcsolatukat a földdel, az állatokkal és a harcos kultúrával."
+    }
+  ],
+  "cover": {
+    "name": "2025-09-19a_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

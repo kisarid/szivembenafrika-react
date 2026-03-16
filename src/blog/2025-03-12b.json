@@ -1,0 +1,267 @@
+{
+  "id": "2025-03-12b",
+  "title": "Afrikai mesék, mondák, legendák",
+  "date": "2025-03-12",
+  "author": "Kozári Dóri",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Afrikának nagyon gazdag a népmesevilága, amelyet generációkon keresztül őriztek és hagyományoztak egymásra az emberek. Találunk közöttük a világ keletkezéséről szóló eredetmondákat, állatmeséket, tanmeséket, tréfás meséket és még varázsmeséket is. Vannak történetek, melyek hasonlítanak az európai mesékhez, akár azok afrikai megfelelői, mint A szépség és a bestia. De ilyen hasonlóság a hős három próbatétele, hogy elnyerjen valami értékeset vagy a hőst segítő állatok, varázslények is. Gyakoriak az olyan legendák, melyek választ adnak arra, hogy miért pöttyös a hiéna, miért éjszaka repül a denevér, hogyan került a tűz az állatoktól az emberekhez, vagy hogyan jött létre egy népcsoport. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-03-12b_3.jpg",
+          "style": { "object-position": "left bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Megjelenik a mesékben a halál, a tűzlopás, alakváltás, beszélő állatok és növények, többnejűség, varázslók, szellemek, próbatételek. Jellemző azonban az is, hogy a mesék véresebbnek, kegyetlenebbnek tűnnek, mint az általunk megszokott európai mesék. Ennek oka az lehet, hogy Afrikában a legfontosabb tudás mindig is a túlélés képessége volt, és a meséken, történeteken át adták tovább ennek bölcsességét az utódoknak. Ehhez hozzátartozik az is, hogy miként válasszuk meg bölcsen a barátainkat, miként győzzük le furfangosan az ellenségünket, és természetesen a hős ezekben a mesékben sem adja fel, végig kitart a kudarcai ellenére is. "
+    },
+    {
+      "type": "text",
+      "content": "Az egyik legjellemzőbb dolog azonban a szinte minden mesében megjelenő természetközeliség. Emberek és állatok gyakran egy közösséget alkotnak, segítik egymást, vagy akár még házasodnak is egymással. A szereplők ismerik, tisztelik és használják a természet erejét, annak előnyeit. "
+    },
+    {
+      "type": "text",
+      "content": "Egyik ugandai missziónk során próbáltunk kutatni, többet megtudni az ottani népek történeteiből. A manafwai gyermekek már nem igénylik annyira a meséket, így a történetek, mondák sajnos idővel feledésbe merülnek és már a mostani gyermekek szülei sem ismernek annyi történetet, mint az idősebbek. Érdemes lenne a jövőben másik projekthelyszínünkön, Karamojában is kutatást végezni ezzel kapcsolatban, hiszen ott még élnek a törzsi hagyományok és még inkább természetközelibb a közösségek életmódja. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-03-12b_2.jpg",
+          "style": { "object-position": "left bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Egyik hírlevelünkben már megosztottunk veletek egy ugandai népmesét, a Kintu és a dongót. Ezúttal egy tipikus állatmesét mutatunk be nektek Ugandából:"
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "A kaméleon kútja",
+      "classes": ["blog-header"],
+      "style": { "text-align": "center" }
+    },
+    {
+      "type": "text",
+      "content": "Történt egyszer, nagyon régen, hogy szörnyű szárazság szakadt a világra. Az élőlények éheztek és szomjaztak, por borította a folyók és tavak medrét, egy csepp víz sem akadt sehol. Az állatok és emberek összegyűltek megbeszélni, mit tegyenek. Egy öregasszony így szólt:"
+    },
+    {
+      "type": "text",
+      "content": "Van nekem egy szépséges lányom. Annak adom feleségül, aki vizet talál nekünk!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Az egybegyűltek úgy határoztak, ásni kezdenek egy kiszáradt folyó medrében. Eleinte nem tudtak megegyezni, mit használjanak az ásáshoz: Az elefánt az agyarával akart ásni, az orrszarvú a szarvával, az oroszlán a karmaival. Végül közösen megszavazták, hogy mindenki a lábával ásson: Addig tapossák a folyó medrét, amíg víz nem jön belőle. Ebben meg is állapodtak, és a legerősebb állat, az elefánt azonnal taposni kezdett. Közben ritmusra mondogatta:"
+    },
+    {
+      "type": "text",
+      "content": "Elefánt! Elefánt! Elefánt! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "De hiába taposott, hiába döngetett, csak a port verte fel a száraz folyómederből. A portól tüsszögni kezdett, a taposástól elfáradt, és végül feladta a harcot."
+    },
+    {
+      "type": "text",
+      "content": "Itt nincs víz, és soha nem is lesz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Az elefánt helyét ekkor a víziló vette át. Ő is taposni és szavalni kezdett:"
+    },
+    {
+      "type": "text",
+      "content": "Víziló! Víziló! Víziló! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "De hiába taposott, hiába döngetett a súlyos víziló, egy csepp vizet sem sajtolt ki a folyómederből. Végül ő is feladta a harcot. A helyét átvette a zsiráf."
+    },
+    {
+      "type": "text",
+      "content": "Zsiráf! Zsiráf! Zsiráf! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "De hiánya taposott a zsiráf, ő sem talált vizet. És nem talált vizet az antilop, a varacskos disznó és a többi nagy testű állat sem. Amikor mind kifulladtak, a kisebb állatok kerültek sorra, a majmok, sakálok, végül a pockok is. De, amikor a pockok sem jártak szerencsével, így szóltak:"
+    },
+    {
+      "type": "text",
+      "content": "Ha a nagy állatok nem találtak vizet, akkor mi hogyan találhatnánk? Menjünk haza!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Az állatok már éppen kezdtek hazaszállingózni, amikor megszólalt egy kis hang:"
+    },
+    {
+      "type": "text",
+      "content": "Én még nem próbálkoztam! Én is meg akarom próbálni!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Az aprócska kaméleon volt az. Az állatok elnevették magukat. A kaméleon kicsi volt, vézna, az egyik szeme erre állt, a másik meg arra, és remegtek a lábai."
+    },
+    {
+      "type": "text",
+      "content": "Te? Hogy tudnál te vizet fakasztani, ahol az elefántok és orrszarvúk sem tudtak?",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Azért én megpróbálom… - szánta el magát a kaméleon, és leugrott a gödörbe, amit az állatok tapostak. ",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    { "type": "text", "content": "A gödör alján aztán ő is taposni kezdett." },
+    {
+      "type": "text",
+      "content": "Kaméleon! Kaméleon! Kaméleon! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "A cérnahangú kántálást hallva az állatok gurultak a nevetéstől. A kaméleon azonban rendületlenül taposott tovább."
+    },
+    {
+      "type": "text",
+      "content": "Kaméleon! Kaméleon! Kaméleon! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Az állatok gúnyosan kiabáltak le a gödörbe:"
+    },
+    {
+      "type": "text",
+      "content": "Add fel, kaméleon! Nézz már magadra! Vézna vagy, görbe a hátad, cingárak a lábaid!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    { "type": "text", "content": "Kaméleon azonban taposott tovább." },
+    {
+      "type": "text",
+      "content": "Nem tehetek róla, hogy nézek ki! Nevessenek, ha akarnak. Kaméleon! Kaméleon! Kaméleon! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Ahogy taposott, a kaméleon lábai alatt a por elkezdett sárrá válni."
+    },
+    {
+      "type": "text",
+      "content": "Nézzétek! A kaméleon maga alá pisilt! – kiáltotta valaki, és az állatok még hangosabban kacagtak.",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Kaméleon azonban taposott, taposott tovább."
+    },
+    {
+      "type": "text",
+      "content": "Kaméleon! Kaméleon! Kaméleon! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "A kacagás lassan elhalt. Az állatok döbbenten nézték, ahogy a kaméleon cingár kis lábai alatt víz fakadt a folyómederből. A kaméleon friss, bugyogó forrásvízben pancsolt tovább:"
+    },
+    {
+      "type": "text",
+      "content": "Nézzétek! A kaméleon vizet fakasztott!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Amint ezt meghallotta az elefánt, visszarohant a folyómederhez. Az ormányával felkapta a kaméleont, kihajította a gödörből, és beugrott a helyére:"
+    },
+    {
+      "type": "text",
+      "content": "Elefánt! Elefánt! Elefánt! Nehéz! Nehéz! Nehéz! Víz! Víz! Víz!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    { "type": "text", "content": "Az állatok azonban méltatlankodni kezdtek." },
+    {
+      "type": "text",
+      "content": "Elefánt, mit csinálsz?! Hiszen a vizet a kaméleon találta, nem te!",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "A kaméleon, akit az elefánt elhajított, pont az öregasszony ölébe pottyant. Az öregasszony mosolyogva emelte fel a tenyerén:"
+    },
+    {
+      "type": "text",
+      "content": "Vizet fakasztottál, kaméleon! Megmentettél mindannyiunkat, és megnyerted a versenyt.",
+      "classes": ["quote"],
+      "style": { "padding-left": "0" }
+    },
+    {
+      "type": "text",
+      "content": "Az állatok hatalmas ünnepséget csaptak a kaméleon tiszteletére. A kaméleon feleségül vette a szépséges lányt, és boldogan éltek, amíg meg nem haltak."
+    },
+    {
+      "type": "text",
+      "content": "<i>J. H. Driberg: The Lango (Adelphi Terrace, 1923.)<br />Okot p’Bitek: Hare and Hornbill (Heinemann, 1978.)<br />Margaret Read MacDonald: The storyteller’s start-up book (August House, 1993.)</i>"
+    },
+    {
+      "type": "text",
+      "content": "Érdekesség: egy korábbi szövegben az elefánt bosszúból megöli a kaméleont, majd a kaméleon gyereke bosszúból megöli az elefántot."
+    },
+    {
+      "type": "text",
+      "content": "<i>A mesét a Világszép Alapítvány mesetára bocsátotta rendelkezésünkre, amelyet ezúton is köszönünk.</i>"
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-03-12b_4.jpg",
+          "style": { "max-width": "200px" }
+        }
+      ],
+      "classes": ["keep-size"]
+    }
+  ],
+  "cover": {
+    "name": "2025-03-12b_3.jpg"
+  },
+  "innerCover": {
+    "name": "2025-03-12b_1.jpg"
+  }
+}

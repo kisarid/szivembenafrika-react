@@ -1,0 +1,69 @@
+{
+  "id": "2024-09-19c",
+  "title": "Hírek az afrikai kontinensről",
+  "date": "2024-09-19",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "33 évesen elhunyt az ugandai olimpikon",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Az olimpiai futó, Rebecca Cheptegei szeptember elején egy kenyai kórházban hunyt el, miután partnere otthonában rátámadt, lelocsolta benzinnel, majd felgyújtotta. Ugyan a hosszútávfutó a támadás után kórházba került, ám olyan súlyos égési sérüléseket szenvedett, hogy négy nappal később belehalt azokba. Egy hónappal ezelőtt Cheptegei még a párizsi olimpián versenyzett, ahol a női maratonon 44. helyén végzett. Az ENSZ adatai szerint a világon minden tizenegyedik percben meghal egy nő a partnere vagy más közeli családtag keze által, míg a kenyai statisztikák szerint a kapcsolatban élő vagy házas kenyai nők mintegy 41%-a szenvedett már el fizikai vagy szexuális erőszakot. Anne Hidalgo, Párizs főpolgármestere indítványozta, hogy a városban egy sportlétesítményt nevezzenek el az olimpiai futó Rebecca Cheptegei tiszteletére. "
+    },
+    { "type": "text", "content": "Forrás: africanews/AP" },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "text",
+      "content": "Kína stratégiai szintre emeli kapcsolatait Afrikával",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-09-19c_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "wrapperStyle": { "grid-column": "1" }
+        },
+        {
+          "name": "2024-09-19c_4.jpg",
+          "style": { "object-position": "center bottom" },
+          "wrapperStyle": { "grid-column": "2" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "A Kína-Afrika Együttműködési Fórumon Hszi Csin-ping, a Kínai Népköztársaság elnöke bemutatta a következő három évet felölelő kínai-afrikai akciótervet. Az akcióterv számos területet fed le, többek között érinti a kereskedelmi kapcsolatok fokozását, a konnektivitást, az egészségügyet, a vidék revitalizációját, vagy éppen a közös biztonságot. Hszi Csin-ping arról is beszélt, hogy mindazon afrikai országokkal, amelyeknek fennálló diplomáciai kapcsolatai vannak Kínával, stratégiai szintre kívánják emelni az együttműködést. A kínai elnök elmondása szerint a történelem folyamán soha nem voltak még olyan jók a kapcsolatok Kína és az afrikai kontinens között, mint ma. Hszi Csin-ping azt is kiemelte, hogy Kína és Afrika modernizációja nélkül nincs globális modernizáció sem, hiszen ők együtt adják a világ népességének harmadát. Az akciótervben foglaltak végrehajtására Kína közel 51 milliárd dollárt tervez áldozni a következő három évben. "
+    },
+    { "type": "text", "content": "Forrás: Xinhua" },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "text",
+      "content": "Továbbra is keresik a kenyai tűzeset által érintett kollégium lakóit",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-09-19c_3.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Szeptember 5-én eddig tisztázatlan okokból tűz ütött ki a Kenya Nyeri megyéjében található kollégiumban, amely több, mint 150, 10 és 14 év közötti fiúnak adott otthont. A tűzesetben legalább 18 diák elhunyt, 37-en pedig már biztonságban vannak a családjuk körében. Ezzel együtt még több, mint 70 diákot keresnek, a lakosságot is arra kérik, ha bármelyiküknek szállást adtak, értesítsék a hatóságokat. Kenya eddigi legsúlyosabb iskola tűzesetében 2001-ben 67 diák hunyt el. William Ruto kenyai elnök háromnapos gyászidőszakot rendelt el, amely szeptember 11-én kezdődik majd. Ebben a három napban az ország összes zászlaját félárbocra eresztik az elhunyt gyermekek tiszteletére. "
+    },
+    { "type": "text", "content": "Forrás: AP" }
+  ],
+  "cover": {
+    "name": "2024-09-19c_1.jpg",
+    "style": { "object-position": "center center" }
+  }
+}

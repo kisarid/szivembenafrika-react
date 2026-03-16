@@ -1,0 +1,139 @@
+{
+  "id": "2025-08-16b",
+  "title": "Nakatukok, a karamojong anyag",
+  "date": "2025-08-16",
+  "author": "Kozári Dóri",
+  "blocks": [
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16b_1.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A karamojongok élénk texlíliái mára szorosan kötődnek identitásukhoz, a minták és anyagok a társadalmi státusz, a rituálék és a személyes kifejezés megjelenítésére szolgálnak. Bár a gyarmatosítás előtti időszakban a karamojong törzsek főként meztelenül jártak, vagy kecskebőrből készült ruházatot viseltek, azonban az európaiak megjelenésével a pamut is beszivárgott kultúrájukba."
+    },
+    {
+      "type": "text",
+      "content": "Ezen a képen a jobb szélen lévő asszony kecskebőrt visel a mellkasán, mert az éppen zajló karamojong esküvőn ő az örömanya, a menyasszony édesanyja."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16b_2.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "text",
+      "content": "A nakatukok főbb jellemzői",
+      "classes": ["blog-header"],
+      "style": { "text-align": "center", "font-size": "18px" }
+    },
+    {
+      "type": "text",
+      "content": "Kézzel szőtt textíliák:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A karamojong szöveteket hagyományosan őshonos technikákkal, kézzel szövik. A folyamat munkaigényes, és gyakran nők végzik. Általában helyi forrásból származó anyagokat használnak, például pamutot és gyapjút. A szálakat cérnává sodorják, befestik, majd szövetté szövik."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16b_3.jpg",
+          "wrapperStyle": { "flex-grow": "1" }
+        },
+        {
+          "name": "2025-08-16b_4.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Világos és merész színek:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A karamojong szöveteket merész, élénk színek jellemzik, amelyek gyakran vörös, sárga, fekete és zöld árnyalatokat tartalmaznak. Ezek a színek nemcsak esztétikailag jelentősek, hanem szimbolikus jelentéssel is bírnak. Például a piros a bátorságot, az erőt és a vitalitást szimbolizálhatja, míg a sárga gyakran a napot vagy a gazdagságot."
+    },
+    {
+      "type": "text",
+      "content": "Minták és motívumok:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A karamojong szövet mintái geometriaiak és egyszerűek, ismétlődő mintákkal, például csíkokkal vagy kockákkal. Ezek a minták kulturális jelentőséggel bírnak, és a karamojongok életmódjának, hiedelmeinek és a természethez való kötődésének különböző aspektusait képviselhetik."
+    },
+    {
+      "type": "text",
+      "content": "Kulturális jelentősége:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A szövetet nemcsak egyszerű ruházatként, hanem ünnepi célokra is használják. Fontos része a hagyományos öltözködésnek, különösen szertartások, ünnepségek, vagy vallási és társadalmi rituálék keretében. A szövet viselésének vagy letakarásának módja jelezheti egy személy státuszát, szerepét vagy eredményeit a közösségen belül."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16b_5.jpg",
+          "wrapperStyle": { "flex-grow": "1" }
+        },
+        {
+          "name": "2025-08-16b_6.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A férfiak a derekukra tekerve vagy a vállukra kötve viselik. A nők jellegzetes rakott szoknyát varrnak belőle maguknak, mely több funkciót is betölt. A szoknyát szándékosan sok anyagból, vastagra varrják, hogy segítse őket a mindennapokban. Törlőkendőként, kötényként és nedvszívó hatása miatt még tisztasági betétként is funkcionál. A nakatukokot babahordozóként is használják, az anya vagy a nagyobb testvér könnyedén a hátára tudja vele kötni a kisbabát."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16b_7.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Modern használat: ",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Habár ma a karamojong szövetet továbbra is hagyományos ruházatként használják, de a modern divatvilághoz is igazították. Sok kortárs tervező használja a karamojong szövetet kiegészítők, táskák, sőt bútorok készítéséhez, és más anyagokkal kombinálva egyedi, kulturálisan gazdag darabokat hoz létre."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16b_8.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    }
+  ],
+  "cover": {
+    "name": "2025-08-16b_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

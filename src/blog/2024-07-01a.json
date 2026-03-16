@@ -1,0 +1,81 @@
+{
+  "id": "2024-07-01a",
+  "title": "Ilyen volt az idei Afrika-nap!",
+  "date": "2024-07-01",
+  "author": "Barabás Dóra",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Minden év május 25. egy különleges nap a szervezetünk és minden Afrika iránt érdeklődő számára. Ez a nap a hivatalos nemzetközi Afrika-nap, ami tökéletes alkalmat ad a kontinens sokszínű és izgalmas kultúrájának megünneplésére. Ezt a Szívemben Született Afrikánál is megtesszük minden évben, a mára már hagyományossá vált Afrika-napi rendezvényünkkel."
+    },
+    {
+      "type": "text",
+      "content": "Idén június 1-jén került sor az eseményre, új helyszínen, a Marczibányi Téri Művelődési Központban. Mint minden évben, szervezetünkön kívül részt vett a rendezvényen több, hozzánk hasonlóan Afrikával foglalkozó magyar alapítvány is. Részükre standokat állítottunk fel, ahol lehetőségük volt a látogatókkal kötetlenül beszélgetni, megismertetni munkájukat."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01a_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Ezenfelül magyar kézműves kisvállalkozók is árulták sokíznű és színvonalas termékeiket, melyek eladásából származó bevételeik egy részét szervezetünk részére ajánlották fel."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01a_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A nap során szakmai kerekasztalbeszélgetésekre, előadásokra is sor került. Elsőként meghívott szakértő vendégeink a multiszektorális együttműködés afrikai lehetőségeiről cseréltek eszmét egy izgalmas diskurzus keretében. Ezt követte a Közel Afrikához Alapítvány, majd a Taita Alapítvány és az Afrikáért Alapítvány bemutatkozása. A délutáni szakmai programok keretében beszélgetésekre került sor olyan érdekes témákban, mint az afrikai gyermekek és gyermektámogatási programok helyzete, valamint az önkéntesség Afrikában. Ezenkívül az érdeklődőt közelebbről is megismerhették Karamoját, valamint a rendezvény alatt megtekinthető fotókiállítás készítői, László Dorina és Czikkely Panni is meséltek az Afrikához fűződő élményeikről."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01a_4.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A szakmaiság mellett szórakozásra is lehetőség nyílt. Az előadások közti szünetekben a mozgásra vágyó látogatóknak lehetőségük nyílt zumbázni. Emellett afrikai élőzene is fokozta az esemény hangulatát. A legkisebbekre is gondoltunk, őket a gyereksarokban arcfestéssel, hennával, gyöngyfűzéssel és arcfonással vártuk."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01a_3.jpg",
+          "style": { "object-position": "center bottom", "height": "500px" }
+        },
+        {
+          "name": "2024-07-01a_5.jpg",
+          "style": { "object-position": "center bottom", "height": "500px" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Összességében a rendezvény jó hangulatban telt, reméljük, a résztvevők kellemesen órákat töltöttek el az Afrika-napon. Bízunk benne, hogy jövőre újra találkozunk!"
+    }
+  ],
+  "cover": {
+    "name": "2024-07-01a_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

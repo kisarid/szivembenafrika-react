@@ -1,0 +1,116 @@
+{
+  "id": "2025-02-13c",
+  "title": "Folyékony arany vagy megtörhetetlen átok – a kakaótermesztés Afrikában",
+  "date": "2025-02-13",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A cikk Tóth-Tatai Lilla (“Kakaó Nagykövet”) csokoládészakértő közreműködésével készült.",
+      "style": { "font-style": "italic" }
+    },
+    {
+      "type": "text",
+      "content": "A csokoládé mára a mindennapjaink részévé vált, a boltok polcain annyiféle íz, kiszerelés és márka sorakozik, hogy abból Gombóc Artúr biztosan nem tudna választani: van kerek csokoládé, szögletes csokoládé, hosszú csokoládé, rövid csokoládé, édes csokoládé, keserű csokoládé, mogyorós csokoládé, tejcsokoládé, likőrös csokoládé, és még sorolhatnánk. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-02-13c_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: Humanium"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A kakaó története mintegy 4000 évvel ezelőttre, a mai Dél-Mexikó és Guatemala területére nyúlik vissza. Legjobb tudásunk szerint a mokaja volt az első nép, amely kakaóbabból italt főzött, amelyet xocolatl-nek (ejtsd: sokolatl) neveztek. Innen már nem nehéz kitalálni, honnan ered a világ szinte összes nyelvében hasonlóan hangzó csokoládé szó. A maják és az aztékok, majd pedig a gyarmatosító spanyolok a mokajáktól vették át a kakaóbab fogyasztásának szokását, amely aztán az egész világot meghódította."
+    },
+    {
+      "type": "text",
+      "content": "Afrikába a 19. századi gyarmatosítók révén kerültek az első kakaófák, a latin-amerikai őshonos, nemes kakaófajtákkal szemben azonban ide többnyire a magasabb terméshozamú és jobb tűrőképességű, de kissé silányabb minőségű fajtákat telepítették. A termesztés központja az első időkben Afrika második legkisebb országa, Sao Tomé volt, majd fokozatosan áttevődött a kontinens nyugati részére, elsősorban Elefántcsontpart, Ghána, Kamerun és Nigéria területére. Az afrikai kakaó olyannyira népszerűvé vált, hogy mára a világ kakaó össztermésének 60%-a innen származik."
+    },
+    {
+      "type": "text",
+      "content": "Mindennek persze megvoltak és a mai napig megvannak az árnyoldalai. Az Afrikában jellemző hibrid kakaófajtákat általában monokultúrás módszerrel termesztik. Hiába jobb tűrőképességűek a nemes fajtáknál, még ezeket a kakaófákat is rendkívül nehéz művelni, így a termesztők gyakorta kényszerülnek újabb és újabb területek bevonására a kakaótermesztésbe, amely azonban nemcsak erdőirtáshoz, de súlyos talajerózióhoz is vezet. Tekintve, hogy a kakaófarmerek megélhetése egyébként is rendkívül sok akadályba ütközik, nem ritka, hogy a fakitermelés és az ültetvények telepítése illegálisan történik, akár természetvédelmi területeken is. Mindez természetesen a feldolgozási folyamatokat is érinti, hiszen a hiányos infrastruktúrának köszönhetően gyakori a különböző szennyeződések, penész megjelenése, amely akár tönkre is teheti a terményt."
+    },
+    {
+      "type": "text",
+      "content": "A kakaótermesztés kihívásait nem lehet leküzdeni az abban résztvevő nagy cégek nélkül. Egy 2017-es jelentés szerint három, a világ legnagyobbjai közé tartozó kakaókereskedő cég – Olam, Cargill, Barry Callebaut – is felvásárolt olyan kakaót, amelyet illegálisan termesztettek Ghána és Elefántcsontpart különböző természetvédelmi területein. Ezek a cégek olyan gyártóknak adják el a kakaót, mint a Mars, a Hershey, a Mondelez vagy a Ferrero. A kereskedők emellett jóval kevesebbet hajlandók fizetni az Afrikában jellemző silányabb minőségű kakaóért. A farmerek napi két dollár létminimum alatti jövedelemből próbálnak megélni, miközben a kakaótermesztés eleve csak 5-6 hónapra jelent bevételt egy évben. A csokoládé több milliárd dolláros iparág, 2022-ben egyedül az Egyesült Államokban 4,1 milliárd dollárral megdőlt az eladási rekord Valentin-napon. Ebből azonban vajmi kevés jut a kakaófarmereknek. Képzeljünk el egy tábla csokoládét. A haszon több mint 44%-a, tehát majdnem egy fél tábla csokoládé a kereskedőé, több mint 35%, tehát egy tábla csokoládé bő harmada a gyártóé, míg a létminimum alatt élő, veszélyes környezetben dolgozó farmernek mindössze 6,6%, tehát nagyjából két kocka csokoládé jut."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-02-13c_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "A különböző érdekelt felek részesedése a kakaóellátási láncban. Forrás: Financial Times"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Innen sajnos már egyenes út vezet a gyermekmunkáig. A kakaófarmerek annak érdekében, hogy versenyképesen tudják tartani az árakat, és nagyobb profitra tegyenek szert, gyakran gyermekeket alkalmaznak az egyébként nem veszélytelen, és kimondottan nehéz munka során. A gyermekeket nemcsak a hosszú munkaidő vagy a megfelelő ellátás, higiénia és élelmiszer hiánya sodorja veszélybe, de a veszélyes eszközök – például láncfűrészek, macheték – használata, az óriási súlyok – mintegy 45 kg – megemelése és cipelése, és a mezőgazdasági vegyszereknek való nagyfokú kitettség is. 2001-ben a kakaó- és csokoládéipar több érintettje – többek között a Hershey és a Mars – aláírta a Harkin-Engell protokollt, ígéretet téve, hogy megszüntetik a gyermekmunkát a kakaótermesztében. Hiába telt el azóta 24 év, a mai napig mintegy 2 millió gyermek dolgozik nyugat-afrikai kakaófarmokon ahelyett, hogy iskolába járnának. A taníttatás sokba kerül, így a családok ezzel a jövedelemmel próbálják meg a felszínen tartani magukat, ez a pillanatnyi könnyebbség azonban hosszútávon elveszi a gyerekek jövőbeli kilátásait. Sajnos nem ritka az sem, hogy a kakaófarmokon a jobb jövedelem reményében a szomszédos országokból érkező migránsgyermekek dolgoznak, de az is előfordul, hogy a munka veszélyeivel tisztában nem lévő családtagok egyenesen eladják a gyermekeket az emberkereskedőknek, hogy kakaóültetvényekre vigyék őket dolgozni. Nem árt megemlíteni, hogy gyermekmunka a FairTrade minősítésű farmokon is sokszor előfordul."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-02-13c_3.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: Daniel Rosenthal"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Mielőtt azonban a szemétbe hajítanánk az összes, Valentin-napra vagy egyéb alkalomra vásárolt csokoládét, nem árt tudnunk, hogy szerencsére mára már számos lehetőségünk van, ha valóban méltányos körülmények között termesztett kakaóból készült csokoládét szeretnénk vásárolni. A „direct trade”, vagyis a közvetlen kereskedelmi modell lehetővé teszi, hogy a csokoládékészítők brókerek nélkül szerezzék be a kakaóbabot, így az azért fizetett teljes összeg a farmerekhez kerül. Emellett számos olyan kezdeményezés is van, amelynek részeként a világpiaci ár többszörösét fizetik ki a terményért, vagyis a FairTrade rendszernél is magasabb prémiumban részesülnek. Mindez lehetővé teszi például, hogy a farmerek gyermekei iskolába járjanak, vagy megfelelőbb körülményeket biztosítsanak az ültetvényeken dolgozók számára, amelynek révén a farmereknek lehetősége nyílik kitörni a mélyszegénységből. Biztató tendencia a helyi kooperatívák szerveződése is, amely nemcsak a feldolgozáshoz nélkülözhetetlen, közös létesítmények létrehozásával, de az erősebb érdekképviselet révén is támogatja a farmerek munkáját. Mindezeken túl szerencsére egyre gyakoribb a kakaóültetvényeken is a helyi ökoszisztémával összhangban történő termelés és a biogazdálkodás."
+    },
+    {
+      "type": "text",
+      "content": "A fentiekre tökéletes példa a Nyugat-Ugandában, a Rwenzori-hegység lábánál működő Latitude Trade Co., amelyet Jeff Steinberg alapított 2016-ban. A Latitude hosszútávú szerződéseket köt a beszállítóival annak érdekében, hogy organikus kakaót termesszenek, kiemelt figyelmet fordítsanak a biodiverzitás előmozdítására és a tisztességes munkavégzés biztosítására. Cserében a cég prémium áron vásárolja meg a kakaót: átlagosan 2,30 dollárt fizetnek kilónként, ami 50%-kal több mint a ghánai és az elefántcsontparti árak. A Latitude emellett olyan beszállítóktól vásárol, ahol a farmerek több mint 50%-a nő, előmozdítva így a nemek közötti szakadék csökkentését is. A Latitude B Corp minősítéssel rendelkezik, ami azt jelenti, hogy megfelelnek a társadalmi és környezeti teljesítmény, az elszámoltathatóság és az átláthatóság legmagasabb követelményeinek."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-02-13c_4.png",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: Latitude Craft Chocolate"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Gombóc Artúrnak igaza van: a csokoládé minden formája finom. De nem mindegy, hogy honnan és milyen körülmények közül származik. Fogyasztóként igenis sokat tehetünk a piac szabályozása és a kakaófarmerek helyzetének javítása érdekében. Mielőtt megvásárolnánk egy gyártó termékét, győződjünk meg arról, hogy fenntartható és etikus forrásból származik-e a kakaóbab, amelyből a csokoládé készült, ezáltal lehetővé téve, hogy még sok éven át láthassanak el minket minden tekintetben egészséges körülmények közül származó folyékony arannyal."
+    },
+    { "type": "text", "content": "&nbsp;" },
+    { "type": "text", "content": "Források:" },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.instagram.com/p/Ce0HKzxrSzn/?igsh=MWR4NXp2MWdkcHpueA%3D%3D&fbclid=IwY2xjawISza1leHRuA2FlbQIxMAABHUv5WMcaek8y0RCqWtWKWjfPR_me-PEsTAOlDuO1PPL84oTGGMtALY-yFg_aem_pgNX22nEpjqYHqSuaKQEXg&img_index=1\">instagram.com</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.humanium.org/en/the-dark-side-of-chocolate-child-labour-in-the-cocoa-industry/\">humanium.org</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://more-gratitude.com/blog/the-bitter-truth-exploring-the-dark-side-of-the-chocolate-industry/\">more-gratitude.com</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.business-humanrights.org/en/latest-news/chocolates-dark-secret-how-the-cocoa-industry-destroys-national-parks/\">business-humanrights.org</a>"
+    }
+  ],
+  "cover": {
+    "name": "2025-02-13c_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

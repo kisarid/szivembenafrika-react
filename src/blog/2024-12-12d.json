@@ -1,0 +1,98 @@
+{
+  "id": "2024-12-12d",
+  "title": "Gondolatok önkéntesektől",
+  "date": "2024-12-12",
+  "author": "Csomai Borbála",
+  "blocks": [
+    { "type": "text", "content": "Riczu Dalma", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "Amióta az eszemet tudom, Afrika mindig varázslatos hely volt számomra. Gyerekként lenyűgöztek azok a dokumentumfilmek, amelyek ott játszódtak. A képeken látott emberek mögött olyan mély történeteket sejtettem, amelyek ámulatba ejtettek. Afrikát soha nem egyszerű helyszínként, hanem egy érzésként, egy hangulatként képzeltem el. Ahogy nőttem, ez a kíváncsiság egyre inkább átalakult: már nemcsak a történetek érdekeltek, hanem az is, hogy megértsem az emberek gondolkodását, a közösségeik működését és a kihívásaikat."
+    },
+    {
+      "type": "text",
+      "content": "Ez a belső motiváció talált otthonra, amikor a szervezet pszichológust keresett, és elindult az együttműködésünk. Ennek már lassan három éve. Azóta az Önkéntes Akadémia pszichológiai programját vezetem, és a szervezetfejlesztési folyamatokon dolgozom. A munkám lényege, hogy támogassam az embereket abban, hogy jobban megértsék önmagukat, és közösen olyan közösségeket építsünk, ahol mindenki biztonságosan és őszintén kapcsolódhat a másikhoz."
+    },
+    {
+      "type": "text",
+      "content": "Három év alatt sok minden változott bennem. Az önkéntesség megtanított arra, hogy a valódi változás lassú, de mély és tartós. Minden apró áttörés, amikor egy csapat harmóniába kerül, vagy valaki rátalál a saját feladatára, azt mutatja, hogy az emberi kapcsolódás és a közös munka ereje milyen messzire képes minket elvinni."
+    },
+    {
+      "type": "text",
+      "content": "Az önkéntesség számomra egy kölcsönös folyamat: nem csak adunk, hanem kapunk is. Azt gondolom, hogy a közös történeteink, nemcsak a közösségeket formálják, hanem minket, önkénteseket is újra és újra átírnak."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-12-12d_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Lakatos Marcell",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Sziasztok Marci vagyok, több mint 3 éve önkéntes. "
+    },
+    {
+      "type": "text",
+      "content": "Az önkéntességre olyan lehetőségként tekintek, amivel segíthetek olyan embereknek, akik nincsenek olyan szerencsés helyzetben, mint én magam vagyok. "
+    },
+    {
+      "type": "text",
+      "content": "A szervezetet viszonylag régóta ismerem, és nagyra becsülöm azt a hatalmas és összetett feladatokból álló munkát, amit végeznek. Örömömre szolgál, hogy a magam képességeinek megfelelően ehhez én is hozzájárulhatok. "
+    },
+    {
+      "type": "text",
+      "content": "Igyekszem olyan feladatokat vállalni, melyekről azt gondolom, hogy a képességeim alapján a társaim segítségére lehetek, vagy akár olyanokat, amiben magamat fejleszthetem."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-12-12d_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Pribelszki-Balatincz Adél",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Adél vagyok, két éve önkénteskedem a szervezetnél. Eddig főleg a háttérben dolgoztam, én készítem a gyerektámogatásban részt vevő gyerekek adatlapjait. Idén szeptemberben azonban egy kicsit jobban előtérbe léptem azzal, hogy a gyerektámogatási programok egyik koordinátora lettem. A szervezetre anno véletlenül találtam rá, láttam egy felhívást, hogy keresnek önkénteseket, én pedig jelentkeztem. Azt hiszem abból, hogy jelenleg is itt vagyok, látható, hogy nem bántam meg ezt a döntésemet. Remek embereket ismerhettem meg eddig, akikkel közös a célunk, az értékrendünk. A szervezet engedi, hogy kamatoztassuk már meglévő tudásunkat de emellett rengeteg újat tanulhatunk. Azért kezdtem el önkénteskedni, mert szerettem volna adni valamit, abból ami nekem jutott."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-12-12d_3.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    }
+  ],
+  "cover": {
+    "name": "2024-12-12d_1.jpg",
+    "style": { "object-position": "center bottom" }
+  },
+  "innerCover": null
+}

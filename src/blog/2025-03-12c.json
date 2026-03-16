@@ -1,0 +1,74 @@
+{
+  "id": "2025-03-12c",
+  "title": "Az ugandai kviddics",
+  "date": "2025-03-12",
+  "author": "Tomasovszki Réka",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Egy varázslatos történet, amelyet a véletlennek köszönhetünk. Ugyanis ha 2013-ban John Ssentamu egy másik kisbusszal utazik Kampalába, akkor sosem alakult volna meg az ugandai kviddicscsapat."
+    },
+    {
+      "type": "text",
+      "content": "2013-ban Ssentamu a Viktória-tó partján fekvő Masakából utazott matatuval, vagyis egy 14 ember szállítására alkalmas kisbusszal Uganda fővárosába, Kampalába. Az út közben észrevette, hogy az egyik útitársa az első Harry Potter-kötetet olvassa. A könyvben pedig sok kitalált szó szerepel, amelyek a varázsvilághoz kapcsolódnak. Ezek egyike a kviddics, a varázsvilág legnépszerűbb sportja, aminek az alapját egy quadball nevű sport adja, amit számtalan országban játszanak."
+    },
+    {
+      "type": "text",
+      "content": "Miután Ssentamu is végére ért a könyvnek, elhatározta, hogy alapít egy kviddicscsapatot Ugandában, ahol a legtöbben nem is tudják, ki az a Harry Potter. "
+    },
+    {
+      "type": "text",
+      "content": "„Azon tűnődtem, mivel lehetne felhívni az emberek figyelmét a térségünkre. Más afrikai városokban vannak kosárlabda- és focicsapatok, akikkel nem tudjuk felvenni a versenyt. De mi a helyzet a kviddiccsel?” – tette fel magának a kérdést Ssentamu, az egyik helyi iskola vezetője. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-03-12c_3.jpg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "A quadball a rögbi, a kosárlabda és a kidobós egyvelege. A Harry Potter-regényekből és -filmekből megismert játékhoz hasonlóan ebben is vannak fogók, a lábuk között seprűnyéllel (csak ők repülés helyett szaladgálnak vele), valamint őrzők is, akiknek az a feladatuk, hogy megakadályozzák, hogy az ellenfél csapata pontot szerezzen. Vagyis azt, hogy átdobják a labdát a pálya szélén felállított karikák valamelyikén."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-03-12c_1.jpg",
+          "style": { "object-position": "left bottom" }
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "content": [
+        { "name": "2025-03-12c_2.jpg" },
+        {
+          "name": "2025-03-12c_4.jpg",
+          "style": { "object-position": "80% bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Ssentamu az internetről tanult meg mindent, amit a quadballról tudni lehet. 2013-ban meg is alapította a csapatát. Egy évvel később a nemzetközi quadball szövetség is felfigyelt rájuk, és egy brit quadball játékos látogatta meg őket, hogy megossza velük tudását."
+    },
+    {
+      "type": "text",
+      "content": "Az elszántságuknak meglett az eredménye, hiszen bekerültek a 2016-os frankfurti quadball-világbajnokságra. Sajnos a vízumokat nem kapták meg időben, így lemaradtak az eseményről. A lelkesedésük azonban továbbra sem lankadt. "
+    },
+    {
+      "type": "text",
+      "content": "A quadball ugyanis egy olyan sport, ahol mindkét nem egyszerre képviselheti magát a pályán. Ssentamu szerint ezt a szabályt először nem mindenki nézte jó szemmel, mivel a nemi alapú diszkrimináció Ugandában erősen jelen van. Ma viszont már lányos apukák és anyukák is ott állnak a pálya szélén az otthoni mérkőzéseken, és biztatják a gyerekeket, akiknek az az álmuk, hogy egyszer részt vehessenek a quadball-világbajnokságon. Ha pedig valakit részletesebben érdekelne az ugandai quadballcsapat története, követheti őket a közösségi médiában. :)"
+    },
+    { "type": "text", "content": "<i>A képek forrása: Marijo Silva</i>" }
+  ],
+  "cover": {
+    "name": "2025-03-12c_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

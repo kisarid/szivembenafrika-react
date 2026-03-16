@@ -1,0 +1,58 @@
+{
+  "id": "2024-03-08a",
+  "title": "#doitforher - Együtt a jövőért",
+  "date": "2024-03-08",
+  "author": "Könczöl Zsófi",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Idén már második alkalommal szeretnénk annak szentelni a márciust, hogy egy tájékoztató és egyben adománygyűjtő kampánnyal juttassuk el minél többekhez azoknak a nőknek a hírét, akikkel, és akikért dolgozunk és felhívjuk a figyelmet olyan problémákra, amelyek ugyan távolinak tűnnek, de valójában sokkal közelebb vannak hozzánk, mint azt gondolnánk, és összefogással minél több fiatal lánynak és nőnek tudjunk segíteni."
+    },
+    {
+      "type": "text",
+      "content": "Az egyik legfontosabb partnerkapcsolatunk Karamojában van, Matany Girls’ Schoolnak hívják az intézményt. Ez egy olyan bentlakásos szakképző iskola, ahol borzalmas körülmények közül kimenekített fiatal lányok tanulhatnak 4-6 hónapos képzéseken és szerezhetik meg a következő szakmák valamelyikét: turizmus és vendéglátás, „catering”, szabás - varrás és fodrászat. Ez azért is óriási dolog, mert az itt tanuló lányokat gyermekmunkából, gyermek prostitúcióból, bántalmazó kapcsolatokból és sok esetben a hajléktalanságból menti meg Florence, az iskola vezetője. Valóságos Jótündér Keresztanya módjára próbálja óvni, védeni és szeretni ezeket a lányokat, megadni nekik minden olyan szülői törődést, gondoskodást és iránymutatást, amelyben nem volt részük. A képzés ideje alatt nem hagyhatják el az iskolát, és ez idő alatt Florence egyfajta mentorálásban is részesíti őket, majd a szakma megszerzése után igyekszik mindenkinek segíteni gyakorlati helyet találni, majd pedig elhelyezkedni. Ezeknek a lányoknak, akik itt tanulhatnak ez nem pusztán egy iskola és egy megszerzett végzettség (bár Afrika legtöbb részén már ez is éppen elég nagy szó), hanem egy biztos menedék; és nem csak esély egy jobb életre, de esély a túlélésre."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-08a_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Idén azt tűztük ki a márciusi kampányunk céljának, hogy minél több lány képzésének díjára elegendő pénzt gyűjtsünk össze.  Egy lány képzésének és bentlakásához (szállás, étkezés, egyenruha, stb.) és tanulmányai után a vállalkozása elindításához a támogatás összege 250 000 forint. Egy évben két alkalommal indul a képzés az iskolában, az egyik áprilisban, a másik pedig szeptember-október körül (a jelenleg zajló képzési ciklus épp most fog a végére érni)."
+    },
+    {
+      "type": "text",
+      "content": "A kampány a „#doitforher – Együtt a jövőért” elnevezést kapta. A #doitforher egy visszatérő motívum a kampányokban és kommunikációban. Hiszünk benne, hogy a cselekvés a változás kulcsa és annak, hogy valaki támogatóvá válik mindig megvan a célja és hogy kiért teszi. Az Együtt a jövőért alcímet pedig azért szerettük volna hozzátenni, mert úgy érezzük, hogy nagyon kifejező. Afrikát sokszor hívják a jövő kontinensének, Afrika jövőjét pedig leginkább a benne élő nők és fiatal lányok helyzete fogja meghatározni és alakítani. Ebben a kampányban egyszerre teszünk a lányok és Afrika jövőjéért."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-08a_3.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Ha támogatnád az ügyet, adományodat az alábbi helyre tudod küldeni:"
+    },
+    { "type": "text", "content": "Szívemben Sz.A.E." },
+    {
+      "type": "text",
+      "content": "Magnet Bank HUF: 16200223-10126679-00000000"
+    },
+    { "type": "text", "content": "Közlemény: márciusi kampány" },
+    { "type": "text", "content": "IBAN: HU40 1620 0223 1012 6679 0000 0000" },
+    { "type": "text", "content": "SWIFT: HBWEHUHB" }
+  ],
+  "cover": {
+    "name": "2024-03-08a_1.jpg",
+    "style": { "object-position": "center bottom" }
+  }
+}

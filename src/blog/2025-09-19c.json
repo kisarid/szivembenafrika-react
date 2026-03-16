@@ -1,0 +1,60 @@
+{
+  "id": "2025-09-19c",
+  "title": "A reggel zamata",
+  "subtitle": "Kávé világkép a kedvenc forró italunk világnapja alkalmából",
+  "date": "2025-09-19",
+  "author": "Cziklin Vera",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Tudtad, hogy világszerte naponta több, mint 2 milliárd csésze kávé fogy? A kávé szinte minden háztartás és ezzel együtt a reggelek alapvető része, így bátran mondhatjuk, hogy a víz mellett az egyik leggyakrabban fogyasztott italféle a világon. Nem is csoda, hogy a kávénak világnapja is van, az már annál inkább, hogy nem is egy, hanem több: a nemzetközi Kávé Világnap október 1-jén van, azonban Magyarországon úgy tűnik, annyira lelkesedünk a kávéért, hogy hagyományosan már szeptember 29-én megünnepeljük. "
+    },
+    {
+      "type": "text",
+      "content": "A világ nemzetei között az elfogyasztott mennyiség tekintetében mégis a finnek állnak a “ranglista” élén, ők fejenként 12 kg kávét fogyasztanak minden évben, ami nagyjából 4 csésze kávét jelent naponta. Magyarország is “kávé-nemzetnek” számít, az emberek átlagosan 2-3 csésze kávét isznak naponta. Érdekesség, hogy a kávé nemzetközi ünnepe mégsem Európából, hanem a tradicionálisan teafogyasztó Japánból ered, ahol 1983-ban ünnepelték először hivatalosan a kávét. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-09-19c_1.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A növekvő középosztálynak köszönhetően Afrikában is egyre nő a kávé iránti kereslet, azonban a globális átlaghoz képest továbbra is alacsonynak számít. Termesztés tekintetében azonban az afrikai országok közül jónéhány található a világpiac élvonalában, Uganda például, amely szervezetünk számára is kiemelt ország, az egyik legnagyobb kávétermelő a világon. Itt közel 394 tonna kávét termesztenek évente, amellyel a világon a hatodik legnagyobb kávé ellátó (2022-es adatok alapján), Afrikában pedig Etiópia mellett a második legnagyobb kávéexportőr. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-09-19c_2.jpg"
+        },
+        {
+          "name": "2025-09-19c_3.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Ugandai kávéval a boltokban ritkán találkozni, azonban vásárainkon adományodért cserébe rendszeresen választhatod ezt a különleges fajtát. Ha kedvet kaptál, legközelebb az Őszkert vásáron találkozhatsz velünk október 10-12. között."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-09-19c_4.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    }
+  ],
+  "cover": {
+    "name": "2025-09-19c_1.jpg",
+    "style": { "object-position": "center top" }
+  },
+  "innerCover": null
+}

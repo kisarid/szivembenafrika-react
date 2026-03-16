@@ -1,0 +1,62 @@
+{
+  "id": "2024-09-19e",
+  "title": "Önkéntesség",
+  "date": "2024-09-19",
+  "author": "",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Munkánk során gyakran találkozunk azzal a tévhittel, hogy az önkénteskedés - pláne hogy mi főként nőkkel és gyerekekkel foglalkozunk és ráadásul többségében vannak a női csapattagok - nem való férfiaknak vagy legalábbis nem éreznék jól vagy hasznosnak magukat. Ezt szeretnénk most megcáfolni, aminek mi is lehetne jobb módja, mint hogy csapatunk férfi tagjai osztják meg veletek személyes tapasztalataikat."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-09-19e_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "“Dr. Farkas Ferenc Balázs vagyok, a Szívemben Született Afrika egészségügyi projektekért felelős elnökségi tagja. Először 2015-ben döntöttem el, hogy önkénteskedni szeretnék, valamikor ekkortájt ismertem meg Zsófit is. Egyesületünk tevékenységében nagy hangsúlyt fektetünk a nők helyzetére, egészségére, oktatására és igyekszünk minél jobb lehetőségeket biztosítani számukra. Azonban mindehhez férfiakra is szükségünk van önkénteseink között."
+    },
+    {
+      "type": "text",
+      "content": "Az évek alatt számos olyan helyzettel szembesültünk, ahol a kiegyensúlyozott nemi reprezentáció mind a missziók munkáját, mind a helyiekkel való közös kapcsolódást nagymértékben segítette. Elég csak a kamaszkori problémákra, vagy az afrikai kultúrában mélyen gyökerező nemi egyenlőtlenségekre, de esetenként a klasszikusan férfi szerepekhez köthető feladatokra is gondolnunk."
+    },
+    {
+      "type": "text",
+      "content": "Egy afrikai közösségben az apákkal, férjekkel való hatékony kommunikáció csak rajtunk keresztül lehetséges és természetesen az is fontos, hogy a programjainkban részt vevő gyermekeket - fiúkat és lányokat egyaránt - kiegyensúlyozott impulzusok érjék, továbbá, hogy leküzdhessük a káros sztereotípiákat. Jelenlétünk pozitív férfi példákat szolgáltathat, különösen a fiatal fiúk és kamaszok számára. Mindemellett szervezetünkben is egyedi perspektívákkal, készségekkel járulhat hozzá egy-egy férfi, hogy közösen elérjük céljainkat és afrikai barátainkat a lehető legjobban tudjuk segíteni."
+    },
+    {
+      "type": "text",
+      "content": "Ha férfiként érzed magadban a késztetést és tettrekész vagy, ne habozz csatlakozni hozzánk. Hidd el jól és hasznosnak fogod magad érezni!"
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-09-19e_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": ""
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "“dr. Végh Marcell vagyok, az Egyesület jogásza. Zsófit régről ismerem, barátok vagyunk, így az egyesület alapításánál is ott lehettem már, mint alapító tag. Bár én jelenleg kizárólag jogi támogatást nyújtok a szervezetnek és az önkéntesek tevékenységében nem veszek részt, azt gondolom, hogy az egyesületünknél történő önkénteskedés nem csak az Afrika vagy az önkéntes munka iránt érdeklődő nőknek, hanem az ilyen érdeklődési körű férfiaknak is egyaránt izgalmas lehetőség. A téma ugyanis nem más, mint Afrika és annak lehetősége, hogy Afrikában segítsünk, és bár lehet, hogy programjaink javarészt lányok és nők megsegítéséről szólnak, és önkénteseink javarészt nők, csapatunkban ugyanúgy van helye és van szükség férfiakra, ezért bátorítalak téged, hogy csatlakozz hozzánk, különösen, ha téged is annyira érdekel Afrika, mint minket. ;)”"
+    }
+  ],
+  "cover": {
+    "name": "2024-09-19e_2.jpg",
+    "style": { "object-position": "center 20%" }
+  },
+  "innerCover": null
+}

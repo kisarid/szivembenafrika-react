@@ -1,0 +1,101 @@
+{
+  "id": "2024-01-09b",
+  "title": "Fenntartható turizmus",
+  "date": "2024-01-09",
+  "author": "Fazekas Leila",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Az alábbi cikkben a fenntartható turizmust szeretnénk nektek kicsit bemutatni és összegyűjtöttük, hogyan utazhatunk ennek megfelelően.  "
+    },
+    {
+      "type": "text",
+      "content": "Manapság egyre elérhetőbb közelségbe kerül a világ számos pontja, így sok emberben születik meg a vágy arra, hogy idegen országokat, messzi kontinenseket látogasson meg. Amellett, hogy utazni csodálatos dolog és életre szóló élmény idegen tájakat, kultúrákat és ételeket megismerni, fontos figyelembe venni a környezeti hatásokat is, amikkel ezek az utazások járnak. "
+    },
+    {
+      "type": "text",
+      "content": "Szerencsére sokak számára fontos a környezetvédelem, így számos ország igyekszik biztosítani ezeket a feltételek."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2023-01-09b_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: 123rf.com"
+        }
+      ]
+    },
+    { "type": "text", "content": "Nézzük meg, mit is jelent ez pontosan. " },
+    {
+      "type": "text",
+      "content": "A fenntartható turizmus olyan utazási és vendéglátási gyakorlatokat foglal magában, amelyek minimalizálják a környezeti hatásokat, tiszteletben tartják és támogatják a helyi kultúrát, és elősegítik a gazdasági fejlődést a helyi közösségek számára. "
+    },
+    {
+      "type": "text",
+      "content": "A fenntartható turizmusnak több fontos eleme van, nézzünk meg ezek közül néhányat mind a fogadó ország, mind pedig az odalátogatók szempontjából. "
+    },
+    { "type": "text", "content": "Közlekedés", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "Olyan közlekedési eszközök biztosítása és választása, amelyek kevésbé terhelik a környezetet. Ha van lehetőségünk, utazzunk vonattal, mert annak kisebb a szén-dioxid kibocsátása, mint a repülőnek vagy az autónak. Ha nincs, akkor autó helyett válasszuk a buszt vagy telekocsi szolgáltatást, hogy csökkentsük a járművek számát az utakon. "
+    },
+    {
+      "type": "text",
+      "content": "Társadalmi, kulturális és gazdasági fenntarthatóság",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Fontos, hogy a turizmus támogassa a helyi közösségeket, azok kultúráját és hagyományait. A turizmus szektorban dolgozóknak tisztességes munkakörülményekkel és bérekkel kell rendelkezniük. Tartsuk tiszteletben a helyi kultúrát és hagyományokat, és ne vegyünk részt olyan tevékenységekben, amelyek károsíthatják vagy tiszteletlenek lehetnek a helyi közösségek számára. Igyekezzünk helyi termékeket és szolgáltatásokat vásárolni, hogy ezzel is hozzájáruljunk a gazdaság fejlődéséhez."
+    },
+    {
+      "type": "text",
+      "content": "Természeti területek megőrzése",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A turizmusnak óvnia kell a természeti területeket, és támogatnia kell a helyi ökoszisztémák megőrzését. Válasszuk azokat a tevékenységeket, amelyek támogatják a környezetvédelmet, például természetvédelmi parkok látogatását vagy ökotúrákat. Kerüljük az olyan programokat, amik az állatok kizsákmányolásával járnak, mint például a különböző delfin show-k, elefánton lovagolás vagy fogságban tartott majmokkal való fényképezkedés. Ha szeretnénk megismerkedni a helyi élővilággal, akkor válasszunk olyan lehetőséget, ahol a természetben figyelhetjük meg az állatokat és növényeket. A legtöbb esetben van alternatíva és olyan program mellé tegyük le a voksunkat, amivel nem ártunk az élővilágnak. Az elefánton lovaglás helyett választhatunk egy olyan szervezetet, amely az elefántok megmentésével foglalkozik és az odalátogatásunkkal a munkájukat támogatjuk - az állatok megmentését, nem pedig a fogásban tartásukat. Ehhez azonban kicsit utána kell járnunk a szervezet működésének, ami mindenképpen megéri. "
+    },
+    { "type": "text", "content": "Szállás", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "A szálláshelyeknek olyan technológiákat és rendszereket kell alkalmazniuk, amelyek csökkentik a víz- és energiafelhasználást. Keressünk olyan szállásokat, amelyek elkötelezettek a környezetvédelem és a fenntarthatóság iránt. Például olyan helyeket, amelyek energiatakarékos intézkedéseket hoztak, és támogatják a helyi közösségeket. Válasszunk helyi tulajdonban lévő kisebb szállásokat vagy Airbnb-t, mivel ezek hozzájárulhatnak a helyi gazdaság támogatásához."
+    },
+    { "type": "text", "content": "Étkezés", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "Próbáljunk meg helyi ételeket és termékeket fogyasztani, mivel ezek általában kisebb távolságokon utaznak, és kevesebb környezeti hatással járnak. Keressük azokat az éttermeket, amelyek elkötelezettek a fenntarthatóság iránt, például helyi alapanyagokat használnak, és minimalizálják a hulladékot."
+    },
+    {
+      "type": "text",
+      "content": "Hulladékkezelés",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A fenntartható turizmusnak magában kell foglalnia a hulladékcsökkentésre és -újrahasznosításra irányuló erőfeszítéseket. Vásároljunk csomagolás nélküli vagy minimalista csomagolású termékeket, hogy csökkentsük a szeméttermelést. Használjunk újrahasznosított vagy újrahasznosítható termékeket, és gondoskodjunk a hulladék megfelelő elhelyezéséről."
+    },
+    {
+      "type": "text",
+      "content": "Lehetőségeinkhez mérten igyekezzünk szem előtt tartani a fentieket, ám nem szabad, hogy kedvünket szegje, ha nem tudunk minden kritériumnak megfelelni. Vannak olyan úticélok, melyeket csak repülővel tudunk megközelíteni, ám attól még figyelhetünk arra, hogy olyan szállást válasszunk, amely öko minősítéssel rendelkezik. Vagy ha nem szeretnénk kizárólag helyi ételeket fogyasztani, attól még tudatosak lehetünk az igénybe vett szolgáltatások kiválasztása során. A turisták igényei nagyban befolyásolják a turisztikai szektor prioritásait, így ha az emberek fenntarthatóbban szeretnének utazni, akkor ezeknek az igényeknek a kielégítése lesz az elsődleges szempont. "
+    },
+    { "type": "text", "content": "&nbsp;" },
+    { "type": "text", "content": "Forrás:" },
+    {
+      "type": "text",
+      "content": "<a href=\"https://zoldhirek.eu/fenntarthato-paraszthazban-tippek-a-fenntarthatobb-utazashoz\">Fenntartható Parasztházban - Tippek a Fenntarthatóbb Utazáshoz</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.vg.hu/nemzetkozi-gazdasag/2023/09/fenntarthato-turizmus-az-utazas-kisebb-kornyezetterhelesere-egyre-tobb-idegenforgalmi-celpont-figyel\">Fenntartható turizmus: az utazás kisebb környezetterhelésére egyre több idegenforgalmi célpont figyel</a>"
+    }
+  ],
+  "cover": {
+    "name": "2023-01-09b_1.jpg",
+    "style": { "object-position": "center right" },
+    "caption": "Forrás: 123rf.com"
+  },
+  "innerCover": null
+}

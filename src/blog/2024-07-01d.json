@@ -1,0 +1,131 @@
+{
+  "id": "2024-07-01d",
+  "title": "Ugandai ital körkép",
+  "date": "2024-07-01",
+  "author": "Balogh Tünde",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Rejtett gyöngyszem a hegyek között, a távolban vöröseses napfénnyel visszacsillanó talaj, ez mind Uganda, a szárazság és a meleg is mutatja, hogy mennyire fontos a víz, de mit is lehet még ezen kívül inni és megkóstolni?"
+    },
+    {
+      "type": "text",
+      "content": "A kávé, amit mi minden reggel kortyolgatunk itthon és őshazája Kelet-Afrika, Ugandában elterjedt a boltokban, vásárolni lehet minden formában (őrölt, szemes stb.), ennek ellenére azt láttam a novemberi misszió során, hogy az ott élők inkább fogyasztanak egy chait vagy egy jó dawat ... de mi is az a „dawa” és „chai”?"
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01d_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": ""
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A chai szó a teát több nyelven is jelenti, beleértve a szuahélit is, a nap bármely szakaszában népszerű ital Ugandában, tea, tej, cukor és gyömbér hozzáadásával készül, melegen fogyasztják."
+    },
+    {
+      "type": "text",
+      "content": "A tea eredete és fogyasztása Ugandában az igazi teafogyasztó nemzet gyarmatosítására vezethető vissza.  A britek érkezese az 1800-as évek végén, amikor szerződéses munkásokat hoztak Indiából, hogy segítsenek a Kenya-Uganda vasútvonal építésben. Feljegyzések szerint a teát először egy G.W. L Caine nevű férfi hozta be Kenyába Indiából 1903-ban, és a tea palántákat főleg dekoratív célokra ültette, körülbelül 1924-ig, amikor a Malcom Gyers Bell egy Brooke Bond nevű cég nevében megkezdte a tea kereskedelmi gyártását."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01d_4.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": ""
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A Dawa szuahéli nyelven gyógyszert jelent, nem is véletlen talán az elnevezés, hiszen az összetevők citrom, méz, gyömbér, tele vitaminnal és antioxidánssal, az összetevők nagyon erősek és az íze is. "
+    },
+    {
+      "type": "text",
+      "content": "Ezt én is tanúsíthatom, amikor Kampalában megkóstoltam. ☺"
+    },
+    {
+      "type": "text",
+      "content": "Az novemberi misszió egyik napján ellátogattunk a Nílus forrásához és hajóztunk rajta; Uganda egyik legnépszerűbb söre is erről kapta a nevét, „Nile special”, szó szerint nílusi különleges sör."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01d_2.jpg",
+          "style": { "object-position": "center bottom", "height": "600px" },
+          "caption": ""
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Az először 1954-ben az Owen Falls-gát befejezésének megünneplésére főzött „Nile Special” az elmúlt 50 évben a Nílusi Sörfőzdék zászlóshajója volt."
+    },
+    {
+      "type": "text",
+      "content": "A generációk során megbíztak benne minősége és következetessége miatt, a Nile specialitás Uganda és Kelet-Afrika legtöbbet díjazott söre is."
+    },
+    {
+      "type": "text",
+      "content": "A novemberben a misszió ideje alatt, egy hosszú fárasztó nap után jól esett egy frissítő gin-tonik. "
+    },
+    {
+      "type": "text",
+      "content": "A waragi, lényegében az ugandai gin, egy általános kifejezés a hazai desztillált italokra, különböző neveket kap a származási régiótól és a gyártási folyamattól függően. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-07-01d_3.jpg",
+          "style": { "object-position": "center bottom", "height": "600px" },
+          "caption": ""
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Az ugandai waragi története az ugandai történelem gyarmati korszakának időszakára vezethető vissza. A gint az ugandai protektorátusban állomásozó brit katonák vezették be Ugandába, és hamarosan népszerű itallá vált az ugandaiak körében."
+    },
+    {
+      "type": "text",
+      "content": "A Kakira Spirits a Kakira Sugar Estate-en indult, amelyet 1930-ban alapított a Madhvani család Uganda Jinja régiójában. "
+    },
+    {
+      "type": "text",
+      "content": "Valamennyi kínált terméket cukornádból állítják elő, különösen a cukorgyártásból visszamaradt melaszból. "
+    },
+    { "type": "text", "content": "&nbsp;" },
+    { "type": "text", "content": "Forrás:" },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.kakiraspirits.com/\">kakiraspirits.com</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://en.wikipedia.org/wiki/Waragi\">wikipedia.org</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.modernafricantable.com/the-art-of-chai/\">modernafricantable.com</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://nilespecial.co.ug/\">nilespecial.co.ug</a>"
+    }
+  ],
+  "cover": {
+    "name": "2024-07-01d_1.jpg",
+    "style": { "object-position": "center bottom" }
+  },
+  "innerCover": null
+}

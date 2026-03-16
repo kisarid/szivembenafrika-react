@@ -1,0 +1,78 @@
+{
+  "id": "2025-03-12a",
+  "title": "Elindult a tavaszi missziós csapat felkészítése",
+  "date": "2025-03-12",
+  "author": "Riczu Dalma",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Nagy fejlődés a szervezet életében, hogy idén azoknak is szeretnénk lehetőséget adni a kiutazásra és a támogatottakkal való találkozásra, akik nem tudnak önkéntesként bekapcsolódni, viszont régóta segítik egyéb módon a szervezet életét. "
+    },
+    {
+      "type": "text",
+      "content": "Áprilisban hat támogató indul útnak, hogy első kézből tapasztalják meg, milyen hatással van a munkánk a helyi közösségekre. "
+    },
+    {
+      "type": "text",
+      "content": "Január 25-én egy egész napos felkészítő eseményen vettünk részt a Szelencében, ami nem csupán az első személyes találkozás volt, hanem egy meghatározó pillanat is, ami megalapozta az áprilisi ugandai misszióhoz szükséges csapatdinamikát és felkészültséget."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-03-12a_1.jpg",
+          "style": { "object-position": "left bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Egy hosszú és tartalmas nap keretein belül megismerkedtünk egymással, megértettük az út hátterét, betekinthettünk a helyi kultúrába, és olyan praktikus tudást szereztünk, amely elengedhetetlen lesz a terepen. "
+    },
+    { "type": "text", "content": "A felkészülés során kiemelt szerepet kap:" },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "a kulturális sajátosságok megismerése,",
+        "a szervezet munkájának mélyebb megértése,",
+        "az egészségügyi előírások és biztonsági szabályok elsajátítása,",
+        "valamint a csapatépítés."
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Ez és a további két találkozó nemcsak arra szolgálnak, hogy felkészülten érkezzünk Ugandába, hanem arra is, hogy kapcsolatokat építsünk egymással – olyan kapcsolatokat, amelyek a későbbi kihívások során valódi támaszaink lehetnek."
+    },
+    {
+      "type": "text",
+      "content": "A csapat az út során ellátogat Manafwába és Karamojába is, ahol találkozunk a közösségekkel, gyerekekkel, partnereinkkel és meglátogatjuk az iskolákat. De ez az utazás nem csak a látogatásról szól: adományokat is viszünk, hogy kézzelfogható módon is hozzájáruljunk a közösségek fejlődéséhez."
+    },
+    {
+      "type": "text",
+      "content": "A misszió célja - találkozás a valósággal",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A hagyományos utazásoktól eltérően ez egy lehetőség arra, hogy partnereink saját szemükkel tapasztalják meg hozzájárulásuk hatását. Nem csupán egy képernyőn keresztül követhetik nyomon azok életét, akikkel kapcsolatban állnak, hanem személyes találkozásokon keresztül is. Azoknak szól, akik mindig is szerettek volna részesei lenni valami nagyobbnak, akik valódi, mély kapcsolatokra vágynak, és készen állnak arra, hogy kilépjenek a komfortzónájukból."
+    },
+    {
+      "type": "text",
+      "content": "Az út igazi mélymerülést is tartogat Afrika vadregényes világába. 13 nap alatt testközelből tapasztalhatjuk meg a kontinens lenyűgöző arcát: a Murchison Falls Nemzeti Parkban szafarizva nemcsak a vadon lüktető élete figyelhetjük meg, hanem egészen közel kerülhetünk a földrész egyik legikonikusabb teremtményéhez, a rinocéroszhoz is. A kaland Kampalában ér véget, ahol egy vibráló, autentikus kulturális est kínál betekintést Uganda színes hagyományaiba."
+    },
+    {
+      "type": "text",
+      "content": "<b>Kövessétek az utunkat!</b> A felkészítő nap után már izgatottan várjuk az indulást. Hamarosan bemutatjuk a kiutazó csapat tagjait, és az út során is folyamatosan megosztjuk friss híreinket. Maradjatok velünk, és kövessétek ezt a különleges utazást!"
+    },
+    {
+      "type": "text",
+      "content": "Köszönjük, hogy velünk vagytok, és továbbra is figyelemmel kíséritek a munkánkat!"
+    }
+  ],
+  "cover": {
+    "name": "2025-03-12a_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

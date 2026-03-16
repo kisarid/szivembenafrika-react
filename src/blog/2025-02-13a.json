@@ -1,0 +1,99 @@
+{
+  "id": "2025-02-13a",
+  "title": "Mit tud adni az önkéntesség?",
+  "date": "2025-02-13",
+  "author": "Csomai Bori",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Februári ‘Önkéntesség’ rovatunkban a 2024. év önkénteseivel, Dórival és Verával beszélgettem a saját útjukról, a motivációjukról és arról, hogy mit adott számukra a Szervezetnél való önkénteskedés."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-02-13a_1.jpg",
+          "style": { "object-position": "left bottom" },
+          "caption": "Dóri"
+        },
+        {
+          "name": "2025-02-13a_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Vera"
+        }
+      ],
+      "classes": ["keep-size"],
+      "style": { "object-position": "center bottom" }
+    },
+    {
+      "type": "text",
+      "content": "Mióta önkénteskedsz? Hogy találtál rá a Szervezetre?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "D: Több, mint 2 éve vagyok a Szívemben Született Afrika önkéntese. Először évekkel ezelőtt egy egyetemi szakkollégiumi előadáson hallottam a Szervezetről, ahol Zsófi mesélt Ugandáról. Ez az alkalom magával ragadott, így követni kezdtem Zsófi munkáját a közösségi oldalakon. Majd láttam egy felhívást, hogy önkénteseket keres a szervezet, így jelentkeztem. "
+    },
+    {
+      "type": "text",
+      "content": "V: Egy barátnőm önkénteskedik a Szervezetnél már az alapítás óta, ő hívott meg a 2024-es önkéntes infoestre, ahol én is csatlakoztam a Szívemben Született Afrikához."
+    },
+    {
+      "type": "text",
+      "content": "Mi motivál az önkénteskedésre?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "D: Nagyon szeretnék segítséget nyújtani azoknak, akik erre rászorulnak, és úgy látom, a Szervezet valóban oda viszi a segítséget, ahol szükség van rá. "
+    },
+    {
+      "type": "text",
+      "content": "V: Szeretnék értéket teremteni és pozitív változást hozni azoknak az életébe, akik kevésbé szerencsés körülmények közé születtek. Olyan könnyű magától értetődőnek venni mindent, amink van, pedig egyáltalán nem az, és sajnos sokan vannak, akiknek a lehetőségeit meghatározza, hogy hova születnek - azonban hiszek benne, hogy mindenkinek járnak az egyenlő esélyek az életben, az efelé mutató pozitív változás része szeretnék lenni."
+    },
+    {
+      "type": "text",
+      "content": "Mit adott neked a Szervezetnél való önkénteskedés?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "D:  Nagyon sok mindent. Önkéntesként egy kicsit hozzájárulhatok ahhoz, hogy a programjainkban résztvevő manafwai és karamojai kislányok helyzete jobb legyen, ami hálával és örömmel tölt el. Sokat tanulhatok Ugandáról és Afrikáról, a helyi problémákról és lehetőségekről. Nem utolsósorban egy szuper közösség része lehetek, amelynek tagjaival már nem csak a közös szervezeti munka köt össze."
+    },
+    {
+      "type": "text",
+      "content": "V: A magától értetődő jó érzés mellett, hogy elérhetem a célomat és pozitív változást hozhatok, bekerültem egy olyan fantasztikus közösségbe, ahol nyitott, kreatív és eltökélt emberek dolgoznak, akikkel csodálatos érzés időt tölteni. Jó példájukkal ők újra és újra visznek előre."
+    },
+    {
+      "type": "text",
+      "content": "Mit jelent számodra, hogy az év önkéntesének választottak a Szervezet vezetői?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "D: Nagyon örültem ennek az elismerésnek, és biztos, hogy még több motivációt ad a további munkához."
+    },
+    {
+      "type": "text",
+      "content": "V: Számomra ez egy óriási elismerés, amiért hihetetlenül hálás vagyok, hiszen tényleg egytől-egyig csodálatos emberekkel és szakemberekkel dolgozom együtt. Mivel még friss önkéntesnek számítok, adott egy nagy adag önbizalmat is, hogy kevesebbet bizonytalankodjak."
+    },
+    {
+      "type": "text",
+      "content": "Mit üzennél azoknak, akik fontolgatják az önkéntességet, de még nem vágtak bele?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "D: Mindenkinek ajánlom az önkénteskedést, hiszen más perspektívába helyezi a saját életünket is az, hogy a szükséghelyzetben lévőknek segítséget nyújtunk. Önkénteskedni nagyon hasznos szabadidős tevékenység, így mindenkit bátorítanék rá!"
+    },
+    {
+      "type": "text",
+      "content": "V: Oka van annak, ha valaki érdeklődik az önkénteskedés iránt, úgyhogy érdemes mihamarabb belevágni, mert semmi vesztenivaló nincs - épp ellenkezőleg, tényleg rengeteget ad az önkénteskedés. Én is halogattam egy ideig, de ha újra csinálhatnám, már sokkal korábban belevágnék. ☺️ Aki bizonytalan a ráfordítható idejét illetően, annak ajánlom, hogy keressen olyan szervezetet, ahol ezt rugalmasan tudják kezelni."
+    }
+  ],
+  "cover": {
+    "name": "2025-02-13a_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": null
+}

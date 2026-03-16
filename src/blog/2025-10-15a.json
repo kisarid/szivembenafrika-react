@@ -1,0 +1,129 @@
+{
+  "id": "2025-10-15a",
+  "title": "Karamojong ékszerek",
+  "date": "2025-10-15",
+  "author": "Kozári Dóri",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A karamojong kultúra egyik legszembetűnőbb eleme a hagyományos gyöngyfűzés. A karamojong gyöngyök, mint sok más afrikai kultúráé, nem csak dekoratívak: mély kulturális, társadalmi és spirituális jelentőséggel bírnak."
+    },
+    {
+      "type": "text",
+      "content": "A karamojong gyöngyök jellemzően helyi forrásból származó anyagokból készülnek, mint például:"
+    },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "Üveggyöngyök: ezeket gyakran importálják, és a karamojongok bonyolult minták létrehozására használják őket.",
+        "Maggyöngyök: természetesek, és gyakran használják egyszerűbb kivitelben.",
+        "Állati csontok, kagylók és fogak: ezeket az anyagokat néha a szimbolizmus növelése vagy a gazdagság, státusz vagy törzsi hovatartozás jelzése céljából építik be."
+      ]
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-10-15a_2.jpg"
+        },
+        {
+          "name": "2025-10-15a_3.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A gyöngyök típusai",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "Nyakláncok, karkötők és bokaláncok: ezek a karamojongok által viselt ékszerek leggyakoribb formái. A gyöngyöket gyakran hosszú szálakba fonják össze, és férfiak és nők egyaránt hordják.",
+        "Fejpántok: néha gyöngyös fejpántokat is viselnek, különösen fiatal lányok vagy nők, a szépség vagy a fontos társadalmi szerep jelzésére.",
+        "Fülbevaló: bár kevésbé gyakori, néhány karamojong kisebb gyöngyökből készült fülbevalót visel."
+      ]
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-10-15a_4.jpg"
+        }
+      ]
+    },
+    { "type": "text", "content": "Jelentőség", "classes": ["blog-header"] },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "Társadalmi státusz: a gyöngyök gyakran a közösségben betöltött státusz mutatói. A hordott gyöngyök mennyisége és típusa jelezheti a gazdagságot, rangot vagy akár családi állapotot.",
+        "Házasság és udvarlás: a gyöngyök fontos szerepet játszanak az udvarlási rituálékban. Egy férfi gyöngyöket ajándékozhat egy nőnek egy hagyományos eljegyzés részeként, illetve a nők által viselt gyöngyök gyakran a termékenységhez és a családhoz kapcsolódnak.",
+        "Átmeneti rítusok: a gyöngyfűzés különböző életszakaszokhoz kötődik, a fiatal lányok például kaphatnak gyöngyöket a nővé válásuk részeként. A karamojongoknak vannak beavatási szertartásaik is, ahol a gyöngyfűzés a gyermekkorból felnőttkorba való átmenetet is jelképezi.",
+        "Védelem és spirituális jelentés: egyes gyöngyökről úgy tartják, hogy védő vagy gyógyító erővel bírnak, és szertartások közben viselik, vagy lelki védelemként a testre helyezik."
+      ]
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-10-15a_5.jpg"
+        },
+        {
+          "name": "2025-10-15a_6.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Színek és minták",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A karamojong gyöngyfűzéshez használt gyöngyök színei sajátos jelentéssel bírnak:"
+    },
+    {
+      "type": "list",
+      "listType": "ul",
+      "content": [
+        "Piros: gyakran az erőt, a bátorságot, és néha a vért vagy az áldozatot szimbolizálja.",
+        "Fekete: kitartást és rugalmasságot jelképez.",
+        "Fehér: a tisztaság, a béke és az új kezdetek színe.",
+        "Kék és zöld: ezeket a színeket néha a termékenységgel és a természettel társítják, utóbbi esetben különösen a szarvasmarha, a víz és a mezőgazdaság fontosságát szimbolizálják a karamojong hagyományban.",
+        "Sárga: a gazdagságot, a bőséget és a jólétet szimbolizálja."
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Maguk a minták is fontosak. Bonyolult geometriai formák, vagy épp egyenes vonalak és olykor állati motívumok tükrözik a karamojongoknak a természethez, különösen a szarvasmarhákhoz fűződő szoros kapcsolatát, amely életükben és kultúrájukban központi szerepet tölt be."
+    },
+    {
+      "type": "text",
+      "content": "Kulturális jelentősége",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A gyöngy nem csupán ékszer, hanem egyfajta kommunikációs forma is. A gyöngyfűzés művészete nemzedékeken át öröklődik, a közösség idősebb tagjai gyakran tanítják ezt a szokást, biztosítva a mesterség tartósságát. Minden egyes gyöngyékszer egy történetet mesél el – legyen szó viselőjének életéről, a közösségben betöltött szerepéről, vagy épp családja történetéről.."
+    },
+    {
+      "type": "text",
+      "content": "Gazdasági és kereskedelmi érték",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Sok karamojong ember számára a gyöngyöknek gazdasági jelentősége is van. Eladhatják azokat más törzseknek vagy a helyi piacokon. A gyöngyfűzés gyakran bevételi forrás a nők számára, akik ékszereket készítenek, amelyeket aztán eladnak vagy szarvasmarhákra cserélnek, amelyek továbbra is fontos fizetőeszköznek számítanak a karamojong társadalomban."
+    }
+  ],
+  "cover": {
+    "name": "2025-10-15a_6.jpg",
+    "style": { "object-position": "center 25%" }
+  },
+  "innerCover": null
+}

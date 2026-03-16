@@ -1,0 +1,69 @@
+{
+  "id": "2024-11-15c",
+  "title": "Kedvenc pillanataim az őszi misszióról",
+  "date": "2024-11-15",
+  "author": "Csomai Borbála",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A szeptember 27-én indult, 3 hetes ugandai missziónkról rengeteg meghatározó, emlékezetes pillanatot tudnék kiemelni. Nagyon sok új, eddig szokatlan hatás ért bennünket. Találkozhattunk azokkal a gyerekekkel, akikért dolgozunk, megismerhettük a környezetet, amiben felnőnek, a családjukat és a tanáraikat. A közösségekkel töltött idő mellett az is fontos volt számunkra, hogy felfedezzük a tájakat és a kultúrát. Ebben a cikkben 3 fontos pillanatot szeretnék kiemelni, ami nekem a legmeghatározóbb maradt:"
+    },
+    {
+      "type": "text",
+      "content": "Érkezés Manafwába",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A misszió első fontos állomása Manafwa volt, ahol összesen 6 napot töltöttünk. Itt működik a Shine Nursery and Primary School, ahol közel 300 jelképes örökbefogadó szülő által támogatott gyermek tanulhat. Már besötétedett, mire a faluba értünk. A ház kapujánál rengeteg nő és gyerek várt ránk izgatottan. Amikor meglátták az autónkat már énekeltek, táncoltak, tapsoltak. Ahogy kiszálltunk a kocsiból, körénk gyűltek, mindenkit megöleltek. Fantasztikus volt megtapasztalni azt az őszinte örömöt, ami belőlük áradt. Úgy éreztem, hogy soha életemben nem örültek még nekem ennyire. Mindannyian az események hatása alá kerültünk. A hangulatot az is fokozta, hogy aznap este nem volt áram a faluban, így meghitten, gyertyafényben tölthettük az első esténket."
+    },
+    {
+      "type": "text",
+      "content": "Másnap reggel napsütésben is megcsodálhattuk a tájat, ami egyszerűen lenyűgöző volt. Csodálatos hegyek, gyönyörű zöld növényzettel."
+    },
+    { "type": "text", "content": "Boda-boda túra", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "A misszió karamojai részét a Kara-Tunga Safari Campban töltöttük, ahol rengeteg különleges programot szerveztek a csapatunknak. Kirándultunk a Mount Moroton, biciklitúráztunk, meglátogattunk egy szarvasmarha tábort, részt vettünk faültetésen és ami személyes kedvencemmé vált, elmentünk egy boda boda (helyi robogó)  túrára. Motorkerékpárral végigvittek minket a közeli tájakon. Láthattunk hatalmas kaktuszokat, különleges madarakat és még a helyi tehercipelési módszert is kipróbálhattuk. A körút során meglátogattuk a helyi piacot is, ahol többek közt tehenet, kecskét, csirkét és tradicionális karamojong anyagokat árultak. Ezzel együtt lett igazán autentikus az élmény. Karamoja fantasztikus tájai és különleges tradíciói azonnal magukkal ragadtak bennünket."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15c_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Találkozás a karamojong anyukákkal, shanitás gyerekekkel",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Október 9-én reggel (ami egyben Uganda függetlenségének napja) ellátogattunk a Karamojong törzs Bokora klánjához. Az innen származó gyerekek közül már sokan bekerültek a Shanita partnerszervezet programjába. A látogatás legfontosabb részeként találkozhattunk az ő anyukáikkal. Elmesélték történeteiket, és azt, hogy mennyit jelent számukra a támogatás, melynek köszönhetően gyermekeik iskolába járhatnak, rendszeresen jutnak élelemhez, biztonságos környezetben nőhetnek fel. A beszélgetés során nagyon megdöbbentő és megrázó történeteket hallhattunk. Jelen volt egy 14 éves lány, aki szülei hirtelen halála után most egyedül neveli 5 kisebb testvérét. Találkoztunk több asszonnyal, akik nemi erőszak során estek teherbe. Ők még gyerekkorukban lettek belekényszerítve egy házasságba egy náluk évtizedekkel idősebb férfival. Volt egy nálam nem sokkal idősebb fiú, aki 9 éves korában végignézte szülei és testvérei halálát egy éjszakai rajtaütés (tehénlopás) során. Lenyűgözött az erő és kitartás, ami ezeket az embereket hajtja nap mint nap."
+    },
+    {
+      "type": "text",
+      "content": "Még aznap délután meglátogattuk a Shanita partnerszervezet iskoláját. Nagyon megható volt látni a sok-sok mosolygós, csillogó szemű gyereket, akiknek aznap délelőtt ismertük meg a családi hátterét. Magával ragadott a boldogság, lelkesedés és szeretet, ami az ottani pedagógusokból és diákokból árad. Különleges volt megtapasztalni a kontrasztot a falusi és az iskolai élmény között. Testközelből érezhettem a támogatás súlyát."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-11-15c_3.jpg",
+          "style": { "object-position": "center bottom" }
+        },
+        {
+          "name": "2024-11-15c_4.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    }
+  ],
+  "cover": {
+    "name": "2024-11-15c_1.jpg",
+    "style": { "object-position": "left bottom" }
+  }
+}

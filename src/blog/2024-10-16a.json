@@ -1,0 +1,100 @@
+{
+  "id": "2024-10-16a",
+  "title": "Hírek az afrikai kontinensről",
+  "date": "2024-10-16",
+  "author": "",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Afrikai Repülőgép, Kereskedelmi és Védelmi Kiállítás",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Szeptemberben 12. alkalommal rendezték meg Dél-Afrikában a legnagyobb légügyi- és védelmi kiállítást. A résztvevők megnézhették a legújabb repüléstechnikai eszközöket, közelebb kerülhettek a repülőgépekhez és légi bemutató is vonzotta a rajongókat. A nagyszabású rendezvényen számos fontos helyi- és nemzetközi vállalat, kormányzati szereplő is részt vett."
+    },
+    {
+      "type": "text",
+      "content": "A rendezvény legnagyobb látványossága Spot volt, a robotkutya. Boston Dynamics robotkutyával, Spot-tal végzett munka egy része arra irányul, hogy segítsen az embereknek, akár keresési, akár mentési munkálatokban. "
+    },
+    {
+      "type": "text",
+      "content": "A világszerte vonzó esemény célja a dél-afrikai védelmi iparban rejlő lehetőségek felkutatása volt."
+    },
+    {
+      "type": "text",
+      "content": "A következő rendezvényre 2026-ban fog sor kerülni."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-10-16a_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: africanews/AP"
+        }
+      ]
+    },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "text",
+      "content": "Az entebbei Lake Victoria iskola 100 éves fennállását ünnepli",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Korábban entebbei Európai Iskola (Entebbe European School) néven ismert intézmény, 1924-ben nyitotta meg kapuit. Az iskola alapításakor Uganda brit gyarmati uralom alatt állt, az oktatás kevesek számára volt elérhető. "
+    },
+    {
+      "type": "text",
+      "content": "Szeptemberben pedig a 100 éves fennállását ünnepelte. A rendezvényen részt vett a bugandai királyság királynője, oktatási minisztere és több tisztségviselő is. Az iskola játszóterén tartott beszéd közben Sylvia Nagginda örömét fejezte ki, hogy 49 év után újra visszatérhetett egykori iskolájába. Fontosnak tartja az iskola egykori színvonalának újjáélesztését, az épület felújítását. Továbbá beszédében kiemelte, hogy létfontosságúnak tartja, hogy a kormány is felismerje az iskola történelmi jelentőségét, ezért támogatni kell az állami források biztosítását, fontos az innováció, oktatási programok finanszírozása is."
+    },
+    {
+      "type": "text",
+      "content": "Jelenleg 621 tanulója van az iskolának. Támogatások segítségével akár középiskolává, vagy szakképző intézménnyé is válhat. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-10-16a_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: <a href=\"https://nilepost.co.ug/news/217954/entebbe\">africanews/AP</a>"
+        }
+      ]
+    },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "text",
+      "content": "Mindösszesen 21 éves a hölgy, aki Nigériában már játékvezetőként vezeti a futballmeccseket",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Bár a világ futballjában nőtt a női mérkőzésvezetők száma, Gbemisola Yusuf mégis a női játékvezetők kis csoportjába tartozik hazájában. Dél-Afrika és Marokkó két olyan ország, ahol a nők nagyobb arányban teljesítenek a magasabb szinteken, mint a többi kontinensen."
+    },
+    {
+      "type": "text",
+      "content": "A női játékvezetők Nigériában és Afrikában számos olyan kihívással néznek szembe, melyek társadalmi, kulturális vagy intézményi tényezőkből adódnak. A férfiak által dominált jellege miatt, a nőket kisebb valószínűséggel nevezik ki kulcsfontosságú mérkőzésekre. A 2023-as számok is alátámasztják ezt, hiszen csupán 53 afrikai nő szerepel a FIFA nemzetközi játékvezetői listán. A számok folyamatos növekedését - a nemek közötti integráció előmozdítását - az Afrikai Labdarúgó Szövetség (CAF) és a nemzetközi szövetségek is segíti."
+    },
+    {
+      "type": "text",
+      "content": "Yusuf-nak a mérkőzések nemcsak nemzetközi megjelenést biztosítottak, de sok értékes emberrel találkozhatott, akik tovább bátorították, elismerték és támogatták a játékvezetői pozíciójában."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-10-16a_3.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: <a href=\"https://bbc.com/sport/football\">bbc.com</a>"
+        }
+      ]
+    }
+  ],
+  "cover": {
+    "name": "2024-10-16a_1.jpg",
+    "style": { "object-position": "center bottom" }
+  },
+  "innerCover": null
+}

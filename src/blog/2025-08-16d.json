@@ -1,0 +1,65 @@
+{
+  "id": "2025-08-16d",
+  "title": "Egy békésebb világhoz az erős helyi közösségeken át vezet az út",
+  "subtitle": "A humanitárius világnap margójára",
+  "date": "2025-08-16",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "2003. augusztus 19. 16:28 – 22 humanitárius dolgozó veszti életét az ENSZ bagdadi főhadiszállásán egy bombatámadásban, mindössze öt nappal azután, hogy létrejött a szervezet iraki segítségnyújtási missziója."
+    },
+    {
+      "type": "text",
+      "content": "2008 – az ENSZ Közgyűlése humanitárius világnappá nevezi ki minden év augusztus 19-ét, emlékezve a bagdadi bombatámadás áldozataira, és felhívva a figyelmet nemcsak a humanitárius dolgozók védelmének és a humanitárius segítségnyújtási tevékenység és a nemzetközi együttműködés fontosságára, de a világszerte zajló súlyos humanitárius válságokra is."
+    },
+    {
+      "type": "text",
+      "content": "2025-ben nyolc jelentős kiterjedésű konfliktus zajlik Afrikában: a líbiai konfliktus, a szudáni polgárháború, a több országon átívelő erőszakos szélsőségesség és terrorizmus a Száhel-övezetben, polgárháború a Közép-afrikai Köztársaságban, politikai instabilitás a Kongói Demokratikus Köztársaságban, Dél-Szudánban, valamint Etiópiában, illetve transznacionális terrorizmus és az Al-Shabaab jelenléte Szomáliában."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16d_2.jpg",
+          "caption": "Forrás: Council on Foreign Relations"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "2024 első felében 14 humanitárius dolgozó vesztette életét Nyugat- és Közép-Afrikában, további 13 megsebesült, 23 személyt pedig elraboltak. A tendenciák évről-évre változatlanok, rávilágítva a régió növekvő biztonsági kihívásaira. A tavalyi év ugyanezen időszakában, ugyanebben a régióban több mint 5.500 civilt gyilkoltak meg, miközben több mint 63 millió embernek van szüksége humanitárius támogatásra és védelemre."
+    },
+    {
+      "type": "text",
+      "content": "Afrikában az ENSZ-en és a Vöröskereszten felül számos más szervezet is jelen van, humanitárius segítséget nyújtva a konfliktusok, a klímaváltozás és a gazdasági instabilitás áldozatainak. Munkájuk azonban rendkívüli áldozatokkal és kihívásokkal jár, a munkavégzést sok esetben ellehetetlenítik a bürokratikus hercehurcák, az infrastrukturális hiányosságok, vagy éppen a finanszírozási hiány. Bizonyos régiókban a humanitárius dolgozók kimondottan célpontjai a különböző fegyveres csoportoknak, így a másoknak való segítségnyújtással az életüket kockáztatják."
+    },
+    {
+      "type": "text",
+      "content": "A kép azonban még ennél is sokkal árnyaltabb. Számos olyan konfliktus sújtja a világ több szegletét, köztük az afrikai kontinenst is, amely sokak fülébe nem jut el. Akik hangját alig hallják meg. Akik törzsi konfliktusok között élik a mindennapjaikat, akik élete folyamatosan veszélyben forog, akiknek a számunkra alapvetőnek számító javak a kánaánt jelentik. Ezért idén a humanitárius világnapon gondoljunk azokra az emberekre is, akik, habár más régiókhoz képest viszonylagos nyugalomban élnek, mégsem jutnak oktatáshoz, egészségügyi ellátáshoz, munkalehetőségekhez. 2025-ben a humanitárius világnap célkitűzése a globális szolidaritás kihangsúlyozása és a helyi közösségek megerősítése. Mi a Szívemben Született Afrikánál pedig éppen ebben hiszünk – erős helyi közösségekben, amelyek képesek, és lehetőségük is van dönteni a saját életükről. És abban, hogy egy Európa közepén megszületett gondolat óriási változásokat képes előidézni egy több ezer kilométerrel távolabb lévő ugandai közösségben."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-08-16d_3.jpg",
+          "caption": "Forrás: Szívemben Született Afrika"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    { "type": "text", "content": "&nbsp;" },
+    { "type": "text", "content": "Forrás:" },
+    { "type": "text", "content": "ENSZ World Humanitarian Day 2024 report" }
+  ],
+  "cover": {
+    "name": "2025-08-16d_1.jpg",
+    "style": { "object-position": "center center" }
+  },
+  "innerCover": {
+    "name": "2025-08-16d_1.jpg",
+    "style": { "object-position": "center center" },
+    "caption": "Forrás: Humanitarian Global"
+  }
+}

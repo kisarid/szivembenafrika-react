@@ -1,0 +1,72 @@
+{
+  "id": "2025-11-17a",
+  "title": "Karamojong székek",
+  "date": "2025-11-17",
+  "author": "Kozári Dóri",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A karamojong székek fából készülnek, néha bonyolult faragással, és jellemzően ülésként vagy ünnepi célokra használják. Különböző kialakításúak lehetnek, de jellemzően nagyon funkcionálisak, egyszerűek és tartósak. Gyakran szimbolikus jelentéssel is bírnak, amelyek státuszt, örökséget vagy kulturális identitást képviselnek."
+    },
+    {
+      "type": "text",
+      "content": "A Karamojong székek néhány speciális jellemzője:"
+    },
+    { "type": "text", "content": "Anyagok:", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "Fa: a székeket jellemzően olyan keményfából faragják, amely a régióban őshonos."
+    },
+    {
+      "type": "text",
+      "content": "Állati eredetű termékek: néha állatbőrt használnak dekorációs elemként, fogantyúnak, vagy az ülés párnázatára."
+    },
+    { "type": "text", "content": "Mintázatok:", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "A székek gyakran kézzel faragottak, és a minták meglehetősen részletesek lehetnek, bár általában minimalisták és geometrikusak, nem pedig rendkívül díszesek."
+    },
+    {
+      "type": "text",
+      "content": "Egyes darabok absztrakt szimbólumokat vagy állati motívumokat tartalmazhatnak, amelyek kulturális vagy spirituális jelentőséggel bírnak."
+    },
+    {
+      "type": "text",
+      "content": "Általában kicsik, funkcionálisak és könnyen szállíthatók, tükrözve a karamojongok félig nomád életmódját."
+    },
+    {
+      "type": "img",
+      "content": [{ "name": "2025-11-17a_2.jpg", "caption": "" }]
+    },
+    { "type": "text", "content": "Funkció:", "classes": ["blog-header"] },
+    {
+      "type": "text",
+      "content": "Mindennapi használat: ezek a székek praktikusak és a mindennapi életben ülve használatosak. Előfordul, hogy párnaként is használják, főleg a szarvasmarhatáborokban, ahol a mai napig előfordul, hogy ellenséges törzsek rajtaütések keretében ellopják a teheneket. Mivel párnaként elég kényelmetlen, így nem tudnak mélyen aludni rajta, ami segít abban, hogy hamarabb észrevegyék, ha megtámadják őket."
+    },
+    {
+      "type": "text",
+      "content": "Szertartási felhasználás: bizonyos esetekben fontos szertartások során, illetve a vének vagy vezetők kulturális összejövetelek során használhatják."
+    },
+    {
+      "type": "text",
+      "content": "Státuszszimbólumok: a szék kialakítása és minősége egy személy gazdagságának, társadalmi helyzetének vagy a közösségben betöltött szerepének szimbóluma lehet. Például egy vén vagy vezető használhat díszesebb széket."
+    },
+    {
+      "type": "text",
+      "content": "Kulturális jelentősége:",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A székeket a karamojong kultúrában gyakran többnek tekintik, mint csupán funkcionális elemeknek. Jelenthetik a státuszt, és néha a közösségen belüli tekintélyhez vagy vezetői szerephez kapcsolódnak."
+    },
+    {
+      "type": "text",
+      "content": "A széken való ülés egy szertartásos gesztus is lehet, amely jelzi az adott ember pozícióját a társadalmi vagy spirituális hierarchiában."
+    }
+  ],
+  "cover": {
+    "name": "2025-11-17a_1.jpg",
+    "style": { "object-position": "center center" }
+  }
+}

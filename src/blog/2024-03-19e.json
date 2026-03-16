@@ -1,0 +1,133 @@
+{
+  "id": "2024-03-19e",
+  "title": "Húsvét Afrikában",
+  "date": "2024-03-19",
+  "author": "Balogh Tünde",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Hímes tojás, nyuszi, locsolkodás és még sorolhatnánk. A hazai és európai húsvéti szokásokkal többé-kevésbé tisztában vagyunk, de mi a helyzet a világ más tájain? "
+    },
+    {
+      "type": "text",
+      "content": "Húsvét a kereszténység legnagyobb ünnepe, Jézus Krisztus feltámadásának napja, ami egyben a keresztény kultúra forrásaként jelentős hatással bírt a művészetekre és társadalmi szokásokra egyaránt. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19e_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Ennek tanúja az a számtalan népszokás és hagyomány, melyek a húsvéti ünnepekből az évszázadok során megszülettek, és amik rendkívül színes skálával gazdagítják a különböző nemzetek és régiók kulturális örökségét."
+    },
+    {
+      "type": "text",
+      "content": "Mint a legtöbb katolikus a világ más részein, az ugandaiak is ünneplik a nagyhetet, virágvasárnapot, valamint Krisztus halálát és feltámadását. "
+    },
+    {
+      "type": "text",
+      "content": "Virágvasárnap, a nagyhét kezdetén a városokban élő emberek pálmaágakat vásárolnak, és elviszik a templomba, ahol különleges istentiszteletet tartanak. A falvakban a gyerekek pálmaágakat szednek, és hazaviszik őket az egész család számára. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19e_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A negyven napos nagyböjt után, nagypénteken, nagyszombaton és húsvétvasárnap, mely a többi katolikus és keresztény nemzethez hasonlóan munkaszüneti nap, vallási szertartások mellet, sokan részt vesznek húsvéti előadásokon és koncerteken is, mind a templomon kívül, mind az ünnepi istentisztelet részeként. "
+    },
+    {
+      "type": "text",
+      "content": "A helyi rádióállomások húsvéti himnuszokat játszanak, az üzletek pedig húsvéti üdvözlőlapokat árulnak"
+    },
+    {
+      "type": "text",
+      "content": "Egy népszerű ugandai húsvéti tevékenység a piknikeken való részvétel a gyönyörű Viktória-tó partján, sok ugandai strandfocit vagy röplabdát is játszik, és úszik."
+    },
+    {
+      "type": "text",
+      "content": "Csakúgy, mint a karácsonyi ünnepek alatt, az emberek gyakran utaznak a húsvéti hétvégén, hogy időt töltsenek családjukkal, a városokban élő emberek meglátogatják a falvakban élő rokonokat."
+    },
+    {
+      "type": "text",
+      "content": "Ez azonban nem jelenti azt, hogy a városok üresen maradnak. Éppen ellenkezőleg, azok, akik maradnak, nagy, színes húsvéti partikat rendeznek otthonukban. Az emberek fényes, új ruhákat viselnek, ajándékokat cserélnek, és élvezik a helyi finomságokkal teli ünnepi lakomát."
+    },
+    {
+      "type": "text",
+      "content": "Az új ruhák viselése, az ajándékok cseréje és a helyi finomságok élvezete mind a hagyományos ünnepségek része."
+    },
+    {
+      "type": "text",
+      "content": "Ami nálunk hagyományosan a kalács, Afrikában a dabó. "
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19e_3.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Az etiópiai keresztények húsvéti fesztivált, azaz Fassi-t tartanak, amikor is hatalmas kovászos kenyeret sütnek: ezt hívják dabónak, amit húsvét másnapján vágnak fel reggel.  "
+    },
+    {
+      "type": "text",
+      "content": "Nigériában, a nyugat-afrikai ország legnagyobb városában, Lagosban húsvét alkalmával mesés jelmezekben vonulnak az emberek utcára, így megünnepelve Jézus feltámadását."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2024-03-19e_4.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Forrás:"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://1percafrika.blog.hu/2019/04/21/husvet_afrikaban\">1percafrika.blog.hu</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://hungaryhelps.gov.hu\">hungaryhelps.gov.hu</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.simoneskids.org/easter-in-uganda\">simoneskids.org</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.action10.org/how-is-easter-celebrated-in-africa\">action10.org</a>"
+    }
+  ],
+  "cover": {
+    "name": "2024-03-19e_4.jpg",
+    "style": { "object-position": "center top" }
+  },
+  "innerCover": null
+}

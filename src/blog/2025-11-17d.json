@@ -1,0 +1,99 @@
+{
+  "id": "2025-11-17d",
+  "title": "Hírek Afrikából",
+  "date": "2025-11-17",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Hatan életüket vesztették egy katonai toborzás közepette Ghánában",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A nyugat-afrikai ország fiatalsága körében mintegy 13%-os a munkanélküliségi ráta, így a Ghánai Fegyveres Erők által meghirdetett toborzásra többszörös túljelentkezés mellett érkeztek meg az érdeklődők november 12-e reggelén. A tömeges pánik még azelőtt tört ki, hogy az esemény egyáltalán elkezdődött volna, amelyet a jelentkezők kiugróan magas száma váltott ki, akik a biztonsági erőket túlterhelve lerohanták az eseménynek otthont adó El-Wak Sportstadion kapuit. A tömegben kitört pánikban hatan életüket vesztették, többen pedig súlyosan megsérültek: közülük néhány ember sürgősségi ellátást kapott a főváros katonai kórházában. A részvétnyilvánítás mellett a Ghánai Fegyveres Erők ígéretet tett az események alapos kivizsgálására."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-11-17d_1.jpg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Forrás: Africa News/Pulse Ghana"
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Angola novemberben ünnepelte függetlensége elnyerésének 50. évfordulóját",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A közép-afrikai ország és korábbi gyarmatosítója, Portugália kapcsolata régre nyúlik vissza: a dél-európai ország mintegy 500 éven át volt jelen Angolában, amelynek nyomai a mai napig tetten érhetők. 13 évnyi háborúzást követően Angola 1975. november 11-én függetlenedett Portugáliától, amely azonban nem jelentette a véres harcok végét: a függetlenség elnyerése nyomán pusztító, közel 30 évig tartó polgárháború alakult ki az országban, amelynek halálos áldozatait 500.000 és 1 millió fő közé teszik."
+    },
+    {
+      "type": "text",
+      "content": "Habár Angola jelentős mennyiségű ásványkincsekkel és kőolajtartalékokkal rendelkezik, továbbra is jelentős gazdasági és szociális kihívásokkal és egyenlőtlenségekkel küzd. A Világbank adatai szerint 2018-ban az angolai lakosság mintegy harmada élt a nemzetközi szegénységi küszöb (2,15 dollár) alatt, miközben a csecsemőhalandóság rendkívül magas, a várható élettartam pedig a legalacsonyabbak között van a világon."
+    },
+    {
+      "type": "text",
+      "content": "Ünnepi beszédében Angola elnöke, João Lourenço felhívta a figyelmet az országot továbbra is gúzsba kötő, komplex kihívásokra, ezek között említve az olyan külpolitikai vonatkozású kríziseket, mint a Száhel-öv országainak törékeny helyzete, vagy éppen a Szudánt vagy a Kongói Demokratikus Köztársaságot sújtó háborúk. Az elnök hangsúlyozta, hogy kormányának fókuszában egy olyan inkluzív társadalom létrehozása áll, amely egyenlő lehetőségeket kínál minden állampolgára számára."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-11-17d_2.jpg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Forrás: Africa News; Office Holidays"
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Az ENSZ vizsgálatot követel Tanzániában",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Azt követően, hogy a kormányzó Tanzániai Forradalmi Párt és a regnáló elnök nyerte meg az általános választásokat Tanzániában, emberek ezrei vonultak az utcára. A tüntetők azzal vádolják a kormányt, hogy ellehetetlenítették az ellenzék indulását a választáson, ezáltal tisztességtelenül befolyásolták annak eredményeit. Az erőszak megfékezésére irányuló tettei közepette a kormányzat élet lőszereket is bevetett, az internetet pedig országszerte több napra lekapcsolták. Habár a halálos áldozatok száma nehezen ellenőrizhető, tekintve, hogy a kórházak nem adnak ki információkat, egyes források szerint a kórházi osztályok és a hullaházak is három nap alatt megteltek. A halottak számát 500 és 2.000 fő közé helyezik."
+    },
+    {
+      "type": "text",
+      "content": "Az ENSZ felszólítása azt követően érkezett, hogy a tanzániai hatóságok többszáz embert vádoltak meg hazaárulással a megmozdulásokon való részvétel következtében. Volker Türk, az ENSZ emberi jogi vezetője – reagálva arra a vádra, miszerint a hatóságok a hullaházakból ismeretlen helyekre szállítják az erőszakhullámban elhunytak holttesteit – felszólította a kormányt, hogy adják ki a holttesteket a családjaik számára. Tanzániában a biztonsági helyzet továbbra is rendkívül törékeny."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-11-17d_3.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Forrás: Africa News; Euronews; The New York Times"
+    }
+  ],
+  "cover": {
+    "name": "2025-11-17d_1.jpg",
+    "style": {
+      "object-position": "center center"
+    }
+  },
+  "innerCover": null
+}

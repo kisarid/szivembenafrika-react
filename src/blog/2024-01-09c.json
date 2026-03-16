@@ -1,0 +1,74 @@
+{
+  "id": "2024-01-09c",
+  "title": "Újév Afrikában",
+  "date": "2024-01-09",
+  "author": "Balogh Tünde",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Ugandában, sok más afrikai és európai országhoz hasonlóan a Gergely-naptárat (más néven gregorián naptárat) használják, így ugyanazon a napon ünneplik az év utolsó napját és köszöntik az új évet."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2023-01-09c_2.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "A szilveszter és újév napja az ünnepség, tűzijáték, zene és jó ételek sokasága. Az afrikai életben, akárcsak itthon, ez az időszak a megújulásra és az új kezdetek lehetőségére mutat rá."
+    },
+    {
+      "type": "text",
+      "content": "Az új év első napja szabadnap, azonban ez nem csak a szórakozásról szól, a vallás és a spiritualitás is megjelenik."
+    },
+    {
+      "type": "text",
+      "content": "Gyülekezettől vagy felekezettől függően az éjféli mise vagy akár az egész napos istentisztelet gyakran elengedhetetlen része az újév ünneplésének. Ezzel együtt fontos része a ruházat is, a család minden tagja szebbik ruháját ölti magára."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2023-01-09c_1.jpg",
+          "style": { "object-position": "center bottom" }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Hagyomány a „zajcsinálás”, az új évet a zenével, ünnepléssel, kiabálássál, éneklések köszöntik. A régi hagyomány szerint a zaj elűzi a gonosz szellemeket, a rossz energiákat, ami jó szerencsét hoz az új évben."
+    },
+    {
+      "type": "text",
+      "content": "Amikor újévről van szó, sok család számára csoportos rituálé a közös takarítás, mely a rossz energia kisöprését jelképezi. A családok ekkor arra törekszenek, hogy teli kamrával és pénztárcával lépjenek át az új évbe. A babona szerint a pénztárca nem kerülhet a földre, nem lehet „alacsonyan a pénz”, mert balszerencsét hoz a következő évre."
+    },
+    {
+      "type": "text",
+      "content": "A szilveszteri és újévi ételek között szerepel a borsó, bab, rizs, mely a hazai lencsefőzéshez hasonlóan a pénzérméket és a szerencsét jelképezi."
+    },
+    {
+      "type": "text",
+      "content": "A víz, mint megtisztulás a szilveszteri hagyományban is szerepet játszik, az ital fogyasztás szimbolikus, vizet vagy alkoholt csepegtetve mutatnak tiszteletet az ősöknek."
+    },
+    { "type": "text", "content": "&nbsp;" },
+    { "type": "text", "content": "Forrás:" },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.parents.com\">parents.com</a>"
+    },
+    {
+      "type": "text",
+      "content": "<a href=\"https://www.cpafrica.org.uk\">cpafrica.org.uk</a>"
+    }
+  ],
+  "cover": {
+    "name": "2023-01-09c_1.jpg",
+    "style": { "object-position": "center right" }
+  },
+  "innerCover": null
+}

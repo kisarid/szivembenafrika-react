@@ -1,0 +1,87 @@
+{
+  "id": "2025-07-21d",
+  "title": "Hírek Afrikából",
+  "date": "2025-07-21",
+  "author": "Cziklin Vera",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "5 évtizede hatalmon?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A 2026-os ugandai elnökválasztásokra készülve Yoweri Museveni, Uganda elnöke bejelentette, hogy indul a hetedik ciklusáért. Ez a lépés közel 50 évnyi megszakítás nélküli kormányzást jelentene számára.",
+      "classes": ["blog-subtitle"]
+    },
+    {
+      "type": "text",
+      "content": "Többször felszólították már nyugdíjba vonulásra, ennek ellenére a 80 éves Yoweri Museveni ugandai elnök megkezdené hetedik ciklusát is, amellyel közel kerülne 5 évtizednyi töretlen kormányzáshoz."
+    },
+    {
+      "type": "text",
+      "content": "Museveni 1986-ban került hatalomra, akkoriban még a felkelők vezetőjeként. Összesen hat alkalommal választották Uganda elnökévé, való igaz, a legutóbbi választásoknál felmerültek erőszakkal és csalással kapcsolatos vádak, így kritikusai óvatosságra intenek, mondván, hogy Museveni valójában diktatúrát épít ki gyakorlatilag ellenfél nélkül, még a saját pártján belül is."
+    },
+    {
+      "type": "text",
+      "content": "A legutóbbi választásokon Museveni fő ellenfele egy Ugandában népszerű zenész-színész, Bobi Wine volt, aki a januárra kiírt választásokra is jelöltette magát. Legutóbb Wine sok, az ellenzéket támogató társát bebörtönözték vagy rejtőzködni kényszerültek, valamint magát Wine-t is többször tartóztatták már le különféle vádakkal. Museveni természetesen tagadja, hogy erőszakot alkalmazna vagy más módon befolyásolná a politikai közéletet, valamint azzal vádolja ellenfelét, hogy nem ugandai érdekeket képvisel, ezáltal nem lenne megbízható elnök."
+    },
+    {
+      "type": "text",
+      "content": "Kizza Besigye, meghatározó ellenzéki vezető november óta van bebörtönözve árulás vádjával, amely ügyvédei szerint valótlan és tisztán politikai indíttatású."
+    },
+    {
+      "type": "text",
+      "content": "Ugandában a britektől való 1962-es függetlenedés óta nem sikerült békés módon megoldani a hatalomátvételt és a jelen kiélezett helyzetből kiindulva az elkövetkező választások sem ígérkeznek békésnek."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-07-21d_1.jpg"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "text",
+      "content": "Forrás: <a href=\"https://www.qcnews.com/news/world-news/ap-ugandas-president-seeks-a-seventh-term-that-would-bring-him-closer-to-5-decades-in-power/\">qcnews.com</a>"
+    },
+    {
+      "type": "text",
+      "content": "&nbsp;"
+    },
+    {
+      "type": "text",
+      "content": "Mit gondolnak a szudániak az ugandai konyháról?",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A Világélelmezési Program (World Food Programme) forráselvonás miatt 1.6 millióról mindössze 600.000 főre kényszerült csökkenteni Ugandában a támogatott menekültek számát. A Világélelmezési Program továbbá csak posho-ból (Afrikában elterjedt kukoricából készült étel) és babból álló ételekkel tud szolgálni befogadóközpontjaiban, amely problémát okoz a szudáni menekülteknek."
+    },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2025-07-21d_2.jpg",
+          "caption": "Forrás: I love Uganda/Facebook"
+        }
+      ],
+      "classes": ["keep-size"]
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube-nocookie.com/embed/Hd76vCH3BXI"
+    },
+    {
+      "type": "text",
+      "content": "Forrás: <a href=\"https://www.ntv.co.ug/ug/news/national/-how-sudanese-refugees-struggle-with-local-cuisine--5100456\">ntv.co.ug</a>"
+    }
+  ],
+  "cover": {
+    "name": "2025-07-21d_1.jpg",
+    "style": { "object-position": "center left" }
+  },
+  "innerCover": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2024-01-09a",
+  "title": "Hírek Afrikából",
+  "date": "2024-01-09",
+  "author": "Záhoczky Csenge",
+  "blocks": [
+    {
+      "type": "text",
+      "content": "Humanitárius vészhelyzet a Kongói Köztársaságban",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "A több mint egy hónapja tartó heves esőzések és az azok nyomán fellépő áradások miatt <a href=\"https://www.africanews.com/2024/01/03/congo-declares-state-of-emergency-over-devastating-floods-and-landslides\">humanitárius vészhelyzetet hirdettek</a> a Kongói Köztársaságban. Országszerte több mint 360 települést és 36 körzetet érintettek az áradások, ezáltal több mint 320 000 ember életét befolyásolva. A legutóbbi hírek szerint 17 ember meghalt, míg 6 személyt eltűntként tartanak nyilván. <a href=\"https://magyarnemzet.hu/kulfold/2024/01/novekszik-a-feszultseg-afrika-szarvan\">Egy szakértő szerint</a> a probléma nem meglepő: már a 80-as években is látni lehetett, hogy az esőzések súlyos problémákat fognak okozni az ország egyes részein. Az építész és várostervező elmondása szerint akkoriban vele együtt többen azt javasolták, hogy bizonyos területeket természeti övezetként tartsanak fenn, és ne építsenek azok helyére nagyvárosokat. A lakosok mindent megtesznek annak érdekében, hogy mérsékeljék a földcsuszamlások kockázatát, különösen annak fényében, hogy az esőzések még több hónapig is eltarthatnak. A kormány egy mintegy 4 millió dollár összegű vészhelyzeti alap felszabadításáról döntött az áldozatok megsegítése és az áradás okozta károk leküzdése érdekében."
+    },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2023-01-09a_2.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: AFP/Abdishukri Haybe"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Geopolitikai feszültség van kibontakozóban Afrika szarván",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Etiópia, és az ENSZ és az Afrikai Unió által nem elismert de facto állam, Szomáliföld az év első napján <a href=\"https://www.africanews.com/2024/01/02/ethiopia-and-a-breakaway-somali-region-sign-a-deal-giving-ethiopia-access-to-the-sea\">egyetértési megállapodást kötöttek</a>, amelynek értelmében Szomáliföld ötven évre bérbe adja egy 20 kilométeres tengerparti földterületét a tengeri kijárattal nem rendelkező Etiópia számára, ahol utóbbi haditengerészeti bázist kíván létesíteni. Viszonzás gyanánt Etiópia ígéretet tett arra, hogy önálló államként ismeri el a gyakorlatban több mint 30 éve függetlenedett Szomáliföldet. A kvázi „anyaország” Szomália – amely továbbra is integráns részének tekinti a szóban forgó területet – természetesen határozottan felszólalt a döntés ellen, kiemelve, hogy senkinek nincs hatalma kiadni egy darabot Szomália területéből. Mogadishuban több tízezren tüntettek a megállapodás ellen. A regionális erőviszonyokat ismerő szakértő szerint ugyanakkor a feszültség nem fog fegyveres konfliktussá eszkalálódni, amely tekintetben szem előtt kell tartani, hogy míg a 120 millió lakossággal rendelkező Etiópia a térség hegemón uralkodója, Szomália lakossága ennek alig több mint a tizede, 16-17 millió fő, ráadásul Etiópia az utóbbi években kiváló kapcsolatokat alakított ki Oroszországgal és Kínával, és az Egyesült Államokkal is kiegyensúlyozottnak tekinthető a viszonya. A dolognak külön színezetet ad ugyanakkor, hogy a régióban szintén kiemelt szerepet játszó Egyiptom kifejezte Szomália melletti támogatását."
+    },
+    { "type": "text", "content": "&nbsp;" },
+    {
+      "type": "img",
+      "content": [
+        {
+          "name": "2023-01-09a_1.jpg",
+          "style": { "object-position": "center bottom" },
+          "caption": "Forrás: Adventure Life"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Erőteljesen növekszik Ruanda hegyigorilla-populációja",
+      "classes": ["blog-header"]
+    },
+    {
+      "type": "text",
+      "content": "Az orvvadászat, a fegyveres konfliktusok és a különböző betegségek következtében a 2000-es évek végére a hegyi gorillák a világ egyik leginkább veszélyeztetett fajává váltak. Az évtizedek óta emberi fenyegetésekkel küzdő <a href=\"https://www.africanews.com/2024/01/03/rwandas-mountain-gorillas-a-conservation-success-story/\">főemlősök populációja Ruandában ugyanakkor jelentős javuláson és növekedésen ment keresztül</a> az utóbbi időben az elhivatott természetvédelmi erőfeszítéseknek köszönhetően. 2008-ban mindössze 680 egyedre becsülték a populációt, amely 2018-ra közel megduplázódott. Patience Dusabimana, egy ruandai „gorilla guide” elmondása szerint ebben kiemelt szerepe volt az olyan kezdeményezéseknek, mint például az orvvadászat elleni járőrözés vagy a csapdák szisztematikus eltávolítása. Ruandában 2002-ben volt az utolsó gorilla orvvadászat, ami jelentős mérföldkőnek tekinthető a faj megőrzése iránt folytatott küzdelemben. Habár továbbra is vannak kihívások – különösen annak következtében, hogy a hegyi gorillák tartós művelés alatt álló földterületek környezetében élnek -, ugyanakkor alapos okunk van abban reménykedni, hogy ezek a fenséges teremtmények és soron következő generációik továbbra is gyarapodni fognak, Ruanda természetvédelem iránti elkötelezettségének ékes példájaként."
+    }
+  ],
+  "cover": {
+    "name": "2023-01-09a_3.jpg",
+    "style": { "object-position": "center top" },
+    "caption": "Forrás: Africa News"
+  }
+}

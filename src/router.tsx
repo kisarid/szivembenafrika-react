@@ -1,7 +1,8 @@
 import { createBrowserRouter, redirect } from 'react-router-dom';
 import ParagraphedSection from './components/ParagraphedSection';
 import About from './routes/About/About';
-import Blog from './routes/blog';
+import Blog from './routes/Blog/Blog';
+import BlogArticle from './routes/Blog/components/BlogArticle';
 import Contact from './routes/Contact';
 import Home from './routes/Home/Home';
 import Projects from './routes/Projects/Projects';
@@ -127,10 +128,12 @@ export const router = createBrowserRouter([
 			{
 				path: '/blog',
 				element: <Blog />,
-			},
-			{
-				path: '/blog/:article',
-				element: <Blog />,
+				children: [
+					{
+						path: ':articleId',
+						element: <BlogArticle />,
+					},
+				],
 			},
 			{
 				path: '/tamogatok',
